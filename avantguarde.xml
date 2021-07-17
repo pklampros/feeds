@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pklampros.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-17T09:50:34.848Z</updated>
+    <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+    <title>Avant-Guarde cy</title>
+    <updated>2021-07-17T09:50:34.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://avant-garde.com.cy/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[The Design Show με τον Πέτρο Κκαϊλη (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[The Design Show με τον Πέτρο Κκαϊλη]]></title>
         <id>https://avant-garde.com.cy/articles/prosopa/design-show-me-ton-petro-kkaili</id>
         <link href="https://avant-garde.com.cy/articles/prosopa/design-show-me-ton-petro-kkaili"/>
         <updated>2021-07-17T09:50:34.740Z</updated>
@@ -20,7 +21,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[H Μιμή με φθαρτά, ένα πιστόλι και επικαιρότητα (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[H Μιμή με φθαρτά, ένα πιστόλι και επικαιρότητα]]></title>
         <id>https://avant-garde.com.cy/articles/prosopa/h-mimi-me-ftharta-ena-pistoli-kai-epikairotita</id>
         <link href="https://avant-garde.com.cy/articles/prosopa/h-mimi-me-ftharta-ena-pistoli-kai-epikairotita"/>
         <updated>2021-07-17T09:50:34.741Z</updated>
@@ -35,7 +36,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το μυστικό του Ρόαλντ Νταλ ώστε τα παιδιά να… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Το μυστικό του Ρόαλντ Νταλ ώστε τα παιδιά να…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/mystiko-toy-roalnt-ntal-oste-ta-paidia-na-agapisoyn-ta-biblia</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/mystiko-toy-roalnt-ntal-oste-ta-paidia-na-agapisoyn-ta-biblia"/>
         <updated>2021-07-17T09:50:34.743Z</updated>
@@ -50,7 +51,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Προσπαθεί εδώ και 5 χρόνια να «αναστηθεί» και το… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Προσπαθεί εδώ και 5 χρόνια να «αναστηθεί» και το…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/prospathei-edo-kai-5-hronia-na-anastithei-kai-kratos-den-tin-afinei</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/prospathei-edo-kai-5-hronia-na-anastithei-kai-kratos-den-tin-afinei"/>
         <updated>2021-07-17T09:50:34.745Z</updated>
@@ -65,7 +66,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο άνδρας στον οποίο επιτέθηκε λευκός καρχαρίας… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Ο άνδρας στον οποίο επιτέθηκε λευκός καρχαρίας…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/o-andras-ston-opoio-epitethike-leykos-karharias-afinontas-toy-462-rammata</id>
         <link href="https://avant-garde.com.cy/articles/nea/istories/o-andras-ston-opoio-epitethike-leykos-karharias-afinontas-toy-462-rammata"/>
         <updated>2021-07-17T09:50:34.746Z</updated>
@@ -80,7 +81,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Άνοιξαν για πρώτη φορά οι κήποι του Μπάκιγχαμ για… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Άνοιξαν για πρώτη φορά οι κήποι του Μπάκιγχαμ για…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/anoixan-gia-proti-fora-oi-kipoi-toy-mpakigham-gia-koino</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/anoixan-gia-proti-fora-oi-kipoi-toy-mpakigham-gia-koino"/>
         <updated>2021-07-17T09:50:34.747Z</updated>
@@ -95,7 +96,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Διάγγελμα Αναστασιάδη: Επιλέξαμε μέτρα και όχι… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Διάγγελμα Αναστασιάδη: Επιλέξαμε μέτρα και όχι…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/diaggelma-anastasiadi-epilexame-metra-kai-ohi-ton-ypohreotiko-emboliasmo</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/diaggelma-anastasiadi-epilexame-metra-kai-ohi-ton-ypohreotiko-emboliasmo"/>
         <updated>2021-07-17T09:50:34.749Z</updated>
@@ -110,7 +111,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Εξαιρετικό βίντεο από τον Σύλλογο Αρχιτεκτόνων… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Εξαιρετικό βίντεο από τον Σύλλογο Αρχιτεκτόνων…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/exairetiko-binteo-apo-ton-syllogo-arhitektonon-kyproy</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/exairetiko-binteo-apo-ton-syllogo-arhitektonon-kyproy"/>
         <updated>2021-07-17T09:50:34.750Z</updated>
@@ -125,7 +126,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Νυστάζει (πάλι) η Μέρκελ - Δες το βίντεο (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Νυστάζει (πάλι) η Μέρκελ - Δες το βίντεο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/nystazei-pali-i-merkel-des-binteo</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/nystazei-pali-i-merkel-des-binteo"/>
         <updated>2021-07-17T09:50:34.753Z</updated>
@@ -140,7 +141,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ένα βίντεο του Matthew Zorpas για την Κύπρο μας (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Ένα βίντεο του Matthew Zorpas για την Κύπρο μας]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ena-binteo-toy-matthew-zorpas-gia-tin-kypro-mas</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/ena-binteo-toy-matthew-zorpas-gia-tin-kypro-mas"/>
         <updated>2021-07-17T09:50:34.754Z</updated>
@@ -155,7 +156,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Εμβολιασμοί και συμβολισμοί: Ο γνωστός… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Εμβολιασμοί και συμβολισμοί: Ο γνωστός…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/emboliasmoi-kai-symbolismoi-o-gnostos-kallitehnis-giorgos-gabriil-stelnei-diko</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/emboliasmoi-kai-symbolismoi-o-gnostos-kallitehnis-giorgos-gabriil-stelnei-diko"/>
         <updated>2021-07-17T09:50:34.761Z</updated>
@@ -170,7 +171,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ΒΙΒΛΙΟ: Παραποιημένες ειδήσεις (fake news) (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[ΒΙΒΛΙΟ: Παραποιημένες ειδήσεις (fake news)]]></title>
         <id>https://avant-garde.com.cy/articles/zoi/entos/biblio-parapoiimenes-eidiseis-fake-news</id>
         <link href="https://avant-garde.com.cy/articles/zoi/entos/biblio-parapoiimenes-eidiseis-fake-news"/>
         <updated>2021-07-17T09:50:34.763Z</updated>
@@ -185,7 +186,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γιατί κάποιοι δεν εμβολιάζονται και τι μπορεί να… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Γιατί κάποιοι δεν εμβολιάζονται και τι μπορεί να…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/giati-kapoioi-den-emboliazontai-kai-ti-mporei-na-ginei</id>
         <link href="https://avant-garde.com.cy/articles/nea/istories/giati-kapoioi-den-emboliazontai-kai-ti-mporei-na-ginei"/>
         <updated>2021-07-17T09:50:34.764Z</updated>
@@ -200,7 +201,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Δεκάδες νεκροί και αγνοούμενοι από φονικές… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Δεκάδες νεκροί και αγνοούμενοι από φονικές…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/dekades-nekroi-kai-agnooymenoi-apo-fonikes-plimmyres-sti-dytiki-eyropi</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/dekades-nekroi-kai-agnooymenoi-apo-fonikes-plimmyres-sti-dytiki-eyropi"/>
         <updated>2021-07-17T09:50:34.766Z</updated>
@@ -215,7 +216,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Θερινό Σινεμά «Λευκωσιάζω» στο νέο Αμφιθέατρο… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Θερινό Σινεμά «Λευκωσιάζω» στο νέο Αμφιθέατρο…]]></title>
         <id>https://avant-garde.com.cy/articles/zoi/ektos/therino-sinema-leykosiazo-sto-neo-amfitheatro-stin-plateias-eleytherias</id>
         <link href="https://avant-garde.com.cy/articles/zoi/ektos/therino-sinema-leykosiazo-sto-neo-amfitheatro-stin-plateias-eleytherias"/>
         <updated>2021-07-17T09:50:34.770Z</updated>
@@ -230,7 +231,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Κύπρος: Τουρκική ακταιωρός καταδίωξε σκάφος της… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Κύπρος: Τουρκική ακταιωρός καταδίωξε σκάφος της…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/kypros-toyrkiki-aktaioros-katadioxe-skafos-tis-limenikis</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/kypros-toyrkiki-aktaioros-katadioxe-skafos-tis-limenikis"/>
         <updated>2021-07-17T09:50:34.779Z</updated>
@@ -245,7 +246,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τράφικινγκ στην Ηλιούπολη: Κι άλλοι αστυνομικοί… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Τράφικινγκ στην Ηλιούπολη: Κι άλλοι αστυνομικοί…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/trafikingk-stin-ilioypoli-ki-alloi-astynomikoi-sto-kykloma</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/trafikingk-stin-ilioypoli-ki-alloi-astynomikoi-sto-kykloma"/>
         <updated>2021-07-17T09:50:34.780Z</updated>
@@ -260,7 +261,7 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η BAT Cyprus βραβεύτηκε για το Σχέδιο Δράσης της… (Avant-Guarde cy)]]></title>
+        <title type="html"><![CDATA[Η BAT Cyprus βραβεύτηκε για το Σχέδιο Δράσης της…]]></title>
         <id>https://avant-garde.com.cy/articles/zoi/agora/i-bat-cyprus-brabeytike-gia-shedio-drasis-tis-kata-toy-covid-19</id>
         <link href="https://avant-garde.com.cy/articles/zoi/agora/i-bat-cyprus-brabeytike-gia-shedio-drasis-tis-kata-toy-covid-19"/>
         <updated>2021-07-17T09:50:34.782Z</updated>
@@ -275,9 +276,9 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+        <link href="https://avant-garde.com.cy/articles/roh-eidhsewn"/>
         <updated>2021-07-17T09:50:34.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
@@ -289,9 +290,9 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+        <link href="https://avant-garde.com.cy/articles/roh-eidhsewn"/>
         <updated>2021-07-17T09:50:34.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
@@ -303,9 +304,9 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+        <link href="https://avant-garde.com.cy/articles/roh-eidhsewn"/>
         <updated>2021-07-17T09:50:34.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
@@ -317,9 +318,9 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+        <link href="https://avant-garde.com.cy/articles/roh-eidhsewn"/>
         <updated>2021-07-17T09:50:34.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
@@ -331,9 +332,9 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/roh-eidhsewn</id>
+        <link href="https://avant-garde.com.cy/articles/roh-eidhsewn"/>
         <updated>2021-07-17T09:50:34.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
