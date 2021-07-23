@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-22T17:38:50.897Z</updated>
+    <updated>2021-07-23T05:33:53.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Η Εσμέ στο Φεστιβάλ Αθηνών και Επιδαύρου (Avant-Guarde cy)]]></title>
@@ -75,7 +75,7 @@
 <span class="title"><a href="/articles/nea/news/kypros-sti-diathesi-soy-800-iatroi-gia-diadiktyaki-dieythetisi-ranteboy">Κύπρος: Στη διάθεσή σου 800 ιατροί για διαδικτυακή…</a></span>
 <span>
 <span class="channel">NEWS</span>
-<span class="created">22 Jul 2021</span>
+ <span class="created">22 Jul 2021</span>
 </span>
 </span></span></div>]]></content>
     </entry>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-22T17:38:50.555Z</updated>
+        <updated>2021-07-23T05:33:52.525Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">22 Jul 2021</span>
+<a href="/articles/prosopa/alkyoni-papadaki-i-zoi-den-prodidei-toys-pragmatikoys-erastes-tis">
+<span class="title">Αλκυόνη Παπαδάκη: Η ζωή δεν προδίδει τους πραγματικούς εραστές της</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-07-23T05:33:52.525Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IMPOSSIBLE WORKS</span>
 <span class="created">22 Jul 2021</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-22T17:38:50.558Z</updated>
+        <updated>2021-07-23T05:33:52.540Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">22 Jul 2021</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-22T17:38:50.559Z</updated>
+        <updated>2021-07-23T05:33:52.540Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">22 Jul 2021</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-22T17:38:50.560Z</updated>
+        <updated>2021-07-23T05:33:52.543Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">AG PEOPLE</span>
 <span class="created">22 Jul 2021</span>
 <a href="/articles/prosopa/ag-people/egklimatologos-analyei-tin-epithesi-ston-dia">
 <span class="title">Eγκληματολόγος αναλύει την επίθεση στον «ΔΙΑ»</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-22T17:38:50.561Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΑΓΟΡΑ</span>
-<span class="created">22 Jul 2021</span>
-<a href="/articles/zoi/agora/oniro-city-polyteles-boutique-hotel-sto-kolonaki">
-<span class="title">Oniro City: Το πολυτελές boutique hotel στο Κολωνάκι</span>
 </a>
 </span>
 </span></div>]]></content>
