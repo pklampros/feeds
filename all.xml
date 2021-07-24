@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-23T17:38:31.209Z</updated>
+    <updated>2021-07-24T05:34:07.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Μαθητής ανακάλυψε νέο φεγγάρι στον Δία (Avant-Guarde cy)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-23T17:38:30.880Z</updated>
+        <updated>2021-07-24T05:34:07.065Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">AG PEOPLE</span>
+<span class="created">24 Jul 2021</span>
+<a href="/articles/prosopa/ag-people/i-melinta-mihail-briskei-ti-dynami-na-milisei-gia-thanato-tis-miteras">
+<span class="title">Η Μελίντα Μιχαήλ βρίσκει τη δύναμη να μιλήσει για το θάνατο της μητέρας της</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-07-24T05:34:07.067Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΑΓΟΡΑ</span>
 <span class="created">23 Jul 2021</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-23T17:38:30.883Z</updated>
+        <updated>2021-07-24T05:34:07.069Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2021</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-23T17:38:30.883Z</updated>
+        <updated>2021-07-24T05:34:07.070Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2021</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-23T17:38:30.883Z</updated>
+        <updated>2021-07-24T05:34:07.076Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2021</span>
 <a href="/articles/nea/news/rosia-prostima-se-facebook-kai-twitter-gia-apagoreymeno-periehomeno">
 <span class="title">Ρωσία: Πρόστιμα σε Facebook και Twitter για απαγορευμένο περιεχόμενο</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-23T17:38:30.883Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">23 Jul 2021</span>
-<a href="/articles/nea/news/pos-mia-18hroni-tiktoker-katafere-na-sygkentrosei-16-ekat-followers-mesa-se-2">
-<span class="title">Πώς μια 18χρονη Tiktoker κατάφερε να συγκεντρώσει 16 εκατ. followers μέσα σε 2 χρόνια</span>
 </a>
 </span>
 </span></div>]]></content>
