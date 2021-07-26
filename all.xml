@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-25T17:37:22.076Z</updated>
+    <updated>2021-07-26T05:34:07.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Μαθητής ανακάλυψε νέο φεγγάρι στον Δία (Avant-Guarde cy)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-25T17:37:21.653Z</updated>
+        <updated>2021-07-26T05:34:06.833Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">AG PEOPLE</span>
+<span class="created">26 Jul 2021</span>
+<a href="/articles/prosopa/ag-people/giagko-hatzigianni-ti-agapas-sto-ntokimanter">
+<span class="title">Γιάγκο Χατζηγιάννη, τι αγαπάς στο ντοκιμαντέρ;</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-07-26T05:34:06.835Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΑΓΟΡΑ</span>
 <span class="created">24 Jul 2021</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-25T17:37:21.654Z</updated>
+        <updated>2021-07-26T05:34:06.837Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IMPOSSIBLE WORKS</span>
 <span class="created">24 Jul 2021</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-25T17:37:21.654Z</updated>
+        <updated>2021-07-26T05:34:06.838Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">AG PEOPLE</span>
 <span class="created">24 Jul 2021</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-25T17:37:21.665Z</updated>
+        <updated>2021-07-26T05:34:06.840Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΑΓΟΡΑ</span>
 <span class="created">23 Jul 2021</span>
 <a href="/articles/zoi/agora/stirixi-eu50000-se-pyropliktoys-apo-ton-sklabeniti-kyproy">
 <span class="title">Στήριξη €50.000 σε πυρόπληκτους από τον Σκλαβενίτη Κύπρου</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-07-25T17:37:21.667Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">23 Jul 2021</span>
-<a href="/articles/nea/news/mathitis-anakalypse-neo-feggari-ston-dia">
-<span class="title">Μαθητής ανακάλυψε νέο φεγγάρι στον Δία</span>
 </a>
 </span>
 </span></div>]]></content>
