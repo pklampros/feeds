@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea</id>
     <title>Avant-Guarde cy</title>
-    <updated>2021-08-06T17:37:54.934Z</updated>
+    <updated>2021-08-07T17:36:42.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ας μην κάνουμε ακόμα ότι δεν ξέρουμε ποιο σύστημα γέννησε…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/min-kanoyme-akoma-oti-den-xeroyme-poio-systima-gennise-ton-giannaki-ton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/min-kanoyme-akoma-oti-den-xeroyme-poio-systima-gennise-ton-giannaki-ton"/>
+        <updated>2021-08-07T17:36:42.753Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/min-kanoyme-akoma-oti-den-xeroyme-poio-systima-gennise-ton-giannaki-ton"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/13465982_1221795474498211_1617424949874589486_n.jpg?h=dec22bcf&amp;itok=XgBCIaSv" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/min-kanoyme-akoma-oti-den-xeroyme-poio-systima-gennise-ton-giannaki-ton">Ας μην κάνουμε ακόμα ότι δεν ξέρουμε ποιο σύστημα γέννησε…</a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">07 Aug 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN: Δεν εμβολιάστηκαν και τους απέλυσε]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/cnn-den-emboliastikan-kai-toys-apelyse</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA: Στις φλόγες η υφήλιος]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/nasa-stis-floges-i-yfilios</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/nasa-stis-floges-i-yfilios"/>
-        <updated>2021-08-06T05:33:57.984Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/nasa-stis-floges-i-yfilios"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/thumbnail_fb_img_1628191308962-e1628192985575.jpg?h=b14b4dea&amp;itok=O_7Tblyt" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/nasa-stis-floges-i-yfilios">NASA: Στις φλόγες η υφήλιος </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">06 Aug 2021</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-06T17:37:54.641Z</updated>
+        <updated>2021-08-07T17:36:42.573Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">07 Aug 2021</span>
+<a href="/articles/nea/istories/min-kanoyme-akoma-oti-den-xeroyme-poio-systima-gennise-ton-giannaki-ton">
+<span class="title">Ας μην κάνουμε ακόμα ότι δεν ξέρουμε ποιο σύστημα γέννησε τον "Γιαννάκη των εμβολίων" </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea</id>
+        <link href="https://avant-garde.com.cy/articles/nea"/>
+        <updated>2021-08-07T17:36:42.574Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2021</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-06T17:37:54.641Z</updated>
+        <updated>2021-08-07T17:36:42.577Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2021</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-06T17:37:54.642Z</updated>
+        <updated>2021-08-07T17:36:42.578Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2021</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-06T17:37:54.644Z</updated>
+        <updated>2021-08-07T17:36:42.580Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2021</span>
 <a href="/articles/nea/news/ti-apanta-o-pis-gia-toys-giatroys-poy-parakinoyn-se-mi-emboliasmo">
 <span class="title">Τι απαντά ο ΠΙΣ για τους γιατρούς που παρακινούν σε μη εμβολιασμό </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea</id>
-        <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-06T17:37:54.644Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">06 Aug 2021</span>
-<a href="/articles/nea/news/mahi-me-tis-floges-stin-pafo">
-<span class="title">Μάχη με τις φλόγες στην Πάφο </span>
 </a>
 </span>
 </span></div>]]></content>
