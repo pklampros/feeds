@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea</id>
     <title>Avant-Guarde cy</title>
-    <updated>2021-08-14T05:33:54.819Z</updated>
+    <updated>2021-08-14T17:36:32.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η μάνα μου από το Βαρώσι]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/i-mana-moy-apo-barosi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/i-mana-moy-apo-barosi"/>
+        <updated>2021-08-14T17:36:31.707Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/i-mana-moy-apo-barosi"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/prosfigas.jpg?h=99c79d9a&amp;itok=Oejy-jys" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/i-mana-moy-apo-barosi">Η μάνα μου από το Βαρώσι </a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">14 Aug 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Financial Times: Η Ελλάδα αναδεικνύεται νικήτρια στην…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/financial-times-i-ellada-anadeiknyetai-nikitria-stin-anakampsi-toy-toyrismoy</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Λευκωσία: Επιστρέφει ο θεσμός του Ανοιχτού Σχολείου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/leykosia-epistrefei-o-thesmos-toy-anoihtoy-sholeioy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/leykosia-epistrefei-o-thesmos-toy-anoihtoy-sholeioy"/>
-        <updated>2021-08-11T17:39:32.521Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/leykosia-epistrefei-o-thesmos-toy-anoihtoy-sholeioy"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/polidinamo.png?h=8a51c8ce&amp;itok=lbIvawt1" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/leykosia-epistrefei-o-thesmos-toy-anoihtoy-sholeioy">Λευκωσία: Επιστρέφει ο θεσμός του Ανοιχτού Σχολείου</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">11 Aug 2021</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-14T05:33:54.139Z</updated>
+        <updated>2021-08-14T17:36:31.588Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">14 Aug 2021</span>
+<a href="/articles/nea/istories/i-mana-moy-apo-barosi">
+<span class="title">Η μάνα μου από το Βαρώσι </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea</id>
+        <link href="https://avant-garde.com.cy/articles/nea"/>
+        <updated>2021-08-14T17:36:31.588Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Aug 2021</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-14T05:33:54.142Z</updated>
+        <updated>2021-08-14T17:36:31.588Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">13 Aug 2021</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-14T05:33:54.142Z</updated>
+        <updated>2021-08-14T17:36:31.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΑΓΟΡΑ</span>
 <span class="created">13 Aug 2021</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-14T05:33:54.142Z</updated>
+        <updated>2021-08-14T17:36:31.600Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Aug 2021</span>
 <a href="/articles/nea/news/me-neogennita-helonakia-gemise-paralia-sti-larnaka-binteo">
 <span class="title">Με νεογέννητα χελωνάκια γέμισε παραλία στη Λάρνακα [βίντεο]</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea</id>
-        <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-14T05:33:54.145Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">13 Aug 2021</span>
-<a href="/articles/nea/news/toyrkia-27-nekroi-apo-aifnidiastikes-plimmyres-sti-mayri-thalassa">
-<span class="title">Τουρκία: 27 νεκροί από αιφνιδιαστικές πλημμύρες στη Μαύρη Θάλασσα</span>
 </a>
 </span>
 </span></div>]]></content>
