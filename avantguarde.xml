@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea</id>
     <title>Avant-Guarde cy</title>
-    <updated>2021-08-19T17:38:11.177Z</updated>
+    <updated>2021-08-20T05:34:23.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Τα ζώα μου κάηκαν ζωντανά»: Η μαρτυρία ενός βοσκού στην…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ta-zoa-moy-kaikan-zontana-i-martyria-enos-boskoy-stin-ellada</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ta-zoa-moy-kaikan-zontana-i-martyria-enos-boskoy-stin-ellada"/>
+        <updated>2021-08-20T05:34:22.687Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ta-zoa-moy-kaikan-zontana-i-martyria-enos-boskoy-stin-ellada"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/voskos_ellinas.jpg?h=c6980913&amp;itok=6Pm4hnX6" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/ta-zoa-moy-kaikan-zontana-i-martyria-enos-boskoy-stin-ellada">«Τα ζώα μου κάηκαν ζωντανά»: Η μαρτυρία ενός βοσκού στην…</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">20 Aug 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τουρκία: «Είμαστε τα εγγόνια των μαγισσών που δεν κάψατε»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/toyrkia-eimaste-ta-eggonia-ton-magisson-poy-den-kapsate</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[«Οι γυναίκες μας θα είναι ευτυχισμένες»]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/oi-gynaikes-tha-einai-eytyhismenes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/oi-gynaikes-tha-einai-eytyhismenes"/>
-        <updated>2021-08-18T05:34:01.786Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-gynaikes-tha-einai-eytyhismenes"> <img src="/sites/default/files/styles/featured_articles/public/2021-08/taliban_press.jpg?h=e7f7be8c&amp;itok=Dx0bNmt5" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/oi-gynaikes-tha-einai-eytyhismenes">«Οι γυναίκες μας θα είναι ευτυχισμένες» </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">18 Aug 2021</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-19T17:38:10.182Z</updated>
+        <updated>2021-08-20T05:34:22.552Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">20 Aug 2021</span>
+<a href="/articles/nea/news/ta-zoa-moy-kaikan-zontana-i-martyria-enos-boskoy-stin-ellada">
+<span class="title">«Τα ζώα μου κάηκαν ζωντανά»: Η μαρτυρία ενός βοσκού στην Ελλάδα</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea</id>
+        <link href="https://avant-garde.com.cy/articles/nea"/>
+        <updated>2021-08-20T05:34:22.552Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Aug 2021</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-19T17:38:10.184Z</updated>
+        <updated>2021-08-20T05:34:22.552Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Aug 2021</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-19T17:38:10.191Z</updated>
+        <updated>2021-08-20T05:34:22.552Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Aug 2021</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea</id>
         <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-19T17:38:10.191Z</updated>
+        <updated>2021-08-20T05:34:22.552Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Aug 2021</span>
 <a href="/articles/nea/news/pentastera-stin-kypro-apo-eu39-gia-olokliro-fthinoporo">
 <span class="title">Πεντάστερα στην Κύπρο από €39 για ολόκληρο το φθινόπωρο </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea</id>
-        <link href="https://avant-garde.com.cy/articles/nea"/>
-        <updated>2021-08-19T17:38:10.191Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">19 Aug 2021</span>
-<a href="/articles/nea/news/19hrono-paidi-toy-eminem-ekane-coming-out-os-non-binary-atomo">
-<span class="title">Το 19χρονο παιδί του Eminem έκανε coming out ως non-binary άτομο</span>
 </a>
 </span>
 </span></div>]]></content>
