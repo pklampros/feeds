@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-04T17:36:54.489Z</updated>
+    <updated>2021-09-05T17:36:51.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Δεν είναι η Πρώτη Προσβολή του Μόρφου και δεν θα' ναι… (Avant-Guarde cy)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/den-einai-i-proti-prosboli-toy-morfoy-kai-den-tha-nai-oyte-i-teleytaia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/den-einai-i-proti-prosboli-toy-morfoy-kai-den-tha-nai-oyte-i-teleytaia"/>
+        <updated>2021-09-05T17:36:51.158Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/den-einai-i-proti-prosboli-toy-morfoy-kai-den-tha-nai-oyte-i-teleytaia"> <img src="/sites/default/files/styles/featured_articles/public/2021-09/cache_1500x3000_analog_medium_1282233_122599_292021.jpg?h=ca1b478b&amp;itok=5Hd2AFoc" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/den-einai-i-proti-prosboli-toy-morfoy-kai-den-tha-nai-oyte-i-teleytaia">Δεν είναι η Πρώτη Προσβολή του Μόρφου και δεν θα' ναι…</a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">05 Sep 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τι θα γίνει μόλις πεθάνει η βασίλισσα Ελισσάβετ (Avant-Guarde cy)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ti-tha-ginei-molis-pethanei-i-basilissa-elissabet</id>
@@ -260,28 +275,27 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Οι ιστορικές συναυλίες του Μίκη Θεοδωράκη μετά την πτώση… (Avant-Guarde cy)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/oi-istorikes-synaylies-toy-miki-theodoraki-meta-tin-ptosi-tis-hoyntas</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/oi-istorikes-synaylies-toy-miki-theodoraki-meta-tin-ptosi-tis-hoyntas"/>
-        <updated>2021-09-02T17:38:31.740Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-istorikes-synaylies-toy-miki-theodoraki-meta-tin-ptosi-tis-hoyntas"> <img src="/sites/default/files/styles/featured_articles/public/2021-09/xounta_sinaulia.png?h=1497525d&amp;itok=FXU5kXzl" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/oi-istorikes-synaylies-toy-miki-theodoraki-meta-tin-ptosi-tis-hoyntas">Οι ιστορικές συναυλίες του Μίκη Θεοδωράκη μετά την πτώση…</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">02 Sep 2021</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-09-05T17:36:51.037Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">05 Sep 2021</span>
+<a href="/articles/nea/istories/den-einai-i-proti-prosboli-toy-morfoy-kai-den-tha-nai-oyte-i-teleytaia">
+<span class="title">Δεν είναι η Πρώτη Προσβολή του Μόρφου και δεν θα' ναι ούτε η τελευταία </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-04T17:36:53.253Z</updated>
+        <updated>2021-09-05T17:36:51.037Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IMPOSSIBLE WORKS</span>
-<span class="created">04 Sep 2021</span>
+<span class="created">05 Sep 2021</span>
 <a href="/articles/impossible-works/kypros-kai-tehnologia-mesa-sta-epomena-10-hronia">
 <span class="title">Kύπρος και τεχνολογία μέσα στα επόμενα 10 χρόνια</span>
 </a>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-04T17:36:53.261Z</updated>
+        <updated>2021-09-05T17:36:51.037Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">AG PEOPLE</span>
 <span class="created">04 Sep 2021</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-04T17:36:53.261Z</updated>
+        <updated>2021-09-05T17:36:51.037Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">03 Sep 2021</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-04T17:36:53.261Z</updated>
+        <updated>2021-09-05T17:36:51.066Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">03 Sep 2021</span>
 <a href="/articles/nea/news/ti-tha-ginei-molis-pethanei-i-basilissa-elissabet">
 <span class="title">Τι θα γίνει μόλις πεθάνει η βασίλισσα Ελισσάβετ </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-04T17:36:53.261Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΤΟΣ</span>
-<span class="created">03 Sep 2021</span>
-<a href="/articles/zoi/ektos/promenade-musicale-stoys-dromoys-tis-lemesoy">
-<span class="title">Promenade musicale στους δρόμους της Λεμεσού</span>
 </a>
 </span>
 </span></div>]]></content>
