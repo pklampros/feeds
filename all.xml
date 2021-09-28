@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-27T17:38:00.623Z</updated>
+    <updated>2021-09-28T05:34:42.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Κάν' το όπως ο Προδρόμου (Avant-Guarde cy)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kan-opos-o-prodromoy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kan-opos-o-prodromoy"/>
+        <updated>2021-09-28T05:34:41.417Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/kan-opos-o-prodromoy"> <img src="/sites/default/files/styles/featured_articles/public/2021-09/capture_8.png?h=67fe4a15&amp;itok=lIbunoZ_" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/kan-opos-o-prodromoy">Κάν' το όπως ο Προδρόμου </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">27 Sep 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Οι καλύτερες πόλεις του κόσμου για το 2021 (Avant-Guarde cy)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/oi-kalyteres-poleis-toy-kosmoy-gia-2021</id>
@@ -260,25 +275,52 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Εν μέσω έντονων επικρίσεων, η Nielsen ανακοινώνει νέο… (Avant-Guarde cy)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/en-meso-entonon-epikriseon-i-nielsen-anakoinonei-neo-montelo-metriseon</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/en-meso-entonon-epikriseon-i-nielsen-anakoinonei-neo-montelo-metriseon"/>
-        <updated>2021-09-26T17:35:39.087Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/en-meso-entonon-epikriseon-i-nielsen-anakoinonei-neo-montelo-metriseon"> <img src="/sites/default/files/styles/featured_articles/public/2021-09/pexels-anete-lusina-5721896_0.jpg?h=99e84b87&amp;itok=ybZA1tp5" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/en-meso-entonon-epikriseon-i-nielsen-anakoinonei-neo-montelo-metriseon">Εν μέσω έντονων επικρίσεων, η Nielsen ανακοινώνει νέο…</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">26 Sep 2021</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-09-28T05:34:41.253Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΑΓΟΡΑ</span>
+<span class="created">28 Sep 2021</span>
+<a href="/articles/zoi/agora/i-gp-lazarou-paroysiazei-neo-tis-prosopo">
+<span class="title">Η G&amp;P Lazarou παρουσιάζει το νέο της «πρόσωπο» </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-27T17:37:59.536Z</updated>
+        <updated>2021-09-28T05:34:41.270Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΤΟΣ</span>
+<span class="created">28 Sep 2021</span>
+<a href="/articles/zoi/ektos/mia-exaireti-moysikohoreytiki-parastasi-afieromeni-ston-lorka">
+<span class="title">Μία εξαίρετη μουσικοχορευτική παράσταση αφιερωμένη στον Λόρκα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-09-28T05:34:41.270Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">27 Sep 2021</span>
+<a href="/articles/nea/news/kan-opos-o-prodromoy">
+<span class="title">Κάν' το όπως ο Προδρόμου </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-09-28T05:34:41.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
 <span class="created">27 Sep 2021</span>
@@ -292,54 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-27T17:37:59.538Z</updated>
+        <updated>2021-09-28T05:34:41.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
 <span class="created">27 Sep 2021</span>
 <a href="/articles/prosopa/andreas-pitsillidis-o-teleytaios-alithinos-hristianos-pethane-ston-stayro">
 <span class="title">Ανδρέας Πιτσιλλίδης: Ο τελευταίος αληθινός χριστιανός πέθανε στον σταυρό</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-27T17:37:59.554Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">27 Sep 2021</span>
-<a href="/articles/nea/news/oi-kalyteres-poleis-toy-kosmoy-gia-2021">
-<span class="title">Οι καλύτερες πόλεις του κόσμου για το 2021</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-27T17:37:59.556Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">27 Sep 2021</span>
-<a href="/articles/nea/news/oi-talimpan-apagoreyoyn-kai-xyrisma">
-<span class="title">Οι Ταλιμπάν απαγορεύουν και το ξύρισμα </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-09-27T17:37:59.558Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">27 Sep 2021</span>
-<a href="/articles/nea/news/ehoyme-ti-megalyteri-meiosi-sto-prosdokimo-zois-meta-ton-b-pagkosmio-polemo">
-<span class="title">Έχουμε τη μεγαλύτερη μείωση στο προσδόκιμο ζωής μετά τον Β' Παγκόσμιο Πόλεμο</span>
 </a>
 </span>
 </span></div>]]></content>
