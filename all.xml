@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-23T05:35:38.377Z</updated>
+    <updated>2021-10-23T17:37:56.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Εντολή: Εξαφανίστε τον Μακάριο (Avant-Guarde cy)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/entoli-exafaniste-ton-makario</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/entoli-exafaniste-ton-makario"/>
+        <updated>2021-10-23T17:37:55.592Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/entoli-exafaniste-ton-makario"> <img src="/sites/default/files/styles/featured_articles/public/2021-10/-6-facebook.png?h=246533f5&amp;itok=Lf9YoG9_" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/entoli-exafaniste-ton-makario">Εντολή: Εξαφανίστε τον Μακάριο</a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">23 Oct 2021</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Εξελίξεις για το εργοστάσιο ασφάλτου στο Μιτσερό (Avant-Guarde cy)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/exelixeis-gia-ergostasio-asfaltoy-sto-mitsero</id>
@@ -260,25 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μαρούλα Βιολάρη Ιακωβίδου: Η πρώτη γυναίκα δημοσιογράφος… (Avant-Guarde cy)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/maroyla-biolari-iakobidoy-i-proti-gynaika-dimosiografos-stin-kypro</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/maroyla-biolari-iakobidoy-i-proti-gynaika-dimosiografos-stin-kypro"/>
-        <updated>2021-10-21T17:38:56.275Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/maroyla-biolari-iakobidoy-i-proti-gynaika-dimosiografos-stin-kypro"> <img src="/sites/default/files/styles/featured_articles/public/2021-10/1111_0.jpg?h=7d967258&amp;itok=xPGseJ7y" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/istories/maroyla-biolari-iakobidoy-i-proti-gynaika-dimosiografos-stin-kypro">Μαρούλα Βιολάρη Ιακωβίδου: Η πρώτη γυναίκα δημοσιογράφος…</a></span>
-<span>
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
-<span class="created">21 Oct 2021</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-10-23T17:37:55.486Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">23 Oct 2021</span>
+<a href="/articles/prosopa/h-eleni-xenoy-den-einai-xeni-pros-opoiadipote-proklisi">
+<span class="title">H Ελένη Ξένου δεν είναι ξένη προς οποιαδήποτε πρόκληση </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-10-23T05:35:36.964Z</updated>
+        <updated>2021-10-23T17:37:55.487Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">23 Oct 2021</span>
+<a href="/articles/nea/istories/entoli-exafaniste-ton-makario">
+<span class="title">Εντολή: Εξαφανίστε τον Μακάριο</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2021-10-23T17:37:55.491Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Oct 2021</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-10-23T05:35:36.964Z</updated>
+        <updated>2021-10-23T17:37:55.491Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Oct 2021</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-10-23T05:35:36.964Z</updated>
+        <updated>2021-10-23T17:37:55.492Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">23 Oct 2021</span>
 <a href="/articles/zoi/ektos/1964-apo-theatro-antilogos">
 <span class="title">«1964» από το Θέατρο Αντίλογος</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-10-23T05:35:36.976Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΤΟΣ</span>
-<span class="created">23 Oct 2021</span>
-<a href="/articles/zoi/ektos/episkefthikame-glyko-oinopoieio-tis-kyproy">
-<span class="title">Επισκεφθήκαμε το γλυκό οινοποιείο της Κύπρου</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde cy)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2021-10-23T05:35:36.976Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">23 Oct 2021</span>
-<a href="/articles/nea/news/syndromo-ton-long-covid-asthenon">
-<span class="title">Το σύνδρομο των long covid ασθενών </span>
 </a>
 </span>
 </span></div>]]></content>
