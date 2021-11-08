@@ -1,6 +1,6 @@
 [avantguarde]
 title = "Avant-Guarde cy"
-url = "https://avant-garde.com.cy/articles/nea"
+url = "https://avant-garde.com.cy/articles/nea/"
 entrySelector = ".views-row"
 titleSelector = ".title a"
 linkSelector = ".title a"
