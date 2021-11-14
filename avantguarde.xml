@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde cy</title>
-    <updated>2021-11-13T17:37:38.762Z</updated>
+    <updated>2021-11-14T05:37:25.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-11-13T17:37:37.406Z</updated>
+        <updated>2021-11-14T05:37:24.124Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">14 Nov 2021</span>
+<a href="/articles/prosopa/i-kyria-myroylla-symboyleyei-pos-na-min-aghonesai-kai-na-gineis-moysiammas">
+<span class="title">Η κυρία Μυρούλλα συμβουλεύει: Πως να μην αγχώνεσαι και να γίνεις «μουσιαμμάς»</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2021-11-14T05:37:24.124Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Nov 2021</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-11-13T17:37:37.406Z</updated>
+        <updated>2021-11-14T05:37:24.125Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
 <span class="created">13 Nov 2021</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-11-13T17:37:37.406Z</updated>
+        <updated>2021-11-14T05:37:24.126Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Nov 2021</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-11-13T17:37:37.409Z</updated>
+        <updated>2021-11-14T05:37:24.133Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">13 Nov 2021</span>
 <a href="/articles/nea/istories/alla-leei-myalo-ki-alla-kanei-eklogiko-soma">
 <span class="title">Άλλα λέει το μυαλό κι άλλα κάνει το (εκλογικό) σώμα!</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-11-13T17:37:37.411Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">13 Nov 2021</span>
-<a href="/articles/nea/malcolm-marie-giati-oloi-thymosan-me-ti-nea-tainia-toy-netflix">
-<span class="title">Malcolm &amp; Marie: Γιατί όλοι θύμωσαν με τη νέα ταινία του Netflix; </span>
 </a>
 </span>
 </span></div>]]></content>
