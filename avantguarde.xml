@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde cy</title>
-    <updated>2021-12-04T05:34:26.178Z</updated>
+    <updated>2021-12-04T17:40:11.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,35 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-12-04T05:34:25.377Z</updated>
+        <updated>2021-12-04T17:40:10.417Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΝΤΟΣ</span>
+<span class="created">04 Dec 2021</span>
+<a href="/articles/zoi/entos/toy-sabbatoy-kokteil-mojito-frampoyaz">
+<span class="title">Του Σαββάτου το κοκτέιλ: Mojito Φραμπουάζ</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2021-12-04T17:40:10.417Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">04 Dec 2021</span>
+<a href="/articles/nea/news/spiti-toy-home-alone-einai-pros-enoikiasi-apo-tin-airbnb">
+<span class="title">To σπίτι του Home Alone είναι προς ενοικίαση από την Airbnb</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2021-12-04T17:40:10.418Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">04 Dec 2021</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-12-04T05:34:25.377Z</updated>
+        <updated>2021-12-04T17:40:10.418Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">04 Dec 2021</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-12-04T05:34:25.377Z</updated>
+        <updated>2021-12-04T17:40:10.418Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">04 Dec 2021</span>
 <a href="/articles/nea/news/o-hrysos-kanonas-ton-20-lepton-poy-akoloythoyn-oloi-oi-ekatommyrioyhoi">
 <span class="title">Ο χρυσός κανόνας των 20 λεπτών που ακολουθούν όλοι οι εκατομμυριούχοι </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-12-04T05:34:25.377Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΤΟΣ</span>
-<span class="created">04 Dec 2021</span>
-<a href="/articles/zoi/ektos/pigame-sto-columbia-confectionery-kai-pathame-plaka-me-ta-glyka">
-<span class="title">Πήγαμε στο Columbia Confectionery και πάθαμε πλάκα με τα γλυκά </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2021-12-04T05:34:25.377Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">04 Dec 2021</span>
-<a href="/articles/nea/news/empargko-toy-thanoy-mikroytsikoy-se-nea-ektelesi">
-<span class="title">Το ΕΜΠΑΡΓΚΟ του Θάνου Μικρούτσικου σε νέα εκτέλεση</span>
 </a>
 </span>
 </span></div>]]></content>
