@@ -2,8 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T17:40:21.998Z</updated>
+    <updated>2022-04-15T05:36:13.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ομάδα καθολικών ακτιβιστών χαρακτηρίζει την ταινία Benedetta «βλάσφημη» (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/omada-katholikon-aktibiston-haraktirizei-tin-tainia-benedetta-blasfimi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/omada-katholikon-aktibiston-haraktirizei-tin-tainia-benedetta-blasfimi"/>
+        <updated>2022-04-15T05:36:12.165Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/omada-katholikon-aktibiston-haraktirizei-tin-tainia-benedetta-blasfimi"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/benedetta.jpg?h=c8a745b3&amp;itok=9SxDD00s" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/omada-katholikon-aktibiston-haraktirizei-tin-tainia-benedetta-blasfimi">Ομάδα καθολικών ακτιβιστών χαρακτηρίζει την ταινία Benedetta «βλάσφημη»</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">15 Apr 2022</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Τα σημεία για rapid test σήμερα Παρασκευή (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ta-simeia-gia-rapid-test-simera-paraskeyi-2</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ta-simeia-gia-rapid-test-simera-paraskeyi-2"/>
+        <updated>2022-04-15T05:36:12.181Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ta-simeia-gia-rapid-test-simera-paraskeyi-2"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/sxoleia_rapid_test.jpg?h=43594a01&amp;itok=jZqcOGIB" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/ta-simeia-gia-rapid-test-simera-paraskeyi-2">Τα σημεία για rapid test σήμερα Παρασκευή</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">15 Apr 2022</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OHE: Έντονη ανησυχία για Ουκρανές γυναίκες και παιδιά που ψάχνουν στέγη στη Βρετανία (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ohe-entoni-anisyhia-gia-oykranes-gynaikes-kai-paidia-poy-psahnoyn-stegi-sti</id>
@@ -132,7 +162,7 @@
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ta-simeia-gia-rapid-simera-pempti-1404"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/rapid_test_cover2.jpg?h=43594a01&amp;itok=DYExdYCE" alt="" class="img-responsive" width="575" height="400">
 </a></span>
 <span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/ta-simeia-gia-rapid-simera-pempti-1404">Τα σημεία για rapid σήμερα Πέμπτη (14/04)</a></span>
+ <span class="title"><a href="/articles/nea/news/ta-simeia-gia-rapid-simera-pempti-1404">Τα σημεία για rapid σήμερα Πέμπτη (14/04)</a></span>
 <span>
 <span class="channel">NEWS</span>
 <span class="created">14 Apr 2022</span>
@@ -207,7 +237,7 @@
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/mia-giagia-101-eton-anelabe-ti-dieythynsi-toy-aerodromioy-toy-toronto"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/giagia.png?h=27cf9afc&amp;itok=zAxu5rDZ" alt="" class="img-responsive" width="575" height="400">
 </a></span>
 <span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/mia-giagia-101-eton-anelabe-ti-dieythynsi-toy-aerodromioy-toy-toronto">Μια γιαγιά 101 ετών ανέλαβε τη διεύθυνση του αεροδρομίου του Τορόντο </a></span>
+ <span class="title"><a href="/articles/nea/news/mia-giagia-101-eton-anelabe-ti-dieythynsi-toy-aerodromioy-toy-toronto">Μια γιαγιά 101 ετών ανέλαβε τη διεύθυνση του αεροδρομίου του Τορόντο </a></span>
 <span>
 <span class="channel">NEWS</span>
 <span class="created">13 Apr 2022</span>
@@ -245,40 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix: Κυκλοφόρησε το trailer της 4ης σεζόν του “Stranger Things” (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/netflix-kykloforise-trailer-tis-4is-sezon-toy-stranger-things</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/netflix-kykloforise-trailer-tis-4is-sezon-toy-stranger-things"/>
-        <updated>2022-04-14T17:40:21.247Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/netflix-kykloforise-trailer-tis-4is-sezon-toy-stranger-things"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/strangerthings_strangerthings4_2_00_24_22_13_rc_1.jpg?h=036f3151&amp;itok=cPBYcNp_" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/netflix-kykloforise-trailer-tis-4is-sezon-toy-stranger-things"> Netflix: Κυκλοφόρησε το trailer της 4ης σεζόν του “Stranger Things”</a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-04-15T05:36:11.666Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
-<span class="created">13 Apr 2022</span>
+<span class="created">15 Apr 2022</span>
+<a href="/articles/nea/news/omada-katholikon-aktibiston-haraktirizei-tin-tainia-benedetta-blasfimi">
+<span class="title">Ομάδα καθολικών ακτιβιστών χαρακτηρίζει την ταινία Benedetta «βλάσφημη»</span>
+</a>
 </span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Τα σημεία για rapid σήμερα (13/4) - Πίνακας (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ta-simeia-gia-rapid-simera-134-pinakas</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ta-simeia-gia-rapid-simera-134-pinakas"/>
-        <updated>2022-04-14T17:40:21.248Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ta-simeia-gia-rapid-simera-134-pinakas"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/cna_t71e06766d8c14a92bcb7820a2b14d398.jpg?h=43594a01&amp;itok=Hx6pat36" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/ta-simeia-gia-rapid-simera-134-pinakas">Τα σημεία για rapid σήμερα (13/4) - Πίνακας</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">13 Apr 2022</span>
-</span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-14T17:40:20.951Z</updated>
+        <updated>2022-04-15T05:36:11.672Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">15 Apr 2022</span>
+<a href="/articles/nea/news/ta-simeia-gia-rapid-test-simera-paraskeyi-2">
+<span class="title">Τα σημεία για rapid test σήμερα Παρασκευή</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-04-15T05:36:11.675Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">14 Apr 2022</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-14T17:40:20.953Z</updated>
+        <updated>2022-04-15T05:36:11.679Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">14 Apr 2022</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-14T17:40:20.964Z</updated>
+        <updated>2022-04-15T05:36:11.684Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">14 Apr 2022</span>
 <a href="/articles/zoi/ektos/kalytero-gia-tin-ygeia-soy">
 <span class="title">Το καλύτερο για την υγεία σου </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-14T17:40:20.966Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">14 Apr 2022</span>
-<a href="/articles/nea/news/ohe-entoni-anisyhia-gia-oykranes-gynaikes-kai-paidia-poy-psahnoyn-stegi-sti">
-<span class="title">OHE: Έντονη ανησυχία για Ουκρανές γυναίκες και παιδιά που ψάχνουν στέγη στη Βρετανία</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-14T17:40:20.968Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
-<span class="created">14 Apr 2022</span>
-<a href="/articles/nea/istories/mia-typissa-stin-ameriki-plironetai-apo-goneis-gia-na-briskei-onomata-sta">
-<span class="title">Μια τύπισσα στην Αμερική πληρώνεται από γονείς για να βρίσκει ονόματα στα παιδιά τους </span>
 </a>
 </span>
 </span></div>]]></content>
