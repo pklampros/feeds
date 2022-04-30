@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-29T17:37:12.720Z</updated>
+    <updated>2022-04-30T05:33:50.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Netflix: Οι σειρές και οι ταινίες που θα κάνουν πρεμιέρα το Μάιο (Avant-Guarde Cyprus)]]></title>
@@ -35,21 +35,6 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Οι Ουκρανοί κάνουν τατουάζ για τον πόλεμο για να θυμούνται τι περνούν (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn"/>
-        <updated>2022-04-29T17:37:12.079Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/tatouaz-oukranoi.png?h=4ab5cc25&amp;itok=X4-FsRzn" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn">Οι Ουκρανοί κάνουν τατουάζ για τον πόλεμο για να θυμούνται τι περνούν</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">29 Apr 2022</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Τα 5 σημάδια που δείχνουν ότι πρέπει να αλλάξεις δουλειά (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ta-5-simadia-poy-deihnoyn-oti-prepei-na-allaxeis-doyleia</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/ta-5-simadia-poy-deihnoyn-oti-prepei-na-allaxeis-doyleia"/>
@@ -58,6 +43,21 @@
 </a></span>
 <span class="title-channel-date">
 <span class="title"><a href="/articles/nea/news/ta-5-simadia-poy-deihnoyn-oti-prepei-na-allaxeis-doyleia">Τα 5 σημάδια που δείχνουν ότι πρέπει να αλλάξεις δουλειά</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">29 Apr 2022</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι Ουκρανοί κάνουν τατουάζ για τον πόλεμο για να θυμούνται τι περνούν (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn"/>
+        <updated>2022-04-29T17:37:12.079Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn"> <img src="/sites/default/files/styles/featured_articles/public/2022-04/tatouaz-oukranoi.png?h=4ab5cc25&amp;itok=X4-FsRzn" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/oi-oykranoi-kanoyn-tatoyaz-gia-ton-polemo-gia-na-thymoyntai-ti-pernoyn">Οι Ουκρανοί κάνουν τατουάζ για τον πόλεμο για να θυμούνται τι περνούν</a></span>
 <span>
 <span class="channel">NEWS</span>
 <span class="created">29 Apr 2022</span>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-29T17:37:11.944Z</updated>
+        <updated>2022-04-30T05:33:48.989Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">30 Apr 2022</span>
+<a href="/articles/prosopa/ki-omos-eihes-kai-sto-horio-soy-kompost">
+<span class="title">Κι όμως, είχες και στο χωριό σου κομπόστ</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-04-30T05:33:48.990Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">29 Apr 2022</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-29T17:37:11.950Z</updated>
+        <updated>2022-04-30T05:33:48.998Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
 <span class="created">29 Apr 2022</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-29T17:37:11.950Z</updated>
+        <updated>2022-04-30T05:33:48.999Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">29 Apr 2022</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-29T17:37:11.953Z</updated>
+        <updated>2022-04-30T05:33:49.005Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">29 Apr 2022</span>
 <a href="/articles/zoi/ektos/sto-mediterranean-bar-show-tha-apolayseis-cocktails-moysiki-kai-idiaiteres">
 <span class="title">Στο Mediterranean Bar Show θα απολαύσεις cocktails, μουσική και ιδιαίτερες γεύσεις</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-04-29T17:37:11.953Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΠΡΟΣΩΠΑ</span>
-<span class="created">29 Apr 2022</span>
-<a href="/articles/prosopa/enas-pittas-me-ap-ola-gia-lunch-break">
-<span class="title">Ένας Πήττας με απ' όλα για Lunch Break </span>
 </a>
 </span>
 </span></div>]]></content>
