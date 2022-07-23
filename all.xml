@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-23T05:35:10.943Z</updated>
+    <updated>2022-07-23T17:36:03.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Η πρόγνωση του καιρού στην Κύπρο μέχρι και την Τρίτη (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-23T05:35:09.612Z</updated>
+        <updated>2022-07-23T17:36:02.034Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΤΟΣ</span>
+<span class="created">23 Jul 2022</span>
+<a href="/articles/zoi/ektos/paradise-jazz-festival-epistrefei-se-ena-eidylliako-horo-me-kalesmeni-tin-alexia">
+<span class="title">To Paradise Jazz Festival επιστρέφει σε ένα ειδυλλιακό χώρο με καλεσμένη την Αλέξια </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-07-23T17:36:02.039Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2022</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-23T05:35:09.612Z</updated>
+        <updated>2022-07-23T17:36:02.041Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">23 Jul 2022</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
+        <updated>2022-07-23T17:36:02.044Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">23 Jul 2022</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
+        <updated>2022-07-23T17:36:02.094Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2022</span>
 <a href="/articles/nea/news/ta-makaronia-tis-smilasmakaronia-toy-sklinitzioy-i-nea-prostateyomeni-geografiki">
 <span class="title">Τα «Μακαρόνια της Σμίλας/Μακαρόνια του Σκλινιτζιού» η νέα προστατευόμενη γεωγραφική ένδειξη από την…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
-<span class="created">22 Jul 2022</span>
-<a href="/articles/prosopa/synenteyxeis/fiko-ti-symbolizei-i-agia-eyropi-poy-zografises-sti-leykosia">
-<span class="title">Φίκο, τι συμβολίζει η «Αγία Ευρώπη» που ζωγράφισες στη Λευκωσία;</span>
 </a>
 </span>
 </span></div>]]></content>

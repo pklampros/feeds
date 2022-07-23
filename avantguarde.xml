@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2022-07-23T05:35:10.947Z</updated>
+    <updated>2022-07-23T17:36:03.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-07-23T05:35:09.612Z</updated>
+        <updated>2022-07-23T17:36:02.034Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΤΟΣ</span>
+<span class="created">23 Jul 2022</span>
+<a href="/articles/zoi/ektos/paradise-jazz-festival-epistrefei-se-ena-eidylliako-horo-me-kalesmeni-tin-alexia">
+<span class="title">To Paradise Jazz Festival επιστρέφει σε ένα ειδυλλιακό χώρο με καλεσμένη την Αλέξια </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2022-07-23T17:36:02.039Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2022</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-07-23T05:35:09.612Z</updated>
+        <updated>2022-07-23T17:36:02.041Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">23 Jul 2022</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
+        <updated>2022-07-23T17:36:02.044Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">23 Jul 2022</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
+        <updated>2022-07-23T17:36:02.094Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">23 Jul 2022</span>
 <a href="/articles/nea/news/ta-makaronia-tis-smilasmakaronia-toy-sklinitzioy-i-nea-prostateyomeni-geografiki">
 <span class="title">Τα «Μακαρόνια της Σμίλας/Μακαρόνια του Σκλινιτζιού» η νέα προστατευόμενη γεωγραφική ένδειξη από την…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-07-23T05:35:09.618Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
-<span class="created">22 Jul 2022</span>
-<a href="/articles/prosopa/synenteyxeis/fiko-ti-symbolizei-i-agia-eyropi-poy-zografises-sti-leykosia">
-<span class="title">Φίκο, τι συμβολίζει η «Αγία Ευρώπη» που ζωγράφισες στη Λευκωσία;</span>
 </a>
 </span>
 </span></div>]]></content>
