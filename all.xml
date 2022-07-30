@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-29T17:37:29.432Z</updated>
+    <updated>2022-07-30T05:35:25.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Αυτές είναι οι πιο φθηνές πόλεις για διακοπές στην Ευρώπη (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/aytes-einai-oi-pio-fthines-poleis-gia-diakopes-stin-eyropi-0</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/aytes-einai-oi-pio-fthines-poleis-gia-diakopes-stin-eyropi-0"/>
+        <updated>2022-07-30T05:35:24.621Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/aytes-einai-oi-pio-fthines-poleis-gia-diakopes-stin-eyropi-0"> <img src="/sites/default/files/styles/featured_articles/public/2022-07/pexels-photo-2871654.jpeg?h=60f9f39d&amp;itok=CrQ_Li7X" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/aytes-einai-oi-pio-fthines-poleis-gia-diakopes-stin-eyropi-0">Αυτές είναι οι πιο φθηνές πόλεις για διακοπές στην Ευρώπη</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">30 Jul 2022</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η μεταμόρφωση του Μπρένταν Φρέιζερ στο «The Whale» του Ντάρεν Αρονόφσκι (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-metamorfosi-toy-mprentan-freizer-sto-whale-toy-ntaren-aronofski</id>
@@ -260,25 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Κίτρινη προειδοποίηση και σήμερα για εξαιρετικά υψηλές θερμοκρασίες (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/kitrini-proeidopoiisi-kai-simera-gia-exairetika-ypsiles-thermokrasies</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/kitrini-proeidopoiisi-kai-simera-gia-exairetika-ypsiles-thermokrasies"/>
-        <updated>2022-07-28T17:39:34.006Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/kitrini-proeidopoiisi-kai-simera-gia-exairetika-ypsiles-thermokrasies"> <img src="/sites/default/files/styles/featured_articles/public/2022-07/kausonas-zesth.jpg?h=5f1b5b34&amp;itok=JZ2ubudv" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/kitrini-proeidopoiisi-kai-simera-gia-exairetika-ypsiles-thermokrasies">Κίτρινη προειδοποίηση και σήμερα για εξαιρετικά υψηλές θερμοκρασίες</a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-07-30T05:35:24.107Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
-<span class="created">28 Jul 2022</span>
+<span class="created">30 Jul 2022</span>
+<a href="/articles/nea/news/aytes-einai-oi-pio-fthines-poleis-gia-diakopes-stin-eyropi-0">
+<span class="title">Αυτές είναι οι πιο φθηνές πόλεις για διακοπές στην Ευρώπη</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-29T17:37:28.744Z</updated>
+        <updated>2022-07-30T05:35:24.108Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΤΟΣ</span>
+<span class="created">30 Jul 2022</span>
+<a href="/articles/zoi/ektos/i-kaiti-garmpi-gia-mia-emfanisi-stin-kypro">
+<span class="title">Η Καίτη Γαρμπή για μία εμφάνιση στην Κύπρο</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2022-07-30T05:35:24.109Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">29 Jul 2022</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-29T17:37:28.744Z</updated>
+        <updated>2022-07-30T05:35:24.110Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">29 Jul 2022</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-29T17:37:28.746Z</updated>
+        <updated>2022-07-30T05:35:24.111Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">29 Jul 2022</span>
 <a href="/articles/nea/news/oreibates-plakothikan-apo-hionostibada-eskapsan-mia-spilia-kai-epezisan-me-mpares">
 <span class="title">Ορειβάτες πλακώθηκαν από χιονοστιβάδα, έσκαψαν μια «σπηλιά» και επέζησαν με μπάρες μούσλι</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-29T17:37:28.746Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">29 Jul 2022</span>
-<a href="/articles/nea/news/i-panagia-ton-parision-anoigei-xana-2024">
-<span class="title">Η Παναγία των Παρισίων ανοίγει ξανά το 2024</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2022-07-29T17:37:28.747Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΤΟΣ</span>
-<span class="created">29 Jul 2022</span>
-<a href="/articles/zoi/ektos/zisame-tin-proti-mera-toy-festibal-feggaros-kai-metaferoyme-entyposeis">
-<span class="title">Ζήσαμε την πρώτη μέρα του Φεστιβάλ Φέγγαρος και μεταφέρουμε εντυπώσεις </span>
 </a>
 </span>
 </span></div>]]></content>
