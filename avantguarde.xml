@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2022-08-06T17:34:11.879Z</updated>
+    <updated>2022-08-08T05:36:53.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-08-06T17:34:10.831Z</updated>
+        <updated>2022-08-08T05:36:52.223Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
+<span class="created">07 Aug 2022</span>
+<a href="/articles/prosopa/synenteyxeis/andreas-andreoy-istories-zois-apo-enan-skliropyriniko-oreibati">
+<span class="title">Ανδρέας Ανδρέου: Ιστορίες ζωής από έναν σκληροπυρηνικό ορειβάτη </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2022-08-08T05:36:52.223Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2022</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-08-06T17:34:10.833Z</updated>
+        <updated>2022-08-08T05:36:52.223Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 Aug 2022</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-08-06T17:34:10.836Z</updated>
+        <updated>2022-08-08T05:36:52.225Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD / DRINK</span>
 <span class="created">05 Aug 2022</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-08-06T17:34:10.836Z</updated>
+        <updated>2022-08-08T05:36:52.225Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">05 Aug 2022</span>
 <a href="/articles/nea/news/boreia-korea-anakoinose-pos-den-ehei-kanena-neo-kroysma-koronoioy">
 <span class="title">Βόρεια Κορέα: Ανακοίνωσε πως δεν έχει κανένα νέο κρούσμα κορωνοϊού</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2022-08-06T17:34:10.837Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΤΟΣ</span>
-<span class="created">05 Aug 2022</span>
-<a href="/articles/zoi/ektos/pame-gia-alli-mia-monadiki-kyriaki-sto-sto-water-world-waterpark-stin-agia-napa">
-<span class="title">Πάμε για άλλη μία μοναδική Κυριακή στο στο Water World Waterpark στην Αγία Νάπα</span>
 </a>
 </span>
 </span></div>]]></content>
