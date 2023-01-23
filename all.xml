@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-22T05:32:43.461Z</updated>
+    <updated>2023-01-23T05:33:10.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[«Έφυγε» από τη ζωή ο Νίκος Ξανθόπουλος (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-o-nikos-xanthopoylos</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-o-nikos-xanthopoylos"/>
+        <updated>2023-01-23T05:33:09.775Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/efyge-apo-ti-zoi-o-nikos-xanthopoylos"> <img src="/sites/default/files/styles/featured_articles/public/2023-01/d74c836f-1207-45dd-9688-a3064fbfe613.jpeg?h=85b670a5&amp;itok=dDFGFOdq" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/efyge-apo-ti-zoi-o-nikos-xanthopoylos">«Έφυγε» από τη ζωή ο Νίκος Ξανθόπουλος</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">22 Jan 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η μεγαλύτερη πίτσα στον κόσμο ετοιμάζεται στο Λος Άντζελες: Θα έχει 68.000 κομμάτια (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-megalyteri-pitsa-ston-kosmo-etoimazetai-sto-los-antzeles-tha-ehei-68000</id>
@@ -260,25 +275,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[H ζωή του Michael Jackson θα γίνει ταινία (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/h-zoi-toy-michael-jackson-tha-ginei-tainia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/h-zoi-toy-michael-jackson-tha-ginei-tainia"/>
-        <updated>2023-01-21T05:33:12.219Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/h-zoi-toy-michael-jackson-tha-ginei-tainia"> <img src="/sites/default/files/styles/featured_articles/public/2023-01/michaeljackson.jpg?h=3dbd9eac&amp;itok=MLP7U55I" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/h-zoi-toy-michael-jackson-tha-ginei-tainia">H ζωή του Michael Jackson θα γίνει ταινία</a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-01-23T05:33:09.496Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
-<span class="created">19 Jan 2023</span>
+<span class="created">22 Jan 2023</span>
+<a href="/articles/nea/news/efyge-apo-ti-zoi-o-nikos-xanthopoylos">
+<span class="title">«Έφυγε» από τη ζωή ο Νίκος Ξανθόπουλος</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-01-22T05:32:42.616Z</updated>
+        <updated>2023-01-23T05:33:09.502Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">21 Jan 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-01-22T05:32:42.617Z</updated>
+        <updated>2023-01-23T05:33:09.503Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">21 Jan 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-01-22T05:32:42.627Z</updated>
+        <updated>2023-01-23T05:33:09.503Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">20 Jan 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-01-22T05:32:42.628Z</updated>
+        <updated>2023-01-23T05:33:09.504Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">20 Jan 2023</span>
 <a href="/articles/nea/news/oi-maneskin-oi-italoi-poy-kerdisan-tin-gioyrobizion-pantreytikan">
 <span class="title">Οι Maneskin, οι Ιταλοί που κέρδισαν την Γιουροβίζιον «παντρεύτηκαν»</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-01-22T05:32:42.630Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">20 Jan 2023</span>
-<a href="/articles/exodos/n-out/pola-sela-market-epistrefei-gia-5i-hronia-stin-palia-leykosia">
-<span class="title">To «Πόλα σέλα μάρκετ» επιστρέφει για 5η χρονιά στην παλιά Λευκωσία</span>
 </a>
 </span>
 </span></div>]]></content>
