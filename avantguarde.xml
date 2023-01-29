@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-01-27T17:32:59.095Z</updated>
+    <updated>2023-01-29T17:33:04.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Αλλάζει ο καιρός το σαββατοκύριακο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/allazei-o-kairos-sabbatokyriako</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/allazei-o-kairos-sabbatokyriako"/>
+        <updated>2023-01-29T17:33:03.353Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/allazei-o-kairos-sabbatokyriako"> <img src="/sites/default/files/styles/featured_articles/public/2023-01/raindrop-6544618_960_720.jpg?h=b3660f0d&amp;itok=ynv1LhQZ" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/allazei-o-kairos-sabbatokyriako">Αλλάζει ο καιρός το σαββατοκύριακο </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">28 Jan 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αυτά είναι τα 3 ταξίδια με τρένο που αξίζει να κάνεις έστω και μία φορά στη ζωή σου]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ayta-einai-ta-3-taxidia-me-treno-poy-axizei-na-kaneis-esto-kai-mia-fora-sti-zoi</id>
@@ -261,25 +276,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τραυματισμοί και κρυοπαγήματα στα γυρίσματα του “Squid Game” - Οι παίκτες κατέρρευσαν]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/traymatismoi-kai-kryopagimata-sta-gyrismata-toy-squid-game-oi-paiktes-katerreysan</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/traymatismoi-kai-kryopagimata-sta-gyrismata-toy-squid-game-oi-paiktes-katerreysan"/>
-        <updated>2023-01-27T17:32:58.477Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/traymatismoi-kai-kryopagimata-sta-gyrismata-toy-squid-game-oi-paiktes-katerreysan"> <img src="/sites/default/files/styles/featured_articles/public/2023-01/57f77610-345b-4bf3-9425-01d274093fc0.jpeg?h=9c86d525&amp;itok=tl6rvhv3" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/traymatismoi-kai-kryopagimata-sta-gyrismata-toy-squid-game-oi-paiktes-katerreysan">Τραυματισμοί και κρυοπαγήματα στα γυρίσματα του “Squid Game” - Οι παίκτες κατέρρευσαν </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">26 Jan 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-01-27T17:32:58.121Z</updated>
+        <updated>2023-01-29T17:33:03.171Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">28 Jan 2023</span>
+<a href="/articles/nea/news/allazei-o-kairos-sabbatokyriako">
+<span class="title">Αλλάζει ο καιρός το σαββατοκύριακο </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-01-29T17:33:03.171Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">28 Jan 2023</span>
+<a href="/articles/exodos/n-out/ayto-einai-programma-gia-karnabali-lemesoy-2023">
+<span class="title">Αυτό είναι το πρόγραμμα για το Καρναβάλι Λεμεσού 2023 </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-01-29T17:33:03.171Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">27 Jan 2023</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-01-27T17:32:58.123Z</updated>
+        <updated>2023-01-29T17:33:03.171Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">27 Jan 2023</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-01-27T17:32:58.138Z</updated>
+        <updated>2023-01-29T17:33:03.171Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">27 Jan 2023</span>
 <a href="/articles/exodos/fooddrink/dimofiles-soyblatzidiko-tis-leykosias-metakomise-kai-allaxe-onoma">
 <span class="title">Δημοφιλές σουβλατζίδικο της Λευκωσίας μετακόμισε και άλλαξε όνομα </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-01-27T17:32:58.139Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">27 Jan 2023</span>
-<a href="/articles/nea/news/unesco-mnimeio-pagkosmias-klironomias-istoriko-kentro-tis-odissoy">
-<span class="title">Unesco: Μνημείο Παγκόσμιας Κληρονομιάς το ιστορικό κέντρο της Οδησσού</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-01-27T17:32:58.140Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">27 Jan 2023</span>
-<a href="/articles/nea/news/ayti-einai-i-poli-poy-tha-ekthronisei-parisi-os-pagkosmia-yperdynami-ston">
-<span class="title">Αυτή είναι η πόλη που θα εκθρονίσει το Παρίσι ως παγκόσμια υπερδύναμη στον τουρισμό</span>
 </a>
 </span>
 </span></div>]]></content>
