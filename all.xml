@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T17:32:57.983Z</updated>
+    <updated>2023-02-05T17:33:16.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[«Έφυγε» από τη ζωή ο σχεδιαστής Paco Rabanne (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-03T17:32:57.098Z</updated>
+        <updated>2023-02-05T17:33:14.704Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">FOOD/DRINK</span>
+<span class="created">04 Feb 2023</span>
+<a href="/articles/exodos/fooddrink/ayto-einai-neo-estiatorio-toy-sotiri-kontiza-stin-athina">
+<span class="title">Αυτό είναι το νέο εστιατόριο του Σωτήρη Κοντιζά στην Αθήνα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-02-05T17:33:14.708Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">03 Feb 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-03T17:32:57.101Z</updated>
+        <updated>2023-02-05T17:33:14.709Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">03 Feb 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-03T17:32:57.103Z</updated>
+        <updated>2023-02-05T17:33:14.709Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">03 Feb 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-03T17:32:57.104Z</updated>
+        <updated>2023-02-05T17:33:14.710Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">03 Feb 2023</span>
 <a href="/articles/nea/news/apo-tis-18-febroyarioy-telos-oi-plastikes-sakoyles-se-tameia-yperagoron">
 <span class="title">Από τις 18 Φεβρουαρίου τέλος οι πλαστικές σακούλες σε ταμεία υπεραγορών, περιπτέρων και φούρνων</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-03T17:32:57.105Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">03 Feb 2023</span>
-<a href="/articles/exodos/theatrohoros/o-malo-kai-o-thisayros-toy-bythoy-erhontai-sto-pattiheio-dimotiko">
-<span class="title">«Ο Μάλο και ο θησαυρός του βυθού» έρχονται στο Παττίχειο Δημοτικό Θέατρο </span>
 </a>
 </span>
 </span></div>]]></content>
