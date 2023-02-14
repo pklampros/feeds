@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-13T17:33:25.116Z</updated>
+    <updated>2023-02-14T05:33:29.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Αυτά είναι τα παλαιότερα καφέ-ζαχαροπλαστεία και αρτοποιεία στην Ευρώπη (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-13T17:33:23.813Z</updated>
+        <updated>2023-02-14T05:33:27.469Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">13 Feb 2023</span>
+<a href="/articles/exodos/moysiki/i-synaylia-toy-karabioy-i-melodia-ii-erhetai-sti-moysiki-skini-red">
+<span class="title">Η συναυλία «Του Καραβιού η Μελωδία ΙΙ» έρχεται στη μουσική σκηνή RED</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-02-14T05:33:27.470Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Feb 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-13T17:33:23.813Z</updated>
+        <updated>2023-02-14T05:33:27.472Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Feb 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-13T17:33:23.814Z</updated>
+        <updated>2023-02-14T05:33:27.474Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">13 Feb 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-13T17:33:23.816Z</updated>
+        <updated>2023-02-14T05:33:27.477Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">13 Feb 2023</span>
 <a href="/articles/exodos/n-out/h-tragoydistria-poy-tha-brethei-sto-pafitiko-karnabali-kai-tha-tragoydisei">
 <span class="title">H τραγουδίστρια που θα βρεθεί στο Παφίτικο Καρναβάλι και θα τραγουδήσει τις επιτυχίες της</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-02-13T17:33:23.816Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">13 Feb 2023</span>
-<a href="/articles/exodos/fooddrink/20-lahtaristes-epiloges-gia-tin-tsiknopempti">
-<span class="title">20 λαχταριστές επιλογές για την Τσικνοπέμπτη</span>
 </a>
 </span>
 </span></div>]]></content>
