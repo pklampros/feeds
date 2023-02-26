@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-02-26T05:33:28.987Z</updated>
+    <updated>2023-02-26T17:33:11.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2023: H Loreen επιστρέφει στον μουσικό διαγωνισμό και ακούσαμε το τραγουδί της]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-h-loreen-epistrefei-ston-moysiko-diagonismo-kai-akoysame-tragoydi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2023-h-loreen-epistrefei-ston-moysiko-diagonismo-kai-akoysame-tragoydi"/>
+        <updated>2023-02-26T17:33:10.813Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/eurovision-2023-h-loreen-epistrefei-ston-moysiko-diagonismo-kai-akoysame-tragoydi"> <img src="/sites/default/files/styles/featured_articles/public/2023-02/eurovision-2023.jpg?h=7a6e80fd&amp;itok=7vt_NEDF" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/eurovision-2023-h-loreen-epistrefei-ston-moysiko-diagonismo-kai-akoysame-tragoydi">Eurovision 2023: H Loreen επιστρέφει στον μουσικό διαγωνισμό και ακούσαμε το τραγουδί της</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">26 Feb 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2023: Η Βρετανία προσφέρει 3.000 εισιτήρια σε εκτοπισμένους Ουκρανούς]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-i-bretania-prosferei-3000-eisitiria-se-ektopismenoys-oykranoys</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oι 5 must ταξιδιωτικοί προορισμοί για το 2023 που πρέπει να βάλεις στη λίστα σου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/oi-5-must-taxidiotikoi-proorismoi-gia-2023-poy-prepei-na-baleis-sti-lista-soy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/oi-5-must-taxidiotikoi-proorismoi-gia-2023-poy-prepei-na-baleis-sti-lista-soy"/>
-        <updated>2023-02-23T17:33:59.224Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-5-must-taxidiotikoi-proorismoi-gia-2023-poy-prepei-na-baleis-sti-lista-soy"> <img src="/sites/default/files/styles/featured_articles/public/2023-02/332566895_515918520469261_6987965281678166873_n.jpg?h=00ebaa10&amp;itok=mTKmU4Ew" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/oi-5-must-taxidiotikoi-proorismoi-gia-2023-poy-prepei-na-baleis-sti-lista-soy">Oι 5 must ταξιδιωτικοί προορισμοί για το 2023 που πρέπει να βάλεις στη λίστα σου</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">23 Feb 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-02-26T05:33:27.574Z</updated>
+        <updated>2023-02-26T17:33:10.463Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">26 Feb 2023</span>
+<a href="/articles/nea/news/eurovision-2023-h-loreen-epistrefei-ston-moysiko-diagonismo-kai-akoysame-tragoydi">
+<span class="title">Eurovision 2023: H Loreen επιστρέφει στον μουσικό διαγωνισμό και ακούσαμε το τραγουδί της</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-02-26T17:33:10.465Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">25 Feb 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-02-26T05:33:27.576Z</updated>
+        <updated>2023-02-26T17:33:10.474Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">25 Feb 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-02-26T05:33:27.578Z</updated>
+        <updated>2023-02-26T17:33:10.475Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">25 Feb 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-02-26T05:33:27.581Z</updated>
+        <updated>2023-02-26T17:33:10.475Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">25 Feb 2023</span>
 <a href="/articles/nea/news/o-gkigiermo-ntel-toro-kanei-animation-mythistorima-toy-isigkoyro-o-thammenos">
 <span class="title">Ο Γκιγιέρμο ντελ Τόρο κάνει animation το μυθιστόρημα του Ισιγκούρο «Ο Θαμμένος Γίγαντας»</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-02-26T05:33:27.583Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">25 Feb 2023</span>
-<a href="/articles/exodos/fooddrink/lost-found-drinkery-me-tin-ypostirixi-toy-bombay-sapphire-gin-sas">
-<span class="title">To Lost + Found Drinkery με την υποστήριξη του Bombay Sapphire Gin σας ταξιδεύει στην Αθήνα</span>
 </a>
 </span>
 </span></div>]]></content>
