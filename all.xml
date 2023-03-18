@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-18T05:33:29.749Z</updated>
+    <updated>2023-03-18T17:33:53.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Οι τελειόφοιτοι μαθητές του Λυκείου Κύκκου Α' στο μεγαλύτερο πάρκο επιστημών της Ευρώπης (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-teleiofoitoi-mathites-toy-lykeioy-kykkoy-sto-megalytero-parko-epistimon-tis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-teleiofoitoi-mathites-toy-lykeioy-kykkoy-sto-megalytero-parko-epistimon-tis"/>
+        <updated>2023-03-18T17:33:52.965Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-teleiofoitoi-mathites-toy-lykeioy-kykkoy-sto-megalytero-parko-epistimon-tis"> <img src="/sites/default/files/styles/featured_articles/public/2023-03/oi_teleiofoitoi_mathites_toy_lykeioy_kykkoy_a_sto_megalytero_parko_epistimon_tis_eyropis_photo2.jpg?h=08b866d1&amp;itok=OHcj8ni5" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/oi-teleiofoitoi-mathites-toy-lykeioy-kykkoy-sto-megalytero-parko-epistimon-tis">Οι τελειόφοιτοι μαθητές του Λυκείου Κύκκου Α' στο μεγαλύτερο πάρκο επιστημών της Ευρώπης</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">18 Mar 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2023: Κυκλοφόρησαν όλα τα τραγούδια – Ποια χώρα είναι το απόλυτο φαβορί για τη νίκη (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-kykloforisan-ola-ta-tragoydia-poia-hora-einai-apolyto-fabori-gia</id>
@@ -14,7 +29,7 @@
 <span class="title-channel-date">
 <span class="title"><a href="/articles/nea/news/eurovision-2023-kykloforisan-ola-ta-tragoydia-poia-hora-einai-apolyto-fabori-gia">Eurovision 2023: Κυκλοφόρησαν όλα τα τραγούδια – Ποια χώρα είναι το απόλυτο φαβορί για τη νίκη</a></span>
 <span>
-<span class="channel">NEWS</span>
+ <span class="channel">NEWS</span>
 <span class="created">17 Mar 2023</span>
 </span>
 </span></span></div>]]></content>
@@ -260,25 +275,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αλλάζει το σκηνικό του καιρού - Πότε έρχονται βροχές (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/allazei-skiniko-toy-kairoy-pote-erhontai-brohes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/allazei-skiniko-toy-kairoy-pote-erhontai-brohes"/>
-        <updated>2023-03-16T17:33:30.388Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/allazei-skiniko-toy-kairoy-pote-erhontai-brohes"> <img src="/sites/default/files/styles/featured_articles/public/2023-03/4e6fbafa-06b5-463e-a96b-63fe91355209.jpeg?h=acafca0a&amp;itok=FcaQUAlR" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/allazei-skiniko-toy-kairoy-pote-erhontai-brohes">Αλλάζει το σκηνικό του καιρού - Πότε έρχονται βροχές </a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-03-18T17:33:52.622Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
-<span class="created">16 Mar 2023</span>
+<span class="created">18 Mar 2023</span>
+<a href="/articles/nea/news/oi-teleiofoitoi-mathites-toy-lykeioy-kykkoy-sto-megalytero-parko-epistimon-tis">
+<span class="title">Οι τελειόφοιτοι μαθητές του Λυκείου Κύκκου Α' στο μεγαλύτερο πάρκο επιστημών της Ευρώπης</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-03-18T05:33:28.567Z</updated>
+        <updated>2023-03-18T17:33:52.623Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">17 Mar 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-03-18T05:33:28.572Z</updated>
+        <updated>2023-03-18T17:33:52.634Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Mar 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-03-18T05:33:28.573Z</updated>
+        <updated>2023-03-18T17:33:52.635Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Mar 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-03-18T05:33:28.573Z</updated>
+        <updated>2023-03-18T17:33:52.636Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">17 Mar 2023</span>
 <a href="/articles/exodos/fooddrink/ena-neo-dessert-shop-me-alypita-glyka-kolasi-poy-prepei-na-episkefteis">
 <span class="title">Ένα νέο dessert shop με αλύπητα γλυκά-κόλαση που πρέπει να επισκεφτείς!</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-03-18T05:33:28.573Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">17 Mar 2023</span>
-<a href="/articles/exodos/fooddrink/ena-katharoaimo-cocktail-bar-anoigei-syntoma-stin-kardia-tis-leykosias">
-<span class="title">Ένα καθαρόαιμο cocktail bar ανοίγει σύντομα στην καρδιά της Λευκωσίας </span>
 </a>
 </span>
 </span></div>]]></content>
