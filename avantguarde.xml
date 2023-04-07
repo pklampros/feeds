@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-04-06T17:32:57.469Z</updated>
+    <updated>2023-04-07T05:33:34.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-06T17:32:56.433Z</updated>
+        <updated>2023-04-07T05:33:32.682Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">07 Apr 2023</span>
+<a href="/articles/exodos/n-out/25-monadikes-epiloges-gia-deytero-sabbatokyriako-toy-aprili">
+<span class="title">25 μοναδικές επιλογές για το δεύτερο σαββατοκυρίακο του Απρίλη</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-04-07T05:33:32.683Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">06 Apr 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-06T17:32:56.434Z</updated>
+        <updated>2023-04-07T05:33:32.684Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">06 Apr 2023</span>
@@ -304,29 +318,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-06T17:32:56.435Z</updated>
+        <updated>2023-04-07T05:33:32.684Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">06 Apr 2023</span>
 <a href="/articles/exodos/theatrohoros/o-antinoos-almpanis-stin-kypro-me-tin-parastasi-kapoios-na-me-prosehei">
-<span class="title">Ο Αντίνοος Αλμπάνης στην Κύπρο με την παράσταση "Κάποιος να με προσέχει"</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-06T17:32:56.436Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">06 Apr 2023</span>
-<a href="/articles/exodos/fooddrink/ta-wagamama-kalosorizoyn-hanami-stin-kypro-kai-mas-taxideyoyn-stiniaponia">
-<span class="title">Tα Wagamama καλωσορίζουν το Hanami στην Κύπρο και μας ταξιδεύουν στην...Ιαπωνία!</span>
+ <span class="title">Ο Αντίνοος Αλμπάνης στην Κύπρο με την παράσταση "Κάποιος να με προσέχει"</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -335,12 +335,12 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-06T17:32:56.437Z</updated>
+        <updated>2023-04-07T05:33:32.684Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">06 Apr 2023</span>
-<a href="/articles/exodos/fooddrink/gnostos-kai-brabeymenos-ellinas-sef-ypografei-ananeomeno-menoy-agapimenoy">
-<span class="title">Γνωστός και βραβευμένος Έλληνας σεφ υπογράφει το ανανεωμένο μενού αγαπημένου μαγαζιού της Λάρνακας </span>
+<a href="/articles/exodos/fooddrink/ta-wagamama-kalosorizoyn-hanami-stin-kypro-kai-mas-taxideyoyn-stiniaponia">
+<span class="title">Tα Wagamama καλωσορίζουν το Hanami στην Κύπρο και μας ταξιδεύουν στην...Ιαπωνία!</span>
 </a>
 </span>
 </span></div>]]></content>
