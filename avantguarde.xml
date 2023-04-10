@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-04-09T17:34:03.598Z</updated>
+    <updated>2023-04-10T05:32:58.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-20</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-20"/>
+        <updated>2023-04-10T05:32:57.838Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-20"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/61610077-357b-41e4-88ae-6adce39c1a38.jpeg?h=2802e1bf&amp;itok=3UL7zBYJ" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-20">Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">10 Apr 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η νέα σειρά του "Star Wars" αποκαλύπτεται με ένα ατμοσφαιρικό trailer]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-nea-seira-toy-star-wars-apokalyptetai-me-ena-atmosfairiko-trailer</id>
@@ -261,25 +276,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Nicole Kidman πρωταγωνιστεί στο "The Perfect Couple" του Netflix]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-nicole-kidman-protagonistei-sto-perfect-couple-toy-netflix</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-nicole-kidman-protagonistei-sto-perfect-couple-toy-netflix"/>
-        <updated>2023-04-05T17:33:18.878Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/i-nicole-kidman-protagonistei-sto-perfect-couple-toy-netflix"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/0_ehp_chp_220821nicole-kidman-_56422.jpg?h=c74750f6&amp;itok=9pJpBFf6" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/i-nicole-kidman-protagonistei-sto-perfect-couple-toy-netflix">Η Nicole Kidman πρωταγωνιστεί στο "The Perfect Couple" του Netflix</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">05 Apr 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-09T17:34:02.336Z</updated>
+        <updated>2023-04-10T05:32:57.517Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">10 Apr 2023</span>
+<a href="/articles/exodos/moysiki/gnosto-horio-tis-eparhias-lemesoy-anakoinose-pashalino-festibal">
+<span class="title">Γνωστό χωριό της επαρχίας Λεμεσού ανακοίνωσε Πασχαλινό Φεστιβάλ</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-04-10T05:32:57.521Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">10 Apr 2023</span>
+<a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-20">
+<span class="title">Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-04-10T05:32:57.523Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">07 Apr 2023</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-09T17:34:02.340Z</updated>
+        <updated>2023-04-10T05:32:57.525Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">07 Apr 2023</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-09T17:34:02.343Z</updated>
+        <updated>2023-04-10T05:32:57.527Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">07 Apr 2023</span>
 <a href="/articles/exodos/n-out/sabbato-pame-sto-ergastirio-keramikis-gia-paidia">
 <span class="title">Το Σάββατο πάμε στο εργαστήριο κεραμικής για παιδιά</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-09T17:34:02.345Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">07 Apr 2023</span>
-<a href="/articles/exodos/n-out/i-nyhterini-podilasia-poy-perimenoyme-sti-lemeso">
-<span class="title">Η νυχτερινή ποδηλασία που περιμένουμε στη Λεμεσό </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-09T17:34:02.349Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">07 Apr 2023</span>
-<a href="/articles/exodos/theatrohoros/tsirko-tis-symforas-paei-lemeso-0">
-<span class="title">«Το τσίρκο της συμφοράς» πάει Λεμεσό </span>
 </a>
 </span>
 </span></div>]]></content>
