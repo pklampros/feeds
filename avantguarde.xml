@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-04-14T17:33:01.415Z</updated>
+    <updated>2023-04-15T05:33:26.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-14T17:33:00.209Z</updated>
+        <updated>2023-04-15T05:33:24.776Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
+<span class="created">14 Apr 2023</span>
+<a href="/articles/prosopa/synenteyxeis/epi-skinis-sto-rialto-me-toys-argyro-nikolaoy-kai-stayro-pampalli">
+<span class="title">«Επί σκηνής στο Ριάλτο» με τους Αργυρώ Νικολάου και Σταύρο Παμπαλλή (BINTEO)</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-04-15T05:33:24.781Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">14 Apr 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-14T17:33:00.210Z</updated>
+        <updated>2023-04-15T05:33:24.782Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">14 Apr 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-14T17:33:00.211Z</updated>
+        <updated>2023-04-15T05:33:24.784Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">14 Apr 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-14T17:33:00.219Z</updated>
+        <updated>2023-04-15T05:33:24.786Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">14 Apr 2023</span>
 <a href="/articles/nea/news/o-oikos-modas-saint-laurent-idryse-etaireia-paragogis-tainion-arhi-me-almodobar">
 <span class="title">Ο οίκος μόδας Saint Laurent ίδρυσε εταιρεία παραγωγής ταινιών: Αρχή με Αλμοδόβαρ</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-14T17:33:00.222Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">14 Apr 2023</span>
-<a href="/articles/nea/news/megali-paraskeyi-i-zoi-en-tafo-ta-pathi-toy-hristoy-kai-i-stayrosi-ta-ethima-se">
-<span class="title">Μεγάλη Παρασκευή: Η ζωή εν τάφω – Τα Πάθη του Χριστού και η Σταύρωση, τα έθιμα σε όλη την Ελλάδα </span>
 </a>
 </span>
 </span></div>]]></content>
