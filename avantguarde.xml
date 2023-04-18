@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-04-17T17:33:24.032Z</updated>
+    <updated>2023-04-18T05:33:05.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Αντιβαίνει η θερμοκρασία - Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/antibainei-i-thermokrasia-pos-tha-diamorfothei-skiniko-toy-kairoy-simera</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/antibainei-i-thermokrasia-pos-tha-diamorfothei-skiniko-toy-kairoy-simera"/>
+        <updated>2023-04-18T05:33:04.471Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/antibainei-i-thermokrasia-pos-tha-diamorfothei-skiniko-toy-kairoy-simera"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/97cf68ed-2b8b-4d07-b6f7-1ddf268918c3.jpeg?h=418f0cc2&amp;itok=h7rTeC-f" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/antibainei-i-thermokrasia-pos-tha-diamorfothei-skiniko-toy-kairoy-simera">Αντιβαίνει η θερμοκρασία - Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">18 Apr 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ο οίκος μόδας Saint Laurent ίδρυσε εταιρεία παραγωγής ταινιών: Αρχή με Αλμοδόβαρ]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/o-oikos-modas-saint-laurent-idryse-etaireia-paragogis-tainion-arhi-me-almodobar</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μεγάλη Πέμπτη: "Σήμερον κρεμάται επί ξύλου..." - Ποια η σημασία της σημερινής ημέρας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/megali-pempti-simeron-krematai-epi-xyloy-poia-i-simasia-tis-simerinis-imeras</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/megali-pempti-simeron-krematai-epi-xyloy-poia-i-simasia-tis-simerinis-imeras"/>
-        <updated>2023-04-13T05:32:53.468Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/megali-pempti-simeron-krematai-epi-xyloy-poia-i-simasia-tis-simerinis-imeras"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/stavrosi-1-1200x669.jpg?h=ba4f7059&amp;itok=vjbSrSWE" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/megali-pempti-simeron-krematai-epi-xyloy-poia-i-simasia-tis-simerinis-imeras">Μεγάλη Πέμπτη: "Σήμερον κρεμάται επί ξύλου..." - Ποια η σημασία της σημερινής ημέρας</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">13 Apr 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-17T17:33:22.691Z</updated>
+        <updated>2023-04-18T05:33:04.003Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">18 Apr 2023</span>
+<a href="/articles/nea/news/antibainei-i-thermokrasia-pos-tha-diamorfothei-skiniko-toy-kairoy-simera">
+<span class="title">Αντιβαίνει η θερμοκρασία - Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-04-18T05:33:04.004Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">15 Apr 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-17T17:33:22.691Z</updated>
+        <updated>2023-04-18T05:33:04.006Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
 <span class="created">14 Apr 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-17T17:33:22.696Z</updated>
+        <updated>2023-04-18T05:33:04.007Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">14 Apr 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-17T17:33:22.699Z</updated>
+        <updated>2023-04-18T05:33:04.014Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">14 Apr 2023</span>
 <a href="/articles/festibal/spring-festival-epistrefei-gia-5i-hronia-sti-lemeso">
 <span class="title">Το Spring Festival επιστρέφει για 5η χρονιά στη Λεμεσό </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-04-17T17:33:22.701Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">CINEMA</span>
-<span class="created">14 Apr 2023</span>
-<a href="/articles/exodos/cinema/anakoinothike-episimo-programma-toy-76oy-festibal-kannon">
-<span class="title">Ανακοινώθηκε το επίσημο πρόγραμμα του 76ου Φεστιβάλ Καννών</span>
 </a>
 </span>
 </span></div>]]></content>
