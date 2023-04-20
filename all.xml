@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-19T17:33:17.407Z</updated>
+    <updated>2023-04-20T05:32:58.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Σήμερα αναμένονται μεμονωμένες βροχές και ισχυροί άνεμοι (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/simera-anamenontai-memonomenes-brohes-kai-ishyroi-anemoi-0</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/simera-anamenontai-memonomenes-brohes-kai-ishyroi-anemoi-0"/>
+        <updated>2023-04-20T05:32:57.651Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/simera-anamenontai-memonomenes-brohes-kai-ishyroi-anemoi-0"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/water-g1029fb082_1920.jpg?h=15eec8ef&amp;itok=5dAcsbDb" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/simera-anamenontai-memonomenes-brohes-kai-ishyroi-anemoi-0">Σήμερα αναμένονται μεμονωμένες βροχές και ισχυροί άνεμοι</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">20 Apr 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2023: Όλες οι λεπτομέρειες για το νέο σύστημα ψηφοφορίας! (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-oles-oi-leptomereies-gia-neo-systima-psifoforias</id>
@@ -260,25 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maestro: Ο Χριστόφορος Παπακαλιάτης μιλά για τις απολαβές μετά το Netflix (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/maestro-o-hristoforos-papakaliatis-mila-gia-tis-apolabes-meta-netflix</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/maestro-o-hristoforos-papakaliatis-mila-gia-tis-apolabes-meta-netflix"/>
-        <updated>2023-04-18T17:33:21.847Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/maestro-o-hristoforos-papakaliatis-mila-gia-tis-apolabes-meta-netflix"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/hristoforos-papakaliatis-1.jpg?h=a955cd85&amp;itok=0Z-ZYxlt" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/maestro-o-hristoforos-papakaliatis-mila-gia-tis-apolabes-meta-netflix">Maestro: Ο Χριστόφορος Παπακαλιάτης μιλά για τις απολαβές μετά το Netflix</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">18 Apr 2023</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-04-20T05:32:57.005Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">FOOD/DRINK</span>
+<span class="created">20 Apr 2023</span>
+<a href="/articles/exodos/fooddrink/i-nea-afixi-tis-pafoy-einai-must-visit-gia-kalokairi">
+<span class="title">Η νέα άφιξη της Πάφου είναι must visit για το καλοκαίρι </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-04-19T17:33:16.250Z</updated>
+        <updated>2023-04-20T05:32:57.009Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">20 Apr 2023</span>
+<a href="/articles/nea/news/simera-anamenontai-memonomenes-brohes-kai-ishyroi-anemoi-0">
+<span class="title">Σήμερα αναμένονται μεμονωμένες βροχές και ισχυροί άνεμοι</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-04-20T05:32:57.013Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Apr 2023</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-04-19T17:33:16.251Z</updated>
+        <updated>2023-04-20T05:32:57.014Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Apr 2023</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-04-19T17:33:16.252Z</updated>
+        <updated>2023-04-20T05:32:57.020Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Apr 2023</span>
 <a href="/articles/nea/news/design-lab-toy-programmatos-open-pragmatopoiithike-kai-moirazomaste-mazi-sas-tin">
 <span class="title">Το Design Lab του προγράμματος Open Up πραγματοποιήθηκε και μοιραζόμαστε μαζί σας την εμπειρία αυτή</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-04-19T17:33:16.253Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">19 Apr 2023</span>
-<a href="/articles/nea/news/aaron-karter-pnigmos-i-aitia-thanatoy-toy-tragoydisti">
-<span class="title">Άαρον Κάρτερ: Πνιγμός η αιτία θανάτου του τραγουδιστή</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-04-19T17:33:16.257Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">19 Apr 2023</span>
-<a href="/articles/exodos/n-out/o-kliros-toy-andreas-kalli-einai-i-nea-atomiki-ekthesi-tis-alpha-ck-art">
-<span class="title">«Ο Κλήρος» του Ανδρέας Καλλή είναι η νέα ατομική έκθεση της Alpha C.K. Art Gallery</span>
 </a>
 </span>
 </span></div>]]></content>
