@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-02T17:32:43.333Z</updated>
+    <updated>2023-05-03T05:32:56.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Σκόνη και θερμοκρασία στους 30 βαθμούς το σημερινό σκηνικό του καιρού σήμερα (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/skoni-kai-thermokrasia-stoys-30-bathmoys-simerino-skiniko-toy-kairoy-simera</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/skoni-kai-thermokrasia-stoys-30-bathmoys-simerino-skiniko-toy-kairoy-simera"/>
+        <updated>2023-05-03T05:32:55.487Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/skoni-kai-thermokrasia-stoys-30-bathmoys-simerino-skiniko-toy-kairoy-simera"> <img src="/sites/default/files/styles/featured_articles/public/2023-05/artem-anokhin-v4qjycac7y8-unsplash.jpg?h=3d0fa8f0&amp;itok=b0EyEtgm" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/skoni-kai-thermokrasia-stoys-30-bathmoys-simerino-skiniko-toy-kairoy-simera">Σκόνη και θερμοκρασία στους 30 βαθμούς το σημερινό σκηνικό του καιρού σήμερα </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">03 May 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Έφυγε» από τη ζωή η Σούλη Σαμπάχ (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-i-soyli-sampah</id>
@@ -260,25 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πρώτο trailer για την prequel ταινία “The Ballad of Songbirds and Snakes“ (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/proto-trailer-gia-tin-prequel-tainia-ballad-songbirds-and-snakes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/proto-trailer-gia-tin-prequel-tainia-ballad-songbirds-and-snakes"/>
-        <updated>2023-04-28T17:32:40.826Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/proto-trailer-gia-tin-prequel-tainia-ballad-songbirds-and-snakes"> <img src="/sites/default/files/styles/featured_articles/public/2023-04/vwlo01l.png?h=30c0321a&amp;itok=Jd-a81oV" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/proto-trailer-gia-tin-prequel-tainia-ballad-songbirds-and-snakes"> Πρώτο trailer για την prequel ταινία “The Ballad of Songbirds and Snakes“ </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">28 Apr 2023</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-05-03T05:32:55.082Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">CINEMA</span>
+<span class="created">03 May 2023</span>
+<a href="/articles/exodos/cinema/cyprus-film-days-2023-brabeyseis-sygkinisi-kai-ranteboy-2024">
+<span class="title">Cyprus Film Days 2023: Βραβεύσεις, συγκίνηση και ραντεβού το 2024 </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-05-02T17:32:42.443Z</updated>
+        <updated>2023-05-03T05:32:55.090Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">03 May 2023</span>
+<a href="/articles/nea/news/skoni-kai-thermokrasia-stoys-30-bathmoys-simerino-skiniko-toy-kairoy-simera">
+<span class="title">Σκόνη και θερμοκρασία στους 30 βαθμούς το σημερινό σκηνικό του καιρού σήμερα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-05-03T05:32:55.139Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">02 May 2023</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-05-02T17:32:42.444Z</updated>
+        <updated>2023-05-03T05:32:55.140Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">02 May 2023</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-05-02T17:32:42.446Z</updated>
+        <updated>2023-05-03T05:32:55.141Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">02 May 2023</span>
 <a href="/articles/nea/news/eurovision-2023-pragmatopoithike-i-proti-proba-tis-elladas">
 <span class="title">Eurovision 2023: Πραγματοποίθηκε η πρώτη πρόβα της Ελλάδας</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-05-02T17:32:42.448Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">02 May 2023</span>
-<a href="/articles/exodos/n-out/nykterini-podilasia-sti-moni-parekklisias">
-<span class="title">Νυκτερινή ποδηλασία στη Μονή Παρεκκλησιάς </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-05-02T17:32:42.449Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">02 May 2023</span>
-<a href="/articles/nea/news/basilias-karolos-perissoteroi-apo-2200-proskeklimenoi-apo-203-hores-stin-teleti">
-<span class="title">Βασιλιάς Κάρολος: Περισσότεροι από 2.200 προσκεκλημένοι από 203 χώρες στην τελετή στέψης</span>
 </a>
 </span>
 </span></div>]]></content>
