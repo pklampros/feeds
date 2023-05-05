@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-05-04T17:32:44.275Z</updated>
+    <updated>2023-05-05T05:33:01.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πώς θα διαμορφωθεί το σκηνικό του καιρού το σαββατοκύριακο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-sabbatokyriako-5</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-sabbatokyriako-5"/>
+        <updated>2023-05-05T05:33:01.087Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-sabbatokyriako-5"> <img src="/sites/default/files/styles/featured_articles/public/2023-05/c64464f1-0b63-45ab-b121-5192a74b0c63.jpeg?h=506a15d6&amp;itok=3p5DRBwL" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-sabbatokyriako-5">Πώς θα διαμορφωθεί το σκηνικό του καιρού το σαββατοκύριακο</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">05 May 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2023: Η ανακοίνωση των αποτελεσμάτων των ημιτελικών θα γίνει όπως το X Factor (;)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-i-anakoinosi-ton-apotelesmaton-ton-imitelikon-tha-ginei-opos-x</id>
@@ -106,7 +121,7 @@
 <span class="title"><a href="/articles/nea/news/erhetai-anodos-tis-thermokrasias-0">Έρχεται άνοδος της θερμοκρασίας </a></span>
 <span>
 <span class="channel">NEWS</span>
- <span class="created">04 May 2023</span>
+<span class="created">04 May 2023</span>
 </span>
 </span></span></div>]]></content>
     </entry>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurovision 2023: Πραγματοποίθηκε η πρώτη πρόβα της Ελλάδας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2023-pragmatopoithike-i-proti-proba-tis-elladas</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2023-pragmatopoithike-i-proti-proba-tis-elladas"/>
-        <updated>2023-05-02T17:32:42.669Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/eurovision-2023-pragmatopoithike-i-proti-proba-tis-elladas"> <img src="/sites/default/files/styles/featured_articles/public/2023-05/342221026_2345016902344384_1382451058299134656_n.jpg?h=d23c9a17&amp;itok=vuOUGNzF" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/eurovision-2023-pragmatopoithike-i-proti-proba-tis-elladas">Eurovision 2023: Πραγματοποίθηκε η πρώτη πρόβα της Ελλάδας</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">02 May 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-04T17:32:43.180Z</updated>
+        <updated>2023-05-05T05:33:00.740Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">05 May 2023</span>
+<a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-sabbatokyriako-5">
+<span class="title">Πώς θα διαμορφωθεί το σκηνικό του καιρού το σαββατοκύριακο</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-05-05T05:33:00.741Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">04 May 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-04T17:32:43.183Z</updated>
+        <updated>2023-05-05T05:33:00.744Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">04 May 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-04T17:32:43.212Z</updated>
+        <updated>2023-05-05T05:33:00.747Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">04 May 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-04T17:32:43.212Z</updated>
+        <updated>2023-05-05T05:33:00.753Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">04 May 2023</span>
 <a href="/articles/nea/news/eurovision-2023-i-anakoinosi-ton-apotelesmaton-ton-imitelikon-tha-ginei-opos-x">
 <span class="title">Eurovision 2023: Η ανακοίνωση των αποτελεσμάτων των ημιτελικών θα γίνει όπως το X Factor (;)</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-04T17:32:43.215Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">04 May 2023</span>
-<a href="/articles/exodos/n-out/magiatiko-panigyri-agapis-se-nea-imerominia">
-<span class="title">To «Μαγιάτικο Πανηγύρι Αγάπης» σε νέα ημερομηνία </span>
 </a>
 </span>
 </span></div>]]></content>
