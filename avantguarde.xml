@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-05-07T17:32:53.572Z</updated>
+    <updated>2023-05-08T05:32:48.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-26</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-26"/>
+        <updated>2023-05-08T05:32:47.938Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-26"> <img src="/sites/default/files/styles/featured_articles/public/2023-05/16b44681-adfd-4b32-a982-7c4efe5a0bfd.jpeg?h=1ea8e9d0&amp;itok=Tq6fFiYI" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-26">Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">08 May 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Οι ξεκαρδιστικές αντιδράσεις του πρίγκιπα Λούις κατά τη διάρκεια της στέψης του Καρόλου]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/oi-xekardistikes-antidraseis-toy-prigkipa-loyis-kata-ti-diarkeia-tis-stepsis-toy</id>
@@ -105,7 +120,7 @@
 <span class="title-channel-date">
 <span class="title"><a href="/articles/nea/news/eurovision-2023-pragmatopoiithike-i-deyteri-proba-tis-kyproy">Eurovision 2023: Πραγματοποιήθηκε η δεύτερη πρόβα της Κύπρου </a></span>
 <span>
- <span class="channel">NEWS</span>
+<span class="channel">NEWS</span>
 <span class="created">05 May 2023</span>
 </span>
 </span></span></div>]]></content>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyprus Coffee & Snack Awards 2022: Τρία βραβεία για τα Coffee Berry του Ομίλου Ζορπάς]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/cyprus-coffee-snack-awards-2022-tria-brabeia-gia-ta-coffee-berry-toy-omiloy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/cyprus-coffee-snack-awards-2022-tria-brabeia-gia-ta-coffee-berry-toy-omiloy"/>
-        <updated>2023-05-04T17:32:43.589Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/cyprus-coffee-snack-awards-2022-tria-brabeia-gia-ta-coffee-berry-toy-omiloy"> <img src="/sites/default/files/styles/featured_articles/public/2023-05/coffee_berry.jpg?h=56d0ca2e&amp;itok=Z9BRvZ8j" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/cyprus-coffee-snack-awards-2022-tria-brabeia-gia-ta-coffee-berry-toy-omiloy">Cyprus Coffee &amp; Snack Awards 2022: Τρία βραβεία για τα Coffee Berry του Ομίλου Ζορπάς</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">04 May 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-07T17:32:52.448Z</updated>
+        <updated>2023-05-08T05:32:47.525Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">08 May 2023</span>
+<a href="/articles/nea/news/pos-tha-diamorfothei-skiniko-toy-kairoy-simera-26">
+<span class="title">Πώς θα διαμορφωθεί το σκηνικό του καιρού σήμερα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-05-08T05:32:47.535Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 May 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-07T17:32:52.448Z</updated>
+        <updated>2023-05-08T05:32:47.537Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 May 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-07T17:32:52.449Z</updated>
+        <updated>2023-05-08T05:32:47.538Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 May 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-07T17:32:52.450Z</updated>
+        <updated>2023-05-08T05:32:47.539Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">06 May 2023</span>
 <a href="/articles/nea/news/xekinise-i-teleti-tis-stepsis-toy-basilia-karoloy">
 <span class="title">Ξεκίνησε η τελετή της στέψης του βασιλιά Καρόλου</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-05-07T17:32:52.452Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">06 May 2023</span>
-<a href="/articles/nea/news/stepsi-karoloy-eftase-sto-abbaeio-toy-goyestminster-o-prigkipas-hari">
-<span class="title">Στέψη Καρόλου: Έφτασε στο Αββαείο του Γουέστμινστερ ο πρίγκιπας Χάρι</span>
 </a>
 </span>
 </span></div>]]></content>
