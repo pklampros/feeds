@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-01T17:32:54.516Z</updated>
+    <updated>2023-06-02T05:32:46.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Κόνιτσα: Η πανέμορφη κωμόπολη της Ηπείρου που θα σου κλέψει την καρδιά (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-01T17:32:53.527Z</updated>
+        <updated>2023-06-02T05:32:45.898Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">02 Jun 2023</span>
+<a href="/articles/exodos/n-out/14-kalokairines-drastiriotites-gia-triimero-toy-kataklysmoy">
+<span class="title">14 καλοκαιρινές δραστηριότητες για το τριήμερο του Κατακλυσμού</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-06-02T05:32:45.899Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">01 Jun 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-01T17:32:53.529Z</updated>
+        <updated>2023-06-02T05:32:45.903Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">01 Jun 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-01T17:32:53.531Z</updated>
+        <updated>2023-06-02T05:32:45.906Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">01 Jun 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-01T17:32:53.533Z</updated>
+        <updated>2023-06-02T05:32:45.908Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">01 Jun 2023</span>
 <a href="/articles/exodos/cinema/festibal-eikones-kai-opseis-toy-enallaktikoy-kinimatografoy-epistrefei-stin">
 <span class="title">Το Φεστιβάλ Εικόνες και Όψεις του Εναλλακτικού Κινηματογράφου επιστρέφει στην Παλιά Λευκωσία </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-01T17:32:53.535Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">01 Jun 2023</span>
-<a href="/articles/exodos/theatrohoros/i-hristiana-artemioy-ginetai-lysistrati-stin-kalokairini-paragogi-toy">
-<span class="title">Η Χριστιάνα Αρτεμίου γίνεται "Λυσιστράτη" στην καλοκαιρινή παραγωγή του ΘΟΚ </span>
 </a>
 </span>
 </span></div>]]></content>
