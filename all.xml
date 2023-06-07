@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T17:33:15.865Z</updated>
+    <updated>2023-06-07T05:32:59.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Πέθανε ο Γιάννης Φλωρινιώτης (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pethane-o-giannis-floriniotis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pethane-o-giannis-floriniotis"/>
+        <updated>2023-06-07T05:32:58.557Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pethane-o-giannis-floriniotis"> <img src="/sites/default/files/styles/featured_articles/public/2023-06/giannis-flwriniwtis.jpg?h=85f2188b&amp;itok=6tTNt9F6" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/pethane-o-giannis-floriniotis">Πέθανε ο Γιάννης Φλωρινιώτης</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">06 Jun 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Δώσε χρώμα στο καλοκαίρι σου και σκόρπισε δεκάδες παιδικά χαμόγελα (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/dose-hroma-sto-kalokairi-soy-kai-skorpise-dekades-paidika-hamogela</id>
@@ -260,25 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poor Things: Νέα ματιά στην ταινία του Γιώργου Λάνθιμου με την Emma Stone (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/poor-things-nea-matia-stin-tainia-toy-giorgoy-lanthimoy-me-tin-emma-stone</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/poor-things-nea-matia-stin-tainia-toy-giorgoy-lanthimoy-me-tin-emma-stone"/>
-        <updated>2023-06-01T17:32:53.895Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/poor-things-nea-matia-stin-tainia-toy-giorgoy-lanthimoy-me-tin-emma-stone"> <img src="/sites/default/files/styles/featured_articles/public/2023-06/images-original.png?h=502e75fa&amp;itok=7IL0cLYX" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/poor-things-nea-matia-stin-tainia-toy-giorgoy-lanthimoy-me-tin-emma-stone">Poor Things: Νέα ματιά στην ταινία του Γιώργου Λάνθιμου με την Emma Stone </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">01 Jun 2023</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-06-07T05:32:58.002Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">07 Jun 2023</span>
+<a href="/articles/exodos/moysiki/i-anna-bissi-gia-mia-monadiki-emfanisi-sto-city-dreams-mediterranean">
+<span class="title">Η Άννα Βίσση για μια μοναδική εμφάνιση στο City of Dreams Mediterranean</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-06T17:33:14.812Z</updated>
+        <updated>2023-06-07T05:32:58.022Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">06 Jun 2023</span>
+<a href="/articles/nea/news/pethane-o-giannis-floriniotis">
+<span class="title">Πέθανε ο Γιάννης Φλωρινιώτης</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-06-07T05:32:58.022Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">06 Jun 2023</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-06T17:33:14.813Z</updated>
+        <updated>2023-06-07T05:32:58.023Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">06 Jun 2023</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-06T17:33:14.814Z</updated>
+        <updated>2023-06-07T05:32:58.035Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">06 Jun 2023</span>
 <a href="/articles/exodos/n-out/o3-toy-eikastikoy-pashias-einai-mia-queer-prooptiki-amfisbitisis-toy-somatos">
 <span class="title">Το "Ω3" του εικαστικού PASHIAS eίναι μια "queer" προοπτική αμφισβήτησης του…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-06T17:33:14.814Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">CINEMA</span>
-<span class="created">06 Jun 2023</span>
-<a href="/articles/exodos/cinema/i-deryneia-anoigei-diko-tis-therino-sinema-ayto-kalokairi">
-<span class="title">Η Δερύνεια ανοίγει το δικό της θερινό σινεμά αυτό το καλοκαίρι </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-06-06T17:33:14.815Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">06 Jun 2023</span>
-<a href="/articles/exodos/n-out/me-dyo-papoytsia-apo-harti-afigisi-diadrastikoy-paramythioy-me-tin-marina">
-<span class="title">"Με δυο παπούτσια από χαρτί": Αφήγηση διαδραστικού παραμυθιού με την Μαρίνα Κατσαρή και…</span>
 </a>
 </span>
 </span></div>]]></content>
