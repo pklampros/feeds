@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-06-17T05:33:39.678Z</updated>
+    <updated>2023-06-17T17:33:00.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-06-17T05:33:38.777Z</updated>
+        <updated>2023-06-17T17:32:59.147Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">WTF</span>
+<span class="created">17 Jun 2023</span>
+<a href="/articles/wtf/diorganose-ena-matharathonio-tainion-sena-home-made-therino-sinema">
+<span class="title">Διοργάνωσε ένα μαθαραθώνιο ταινιών σ΄ένα home-made θερινό σινεμά </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-06-17T17:32:59.148Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">16 Jun 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-06-17T05:33:38.781Z</updated>
+        <updated>2023-06-17T17:32:59.149Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">16 Jun 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-06-17T05:33:38.781Z</updated>
+        <updated>2023-06-17T17:32:59.151Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">16 Jun 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-06-17T05:33:38.781Z</updated>
+        <updated>2023-06-17T17:32:59.153Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">16 Jun 2023</span>
 <a href="/articles/nea/news/protos-se-galazies-simaies-pagkypria-o-dimos-paralimnioy">
 <span class="title">Πρώτος σε Γαλάζιες Σημαίες Παγκύπρια ο Δήμος Παραλιμνίου</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-06-17T05:33:38.787Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">16 Jun 2023</span>
-<a href="/articles/nea/news/h-nea-online-kampania-tis-pizza-hut-tha-se-kanei-na-skefteis-out-box">
-<span class="title">H νέα οnline καμπάνια της Pizza Hut θα σε κάνει να σκεφτείς out of the box! </span>
 </a>
 </span>
 </span></div>]]></content>
