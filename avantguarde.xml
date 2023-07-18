@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-07-17T17:33:25.091Z</updated>
+    <updated>2023-07-18T05:33:42.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Συνεχίζεται ο καύσωνας - Σε ισχύ η κίτρινη προειδοποίηση και σήμερα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/synehizetai-o-kaysonas-se-ishy-i-kitrini-proeidopoiisi-kai-simera</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/synehizetai-o-kaysonas-se-ishy-i-kitrini-proeidopoiisi-kai-simera"/>
+        <updated>2023-07-18T05:33:41.658Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/synehizetai-o-kaysonas-se-ishy-i-kitrini-proeidopoiisi-kai-simera"> <img src="/sites/default/files/styles/featured_articles/public/2023-07/sunset-gf32f333f8_1280.jpg?h=c673cd1c&amp;itok=DDtclSEE" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/synehizetai-o-kaysonas-se-ishy-i-kitrini-proeidopoiisi-kai-simera">Συνεχίζεται ο καύσωνας - Σε ισχύ η κίτρινη προειδοποίηση και σήμερα</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">18 Jul 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Καλοκαίρι με Netflix: Όλες οι σειρές και οι ταινίες που θα δούμε τον Ιούλιο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/kalokairi-me-netflix-oles-oi-seires-kai-oi-tainies-poy-tha-doyme-ton-ioylio</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μια μεγάλη γιορτή γεμάτη έμπνευση, χαρά και δημιουργικότητα αποτέλεσε ο φετινός διαγωνισμός…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/mia-megali-giorti-gemati-empneysi-hara-kai-dimioyrgikotita-apotelese-o-fetinos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/mia-megali-giorti-gemati-empneysi-hara-kai-dimioyrgikotita-apotelese-o-fetinos"/>
-        <updated>2023-07-13T17:33:13.804Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/mia-megali-giorti-gemati-empneysi-hara-kai-dimioyrgikotita-apotelese-o-fetinos"> <img src="/sites/default/files/styles/featured_articles/public/2023-07/3_2.jpg?h=29234840&amp;itok=8d2GY5mn" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/mia-megali-giorti-gemati-empneysi-hara-kai-dimioyrgikotita-apotelese-o-fetinos">Μια μεγάλη γιορτή γεμάτη έμπνευση, χαρά και δημιουργικότητα αποτέλεσε ο φετινός διαγωνισμός…</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">13 Jul 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-07-17T17:33:23.907Z</updated>
+        <updated>2023-07-18T05:33:41.287Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">18 Jul 2023</span>
+<a href="/articles/nea/news/synehizetai-o-kaysonas-se-ishy-i-kitrini-proeidopoiisi-kai-simera">
+<span class="title">Συνεχίζεται ο καύσωνας - Σε ισχύ η κίτρινη προειδοποίηση και σήμερα</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-07-18T05:33:41.299Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">17 Jul 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-07-17T17:33:23.907Z</updated>
+        <updated>2023-07-18T05:33:41.301Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">17 Jul 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-07-17T17:33:23.944Z</updated>
+        <updated>2023-07-18T05:33:41.302Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Jul 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-07-17T17:33:23.946Z</updated>
+        <updated>2023-07-18T05:33:41.304Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">17 Jul 2023</span>
 <a href="/articles/exodos/moysiki/konstantinos-argyros-gia-mia-akoma-synaylia-sto-nava-ston-protara">
 <span class="title">Κωνσταντίνος Αργυρός: Για μία ακόμα συναυλία στο Nava στον Πρωταρά </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-07-17T17:33:23.946Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">17 Jul 2023</span>
-<a href="/articles/nea/news/taylor-swift-i-proti-gynaika-me-tessera-almpoym-taytohrona-sto-amerikaniko-top-10">
-<span class="title">Taylor Swift: Η πρώτη γυναίκα με τέσσερα άλμπουμ ταυτόχρονα στο αμερικανικό Top 10</span>
 </a>
 </span>
 </span></div>]]></content>
