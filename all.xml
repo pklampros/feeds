@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-13T17:32:58.246Z</updated>
+    <updated>2023-08-14T05:33:11.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dear Child: Ένα νέο θρίλερ μυστηρίου έρχεται στο Netflix (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-08-13T17:32:57.088Z</updated>
+        <updated>2023-08-14T05:33:10.637Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">13 Aug 2023</span>
+<a href="/articles/exodos/n-out/10-ekdiloseis-poy-tha-apolaysoyme-ayti-tin-ebdomada">
+<span class="title">10 εκδηλώσεις που θα απολαύσουμε αυτή την εβδομάδα </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-08-14T05:33:10.644Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">11 Aug 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-08-13T17:32:57.088Z</updated>
+        <updated>2023-08-14T05:33:10.644Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">11 Aug 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-08-13T17:32:57.088Z</updated>
+        <updated>2023-08-14T05:33:10.661Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">11 Aug 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-08-13T17:32:57.089Z</updated>
+        <updated>2023-08-14T05:33:10.661Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">11 Aug 2023</span>
 <a href="/articles/exodos/n-out/pezoporia-sto-monopati-tis-fysis-mnimata-piskopon">
 <span class="title">Πεζοπορία στο μονοπάτι της φύσης Μνήματα Πισκόπων</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-08-13T17:32:57.090Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">11 Aug 2023</span>
-<a href="/articles/nea/news/virgin-river-kykloforise-trailer-tis-pemptis-sezon">
-<span class="title">Virgin River: Κυκλοφόρησε το trailer της πέμπτης σεζόν </span>
 </a>
 </span>
 </span></div>]]></content>
