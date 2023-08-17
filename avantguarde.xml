@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-08-16T17:32:56.799Z</updated>
+    <updated>2023-08-17T05:33:05.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Καμίνη και σήμερα η Κύπρος - Προειδοποιήσει για υψηλές θερμοκρασίες]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisei-gia-ypsiles-thermokrasies</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisei-gia-ypsiles-thermokrasies"/>
+        <updated>2023-08-17T05:33:04.461Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisei-gia-ypsiles-thermokrasies"> <img src="/sites/default/files/styles/featured_articles/public/2023-08/9e427551-d304-41cf-9a9a-e0599cc20f28.jpeg?h=c110169d&amp;itok=L-fRy7Mo" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisei-gia-ypsiles-thermokrasies">Καμίνη και σήμερα η Κύπρος - Προειδοποιήσει για υψηλές θερμοκρασίες </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">17 Aug 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η τελευταία σεζόν του "Top Boy" έχει ημερομηνία και ένα ιδιαίτερο trailer]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-teleytaia-sezon-toy-top-boy-ehei-imerominia-kai-ena-idiaitero-trailer</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Έρχεται σκόνη και άνοδος της θερμοκρασίας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/erhetai-skoni-kai-anodos-tis-thermokrasias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/erhetai-skoni-kai-anodos-tis-thermokrasias"/>
-        <updated>2023-08-11T17:32:53.019Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/erhetai-skoni-kai-anodos-tis-thermokrasias"> <img src="/sites/default/files/styles/featured_articles/public/2023-08/36fc624c-f60f-445b-b66e-8e1b02b8059f.jpeg?h=0ea81611&amp;itok=pVkQf12i" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/erhetai-skoni-kai-anodos-tis-thermokrasias">Έρχεται σκόνη και άνοδος της θερμοκρασίας</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">11 Aug 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-16T17:32:55.602Z</updated>
+        <updated>2023-08-17T05:33:04.122Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">17 Aug 2023</span>
+<a href="/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisei-gia-ypsiles-thermokrasies">
+<span class="title">Καμίνη και σήμερα η Κύπρος - Προειδοποιήσει για υψηλές θερμοκρασίες </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-08-17T05:33:04.126Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">16 Aug 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-16T17:32:55.606Z</updated>
+        <updated>2023-08-17T05:33:04.128Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">16 Aug 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-16T17:32:55.609Z</updated>
+        <updated>2023-08-17T05:33:04.141Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">16 Aug 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-16T17:32:55.616Z</updated>
+        <updated>2023-08-17T05:33:04.144Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">16 Aug 2023</span>
 <a href="/articles/nea/news/i-polybrabeymeni-tainia-eytyhia-tora-diathesimi-sto-netflix">
 <span class="title">Η πολυβραβευμένη ταινία «Ευτυχία» τώρα διαθέσιμη στο Netflix </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-16T17:32:55.621Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">16 Aug 2023</span>
-<a href="/articles/exodos/theatrohoros/h-parastasi-ta-mi-arsenika-erhetai-sto-arhaio-theatro-koyrioy">
-<span class="title">H παράσταση «Τα μη αρσενικά» έρχεται στο Αρχαίο Θέατρο Κουρίου </span>
 </a>
 </span>
 </span></div>]]></content>
