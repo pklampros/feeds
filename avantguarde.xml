@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-08-22T17:32:51.128Z</updated>
+    <updated>2023-08-23T05:33:28.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πέθανε ο Τότο Κουτούνιο, νικητής της Eurovision]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pethane-o-toto-koytoynio-nikitis-tis-eurovision</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pethane-o-toto-koytoynio-nikitis-tis-eurovision"/>
+        <updated>2023-08-23T05:33:27.515Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pethane-o-toto-koytoynio-nikitis-tis-eurovision"> <img src="/sites/default/files/styles/featured_articles/public/2023-08/cutugno-1024x539.jpg?h=dc8f5cd0&amp;itok=htznVAlF" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/pethane-o-toto-koytoynio-nikitis-tis-eurovision">Πέθανε ο Τότο Κουτούνιο, νικητής της Eurovision</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">22 Aug 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ο νικητής της Eurovision 2019 παντρεύτηκε τον σύντροφό του στη Σουηδία]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/o-nikitis-tis-eurovision-2019-pantreytike-ton-syntrofo-toy-sti-soyidia</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Καμίνι και σήμερα η Κύπρος - Προειδοποίηση για υψηλές θερμοκρασίες]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisi-gia-ypsiles-thermokrasies</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisi-gia-ypsiles-thermokrasies"/>
-        <updated>2023-08-17T17:33:08.243Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisi-gia-ypsiles-thermokrasies"> <img src="/sites/default/files/styles/featured_articles/public/2023-08/9e427551-d304-41cf-9a9a-e0599cc20f28.jpeg?h=c110169d&amp;itok=L-fRy7Mo" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/kamini-kai-simera-i-kypros-proeidopoiisi-gia-ypsiles-thermokrasies">Καμίνι και σήμερα η Κύπρος - Προειδοποίηση για υψηλές θερμοκρασίες </a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">17 Aug 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-22T17:32:50.083Z</updated>
+        <updated>2023-08-23T05:33:27.125Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">22 Aug 2023</span>
+<a href="/articles/nea/news/pethane-o-toto-koytoynio-nikitis-tis-eurovision">
+<span class="title">Πέθανε ο Τότο Κουτούνιο, νικητής της Eurovision</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-08-23T05:33:27.142Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">22 Aug 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-22T17:32:50.083Z</updated>
+        <updated>2023-08-23T05:33:27.143Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">22 Aug 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-22T17:32:50.087Z</updated>
+        <updated>2023-08-23T05:33:27.145Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">22 Aug 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-22T17:32:50.088Z</updated>
+        <updated>2023-08-23T05:33:27.148Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
 <span class="created">22 Aug 2023</span>
 <a href="/articles/prosopa/synenteyxeis/o-akamas-tis-kyriakis-kosta-os-kallitehniko-apotypoma">
 <span class="title">Ο Ακάμας της Κυριακής Κώστα ως καλλιτεχνικό αποτύπωμα </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-08-22T17:32:50.091Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">22 Aug 2023</span>
-<a href="/articles/exodos/moysiki/o-giorgos-mazonakis-mas-proskalei-se-ena-megalo-parti-ton-septembrio-sti">
-<span class="title">Ο Γιώργος Μαζωνάκης μας προσκαλεί σε ένα μεγάλο πάρτι τον Σεπτέμβριο στη Λευκωσία </span>
 </a>
 </span>
 </span></div>]]></content>
