@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-09-07T05:33:07.343Z</updated>
+    <updated>2023-09-07T17:33:38.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JBL: Κάνε τώρα τα όνειρά σου πραγματικότητα!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/jbl-kane-tora-ta-oneira-soy-pragmatikotita</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/jbl-kane-tora-ta-oneira-soy-pragmatikotita"/>
+        <updated>2023-09-07T17:33:38.088Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/jbl-kane-tora-ta-oneira-soy-pragmatikotita"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/picture1.jpg?h=50ade75b&amp;itok=tAM9MMzE" alt="" class="img-responsive" width="575" height="400">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/jbl-kane-tora-ta-oneira-soy-pragmatikotita">JBL: Κάνε τώρα τα όνειρά σου πραγματικότητα!</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">07 Sep 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Νάταλι Πόρτμαν συμπρωταγωνιστεί με την Τζούλιαν Μουρ στην νέα ταινία του Τοντ Χέινς «May December»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-natali-portman-symprotagonistei-me-tin-tzoylian-moyr-stin-nea-tainia-toy-tont</id>
@@ -261,30 +276,15 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Νέες πληροφορίες για την ταινία "Πειρατές της Καραϊβικής 6"]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/nees-plirofories-gia-tin-tainia-peirates-tis-karaibikis-6</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/nees-plirofories-gia-tin-tainia-peirates-tis-karaibikis-6"/>
-        <updated>2023-09-05T17:32:52.209Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/nees-plirofories-gia-tin-tainia-peirates-tis-karaibikis-6"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/bcbr4j1.jpg?h=c99c1378&amp;itok=FjfsjOnN" alt="" class="img-responsive" width="575" height="400">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/nees-plirofories-gia-tin-tainia-peirates-tis-karaibikis-6">Νέες πληροφορίες για την ταινία "Πειρατές της Καραϊβικής 6"</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">05 Sep 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-07T05:33:05.380Z</updated>
+        <updated>2023-09-07T17:33:37.812Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">07 Sep 2023</span>
-<a href="/articles/nea/news/i-natali-portman-symprotagonistei-me-tin-tzoylian-moyr-stin-nea-tainia-toy-tont">
-<span class="title">Η Νάταλι Πόρτμαν συμπρωταγωνιστεί με την Τζούλιαν Μουρ στην νέα ταινία του Τοντ Χέινς «May December»</span>
+<a href="/articles/nea/news/jbl-kane-tora-ta-oneira-soy-pragmatikotita">
+<span class="title">JBL: Κάνε τώρα τα όνειρά σου πραγματικότητα!</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -293,12 +293,12 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-07T05:33:05.383Z</updated>
+        <updated>2023-09-07T17:33:37.816Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
+<span class="channel">CINEMA</span>
 <span class="created">07 Sep 2023</span>
-<a href="/articles/exodos/n-out/kyriakatiki-bolta-sti-farma-gia-kalo-skopo">
-<span class="title">Κυριακάτικη βόλτα στη φάρμα για καλό σκοπό </span>
+<a href="/articles/exodos/cinema/ola-osa-tha-ginoyn-sto-4o-festibal-loatki-kinimatografoy-kyproy-queer-wave">
+<span class="title">Όλα όσα θα γίνουν στο 4ο Φεστιβάλ ΛΟΑΤΚΙ+ Κινηματογράφου Κύπρου Queer Wave</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -307,12 +307,12 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-07T05:33:05.384Z</updated>
+        <updated>2023-09-07T17:33:37.819Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="channel">ΠΡΟΣΩΠΑ</span>
 <span class="created">07 Sep 2023</span>
-<a href="/articles/festibal/pame-stin-panemorfi-basa-koilanioy-gia-dorean-paloyze-kai-krasi-apo-ta-topika">
-<span class="title">Πάμε στην πανέμορφη Βάσα Κοιλανίου για δωρεάν παλουζέ και κρασί από τα τοπικά οινοποιεία</span>
+<a href="/articles/prosopa/giorgos-kyriakoy-o-kypriakos-laos-gela-opos-troei-enohika-alla-apolambanei">
+<span class="title">Γιώργος Κυριάκου: «Ο κυπριακός λαός γελά όπως τρώει, ενοχικά αλλά απολαμβάνει το»</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -321,12 +321,12 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-07T05:33:05.387Z</updated>
+        <updated>2023-09-07T17:33:37.822Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">07 Sep 2023</span>
-<a href="/articles/exodos/fooddrink/mia-monadiki-retro-bradia-me-elliniki-kai-xeni-moysiki-erhetai-sto">
-<span class="title">Μία μοναδική ρετρό βραδιά με ελληνική και ξένη μουσική έρχεται στο μπαράκι που έγινε talk of the…</span>
+<a href="/articles/exodos/fooddrink/i-leoforos-makarioy-ta-sabbata-se-rythmoys-street-party">
+<span class="title">Η Λεωφόρος Μακαρίου τα Σάββατα σε ρυθμούς street party</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -335,12 +335,12 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-07T05:33:05.388Z</updated>
+        <updated>2023-09-07T17:33:37.823Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">07 Sep 2023</span>
-<a href="/articles/exodos/cinema/my-big-fat-greek-wedding-3-premiera-gia-tin-polyanamenomeni-syneheia-tis">
-<span class="title">My Big Fat Greek Wedding 3: Πρεμιέρα για την πολυαναμενόμενη συνέχεια της αγαπημένης ταινίας </span>
+<a href="/articles/exodos/cinema/11-tainies-mikroy-mikoys-kyprion-dimioyrgon-se-ena-panorama-apo-tainies">
+<span class="title">11 ταινίες μικρού μήκους Κύπριων δημιουργών, σε ένα πανόραμα από ταινίες</span>
 </a>
 </span>
 </span></div>]]></content>
