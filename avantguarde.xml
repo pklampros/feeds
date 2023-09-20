@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-09-19T17:32:58.701Z</updated>
+    <updated>2023-09-20T05:32:56.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Σε ποιες περιοχές αναμένονται σήμερα βροχές και καταιγίδες]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/se-poies-periohes-anamenontai-simera-brohes-kai-kataigides</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/se-poies-periohes-anamenontai-simera-brohes-kai-kataigides"/>
+        <updated>2023-09-20T05:32:55.993Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/se-poies-periohes-anamenontai-simera-brohes-kai-kataigides"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/water-815271_1280.jpg?h=03ab90db&amp;itok=JBm4DyG6" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/se-poies-periohes-anamenontai-simera-brohes-kai-kataigides">Σε ποιες περιοχές αναμένονται σήμερα βροχές και καταιγίδες </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">20 Sep 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix: Οι νέες κυκλοφορίες της εβδομάδας]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/netflix-oi-nees-kyklofories-tis-ebdomadas-13</id>
@@ -261,25 +276,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurovision 2024: H μεγάλη αλλαγή που έχει ξεσηκώσει ήδη αντιδράσεις]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/eurovision-2024-h-megali-allagi-poy-ehei-xesikosei-idi-antidraseis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/eurovision-2024-h-megali-allagi-poy-ehei-xesikosei-idi-antidraseis"/>
-        <updated>2023-09-15T17:33:00.295Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/eurovision-2024-h-megali-allagi-poy-ehei-xesikosei-idi-antidraseis"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/loreen.jpg?h=1db0445c&amp;itok=6rFs_5gD" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/eurovision-2024-h-megali-allagi-poy-ehei-xesikosei-idi-antidraseis">Eurovision 2024: H μεγάλη αλλαγή που έχει ξεσηκώσει ήδη αντιδράσεις</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
-<span class="created">15 Sep 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-19T17:32:57.442Z</updated>
+        <updated>2023-09-20T05:32:55.520Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">20 Sep 2023</span>
+<a href="/articles/exodos/theatrohoros/paihnidi-ti-sfagis-toy-eygenioy-ionesko-anebainei-apo-tin-theatriki">
+<span class="title">"Το παιχνίδι τη σφαγής" του Ευγένιου Ιονέσκο ανεβαίνει από την Θεατρική Ομάδα 12 Και Κάτι</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-09-20T05:32:55.522Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">20 Sep 2023</span>
+<a href="/articles/nea/news/se-poies-periohes-anamenontai-simera-brohes-kai-kataigides">
+<span class="title">Σε ποιες περιοχές αναμένονται σήμερα βροχές και καταιγίδες </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-09-20T05:32:55.523Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Sep 2023</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-19T17:32:57.443Z</updated>
+        <updated>2023-09-20T05:32:55.549Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">19 Sep 2023</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-19T17:32:57.456Z</updated>
+        <updated>2023-09-20T05:32:55.607Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">19 Sep 2023</span>
 <a href="/articles/exodos/fooddrink/glykopoleio-aibaliotiko-anoixe-tis-portes-toy-kai-perimenei-gia-na-mas">
 <span class="title">Το Γλυκοπωλείο Αϊβαλιώτικο άνοιξε τις πόρτες του και περιμένει για να μας γλυκάνει </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-19T17:32:57.457Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">19 Sep 2023</span>
-<a href="/articles/exodos/fooddrink/zisame-mia-iconic-bradia-gemati-geystikes-ekplixeis-sto-la-caleta">
-<span class="title">Ζήσαμε μια iconic βραδιά, γεμάτη γευστικές εκπλήξεις στο La Caleta </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-19T17:32:57.460Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">19 Sep 2023</span>
-<a href="/articles/exodos/moysiki/mihalis-rakintzis-kai-sofia-arbaniti-stin-kypro-gia-ena-super-90s-party-0">
-<span class="title">Μιχάλης Ρακιντζής και Σοφία Αρβανίτη στην Κύπρο για ένα super '90s party!</span>
 </a>
 </span>
 </span></div>]]></content>
