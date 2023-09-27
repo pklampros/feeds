@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-09-26T17:33:42.631Z</updated>
+    <updated>2023-09-27T05:33:05.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η συγκλονιστική Καρυοφυλλιά Καραμπέτη στο τρέιλερ της «Φόνισσας»]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-sygklonistiki-karyofyllia-karampeti-sto-treiler-tis-fonissas</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-sygklonistiki-karyofyllia-karampeti-sto-treiler-tis-fonissas"/>
+        <updated>2023-09-27T05:33:04.135Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/i-sygklonistiki-karyofyllia-karampeti-sto-treiler-tis-fonissas"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/6512cec02400002000538804.jpg?h=ccff1120&amp;itok=nwVSy4si" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/i-sygklonistiki-karyofyllia-karampeti-sto-treiler-tis-fonissas">Η συγκλονιστική Καρυοφυλλιά Καραμπέτη στο τρέιλερ της «Φόνισσας»</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">27 Sep 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Digital Tree ανοίγει πανιά για νέους ορίζοντες!]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-digital-tree-anoigei-pania-gia-neoys-orizontes</id>
@@ -261,25 +276,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο Ed Sheeran κυκλοφορεί νέο τραγούδι εμπνευσμένο από τα «Φιλαράκια»]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/o-ed-sheeran-kykloforei-neo-tragoydi-empneysmeno-apo-ta-filarakia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/o-ed-sheeran-kykloforei-neo-tragoydi-empneysmeno-apo-ta-filarakia"/>
-        <updated>2023-09-22T17:33:15.372Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/o-ed-sheeran-kykloforei-neo-tragoydi-empneysmeno-apo-ta-filarakia"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/ed-sheeran-2023-live-billboard-1548_0.jpg?h=865366fc&amp;itok=_hPK7NqE" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/o-ed-sheeran-kykloforei-neo-tragoydi-empneysmeno-apo-ta-filarakia">Ο Ed Sheeran κυκλοφορεί νέο τραγούδι εμπνευσμένο από τα «Φιλαράκια»</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">22 Sep 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-26T17:33:41.139Z</updated>
+        <updated>2023-09-27T05:33:03.930Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">27 Sep 2023</span>
+<a href="/articles/exodos/n-out/i-laiki-geitonia-sti-leykosia-metamorfonetai-fetos-se-hristoygenniatiko-horio">
+<span class="title">Η Λαϊκή Γειτονιά στη Λευκωσία μεταμορφώνεται φέτος σε Χριστουγεννιάτικο Χωριό </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-09-27T05:33:03.942Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">27 Sep 2023</span>
+<a href="/articles/nea/news/i-sygklonistiki-karyofyllia-karampeti-sto-treiler-tis-fonissas">
+<span class="title">Η συγκλονιστική Καρυοφυλλιά Καραμπέτη στο τρέιλερ της «Φόνισσας»</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-09-27T05:33:03.944Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">26 Sep 2023</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-26T17:33:41.146Z</updated>
+        <updated>2023-09-27T05:33:03.948Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">26 Sep 2023</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-26T17:33:41.147Z</updated>
+        <updated>2023-09-27T05:33:03.952Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">26 Sep 2023</span>
 <a href="/articles/exodos/moysiki/moysiko-festibal-beonix-katakta-tin-kypro-yposhomeno-gia-megalytera-kai-0">
 <span class="title">Το μουσικό φεστιβάλ Beonix κατακτά την Κύπρο, υποσχόμενο για μεγαλύτερα και καλύτερα πράγματα στο…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-26T17:33:41.149Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">26 Sep 2023</span>
-<a href="/articles/exodos/moysiki/moysiko-festibal-beonix-katakta-tin-kypro-yposhomeno-gia-megalytera-kai">
-<span class="title">Το μουσικό φεστιβάλ Beonix κατακτά την Κύπρο, υποσχόμενο για μεγαλύτερα και καλύτερα πράγματα στο…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-09-26T17:33:41.150Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">26 Sep 2023</span>
-<a href="/articles/nea/news/teilor-soyift-pige-ranteboy-se-estiatorio-kai-plirose-ta-geymata-ton-pelaton-gia">
-<span class="title">Τέιλορ Σουίφτ: Πήγε ραντεβού σε εστιατόριο και πλήρωσε τα γεύματα των πελατών για... να φύγουν</span>
 </a>
 </span>
 </span></div>]]></content>
