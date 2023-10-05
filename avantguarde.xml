@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-10-04T17:33:44.341Z</updated>
+    <updated>2023-10-05T05:33:18.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Έρχονται βροχές και καταιγίδες]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/erhontai-brohes-kai-kataigides-1</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/erhontai-brohes-kai-kataigides-1"/>
+        <updated>2023-10-05T05:33:17.742Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/erhontai-brohes-kai-kataigides-1"> <img src="/sites/default/files/styles/featured_articles/public/2023-10/997d7662-29fe-4a54-b19c-4e6f8e27aae4.jpeg?h=85e42549&amp;itok=NXV-f5M6" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/erhontai-brohes-kai-kataigides-1">Έρχονται βροχές και καταιγίδες </a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">05 Oct 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Πέθανε ο θρύλος του ελληνικού μπάσκετ Γιάννης Ιωαννίδης]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/pethane-o-thrylos-toy-ellinikoy-mpasket-giannis-ioannidis</id>
@@ -261,25 +276,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τι θα γίνει με τις δύο μεγάλες συναυλίες των Coldplay τώρα που κλείνει το ΟΑΚΑ λόγω ακαταλληλότητας…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ti-tha-ginei-me-tis-dyo-megales-synaylies-ton-coldplay-tora-poy-kleinei-oaka-logo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ti-tha-ginei-me-tis-dyo-megales-synaylies-ton-coldplay-tora-poy-kleinei-oaka-logo"/>
-        <updated>2023-10-03T17:33:07.646Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ti-tha-ginei-me-tis-dyo-megales-synaylies-ton-coldplay-tora-poy-kleinei-oaka-logo"> <img src="/sites/default/files/styles/featured_articles/public/2023-10/coldplay-performing.jpg?h=8c7f39d7&amp;itok=RooufNEa" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/ti-tha-ginei-me-tis-dyo-megales-synaylies-ton-coldplay-tora-poy-kleinei-oaka-logo">Τι θα γίνει με τις δύο μεγάλες συναυλίες των Coldplay τώρα που κλείνει το ΟΑΚΑ λόγω ακαταλληλότητας…</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">03 Oct 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-10-04T17:33:42.968Z</updated>
+        <updated>2023-10-05T05:33:17.263Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">05 Oct 2023</span>
+<a href="/articles/nea/news/erhontai-brohes-kai-kataigides-1">
+<span class="title">Έρχονται βροχές και καταιγίδες </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-10-05T05:33:17.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">04 Oct 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-10-04T17:33:42.984Z</updated>
+        <updated>2023-10-05T05:33:17.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">04 Oct 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-10-04T17:33:42.990Z</updated>
+        <updated>2023-10-05T05:33:17.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">04 Oct 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-10-04T17:33:42.991Z</updated>
+        <updated>2023-10-05T05:33:17.271Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">04 Oct 2023</span>
 <a href="/articles/exodos/fooddrink/gnosto-parko-tis-leykosias-apektise-caffe-nero">
 <span class="title">Γνωστό πάρκο της Λευκωσίας απέκτησε Caffè Nero </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-10-04T17:33:42.993Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΕΣΤΙΒΑΛ</span>
-<span class="created">04 Oct 2023</span>
-<a href="/articles/festibal/ola-osa-biosame-sti-giorti-toy-manitarioy-sta-omorfa-spilia">
-<span class="title">Όλα όσα βιώσαμε στη Γιορτή του Μανιταριού στα όμορφα Σπήλια </span>
 </a>
 </span>
 </span></div>]]></content>
