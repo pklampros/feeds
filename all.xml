@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T17:32:43.144Z</updated>
+    <updated>2023-11-11T05:33:00.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Το Avatar: The Last Airbender του Netflix αποκαλύπτεται (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-11-10T17:32:42.408Z</updated>
+        <updated>2023-11-11T05:32:58.774Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">10 Nov 2023</span>
+<a href="/articles/exodos/theatrohoros/theatro-kokkini-skini-anakoinonei-gia-ti-nea-theatriki-sezon-ti">
+<span class="title">Το&nbsp;θέατρο Κόκκινη Σκηνή&nbsp;ανακοινώνει&nbsp;για&nbsp;τη&nbsp;νέα&nbsp;θεατρική&nbsp;σεζόν&nbsp;τη Μουσικοθεατρική&nbsp;Παράσταση&nbsp;«Το&nbsp;…</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-11-11T05:32:58.796Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">10 Nov 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-11-10T17:32:42.409Z</updated>
+        <updated>2023-11-11T05:32:58.797Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">10 Nov 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-11-10T17:32:42.411Z</updated>
+        <updated>2023-11-11T05:32:58.799Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">10 Nov 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-11-10T17:32:42.411Z</updated>
+        <updated>2023-11-11T05:32:58.800Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">IN n OUT</span>
 <span class="created">10 Nov 2023</span>
 <a href="/articles/exodos/n-out/dimioyrgiko-ergastiri-gia-paidia-poy-erhetai-sti-leykosia">
 <span class="title">Το δημιουργικό εργαστήρι για παιδιά που έρχεται στη Λευκωσία</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-11-10T17:32:42.411Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">10 Nov 2023</span>
-<a href="/articles/exodos/moysiki/o-stayros-konstantinoy-ypodehetai-ton-giorgo-theofanoys-sti-skini">
-<span class="title">Ο Σταύρος Κωνσταντίνου υποδέχεται τον Γιώργο Θεοφάνους στη σκηνή</span>
 </a>
 </span>
 </span></div>]]></content>
