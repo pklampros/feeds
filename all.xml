@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-03T05:32:41.527Z</updated>
+    <updated>2023-12-03T17:32:36.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Crown: Οι νέες φωτογραφίες από το δεύτερο μέρος της τελευταίας σεζόν (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T05:32:40.743Z</updated>
+        <updated>2023-12-03T17:32:35.204Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">IN n OUT</span>
+<span class="created">03 Dec 2023</span>
+<a href="/articles/exodos/n-out/ta-megalytera-kai-omofotera-parka-tis-leykosias">
+<span class="title">Τα μεγαλύτερα και ομοφότερα πάρκα της Λευκωσίας</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2023-12-03T17:32:35.209Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">01 Dec 2023</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T05:32:40.743Z</updated>
+        <updated>2023-12-03T17:32:35.209Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">01 Dec 2023</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T05:32:40.743Z</updated>
+        <updated>2023-12-03T17:32:35.209Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">01 Dec 2023</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T05:32:40.743Z</updated>
+        <updated>2023-12-03T17:32:35.212Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">01 Dec 2023</span>
 <a href="/articles/exodos/moysiki/tres-voh-oi-treis-neoi-ellines-barytonoi-stin-kypro">
 <span class="title">TRES VOΧ: Οι τρεις νέοι Έλληνες βαρύτονοι στην Κύπρο</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T05:32:40.743Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">IN n OUT</span>
-<span class="created">01 Dec 2023</span>
-<a href="/articles/exodos/n-out/oles-oi-giortines-ekdiloseis-poy-tha-zisoyme-fetos-ston-dimo-lemesoy">
-<span class="title">Όλες οι γιορτινές εκδηλώσεις που θα ζήσουμε φέτος στον Δήμο Λεμεσού </span>
 </a>
 </span>
 </span></div>]]></content>
