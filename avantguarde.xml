@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-12-08T17:32:51.804Z</updated>
+    <updated>2023-12-09T05:32:38.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-08T17:32:50.960Z</updated>
+        <updated>2023-12-09T05:32:37.874Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΝΤΟΣ</span>
+<span class="created">08 Dec 2023</span>
+<a href="/articles/exodos/entos/clay-collective-mas-proskalei-se-mia-monadiki-ekthesi-keramikon">
+<span class="title">Το Clay Collective μας προσκαλεί σε μια μοναδική έκθεση κεραμικών </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-12-09T05:32:37.875Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">08 Dec 2023</span>
@@ -290,10 +304,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-08T17:32:50.961Z</updated>
+        <updated>2023-12-09T05:32:37.876Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">08 Dec 2023</span>
@@ -304,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-08T17:32:50.962Z</updated>
+        <updated>2023-12-09T05:32:37.876Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">08 Dec 2023</span>
@@ -318,29 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-08T17:32:50.963Z</updated>
+        <updated>2023-12-09T05:32:37.877Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">08 Dec 2023</span>
 <a href="/articles/exodos/theatrohoros/say-yes-again-and-again-erhetai-se-leykosia-kai-lemeso">
 <span class="title">"Say yes! again and again" έρχεται σε Λευκωσία και Λεμεσό</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-08T17:32:50.965Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">08 Dec 2023</span>
-<a href="/articles/exodos/moysiki/i-basiliki-hatziadamoy-kai-o-paris-parashos-synantioyntai-epi-skinis-ston">
-<span class="title">Η Βασιλική Χατζηαδάμου και ο Πάρης Παράσχος συναντιούνται επί σκηνής στον ιστορικό χώρο Αντωνάκης…</span>
 </a>
 </span>
 </span></div>]]></content>
