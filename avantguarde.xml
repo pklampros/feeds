@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-12-29T17:32:41.794Z</updated>
+    <updated>2023-12-30T05:32:49.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -279,7 +279,35 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-29T17:32:41.065Z</updated>
+        <updated>2023-12-30T05:32:48.565Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">WTF</span>
+<span class="created">30 Dec 2023</span>
+<a href="/articles/wtf/ta-pio-apolaystika-iced-balls">
+<span class="title">Tα πιο απολαυστικά iced balls </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-12-30T05:32:48.565Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">WTF</span>
+<span class="created">30 Dec 2023</span>
+<a href="/articles/wtf/tis-lolisto-pop">
+<span class="title">Της Λωλής...το pop </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2023-12-30T05:32:48.568Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">29 Dec 2023</span>
@@ -290,10 +318,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-29T17:32:41.065Z</updated>
+        <updated>2023-12-30T05:32:48.568Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">29 Dec 2023</span>
@@ -304,43 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-29T17:32:41.066Z</updated>
+        <updated>2023-12-30T05:32:48.568Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">29 Dec 2023</span>
 <a href="/articles/exodos/entos/hristoygenniatikes-ekdiloseis-gia-sabbatokyriako">
 <span class="title">Χριστουγεννιάτικες εκδηλώσεις για το Σαββατοκύριακο </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-29T17:32:41.066Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΝΤΟΣ</span>
-<span class="created">29 Dec 2023</span>
-<a href="/articles/exodos/entos/ena-diaskedastiko-hristoygenniatiko-programma-sti-larnaka">
-<span class="title">Ένα διασκεδαστικό χριστουγεννιάτικο πρόγραμμα στη Λάρνακα </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-29T17:32:41.068Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΝΤΟΣ</span>
-<span class="created">29 Dec 2023</span>
-<a href="/articles/exodos/entos/goystareis-ilektroniki-moysiki-brikame-event-poy-den-prepei-na-haseis">
-<span class="title">Γουστάρεις ηλεκτρονική μουσική; Βρήκαμε το event που δεν πρέπει να χάσεις</span>
 </a>
 </span>
 </span></div>]]></content>
