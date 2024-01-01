@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2023-12-31T17:32:28.296Z</updated>
+    <updated>2024-01-01T05:32:44.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -36,21 +36,6 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γιατί κόβουμε βασιλόπιτα;]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/giati-koboyme-basilopita</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/giati-koboyme-basilopita"/>
-        <updated>2023-12-31T17:32:27.703Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/giati-koboyme-basilopita"> <img src="/sites/default/files/styles/featured_articles/public/2023-12/basilopita.jpg?h=f9ea2416&amp;itok=UdDC2GfV" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/istories/giati-koboyme-basilopita">Γιατί κόβουμε βασιλόπιτα;</a></span>
-<span>
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
-<span class="created">31 Dec 2023</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4+1 Επιτραπέζια παιχνίδια για να παίξετε την Πρωτοχρονιά]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/41-epitrapezia-paihnidia-gia-na-paixete-tin-protohronia</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/41-epitrapezia-paihnidia-gia-na-paixete-tin-protohronia"/>
@@ -61,6 +46,21 @@
 <span class="title"><a href="/articles/nea/news/41-epitrapezia-paihnidia-gia-na-paixete-tin-protohronia">4+1 Επιτραπέζια παιχνίδια για να παίξετε την Πρωτοχρονιά</a></span>
 <span>
 <span class="channel">NEWS</span>
+<span class="created">31 Dec 2023</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Γιατί κόβουμε βασιλόπιτα;]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/giati-koboyme-basilopita</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/giati-koboyme-basilopita"/>
+        <updated>2023-12-31T17:32:27.703Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/giati-koboyme-basilopita"> <img src="/sites/default/files/styles/featured_articles/public/2023-12/basilopita.jpg?h=f9ea2416&amp;itok=UdDC2GfV" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/giati-koboyme-basilopita">Γιατί κόβουμε βασιλόπιτα;</a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">31 Dec 2023</span>
 </span>
 </span></span></div>]]></content>
@@ -279,7 +279,49 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-31T17:32:27.577Z</updated>
+        <updated>2024-01-01T05:32:43.486Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">31 Dec 2023</span>
+<a href="/articles/exodos/ola-giortina-itan-sta-leykara-me-tin-stella-georgiadoy">
+<span class="title">«Όλα γιορτινά» ήταν στα Λεύκαρα με την Στέλλα Γεωργίαδου</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-01-01T05:32:43.486Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">31 Dec 2023</span>
+<a href="/articles/exodos/santa-lefkara-mazi-me-ton-dimarho-sofokli-sofokleoys">
+<span class="title">SanTa Lefkara μαζί με τον Δήμαρχο Σοφοκλή Σοφοκλέους</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-01-01T05:32:43.486Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">31 Dec 2023</span>
+<a href="/articles/nea/news/picado-epanastasi-ston-klado-tis-estiasis-me-ena-syghrono-systima-diaheirisis">
+<span class="title">Picado: Επανάσταση στον κλάδο της εστίασης με ένα σύγχρονο σύστημα διαχείρισης κρατήσεων</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-01-01T05:32:43.486Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">31 Dec 2023</span>
@@ -290,57 +332,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-31T17:32:27.578Z</updated>
+        <updated>2024-01-01T05:32:43.487Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">31 Dec 2023</span>
 <a href="/articles/nea/news/san-simera-gennietai-o-ithopoios-kostas-boytsas">
 <span class="title">Σαν σήμερα γεννιέται ο ηθοποιός Κώστας Βουτσάς </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-31T17:32:27.579Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">31 Dec 2023</span>
-<a href="/articles/nea/news/mia-13hroni-ellinida-mathitria-kerdise-1o-brabeio-se-pagkosmio-diagonismo">
-<span class="title">Μία 13χρονη ελληνίδα μαθήτρια κέρδισε το 1ο βραβείο σε παγκόσμιο διαγωνισμό λογοτεχνίας</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-31T17:32:27.580Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">31 Dec 2023</span>
-<a href="/articles/nea/news/41-epitrapezia-paihnidia-gia-na-paixete-tin-protohronia">
-<span class="title">4+1 Επιτραπέζια παιχνίδια για να παίξετε την Πρωτοχρονιά</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2023-12-31T17:32:27.582Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
-<span class="created">31 Dec 2023</span>
-<a href="/articles/nea/istories/giati-koboyme-basilopita">
-<span class="title">Γιατί κόβουμε βασιλόπιτα;</span>
 </a>
 </span>
 </span></div>]]></content>
