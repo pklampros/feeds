@@ -2,8 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-06T05:33:15.353Z</updated>
+    <updated>2024-01-06T17:32:31.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Σαν σήμερα πεθαίνει ο μεγάλος τρομπετίστας Dizzy Gillespie (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/san-simera-pethainei-o-megalos-trompetistas-dizzy-gillespie</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/san-simera-pethainei-o-megalos-trompetistas-dizzy-gillespie"/>
+        <updated>2024-01-06T17:32:30.650Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/san-simera-pethainei-o-megalos-trompetistas-dizzy-gillespie"> <img src="/sites/default/files/styles/featured_articles/public/2024-01/1_1.jpg?h=43594a01&amp;itok=0iTxvHeV" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/san-simera-pethainei-o-megalos-trompetistas-dizzy-gillespie">Σαν σήμερα πεθαίνει ο μεγάλος τρομπετίστας Dizzy Gillespie</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">06 Jan 2024</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ένας 13χρονος νίκησε το Tetris (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/enas-13hronos-nikise-tetris</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/enas-13hronos-nikise-tetris"/>
+        <updated>2024-01-06T17:32:30.650Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/enas-13hronos-nikise-tetris"> <img src="/sites/default/files/styles/featured_articles/public/2024-01/to_periergo_tis_imeras_2.png?h=f3bd4ba5&amp;itok=VNv0Oh07" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/enas-13hronos-nikise-tetris">Ένας 13χρονος νίκησε το Tetris</a></span>
+<span>
+<span class="channel">NEWS</span>
+<span class="created">06 Jan 2024</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Εορταστικές παραδοσιακές εκδηλώσεις για τα Άγια Θεοφάνεια (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eortastikes-paradosiakes-ekdiloseis-gia-ta-agia-theofaneia</id>
@@ -245,40 +275,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[H εταιρεία ClimateAI προβλέπει ότι το αγαπημένο ποτό των γιορτών μπορεί να “εξαφανιστεί” εξαιτίας… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/h-etaireia-climateai-problepei-oti-agapimeno-poto-ton-giorton-mporei-na</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/h-etaireia-climateai-problepei-oti-agapimeno-poto-ton-giorton-mporei-na"/>
-        <updated>2024-01-02T17:32:51.237Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/h-etaireia-climateai-problepei-oti-agapimeno-poto-ton-giorton-mporei-na"> <img src="/sites/default/files/styles/featured_articles/public/2024-01/sampania.jpg?h=9e042f23&amp;itok=owNASAdR" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/h-etaireia-climateai-problepei-oti-agapimeno-poto-ton-giorton-mporei-na">H εταιρεία ClimateAI προβλέπει ότι το αγαπημένο ποτό των γιορτών μπορεί να “εξαφανιστεί” εξαιτίας…</a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-01-06T17:32:30.510Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
-<span class="created">02 Jan 2024</span>
+<span class="created">06 Jan 2024</span>
+<a href="/articles/nea/news/san-simera-pethainei-o-megalos-trompetistas-dizzy-gillespie">
+<span class="title">Σαν σήμερα πεθαίνει ο μεγάλος τρομπετίστας Dizzy Gillespie</span>
+</a>
 </span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Σχεδόν το 50% των εταιρειών σχεδιάζει να αφαιρέσει ένα πτυχίο από τις απαιτήσεις εργασίας έως το… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/shedon-50-ton-etaireion-shediazei-na-afairesei-ena-ptyhio-apo-tis-apaitiseis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/shedon-50-ton-etaireion-shediazei-na-afairesei-ena-ptyhio-apo-tis-apaitiseis"/>
-        <updated>2024-01-06T05:33:14.635Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/shedon-50-ton-etaireion-shediazei-na-afairesei-ena-ptyhio-apo-tis-apaitiseis"> <img src="/sites/default/files/styles/featured_articles/public/2023-12/xob.jpg?h=40324327&amp;itok=GgAT1PlD" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/shedon-50-ton-etaireion-shediazei-na-afairesei-ena-ptyhio-apo-tis-apaitiseis">Σχεδόν το 50% των εταιρειών σχεδιάζει να αφαιρέσει ένα πτυχίο από τις απαιτήσεις εργασίας έως το…</a></span>
-<span>
-<span class="channel">NEWS</span>
-<span class="created">01 Jan 2024</span>
-</span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-06T05:33:14.446Z</updated>
+        <updated>2024-01-06T17:32:30.510Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">06 Jan 2024</span>
+<a href="/articles/nea/news/enas-13hronos-nikise-tetris">
+<span class="title">Ένας 13χρονος νίκησε το Tetris</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-01-06T17:32:30.510Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">05 Jan 2024</span>
@@ -292,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-06T05:33:14.448Z</updated>
+        <updated>2024-01-06T17:32:30.511Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">05 Jan 2024</span>
@@ -306,40 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-06T05:33:14.449Z</updated>
+        <updated>2024-01-06T17:32:30.511Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">05 Jan 2024</span>
 <a href="/articles/nea/istories/giorgos-lanthimos-apo-ta-binteoklip-toy-royba-sto-hryso-leonta-tis-benetias">
 <span class="title">Γιώργος Λάνθιμος: Από τα βίντεοκλιπ του Ρουβά στο Χρυσό Λέοντα της Βενετίας </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-06T05:33:14.449Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">05 Jan 2024</span>
-<a href="/articles/exodos/theatrohoros/i-afroditi-me-goyna-gia-akoma-4-parastaseis-sto-theatro-hora">
-<span class="title">"Η Αφροδίτη με Γούνα" για ακόμα 4 παραστάσεις στο Θέατρο Χώρα</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-06T05:33:14.450Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">05 Jan 2024</span>
-<a href="/articles/exodos/theatrohoros/diethnes-festibal-leykosias-poy-den-teleionei-paroysiazei-ton">
-<span class="title">Το Διεθνές Φεστιβάλ Λευκωσίας… που δεν τελειώνει παρουσιάζει τον «Ερωτόκριτο» του ΚΘΒΕ - έναν ύμνο…</span>
 </a>
 </span>
 </span></div>]]></content>
