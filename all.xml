@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T17:32:30.982Z</updated>
+    <updated>2024-01-12T05:33:07.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Η τέχνη να επικοινωνείς σωστά! Ακούγεται εύκολο αλλά… με ακούει κανείς; (Avant-Guarde Cyprus)]]></title>
@@ -278,7 +278,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-11T17:32:30.198Z</updated>
+        <updated>2024-01-12T05:33:07.203Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">11 Jan 2024</span>
+<a href="/articles/exodos/moysiki/cyprus-confidential-comedy-show-gia-mono-dyo-parastaseis-stin-larnaka">
+<span class="title">Cyprus Confidential comedy show για μόνο δύο παραστάσεις στην Λάρνακα</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-01-12T05:33:07.204Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">11 Jan 2024</span>
@@ -292,7 +306,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-11T17:32:30.199Z</updated>
+        <updated>2024-01-12T05:33:07.204Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">11 Jan 2024</span>
@@ -306,7 +320,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-11T17:32:30.199Z</updated>
+        <updated>2024-01-12T05:33:07.204Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">DISCOVER CYPRUS</span>
 <span class="created">11 Jan 2024</span>
@@ -320,26 +334,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-11T17:32:30.200Z</updated>
+        <updated>2024-01-12T05:33:07.210Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΝΤΟΣ</span>
 <span class="created">11 Jan 2024</span>
 <a href="/articles/exodos/entos/pame-na-trexoyme-parea-stin-palia-poli-tis-leykosias">
 <span class="title">Πάμε να τρέξουμε παρέα στην παλιά πόλη της Λευκωσίας!</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-01-11T17:32:30.202Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">11 Jan 2024</span>
-<a href="/articles/nea/news/arhiepiskopos-kritis-gia-omofylofylia-einai-adelfia-mas-anthropoi-poy-ehoyn-ena">
-<span class="title">Αρχιεπίσκοπος Κρήτης για ομοφυλοφυλία: "Είναι αδέλφια μας, άνθρωποι που έχουν ένα…</span>
 </a>
 </span>
 </span></div>]]></content>
