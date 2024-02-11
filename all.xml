@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-11T05:33:09.784Z</updated>
+    <updated>2024-02-11T17:32:46.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Γεννιέται η διάσημη ηθοποιός Jennifer Aniston (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/gennietai-i-diasimi-ithopoios-jennifer-aniston</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/gennietai-i-diasimi-ithopoios-jennifer-aniston"/>
+        <updated>2024-02-11T17:32:45.485Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/gennietai-i-diasimi-ithopoios-jennifer-aniston"> <img src="/sites/default/files/styles/featured_articles/public/2024-02/1_21.jpg?h=43594a01&amp;itok=W_OP2Qh3" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/gennietai-i-diasimi-ithopoios-jennifer-aniston">Γεννιέται η διάσημη ηθοποιός Jennifer Aniston </a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Taylor Swift πουλά τα δικαιώματα της ταινίας «Eras Tour» στη Disney+ (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-taylor-swift-poyla-ta-dikaiomata-tis-tainias-eras-tour-sti-disney</id>
@@ -243,24 +257,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γεννιέται ο Άγγλος μυθιστοριογράφος Κάρολος Ντίκενς (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/gennietai-o-agglos-mythistoriografos-karolos-ntikens</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/gennietai-o-agglos-mythistoriografos-karolos-ntikens"/>
-        <updated>2024-02-07T17:32:53.110Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/gennietai-o-agglos-mythistoriografos-karolos-ntikens"> <img src="/sites/default/files/styles/featured_articles/public/2024-02/1_18.jpg?h=43594a01&amp;itok=VUy9g1LY" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/gennietai-o-agglos-mythistoriografos-karolos-ntikens">Γεννιέται ο Άγγλος μυθιστοριογράφος Κάρολος Ντίκενς </a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-02-11T17:32:45.301Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
+<span class="created">11 Feb 2024</span>
+<a href="/articles/nea/news/gennietai-i-diasimi-ithopoios-jennifer-aniston">
+<span class="title">Γεννιέται η διάσημη ηθοποιός Jennifer Aniston </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-11T05:33:08.983Z</updated>
+        <updated>2024-02-11T17:32:45.303Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">10 Feb 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-11T05:33:08.984Z</updated>
+        <updated>2024-02-11T17:32:45.304Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">10 Feb 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-11T05:33:08.985Z</updated>
+        <updated>2024-02-11T17:32:45.304Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">DISCOVER CYPRUS</span>
 <span class="created">10 Feb 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-11T05:33:08.986Z</updated>
+        <updated>2024-02-11T17:32:45.305Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">10 Feb 2024</span>
 <a href="/articles/nea/news/pos-itan-i-zoi-stin-kypro-1929-ntokimanter-apo-arheio">
 <span class="title">Πώς ήταν η ζωή στην Κύπρο το 1929; [Ντοκιμαντέρ από αρχείο]</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-11T05:33:08.993Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">10 Feb 2024</span>
-<a href="/articles/nea/news/gennietai-o-germanos-dramatoyrgos-mpertolt-mpreht">
-<span class="title">Γεννιέται ο Γερμανός δραματουργός, Μπέρτολτ Μπρεχτ</span>
 </a>
 </span>
 </span></div>]]></content>
