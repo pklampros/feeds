@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-17T17:33:25.902Z</updated>
+    <updated>2024-02-18T05:32:55.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Δείτε γενικά πλάνα από το Αρχαίο Θέατρο της Σαλαμίνας από τη δεκαετία του 1960 (Avant-Guarde Cyprus)]]></title>
@@ -89,20 +89,6 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Σκέφτεστε τι να κάνετε αυτό το σαββατοκύριακο με τα παιδιά σας; (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas"/>
-        <updated>2024-02-16T17:34:03.521Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas"> <img src="/sites/default/files/styles/featured_articles/public/2024-02/pexels-alexander-dummer-1912868.jpg?h=9dd951d5&amp;itok=8Y6_gVbP" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas">Σκέφτεστε τι να κάνετε αυτό το σαββατοκύριακο με τα παιδιά σας;</a></span>
-<span>
-<span class="channel">NEWS</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Το ρεκόρ όλων των εποχών σπάει το trailer του “Deadpool & Wolverine” (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/rekor-olon-ton-epohon-spaei-trailer-toy-deadpool-wolverine</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/rekor-olon-ton-epohon-spaei-trailer-toy-deadpool-wolverine"/>
@@ -111,6 +97,20 @@
 </a></span>
 <span class="title-channel-date">
 <span class="title"><a href="/articles/nea/news/rekor-olon-ton-epohon-spaei-trailer-toy-deadpool-wolverine">Το ρεκόρ όλων των εποχών σπάει το trailer του “Deadpool &amp; Wolverine”</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Σκέφτεστε τι να κάνετε αυτό το σαββατοκύριακο με τα παιδιά σας; (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas"/>
+        <updated>2024-02-16T17:34:03.521Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas"> <img src="/sites/default/files/styles/featured_articles/public/2024-02/pexels-alexander-dummer-1912868.jpg?h=9dd951d5&amp;itok=8Y6_gVbP" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/skefteste-ti-na-kanete-ayto-sabbatokyriako-me-ta-paidia-sas">Σκέφτεστε τι να κάνετε αυτό το σαββατοκύριακο με τα παιδιά σας;</a></span>
 <span>
 <span class="channel">NEWS</span>
 </span>
@@ -260,7 +260,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-17T17:33:25.114Z</updated>
+        <updated>2024-02-18T05:32:54.501Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">17 Feb 2024</span>
@@ -274,7 +274,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-17T17:33:25.116Z</updated>
+        <updated>2024-02-18T05:32:54.501Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Feb 2024</span>
@@ -288,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-17T17:33:25.117Z</updated>
+        <updated>2024-02-18T05:32:54.503Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Feb 2024</span>
@@ -302,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-17T17:33:25.117Z</updated>
+        <updated>2024-02-18T05:32:54.504Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">17 Feb 2024</span>
@@ -316,7 +316,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-02-17T17:33:25.119Z</updated>
+        <updated>2024-02-18T05:32:54.505Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">16 Feb 2024</span>
