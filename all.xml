@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-19T17:33:00.585Z</updated>
+    <updated>2024-03-20T05:32:44.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Πρώτη στην Ευρώπη η Κύπρος στη χρήση social media (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/proti-stin-eyropi-i-kypros-sti-hrisi-social-media</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/proti-stin-eyropi-i-kypros-sti-hrisi-social-media"/>
+        <updated>2024-03-20T05:32:44.011Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/proti-stin-eyropi-i-kypros-sti-hrisi-social-media"> <img src="/sites/default/files/styles/featured_articles/public/2024-03/to_periergo_tis_imeras_22.png?h=43594a01&amp;itok=8Tsrbo01" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/proti-stin-eyropi-i-kypros-sti-hrisi-social-media">Πρώτη στην Ευρώπη η Κύπρος στη χρήση social media</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αερόστατο-καρδιά «πετά» πάνω από την Βέροια και οι εικόνες είναι μαγικές (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/aerostato-kardia-peta-pano-apo-tin-beroia-kai-oi-eikones-einai-magikes</id>
@@ -243,24 +257,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πόσο θα μας στοιχίσει το σαρακοστιανό τραπέζι φέτος; (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/poso-tha-mas-stoihisei-sarakostiano-trapezi-fetos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/poso-tha-mas-stoihisei-sarakostiano-trapezi-fetos"/>
-        <updated>2024-03-14T17:32:32.469Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/poso-tha-mas-stoihisei-sarakostiano-trapezi-fetos"> <img src="/sites/default/files/styles/featured_articles/public/2024-03/pexels-tara-clark-9070106.jpg?h=fa4a2dfc&amp;itok=fUNvrLYg" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/poso-tha-mas-stoihisei-sarakostiano-trapezi-fetos">Πόσο θα μας στοιχίσει το σαρακοστιανό τραπέζι φέτος; </a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-03-20T05:32:43.768Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">19 Mar 2024</span>
+<a href="/articles/nea/news/proti-stin-eyropi-i-kypros-sti-hrisi-social-media">
+<span class="title">Πρώτη στην Ευρώπη η Κύπρος στη χρήση social media</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-19T17:32:59.691Z</updated>
+        <updated>2024-03-20T05:32:43.769Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">19 Mar 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-19T17:32:59.693Z</updated>
+        <updated>2024-03-20T05:32:43.770Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">19 Mar 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-19T17:32:59.693Z</updated>
+        <updated>2024-03-20T05:32:43.770Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">DISCOVER CYPRUS</span>
 <span class="created">19 Mar 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-19T17:32:59.694Z</updated>
+        <updated>2024-03-20T05:32:43.771Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">19 Mar 2024</span>
 <a href="/articles/nea/news/aerostato-kardia-peta-pano-apo-tin-beroia-kai-oi-eikones-einai-magikes">
 <span class="title">Αερόστατο-καρδιά «πετά» πάνω από την Βέροια και οι εικόνες είναι μαγικές</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-19T17:32:59.694Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">19 Mar 2024</span>
-<a href="/articles/exodos/fooddrink/o-chris-theofanous-synanta-salt-fire-awakening-vol2-sto-oinopoieio">
-<span class="title">Ο Chris Theofanous συναντά το Salt &amp; Fire - Awakening Vol.2 στο Οινοποιείο Τσιάκκας</span>
 </a>
 </span>
 </span></div>]]></content>
