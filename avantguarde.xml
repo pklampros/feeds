@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-03-27T17:32:53.533Z</updated>
+    <updated>2024-03-28T05:32:59.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -261,7 +261,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-03-27T17:32:52.652Z</updated>
+        <updated>2024-03-28T05:32:58.765Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">CINEMA</span>
+<span class="created">27 Mar 2024</span>
+<a href="/articles/exodos/cinema/i-moira-ton-peiraton-tis-karaibikis-apo-episima-heili">
+<span class="title">Η μοίρα των "Πειρατών της Καραϊβικής” από επίσημα χείλη</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-03-28T05:32:58.766Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">27 Mar 2024</span>
@@ -272,10 +286,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-03-27T17:32:52.653Z</updated>
+        <updated>2024-03-28T05:32:58.766Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">27 Mar 2024</span>
@@ -286,10 +300,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-03-27T17:32:52.655Z</updated>
+        <updated>2024-03-28T05:32:58.767Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">27 Mar 2024</span>
@@ -300,29 +314,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-03-27T17:32:52.656Z</updated>
+        <updated>2024-03-28T05:32:58.768Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">27 Mar 2024</span>
 <a href="/articles/exodos/fooddrink/ayto-einai-kalytero-kokteil-mpar-ston-kosmo">
 <span class="title">Αυτό είναι το καλύτερο κοκτέιλ μπαρ στον κόσμο</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-03-27T17:32:52.657Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-<span class="created">27 Mar 2024</span>
-<a href="/articles/exodos/theatrohoros/h-hristina-paylidoy-etoimazei-mia-paidiki-parastasi-gemati-minymata">
-<span class="title">H Χριστίνα Παυλίδου ετοιμάζει μία παιδική παράσταση γεμάτη μηνύματα</span>
 </a>
 </span>
 </span></div>]]></content>
