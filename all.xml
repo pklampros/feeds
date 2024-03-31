@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-30T17:32:47.493Z</updated>
+    <updated>2024-03-31T05:33:24.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Εγκαινιάζεται ο Πύργος του Άιφελ το 1889 (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/egkainiazetai-o-pyrgos-toy-aifel-1889</id>
+        <link href="https://avant-garde.com.cy/articles/nea/egkainiazetai-o-pyrgos-toy-aifel-1889"/>
+        <updated>2024-03-31T05:33:23.416Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/egkainiazetai-o-pyrgos-toy-aifel-1889"> <img src="/sites/default/files/styles/featured_articles/public/2024-03/1_67.jpg?h=43594a01&amp;itok=fBhQuiBS" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/egkainiazetai-o-pyrgos-toy-aifel-1889">Εγκαινιάζεται ο Πύργος του Άιφελ το 1889 </a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το ξέρατε ότι το 1973 αεροπλάνο συνετρίβη στην προσπάθεια του να προσγειωθεί στη Λευκωσία; (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/xerate-oti-1973-aeroplano-synetribi-stin-prospatheia-toy-na-prosgeiothei-sti</id>
@@ -243,24 +257,10 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[H Exness συμβάλλει στη διατήρηση της φυσικής ομορφιάς της Κύπρου μέσα από πρωτοβουλίες… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/h-exness-symballei-sti-diatirisi-tis-fysikis-omorfias-tis-kyproy-mesa-apo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/h-exness-symballei-sti-diatirisi-tis-fysikis-omorfias-tis-kyproy-mesa-apo"/>
-        <updated>2024-03-26T17:32:48.694Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/h-exness-symballei-sti-diatirisi-tis-fysikis-omorfias-tis-kyproy-mesa-apo"> <img src="/sites/default/files/styles/featured_articles/public/2024-03/dsc_9636_2048px.jpg?h=a1e1a043&amp;itok=n6BpSTez" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/h-exness-symballei-sti-diatirisi-tis-fysikis-omorfias-tis-kyproy-mesa-apo">H Exness συμβάλλει στη διατήρηση της φυσικής ομορφιάς της Κύπρου μέσα από πρωτοβουλίες…</a></span>
-<span>
-<span class="channel">NEWS</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-30T17:32:46.770Z</updated>
+        <updated>2024-03-31T05:33:23.311Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">30 Mar 2024</span>
@@ -274,7 +274,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-30T17:32:46.775Z</updated>
+        <updated>2024-03-31T05:33:23.312Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">30 Mar 2024</span>
@@ -288,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-30T17:32:46.776Z</updated>
+        <updated>2024-03-31T05:33:23.312Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">29 Mar 2024</span>
@@ -302,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-30T17:32:46.777Z</updated>
+        <updated>2024-03-31T05:33:23.312Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">29 Mar 2024</span>
@@ -316,7 +316,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-03-30T17:32:46.778Z</updated>
+        <updated>2024-03-31T05:33:23.313Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">29 Mar 2024</span>
