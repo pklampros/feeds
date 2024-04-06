@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-04-05T17:32:47.850Z</updated>
+    <updated>2024-04-06T05:32:41.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πάρις Ερωτοκρίτου: To θέατρο είναι τέχνη “θαυματοποιός”]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/paris-erotokritoy-theatro-einai-tehni-thaymatopoios</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/paris-erotokritoy-theatro-einai-tehni-thaymatopoios"/>
+        <updated>2024-04-06T05:32:40.433Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/paris-erotokritoy-theatro-einai-tehni-thaymatopoios"> <img src="/sites/default/files/styles/featured_articles/public/2024-04/to_periergo_tis_imeras_11.png?h=43594a01&amp;itok=AwIlnrd8" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/paris-erotokritoy-theatro-einai-tehni-thaymatopoios">Πάρις Ερωτοκρίτου: To θέατρο είναι τέχνη “θαυματοποιός”</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ντόρις Καραγιάννη: "Στόχος μας είναι να μειώσουμε τις εγκαταλείψεις ζώων" (Βίντεο)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ntoris-karagianni-stohos-mas-einai-na-meiosoyme-tis-egkataleipseis-zoon-binteo</id>
@@ -244,24 +258,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τα πρωταπριλιάτικα ψέματα και φάρσες που άφησαν ιστορία]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/ta-protapriliatika-psemata-kai-farses-poy-afisan-istoria</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/ta-protapriliatika-psemata-kai-farses-poy-afisan-istoria"/>
-        <updated>2024-04-01T17:32:42.726Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/ta-protapriliatika-psemata-kai-farses-poy-afisan-istoria"> <img src="/sites/default/files/styles/featured_articles/public/2024-03/newspaper-background-concept.jpg?h=be99d53a&amp;itok=V2MVojHg" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/istories/ta-protapriliatika-psemata-kai-farses-poy-afisan-istoria">Τα πρωταπριλιάτικα ψέματα και φάρσες που άφησαν ιστορία </a></span>
-<span>
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-04-05T17:32:46.981Z</updated>
+        <updated>2024-04-06T05:32:40.325Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">05 Apr 2024</span>
+<a href="/articles/nea/news/paris-erotokritoy-theatro-einai-tehni-thaymatopoios">
+<span class="title">Πάρις Ερωτοκρίτου: To θέατρο είναι τέχνη “θαυματοποιός”</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-04-06T05:32:40.326Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">05 Apr 2024</span>
@@ -272,10 +286,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-04-05T17:32:46.983Z</updated>
+        <updated>2024-04-06T05:32:40.327Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">05 Apr 2024</span>
@@ -286,10 +300,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-04-05T17:32:46.983Z</updated>
+        <updated>2024-04-06T05:32:40.328Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">05 Apr 2024</span>
@@ -300,29 +314,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-04-05T17:32:46.983Z</updated>
+        <updated>2024-04-06T05:32:40.330Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">05 Apr 2024</span>
 <a href="/articles/nea/news/kkarnakis-mpapakosta-paizoyn-me-ton-twix-kai-mas-diigoyntai-tin-stenahori-istoria">
 <span class="title">Κ.Καρνάκης-Μ.Παπακώστα: Παίζουν με τον Twix και μας διηγούνται την στενάχωρη ιστορία του (Βίντεο)</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-04-05T17:32:46.984Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">05 Apr 2024</span>
-<a href="/articles/nea/news/o-horos-prosorinis-fylaxis-adespoton-skylon-epekteinetai">
-<span class="title">Ο Χώρος Προσωρινής Φύλαξης Αδέσποτων Σκύλων επεκτείνεται</span>
 </a>
 </span>
 </span></div>]]></content>
