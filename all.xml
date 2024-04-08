@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-07T17:32:33.057Z</updated>
+    <updated>2024-04-08T05:33:15.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Η Taylor Swift στη λίστα του Forbes με τους πλουσιότερους ανθρώπους του πλανήτη (Avant-Guarde Cyprus)]]></title>
@@ -260,7 +260,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-07T17:32:32.272Z</updated>
+        <updated>2024-04-08T05:33:14.412Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">07 Apr 2024</span>
+<a href="/articles/prosopa/giorgos-royssos-mas-gnorizei-ton-sheldon-poy-psahnei-tin-kainoyrgia-toy-oikogeneia">
+<span class="title">Γιώργος Ρούσσος: Μας γνωρίζει τον Sheldon που ψάχνει την καινούργια του οικογένεια</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-04-08T05:33:14.413Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">07 Apr 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-07T17:32:32.273Z</updated>
+        <updated>2024-04-08T05:33:14.413Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">07 Apr 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-07T17:32:32.277Z</updated>
+        <updated>2024-04-08T05:33:14.414Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">07 Apr 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-07T17:32:32.277Z</updated>
+        <updated>2024-04-08T05:33:14.415Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">07 Apr 2024</span>
 <a href="/articles/exodos/pashalino-kynigi-gia-toys-mikroys-mas-filoys">
 <span class="title">Πασχαλινό κυνήγι για τους μικρούς μας φίλους</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-07T17:32:32.277Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">07 Apr 2024</span>
-<a href="/articles/nea/news/i-taylor-swift-sti-lista-toy-forbes-me-toys-ploysioteroys-anthropoys-toy-planiti">
-<span class="title">Η Taylor Swift στη λίστα του Forbes με τους πλουσιότερους ανθρώπους του πλανήτη</span>
 </a>
 </span>
 </span></div>]]></content>
