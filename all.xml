@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-20T05:32:45.935Z</updated>
+    <updated>2024-04-20T17:32:35.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Δείτε ένα μουσικό αφιέρωμα στη Χάρις Αλεξίου από το 1987 (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/deite-ena-moysiko-afieroma-sti-haris-alexioy-apo-1987</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/deite-ena-moysiko-afieroma-sti-haris-alexioy-apo-1987"/>
+        <updated>2024-04-20T17:32:35.106Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/deite-ena-moysiko-afieroma-sti-haris-alexioy-apo-1987"> <img src="/sites/default/files/styles/featured_articles/public/2024-04/haris_alexioy.jpg?h=20433fa8&amp;itok=6lC5K12k" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/deite-ena-moysiko-afieroma-sti-haris-alexioy-apo-1987">Δείτε ένα μουσικό αφιέρωμα στη Χάρις Αλεξίου από το 1987</a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Γιορτάζεται η Παγκόσμια ημέρα δισκοπωλείων (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/giortazetai-i-pagkosmia-imera-diskopoleion</id>
@@ -243,24 +257,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πεθαίνει η γαλλίδα συγγραφέας και φεμινίστρια Σιμόν ντε Μποβουάρ (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/pethainei-i-gallida-syggrafeas-kai-feministria-simon-nte-mpoboyar</id>
-        <link href="https://avant-garde.com.cy/articles/nea/pethainei-i-gallida-syggrafeas-kai-feministria-simon-nte-mpoboyar"/>
-        <updated>2024-04-14T19:47:30.463Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/pethainei-i-gallida-syggrafeas-kai-feministria-simon-nte-mpoboyar"> <img src="/sites/default/files/styles/featured_articles/public/2024-04/1_81.jpg?h=43594a01&amp;itok=HVhTaYCW" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/pethainei-i-gallida-syggrafeas-kai-feministria-simon-nte-mpoboyar">Πεθαίνει η γαλλίδα συγγραφέας και φεμινίστρια Σιμόν ντε Μποβουάρ</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-04-20T17:32:34.973Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">DISCOVER CYPRUS</span>
+<span class="created">20 Apr 2024</span>
+<a href="/articles/discover-cyprus/mia-krymmeni-thalassini-spilia-sas-perimenei-na-tin-anakalypsete">
+<span class="title">Μια κρυμμένη θαλασσινή σπηλιά σας περιμένει να την ανακαλύψετε</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-20T05:32:45.098Z</updated>
+        <updated>2024-04-20T17:32:34.973Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">20 Apr 2024</span>
+<a href="/articles/nea/istories/deite-ena-moysiko-afieroma-sti-haris-alexioy-apo-1987">
+<span class="title">Δείτε ένα μουσικό αφιέρωμα στη Χάρις Αλεξίου από το 1987</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-04-20T17:32:34.974Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">20 Apr 2024</span>
@@ -274,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-20T05:32:45.098Z</updated>
+        <updated>2024-04-20T17:32:34.978Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">19 Apr 2024</span>
@@ -288,40 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-20T05:32:45.099Z</updated>
+        <updated>2024-04-20T17:32:34.978Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">19 Apr 2024</span>
 <a href="/articles/exodos/h-ioanna-lampropoyloy-paroysiazei-magiatiko-panigyri-agapis">
 <span class="title">H Ιωάννα Λαμπροπούλου παρουσιάζει το «Μαγιάτικο Πανηγύρι Αγάπης»</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-20T05:32:45.100Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">19 Apr 2024</span>
-<a href="/articles/exodos/atzenta-sabbatokyriakoy-gia-na-min-psahnete-ti-na-kanete-ayto-diimero">
-<span class="title">Ατζέντα σαββατοκύριακου: Για να μην ψάχνετε τι να κάνετε αυτό το διήμερο</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-20T05:32:45.100Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">19 Apr 2024</span>
-<a href="/articles/nea/news/morecom-anakoinonei-ti-stratigiki-synergasia-toy-me-tin-digital-tree-stin-kypro">
-<span class="title">Τo More.com ανακοινώνει τη στρατηγική συνεργασία του με την Digital Tree στην Κύπρο</span>
 </a>
 </span>
 </span></div>]]></content>
