@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-30T17:32:53.828Z</updated>
+    <updated>2024-05-01T05:32:52.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Οι 10 πιο έξυπνες πόλεις στον κόσμο (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-10-pio-exypnes-poleis-ston-kosmo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-10-pio-exypnes-poleis-ston-kosmo"/>
+        <updated>2024-05-01T05:32:51.679Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/oi-10-pio-exypnes-poleis-ston-kosmo"> <img src="/sites/default/files/styles/featured_articles/public/2024-05/nasa-q1p7bh3shj8-unsplash.jpg?h=265e640d&amp;itok=-0mOyEsd" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/oi-10-pio-exypnes-poleis-ston-kosmo">Οι 10 πιο έξυπνες πόλεις στον κόσμο</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ψάχνετε τι να δείτε στο Netflix; Σταματήστε το scrolling και γράψτε απλά ένα κωδικό! (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/psahnete-ti-na-deite-sto-netflix-stamatiste-scrolling-kai-grapste-apla-ena-kodiko</id>
@@ -243,24 +257,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γεννιέται ένας από τους κορυφαίους Έλληνες καλλιτέχνες, ο Θανάσης Παπακωνσταντίνου (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/gennietai-enas-apo-toys-koryfaioys-ellines-kallitehnes-o-thanasis-papakonstantinoy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/gennietai-enas-apo-toys-koryfaioys-ellines-kallitehnes-o-thanasis-papakonstantinoy"/>
-        <updated>2024-04-26T17:32:36.689Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/gennietai-enas-apo-toys-koryfaioys-ellines-kallitehnes-o-thanasis-papakonstantinoy"> <img src="/sites/default/files/styles/featured_articles/public/2024-04/1_92.jpg?h=43594a01&amp;itok=ELv5lQIk" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/gennietai-enas-apo-toys-koryfaioys-ellines-kallitehnes-o-thanasis-papakonstantinoy">Γεννιέται ένας από τους κορυφαίους Έλληνες καλλιτέχνες, ο Θανάσης Παπακωνσταντίνου</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-01T05:32:51.577Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">01 May 2024</span>
+<a href="/articles/nea/news/oi-10-pio-exypnes-poleis-ston-kosmo">
+<span class="title">Οι 10 πιο έξυπνες πόλεις στον κόσμο</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-30T17:32:52.910Z</updated>
+        <updated>2024-05-01T05:32:51.578Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">30 Apr 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-30T17:32:52.911Z</updated>
+        <updated>2024-05-01T05:32:51.579Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">DISCOVER CYPRUS</span>
 <span class="created">30 Apr 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-30T17:32:52.911Z</updated>
+        <updated>2024-05-01T05:32:51.580Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">30 Apr 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-30T17:32:52.911Z</updated>
+        <updated>2024-05-01T05:32:51.581Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">30 Apr 2024</span>
 <a href="/articles/nea/istories/o-iisoys-apo-ti-nazaret-10-pragmata-poy-den-xerate-gia-ti-thryliki-seira">
 <span class="title">Ο Ιησούς από τη Ναζαρέτ: 10 πράγματα που δεν ξέρατε για τη θρυλική σειρά</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-04-30T17:32:52.912Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΕΣΤΙΒΑΛ</span>
-<span class="created">30 Apr 2024</span>
-<a href="/articles/festibal/ypodehomaste-gia-akoma-mia-hronia-pagkyprio-vegan-fam-festival">
-<span class="title">Yποδεχόμαστε για ακόμα μια χρονιά το παγκύπριο Vegan Fam Festival </span>
 </a>
 </span>
 </span></div>]]></content>
