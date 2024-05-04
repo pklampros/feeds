@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-04T05:33:03.132Z</updated>
+    <updated>2024-05-04T17:32:44.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Δείτε ένα ντοκιμαντέρ με πασχαλινά έθιμα από το 1973 (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/deite-ena-ntokimanter-me-pashalina-ethima-apo-1973</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/deite-ena-ntokimanter-me-pashalina-ethima-apo-1973"/>
+        <updated>2024-05-04T17:32:43.453Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/deite-ena-ntokimanter-me-pashalina-ethima-apo-1973"> <img src="/sites/default/files/styles/featured_articles/public/2024-05/flaouna.jpg?h=5a42555b&amp;itok=Ka-WYWFK" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/istories/deite-ena-ntokimanter-me-pashalina-ethima-apo-1973">Δείτε ένα ντοκιμαντέρ με πασχαλινά έθιμα από το 1973 </a></span>
+<span>
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aποτελεί άραγε “old news” o παραδοσιακός τρόπος οδηγήματος; (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/apotelei-arage-old-news-o-paradosiakos-tropos-odigimatos</id>
@@ -243,24 +257,52 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο Ιησούς από τη Ναζαρέτ: 10 πράγματα που δεν ξέρατε για τη θρυλική σειρά (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/o-iisoys-apo-ti-nazaret-10-pragmata-poy-den-xerate-gia-ti-thryliki-seira</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/o-iisoys-apo-ti-nazaret-10-pragmata-poy-den-xerate-gia-ti-thryliki-seira"/>
-        <updated>2024-04-30T17:32:53.039Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/o-iisoys-apo-ti-nazaret-10-pragmata-poy-den-xerate-gia-ti-thryliki-seira"> <img src="/sites/default/files/styles/featured_articles/public/2024-04/jesus_of_nazareth.jpg?h=ae3c4d9e&amp;itok=2YdnVFET" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/istories/o-iisoys-apo-ti-nazaret-10-pragmata-poy-den-xerate-gia-ti-thryliki-seira">Ο Ιησούς από τη Ναζαρέτ: 10 πράγματα που δεν ξέρατε για τη θρυλική σειρά</a></span>
-<span>
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-04T17:32:43.330Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">DISCOVER CYPRUS</span>
+<span class="created">04 May 2024</span>
+<a href="/articles/discover-cyprus/xerete-poy-brisketai-ayto-ekklisaki-i-diadromi-pros-monastiri-apotelei-mia">
+<span class="title">Ξέρετε που βρίσκεται αυτό το εκκλησάκι; Η διαδρομή προς το μοναστήρι αποτελεί μια περιπέτεια!</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-04T05:33:02.305Z</updated>
+        <updated>2024-05-04T17:32:43.330Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+<span class="created">04 May 2024</span>
+<a href="/articles/nea/istories/deite-ena-ntokimanter-me-pashalina-ethima-apo-1973">
+<span class="title">Δείτε ένα ντοκιμαντέρ με πασχαλινά έθιμα από το 1973 </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-04T17:32:43.332Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+<span class="created">04 May 2024</span>
+<a href="/articles/vodcast/3-elies-tzai-mian-tomata/gennietai-i-diasimi-ithopoios-ontrei-hepmporn">
+<span class="title">Γεννιέται η διάσημη ηθοποιός Όντρεϊ Χέπμπορν</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-04T17:32:43.333Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">CINEMA</span>
 <span class="created">03 May 2024</span>
@@ -274,54 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-04T05:33:02.307Z</updated>
+        <updated>2024-05-04T17:32:43.335Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">03 May 2024</span>
 <a href="/articles/nea/apotelei-arage-old-news-o-paradosiakos-tropos-odigimatos">
 <span class="title">Aποτελεί άραγε “old news” o παραδοσιακός τρόπος οδηγήματος; </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-04T05:33:02.308Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">03 May 2024</span>
-<a href="/articles/exodos/skefteste-ti-na-kanete-sabbatokyriako-ehoyme-merikes-protaseis-gia-sas">
-<span class="title">Σκέφτεστε τι να κάνετε το σαββατοκύριακο; Έχουμε μερικές προτάσεις για σας! </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-04T05:33:02.308Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">03 May 2024</span>
-<a href="/articles/exodos/psahnete-poy-na-pate-gia-pashalina-paihnidia-me-ta-paidia-sas">
-<span class="title">Ψάχνετε που να πάτε για πασχαλινά παιχνίδια με τα παιδιά σας; </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-04T05:33:02.310Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΧΩΡΙΑ</span>
-<span class="created">03 May 2024</span>
-<a href="/articles/discover-cyprus/horia/41-horia-poy-tha-sas-kanoyn-na-niosete-pasha">
-<span class="title">4+1 χωριά που θα σας κάνουν να «νιώσετε» Πάσχα </span>
 </a>
 </span>
 </span></div>]]></content>
