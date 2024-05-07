@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-07T05:32:51.327Z</updated>
+    <updated>2024-05-07T17:32:42.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Γεννιέται ο μεγάλος Ρώσος συνθέτης κλασικής μουσικής, Τσαϊκόφσκι (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/gennietai-o-megalos-rosos-synthetis-klasikis-moysikis-tsaikofski</id>
+        <link href="https://avant-garde.com.cy/articles/nea/gennietai-o-megalos-rosos-synthetis-klasikis-moysikis-tsaikofski"/>
+        <updated>2024-05-07T17:32:41.655Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/gennietai-o-megalos-rosos-synthetis-klasikis-moysikis-tsaikofski"> <img src="/sites/default/files/styles/featured_articles/public/2024-05/1_102.jpg?h=43594a01&amp;itok=Kk9shIar" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/gennietai-o-megalos-rosos-synthetis-klasikis-moysikis-tsaikofski">Γεννιέται ο μεγάλος Ρώσος συνθέτης κλασικής μουσικής, Τσαϊκόφσκι</a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το 1889 ανοίγει ο Πύργος του Άιφελ για το κοινό (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/1889-anoigei-o-pyrgos-toy-aifel-gia-koino</id>
@@ -243,24 +257,52 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πραγματοποιήθηκε η δεύτερη πρόβα της Κύπρου με την Σίλια Καψή για την Eurovision 2024 (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pragmatopoiithike-i-deyteri-proba-tis-kyproy-me-tin-silia-kapsi-gia-tin</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pragmatopoiithike-i-deyteri-proba-tis-kyproy-me-tin-silia-kapsi-gia-tin"/>
-        <updated>2024-05-01T17:32:41.961Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/pragmatopoiithike-i-deyteri-proba-tis-kyproy-me-tin-silia-kapsi-gia-tin"> <img src="/sites/default/files/styles/featured_articles/public/2024-05/010524_alma-bengtsson-ebu_3722.jpg?h=56d0ca2e&amp;itok=42Dkm-4Z" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/pragmatopoiithike-i-deyteri-proba-tis-kyproy-me-tin-silia-kapsi-gia-tin">Πραγματοποιήθηκε η δεύτερη πρόβα της Κύπρου με την Σίλια Καψή για την Eurovision 2024</a></span>
-<span>
-<span class="channel">NEWS</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-07T17:32:41.558Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">07 May 2024</span>
+<a href="/articles/exodos/moysiki/etoimasteite-gia-ena-preparty-tis-synaylias-ton-truckfighters-kai-stonus">
+<span class="title">Ετοιμαστείτε για ένα Preparty της συναυλίας των Truckfighters και Stonus </span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-07T05:32:50.434Z</updated>
+        <updated>2024-05-07T17:32:41.558Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">07 May 2024</span>
+<a href="/articles/exodos/moysiki/downtown-live-anakoinose-merikes-apo-tis-synaylies-toy-kalokairioy">
+<span class="title">Το DownTown Live ανακοίνωσε μερικές από τις συναυλίες του καλοκαιριού</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-07T17:32:41.559Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΝΕΑ</span>
+<span class="created">07 May 2024</span>
+<a href="/articles/nea/gennietai-o-megalos-rosos-synthetis-klasikis-moysikis-tsaikofski">
+<span class="title">Γεννιέται ο μεγάλος Ρώσος συνθέτης κλασικής μουσικής, Τσαϊκόφσκι</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-05-07T17:32:41.559Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">06 May 2024</span>
@@ -274,54 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-07T05:32:50.440Z</updated>
+        <updated>2024-05-07T17:32:41.560Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">06 May 2024</span>
 <a href="/articles/exodos/fooddrink/41-psarotabernes-pano-sto-kyma">
 <span class="title">4+1 ψαροταβέρνες πάνω στο κύμα</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-07T05:32:50.440Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">05 May 2024</span>
-<a href="/articles/nea/news/eurovision-2024-ayti-i-hora-theoreitai-fabori-gia-fetos">
-<span class="title">Eurovision 2024: Αυτή η χώρα θεωρείται φαβορί για φέτος</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-07T05:32:50.440Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">05 May 2024</span>
-<a href="/articles/nea/news/eurovision-ellinikes-symmetohes-poy-afisan-istoria">
-<span class="title">Eurovision: Ελληνικές συμμετοχές που άφησαν ιστορία</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-05-07T05:32:50.440Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">05 May 2024</span>
-<a href="/articles/nea/giortazetai-i-pagkosmia-imera-gelioy">
-<span class="title">Γιορτάζεται η Παγκόσμια Ημέρα Γέλιου</span>
 </a>
 </span>
 </span></div>]]></content>
