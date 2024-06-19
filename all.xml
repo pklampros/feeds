@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T05:34:55.042Z</updated>
+    <updated>2024-06-19T17:32:54.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Αυτά τα μανιτάρια ονομάζονται.. “Δάκτυλα Νεκρού” (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/ayta-ta-manitaria-onomazontai-daktyla-nekroy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/ayta-ta-manitaria-onomazontai-daktyla-nekroy"/>
+        <updated>2024-06-19T17:32:53.974Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/ayta-ta-manitaria-onomazontai-daktyla-nekroy"> <img src="/sites/default/files/styles/featured_articles/public/2024-06/448125303_880931453871104_3925975528098453087_n.jpg?h=aa8b1332&amp;itok=3ayeleSd" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/ayta-ta-manitaria-onomazontai-daktyla-nekroy">Αυτά τα μανιτάρια ονομάζονται.. “Δάκτυλα Νεκρού”</a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 συμβουλές για το καλοκαιρινό σας ταξίδι (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/5-symboyles-gia-kalokairino-sas-taxidi</id>
@@ -243,29 +257,15 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πορτοκαλί συναγερμός για αύριο με σκόνη και 43αρια (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/portokali-synagermos-gia-ayrio-me-skoni-kai-43aria</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/portokali-synagermos-gia-ayrio-me-skoni-kai-43aria"/>
-        <updated>2024-06-12T17:33:21.781Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/portokali-synagermos-gia-ayrio-me-skoni-kai-43aria"> <img src="/sites/default/files/styles/featured_articles/public/2024-06/screenshot_2024-06-12_at_7.34.25_pm.png?h=72d2680d&amp;itok=f0PfEZ6n" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/portokali-synagermos-gia-ayrio-me-skoni-kai-43aria">Πορτοκαλί συναγερμός για αύριο με σκόνη και 43αρια</a></span>
-<span>
-<span class="channel">NEWS</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-19T05:34:54.188Z</updated>
+        <updated>2024-06-19T17:32:53.846Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">18 Jun 2024</span>
-<a href="/articles/nea/news/5-symboyles-gia-kalokairino-sas-taxidi">
-<span class="title">5 συμβουλές για το καλοκαιρινό σας ταξίδι</span>
+<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="created">19 Jun 2024</span>
+<a href="/articles/festibal/o-nikos-makropoylos-tha-timisei-fetino-festibal-haloymioy-tis-droyseias">
+<span class="title">O Νίκος Μακρόπουλος θα τιμήσει το φετινό Φεστιβάλ Χαλουμιού της Δρούσειας</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -274,12 +274,40 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-19T05:34:54.190Z</updated>
+        <updated>2024-06-19T17:32:53.847Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+<span class="created">19 Jun 2024</span>
+<a href="/articles/vodcast/3-elies-tzai-mian-tomata/sabbas-hatzixenofontos-se-neari-ilikia-anarotiomoyn-pos">
+<span class="title">Σάββας Χατζηξενοφώντος: «Σε νεαρή ηλικία αναρωτιόμουν πώς μπορώ να εκμεταλλευτώ τη δύναμη των…</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-06-19T17:32:53.852Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">19 Jun 2024</span>
+<a href="/articles/exodos/theatrohoros/erhetai-i-theatriki-parastasi-foinisses-toy-eyripidi-apo-ton-thok">
+<span class="title">Έρχεται η θεατρική παράσταση «Φοίνισσες» του Ευριπίδη από τον ΘΟΚ</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-06-19T17:32:53.853Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
-<span class="created">18 Jun 2024</span>
-<a href="/articles/nea/festivals-unveiled-neo-vodcast-series-tis-avant-garde-poy-tha-mas-taxideyei-se-ola-ta">
-<span class="title">«Festivals Unveiled»: Το νέο vodcast series της Avant-Garde που θα μας ταξιδεύει σε όλα τα…</span>
+<span class="created">19 Jun 2024</span>
+<a href="/articles/nea/ayta-ta-manitaria-onomazontai-daktyla-nekroy">
+<span class="title">Αυτά τα μανιτάρια ονομάζονται.. “Δάκτυλα Νεκρού”</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -288,40 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-19T05:34:54.190Z</updated>
+        <updated>2024-06-19T17:32:53.853Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">18 Jun 2024</span>
-<a href="/articles/nea/news/i-dania-aposyrei-proionta-ramen-soypas-epeidi-einai-poly-kaytera-gia-toys-polites">
-<span class="title">Η Δανία αποσύρει προϊόντα ramen σούπας επειδή είναι πολύ καυτερά για τους πολίτες</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-19T05:34:54.190Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">18 Jun 2024</span>
-<a href="/articles/nea/news/ti-parakoloythoyn-oi-kyprioi-sto-netflix">
-<span class="title">Τι παρακολουθούν οι Κύπριοι στο Netflix</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-19T05:34:54.190Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">18 Jun 2024</span>
-<a href="/articles/exodos/o-monadikos-kosmos-toy-afrobanana-xediplonetai-sta-leykara-apo-tis-4-mehri-tis-7">
-<span class="title">Ο μοναδικός κόσμος του AfroBanana ξεδιπλώνεται στα Λεύκαρα από τις 4 μέχρι τις 7 Ιουλίου</span>
+<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="created">19 Jun 2024</span>
+<a href="/articles/festibal/erhetai-windcraft-music-fest-kai-giortazei-ta-dekahrona-toy">
+<span class="title">Έρχεται το Windcraft Music Fest και γιορτάζει τα δεκάχρονά του</span>
 </a>
 </span>
 </span></div>]]></content>
