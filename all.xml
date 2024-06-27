@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-26T17:32:43.985Z</updated>
+    <updated>2024-06-27T05:34:20.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Κιτρινη προειδοποίηση: Στα ύψη και πάλι ο υδράργυρος (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros</id>
+        <link href="https://avant-garde.com.cy/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros"/>
+        <updated>2024-06-26T17:32:43.236Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros"> <img src="/sites/default/files/styles/featured_articles/public/2024-06/weather2.jpg?h=57024e64&amp;itok=j_7fMGxc" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros">Κιτρινη προειδοποίηση: Στα ύψη και πάλι ο υδράργυρος </a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αποκαλύφθηκε το trailer της ταινίας 'Find me Falling', της πρώτης Κυπριακής ταινίας στο… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/apokalyfthike-trailer-tis-tainias-find-me-falling-tis-protis-kypriakis-tainias</id>
@@ -29,20 +43,6 @@
 <span class="title"><a href="/articles/nea/news/giortase-ta-7hrona-toy-coffeehouse-nicosia-central">Γιόρτασε τα 7χρονα του το COFFEEHOUSE Nicosia Central</a></span>
 <span>
 <span class="channel">NEWS</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Κιτρινη προειδοποίηση: Στα ύψη και πάλι ο υδράργυρος (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros</id>
-        <link href="https://avant-garde.com.cy/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros"/>
-        <updated>2024-06-26T17:32:43.236Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros"> <img src="/sites/default/files/styles/featured_articles/public/2024-06/weather2.jpg?h=57024e64&amp;itok=j_7fMGxc" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros">Κιτρινη προειδοποίηση: Στα ύψη και πάλι ο υδράργυρος </a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
 </span>
 </span></span></div>]]></content>
     </entry>
@@ -260,7 +260,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-26T17:32:43.133Z</updated>
+        <updated>2024-06-27T05:34:19.022Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΝΕΑ</span>
+<span class="created">26 Jun 2024</span>
+<a href="/articles/nea/kitrini-proeidopoiisi-sta-ypsi-kai-pali-o-ydrargyros">
+<span class="title">Κιτρινη προειδοποίηση: Στα ύψη και πάλι ο υδράργυρος </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-06-27T05:34:19.022Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">26 Jun 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-26T17:32:43.135Z</updated>
+        <updated>2024-06-27T05:34:19.023Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">26 Jun 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-26T17:32:43.135Z</updated>
+        <updated>2024-06-27T05:34:19.023Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">26 Jun 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-26T17:32:43.135Z</updated>
+        <updated>2024-06-27T05:34:19.023Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
 <span class="created">26 Jun 2024</span>
 <a href="/articles/exodos/fooddrink/mia-taberna-stin-pafo-mageireyei-kathimerina-oti-psareyei-o-sef-tis">
 <span class="title">Μία ταβέρνα στην Πάφο μαγειρεύει καθημερινά ό,τι ψαρεύει ο σεφ της</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-06-26T17:32:43.135Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">CINEMA</span>
-<span class="created">26 Jun 2024</span>
-<a href="/articles/exodos/cinema/pame-gia-therino-sinema-se-ena-parko-me-aionobia-elaiodentra">
-<span class="title">Πάμε για Θερινό Σινεμά σε ένα πάρκο με Αιωνόβια Ελαιόδεντρα </span>
 </a>
 </span>
 </span></div>]]></content>
