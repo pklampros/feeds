@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-02T17:32:56.830Z</updated>
+    <updated>2024-07-03T05:33:22.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Αυτό το νησί ανάμεσα στα καλύτερα νησιά της Ευρώπης (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ayto-nisi-anamesa-sta-kalytera-nisia-tis-eyropis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ayto-nisi-anamesa-sta-kalytera-nisia-tis-eyropis"/>
+        <updated>2024-07-03T05:33:21.729Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/ayto-nisi-anamesa-sta-kalytera-nisia-tis-eyropis"> <img src="/sites/default/files/styles/featured_articles/public/2024-07/5.jpeg?h=9dfc49d3&amp;itok=LOtP-4Bg" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/ayto-nisi-anamesa-sta-kalytera-nisia-tis-eyropis">Αυτό το νησί ανάμεσα στα καλύτερα νησιά της Ευρώπης</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Μια βραδιά με cheese and wine pairing στο L'Atelier Robuchon (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/mia-bradia-me-cheese-and-wine-pairing-sto-latelier-robuchon</id>
@@ -243,24 +257,38 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Epic Street Fest βάζει τα καλοκαιρινά του και επιστρέφει στην παλιά Λευκωσία (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/epic-street-fest-bazei-ta-kalokairina-toy-kai-epistrefei-stin-palia-leykosia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/epic-street-fest-bazei-ta-kalokairina-toy-kai-epistrefei-stin-palia-leykosia"/>
-        <updated>2024-06-27T17:33:51.044Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/epic-street-fest-bazei-ta-kalokairina-toy-kai-epistrefei-stin-palia-leykosia"> <img src="/sites/default/files/styles/featured_articles/public/2024-06/epic_street_fest.jpg?h=827069f2&amp;itok=J-svZ6jH" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/epic-street-fest-bazei-ta-kalokairina-toy-kai-epistrefei-stin-palia-leykosia">Το Epic Street Fest βάζει τα καλοκαιρινά του και επιστρέφει στην παλιά Λευκωσία</a></span>
-<span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-07-03T05:33:21.592Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
+<span class="created">02 Jul 2024</span>
+<a href="/articles/nea/news/ayto-nisi-anamesa-sta-kalytera-nisia-tis-eyropis">
+<span class="title">Αυτό το νησί ανάμεσα στα καλύτερα νησιά της Ευρώπης</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-02T17:32:55.958Z</updated>
+        <updated>2024-07-03T05:33:21.592Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">02 Jul 2024</span>
+<a href="/articles/exodos/theatrohoros/kthbe-paroysiazei-ton-ployto-sto-diethnes-festibal-arhaioy-dramatos">
+<span class="title">Το ΚΘΒΕ παρουσιάζει τον "Πλούτο" στο Διεθνές Φεστιβάλ Αρχαίου Δράματος 2024</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-07-03T05:33:21.592Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΚΤΟΣ</span>
 <span class="created">02 Jul 2024</span>
@@ -274,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-02T17:32:55.959Z</updated>
+        <updated>2024-07-03T05:33:21.593Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">02 Jul 2024</span>
@@ -288,40 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-02T17:32:55.962Z</updated>
+        <updated>2024-07-03T05:33:21.596Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">02 Jul 2024</span>
 <a href="/articles/exodos/eleni-rantoy-i-agapimeni-ithopoios-epistrefei-stin-kypro-me-tin-kathilotiki-tis">
 <span class="title">Ελένη Ράντου: Η αγαπημένη ηθοποιός επιστρέφει στην Κύπρο με την καθηλωτική της παράσταση!</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-02T17:32:55.962Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">02 Jul 2024</span>
-<a href="/articles/nea/news/mia-bradia-me-cheese-and-wine-pairing-sto-latelier-robuchon">
-<span class="title">Μια βραδιά με cheese and wine pairing στο L'Atelier Robuchon </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-02T17:32:55.963Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">CINEMA</span>
-<span class="created">02 Jul 2024</span>
-<a href="/articles/exodos/cinema/xekina-o-marathonios-probolon-therinoy-kinimatografoy-konstantia">
-<span class="title">Ξεκινά ο μαραθώνιος προβολών Θερινού Κινηματογράφου «Κωνστάντια»</span>
 </a>
 </span>
 </span></div>]]></content>
