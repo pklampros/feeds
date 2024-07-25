@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T17:32:48.353Z</updated>
+    <updated>2024-07-25T05:33:10.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Γιατί ο Μίλαν Τραΐκοβιτς έπρεπε να μας θυμίσει ότι είναι Κύπριος; (Avant-Guarde Cyprus)]]></title>
@@ -260,7 +260,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-24T17:32:47.492Z</updated>
+        <updated>2024-07-25T05:33:09.737Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">24 Jul 2024</span>
+<a href="/articles/exodos/apolayste-tainia-krasi-kai-kalokairini-diathesi-kato-apo-ta-asteria">
+<span class="title">Απολαύστε ταινία, κρασί και καλοκαιρινή διάθεση κάτω από τα αστέρια</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-07-25T05:33:09.738Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">24 Jul 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-24T17:32:47.493Z</updated>
+        <updated>2024-07-25T05:33:09.739Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΧΩΡΙΑ</span>
 <span class="created">24 Jul 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-24T17:32:47.495Z</updated>
+        <updated>2024-07-25T05:33:09.741Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">24 Jul 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-24T17:32:47.499Z</updated>
+        <updated>2024-07-25T05:33:09.768Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">24 Jul 2024</span>
 <a href="/articles/exodos/pame-gia-xxx-sto-neo-talk-island">
 <span class="title">Πάμε για XXX στο νέο talk of the island! </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-24T17:32:47.503Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">24 Jul 2024</span>
-<a href="/articles/nea/parisi-oi-olympiakoi-kykloi-stopn-pyrgo-toy-aifel-eginan-6">
-<span class="title">Παρίσι: Οι Ολυμπιακοί Κύκλοι στον Πύργο του Άιφελ έγιναν 6 </span>
 </a>
 </span>
 </span></div>]]></content>
