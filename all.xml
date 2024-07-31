@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-31T05:32:31.276Z</updated>
+    <updated>2024-07-31T17:33:50.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Υπάρχει ένα πιάτο που δεν πρέπει να παραγγείλετε ποτέ σ’ εστιατόριο, σύμφωνα με τον Gordon Ramsay (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/yparhei-ena-piato-poy-den-prepei-na-paraggeilete-pote-s-estiatorio-symfona-me-ton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/yparhei-ena-piato-poy-den-prepei-na-paraggeilete-pote-s-estiatorio-symfona-me-ton"/>
+        <updated>2024-07-31T17:33:49.657Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/yparhei-ena-piato-poy-den-prepei-na-paraggeilete-pote-s-estiatorio-symfona-me-ton"> <img src="/sites/default/files/styles/featured_articles/public/2024-07/gordon.jpg?h=dc29584d&amp;itok=0GHrn4Se" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/yparhei-ena-piato-poy-den-prepei-na-paraggeilete-pote-s-estiatorio-symfona-me-ton">Υπάρχει ένα πιάτο που δεν πρέπει να παραγγείλετε ποτέ σ’ εστιατόριο, σύμφωνα με τον Gordon Ramsay</a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Καρχαρίες ανοιχτά της Βραζιλίας βρέθηκαν θετικοί σε κοκαΐνη (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/karharies-anoihta-tis-brazilias-brethikan-thetikoi-se-kokaini</id>
@@ -243,29 +257,15 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τρεις Φοιτήτριες και Μια Απόφοιτη του Πανεπιστημίου Λευκωσίας στους Ολυμπιακούς του Παρισιού 2024 (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/treis-foititries-kai-mia-apofoiti-toy-panepistimioy-leykosias-stoys-olympiakoys</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/treis-foititries-kai-mia-apofoiti-toy-panepistimioy-leykosias-stoys-olympiakoys"/>
-        <updated>2024-07-25T17:33:14.547Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/treis-foititries-kai-mia-apofoiti-toy-panepistimioy-leykosias-stoys-olympiakoys"> <img src="/sites/default/files/styles/featured_articles/public/2024-07/olympians_hd_v2.jpg?h=d1cb525d&amp;itok=9g8gbLuN" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/treis-foititries-kai-mia-apofoiti-toy-panepistimioy-leykosias-stoys-olympiakoys">Τρεις Φοιτήτριες και Μια Απόφοιτη του Πανεπιστημίου Λευκωσίας στους Ολυμπιακούς του Παρισιού 2024</a></span>
-<span>
-<span class="channel">NEWS</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-31T05:32:30.431Z</updated>
+        <updated>2024-07-31T17:33:49.538Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">30 Jul 2024</span>
-<a href="/articles/nea/karharies-anoihta-tis-brazilias-brethikan-thetikoi-se-kokaini">
-<span class="title">Καρχαρίες ανοιχτά της Βραζιλίας βρέθηκαν θετικοί σε κοκαΐνη</span>
+<span class="channel">ΠΡΟΣΩΠΑ</span>
+<span class="created">31 Jul 2024</span>
+<a href="/articles/prosopa/pan-dragomir-theo-blue-miloyn-apokleistika-stin-ag-gia-ti-filia-toys-kai">
+<span class="title">Pan Dragomir-Theo Blue: Μιλούν αποκλειστικά στην AG για τη φιλία τους και αποκαλύπτουν πόσο καλά…</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -274,12 +274,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-31T05:32:30.431Z</updated>
+        <updated>2024-07-31T17:33:49.541Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
-<span class="created">30 Jul 2024</span>
-<a href="/articles/prosopa/synenteyxeis/5-kyprioi-kai-xenoi-skinothetes-mas-miloyn-gia-ta-erga-toys-sto">
-<span class="title">5 Κύπριοι και ξένοι σκηνοθέτες μάς μιλούν για τα έργα τους στο Διεθνές Φεστιβάλ Ντοκιμαντέρ Λεμεσού </span>
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">31 Jul 2024</span>
+<a href="/articles/exodos/oneirodiadromes-leykaron-mia-mera-gemati-moysiki-horo-kai-fagito">
+<span class="title">Ονειροδιαδρομές Λευκάρων: Μια μέρα γεμάτη μουσική, χορό και φαγητό</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -288,12 +288,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-31T05:32:30.432Z</updated>
+        <updated>2024-07-31T17:33:49.541Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">30 Jul 2024</span>
-<a href="/articles/exodos/moysiki/h-marina-satti-epistrefei-sto-nisi-gia-dyo-synaylies">
-<span class="title">H Μαρίνα Σάττι επιστρέφει στο νησί για δύο συναυλίες</span>
+<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+<span class="created">31 Jul 2024</span>
+<a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tziai-mian-tomatan-o-gallos-street-artist">
+<span class="title"> «Τρεις ελιές τζιαι μιάν τομάταν»: Ο Γάλλος street artist “Seth” μιλά για την τέχνη της…</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -302,26 +302,26 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-31T05:32:30.451Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">30 Jul 2024</span>
-<a href="/articles/nea/h-digital-tree-anakoinonei-synergasia-me-periodiko-akiniton-proper-property">
-<span class="title">H Digital Tree ανακοινώνει συνεργασία με το περιοδικό Ακινήτων, Proper Property</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-07-31T05:32:30.454Z</updated>
+        <updated>2024-07-31T17:33:49.542Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">FOOD/DRINK</span>
-<span class="created">30 Jul 2024</span>
-<a href="/articles/exodos/fooddrink/i-viral-laba-fystikioy-irthe-epiteloys-stin-kypro">
-<span class="title">Η viral λάβα φυστικιού ήρθε επιτέλους στην Κύπρο</span>
+<span class="created">31 Jul 2024</span>
+<a href="/articles/exodos/fooddrink/vala-beach-club-koryfaio-kosmopolitiko-steki-tis-agias-napas-me-polyteli">
+<span class="title">Vala Beach Club: Το κορυφαίο κοσμοπολίτικο στέκι της Αγίας Νάπας με πολυτελή All Day Concept</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-07-31T17:33:49.546Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="created">31 Jul 2024</span>
+<a href="/articles/festibal/antiskino-2024-anakoinothike-programma-toy-festibal">
+<span class="title">Αντίσκηνο 2024: Ανακοινώθηκε το πρόγραμμα του φεστιβάλ</span>
 </a>
 </span>
 </span></div>]]></content>
