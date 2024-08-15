@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-08-15T05:33:32.087Z</updated>
+    <updated>2024-08-15T17:32:56.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -261,7 +261,35 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-08-15T05:33:31.138Z</updated>
+        <updated>2024-08-15T17:32:55.659Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΔΡΟΜΕΣ</span>
+<span class="created">15 Aug 2024</span>
+<a href="/articles/discover-cyprus/ekdromes/pame-ekdromi-ston-kato-mylo-me-aformi-festibal-rodakinoy">
+<span class="title">Πάμε εκδρομή στον Κάτω Μύλο με αφορμή το φεστιβάλ Ροδάκινου </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-08-15T17:32:55.664Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">15 Aug 2024</span>
+<a href="/articles/exodos/moysiki/o-miltos-pashalidis-kai-o-giannis-kotsiras-gia-mia-synaylia-stin-kypro">
+<span class="title">Ο Μίλτος Πασχαλίδης και ο Γιάννης Κότσιρας για μια συναυλία στην Κύπρο</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-08-15T17:32:55.664Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">14 Aug 2024</span>
@@ -272,10 +300,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-08-15T05:33:31.138Z</updated>
+        <updated>2024-08-15T17:32:55.664Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">14 Aug 2024</span>
@@ -286,43 +314,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-08-15T05:33:31.138Z</updated>
+        <updated>2024-08-15T17:32:55.664Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">14 Aug 2024</span>
 <a href="/articles/nea/news/titloi-teloys-gia-mpiraria-stin-kardia-tis-leykosias">
 <span class="title">Τίτλοι τέλους για μπιραρία στην καρδιά της Λευκωσίας</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-08-15T05:33:31.151Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">FOOD/DRINK</span>
-<span class="created">14 Aug 2024</span>
-<a href="/articles/exodos/fooddrink/pizza-box-i-nea-afixi-ston-kathika-me-spitiki-pitsa">
-<span class="title">Pizza Box: Η νέα άφιξη στον Κάθηκα με σπιτική πίτσα</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-08-15T05:33:31.152Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
-<span class="created">14 Aug 2024</span>
-<a href="/articles/prosopa/synenteyxeis/10-hronia-monadika-hamogela-i-istoria-kai-orama-enos-syndesmoy-poy">
-<span class="title">10 Χρόνια «Μοναδικά Χαμόγελα»: Η ιστορία και το όραμα ενός συνδέσμου που αλλάζει ζωές</span>
 </a>
 </span>
 </span></div>]]></content>
