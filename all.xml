@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-01T05:34:05.662Z</updated>
+    <updated>2024-09-01T17:32:42.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Καρολίνα Πελενδρίτου: Κατέκτησε το αργυρό μετάλλιο στους Παραολυμπιακούς Αγώνες (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/karolina-pelendritoy-katektise-argyro-metallio-stoys-paraolympiakoys-agones</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/karolina-pelendritoy-katektise-argyro-metallio-stoys-paraolympiakoys-agones"/>
+        <updated>2024-09-01T17:32:42.013Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/karolina-pelendritoy-katektise-argyro-metallio-stoys-paraolympiakoys-agones"> <img src="/sites/default/files/styles/featured_articles/public/2024-09/karolina_pelendritou_photo_2.2e16d0ba.fill-1600x900.jpg?h=43594a01&amp;itok=qvWzChJ7" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/karolina-pelendritoy-katektise-argyro-metallio-stoys-paraolympiakoys-agones">Καρολίνα Πελενδρίτου: Κατέκτησε το αργυρό μετάλλιο στους Παραολυμπιακούς Αγώνες </a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix – Ψίμυθος: Η διάσημη πλατφόρμα… τρολάρει (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/netflix-psimythos-i-diasimi-platforma-trolarei</id>
@@ -243,24 +257,52 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Νέες θέσεις διαθέσιμες για τη συναυλία του Bryan Adams στην Κύπρο (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/nees-theseis-diathesimes-gia-ti-synaylia-toy-bryan-adams-stin-kypro</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/nees-theseis-diathesimes-gia-ti-synaylia-toy-bryan-adams-stin-kypro"/>
-        <updated>2024-08-26T17:34:35.272Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/nees-theseis-diathesimes-gia-ti-synaylia-toy-bryan-adams-stin-kypro"> <img src="/sites/default/files/styles/featured_articles/public/2023-09/bryan-adams_2.jpg?h=c9c104e5&amp;itok=5kBARRkr" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/news/nees-theseis-diathesimes-gia-ti-synaylia-toy-bryan-adams-stin-kypro">Νέες θέσεις διαθέσιμες για τη συναυλία του Bryan Adams στην Κύπρο</a></span>
-<span>
-<span class="channel">NEWS</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-01T17:32:41.876Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">01 Sep 2024</span>
+<a href="/articles/exodos/biomatiko-ergastiri-aggeioplastikis-sto-foini">
+<span class="title"> Βιωματικό εργαστήρι αγγειοπλαστικής στο Φοινί</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-01T05:34:04.870Z</updated>
+        <updated>2024-09-01T17:32:41.877Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="created">01 Sep 2024</span>
+<a href="/articles/festibal/giorti-paloyze-me-dorean-apolaysi-ston-agio-ambrosio">
+<span class="title">Γιορτή παλουζέ με δωρεάν απόλαυση στον Άγιο Αμβρόσιο</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-01T17:32:41.877Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">01 Sep 2024</span>
+<a href="/articles/nea/news/karolina-pelendritoy-katektise-argyro-metallio-stoys-paraolympiakoys-agones">
+<span class="title">Καρολίνα Πελενδρίτου: Κατέκτησε το αργυρό μετάλλιο στους Παραολυμπιακούς Αγώνες </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-01T17:32:41.877Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">31 Aug 2024</span>
@@ -274,54 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-01T05:34:04.871Z</updated>
+        <updated>2024-09-01T17:32:41.882Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">31 Aug 2024</span>
 <a href="/articles/nea/i-namimpia-tha-skotosei-perissotera-apo-700-agria-zoa-gia-na-antimetopisei-tin">
 <span class="title">Η Ναμίμπια θα σκοτώσει περισσότερα από 700 άγρια ζώα για να αντιμετωπίσει την επισιτιστική…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-01T05:34:04.873Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">31 Aug 2024</span>
-<a href="/articles/nea/netflix-psimythos-i-diasimi-platforma-trolarei">
-<span class="title">Netflix – Ψίμυθος: Η διάσημη πλατφόρμα… τρολάρει</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-01T05:34:04.874Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΕΣΤΙΒΑΛ</span>
-<span class="created">31 Aug 2024</span>
-<a href="/articles/festibal/erhetai-53o-festibal-tsakistis-elias-sto-tseri">
-<span class="title">Έρχεται το 53ο Φεστιβάλ Τσακιστής Ελιάς στο Τσέρι </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-01T05:34:04.875Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-<span class="created">30 Aug 2024</span>
-<a href="/articles/exodos/fagitopoto/kanones-kalis-symperiforas-sto-trapezi-i-tehni-toy-fine-dining">
-<span class="title">Κανόνες καλής συμπεριφοράς στο τραπέζι: Η τέχνη του Fine Dining</span>
 </a>
 </span>
 </span></div>]]></content>
