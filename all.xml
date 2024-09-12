@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-11T17:33:37.477Z</updated>
+    <updated>2024-09-12T05:34:29.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[«Το μόνο φεγγάρι που μίσησα»: Ένα τραγούδι αφιερωμένο στην Κύπρο (Avant-Guarde Cyprus)]]></title>
@@ -260,7 +260,21 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-11T17:33:36.615Z</updated>
+        <updated>2024-09-12T05:34:28.722Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+<span class="created">11 Sep 2024</span>
+<a href="/articles/exodos/exormiseis/aytos-einai-o-kalyteros-proorismos-ston-kosmo-gia-solo-travelling">
+<span class="title">Αυτός είναι ο καλύτερος προορισμός στον κόσμο για solo travelling</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-12T05:34:28.723Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">11 Sep 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-11T17:33:36.620Z</updated>
+        <updated>2024-09-12T05:34:28.725Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">11 Sep 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-11T17:33:36.620Z</updated>
+        <updated>2024-09-12T05:34:28.726Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">NEWS</span>
 <span class="created">11 Sep 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-11T17:33:36.622Z</updated>
+        <updated>2024-09-12T05:34:28.727Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΠΡΟΣΩΠΑ</span>
 <span class="created">11 Sep 2024</span>
 <a href="/articles/prosopa/alhimistes-kainotomias-project-managers-eyropaika-erga-epiheirimatikotita">
 <span class="title">Αλχημιστές Καινοτομίας: Project Managers, Ευρωπαϊκά Έργα &amp; Επιχειρηματικότητα</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-11T17:33:36.622Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">11 Sep 2024</span>
-<a href="/articles/nea/news/i-bentley-kyproy-metefere-ton-ed-sheeran-stis-synaylies-toy-me-apolyti-polyteleia">
-<span class="title">Η Bentley Κύπρου μετέφερε τον Ed Sheeran στις συναυλίες του με απόλυτη πολυτέλεια</span>
 </a>
 </span>
 </span></div>]]></content>
