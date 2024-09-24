@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-24T05:35:09.276Z</updated>
+    <updated>2024-09-24T17:35:16.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Παρουσίαση βιβλίου «Έρωτας στην Πόλη», ένα μυθιστόρημα του Περικλή Σπύρου (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/paroysiasi-biblioy-erotas-stin-poli-ena-mythistorima-toy-perikli-spyroy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/paroysiasi-biblioy-erotas-stin-poli-ena-mythistorima-toy-perikli-spyroy"/>
+        <updated>2024-09-24T17:35:15.769Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/paroysiasi-biblioy-erotas-stin-poli-ena-mythistorima-toy-perikli-spyroy"> <img src="/sites/default/files/styles/featured_articles/public/2024-09/periklis_erwtas_stin_poli.jpg?h=43594a01&amp;itok=nCe7eoKZ" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/paroysiasi-biblioy-erotas-stin-poli-ena-mythistorima-toy-perikli-spyroy"> Παρουσίαση βιβλίου «Έρωτας στην Πόλη», ένα μυθιστόρημα του Περικλή Σπύρου </a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Γη θα αποκτήσει ένα δεύτερο «μίνι φεγγάρι» αυτό το φθινόπωρο (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-gi-tha-apoktisei-ena-deytero-mini-feggari-ayto-fthinoporo</id>
@@ -243,29 +257,15 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η γοητεία που ασκεί το σκάκι σε καλλιτέχνες, μουσικούς και ηθοποιούς αναδεικνύεται σ'ένα νέο… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-goiteia-poy-askei-skaki-se-kallitehnes-moysikoys-kai-ithopoioys-anadeiknyetai-sena</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-goiteia-poy-askei-skaki-se-kallitehnes-moysikoys-kai-ithopoioys-anadeiknyetai-sena"/>
-        <updated>2024-09-17T17:33:43.621Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/i-goiteia-poy-askei-skaki-se-kallitehnes-moysikoys-kai-ithopoioys-anadeiknyetai-sena"> <img src="/sites/default/files/styles/featured_articles/public/2024-09/david_bowie.jpg?h=34c1658d&amp;itok=CMuLOZY-" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/i-goiteia-poy-askei-skaki-se-kallitehnes-moysikoys-kai-ithopoioys-anadeiknyetai-sena">Η γοητεία που ασκεί το σκάκι σε καλλιτέχνες, μουσικούς και ηθοποιούς αναδεικνύεται σ'ένα νέο…</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-24T05:35:08.282Z</updated>
+        <updated>2024-09-24T17:35:15.651Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">23 Sep 2024</span>
-<a href="/articles/nea/i-gi-tha-apoktisei-ena-deytero-mini-feggari-ayto-fthinoporo">
-<span class="title">Η Γη θα αποκτήσει ένα δεύτερο «μίνι φεγγάρι» αυτό το φθινόπωρο</span>
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">24 Sep 2024</span>
+<a href="/articles/exodos/theatrohoros/skakistiki-noybela-mia-prototypi-diaskeyi-toy-emblimatikoy">
+<span class="title">«Σκακιστική Νουβέλα»: Μια πρωτότυπη διασκευή του εμβληματικού μυθιστορήματος του Στέφαν Τσβάιχ</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -274,12 +274,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-24T05:35:08.283Z</updated>
+        <updated>2024-09-24T17:35:15.657Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΚΔΡΟΜΕΣ</span>
-<span class="created">23 Sep 2024</span>
-<a href="/articles/discover-cyprus/ekdromes/peraste-ena-eyharisto-proino-sabbatoy-me-ta-paidia-sas-sto-royal">
-<span class="title">Περάστε ένα ευχάριστο πρωινό Σαββάτου με τα παιδιά σας στο Royal Goat Farm, εξερευνώντας τη φύση…</span>
+<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+<span class="created">24 Sep 2024</span>
+<a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tzai-mian-tomatan-vodcast-tis-avant-garde">
+<span class="title">«Τρεις Ελιές τζαι μιάν Τομάταν»: Το vodcast της Avant Garde είναι πλέον διαθέσιμο στο Spotify </span>
 </a>
 </span>
 </span></div>]]></content>
@@ -288,40 +288,40 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-24T05:35:08.283Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-<span class="created">23 Sep 2024</span>
-<a href="/articles/exodos/fagitopoto/syrto-kleftiko-me-syntagi-100-hronon-edo-tha-geyteite-paradosiakes">
-<span class="title">Συρτό κλέφτικο με συνταγή 100 χρόνων: Εδώ θα γευτείτε παραδοσιακές γεύσεις που πάνε γενιές πίσω</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-24T05:35:08.285Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">DISCOVER CYPRUS</span>
-<span class="created">23 Sep 2024</span>
-<a href="/articles/discover-cyprus/pame-mia-diimeri-fthinoporini-apodrasi-stin-eparhia-pafoy">
-<span class="title">Πάμε μια διήμερη φθινοπωρινή απόδραση στην επαρχία Πάφου;</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-09-24T05:35:08.285Z</updated>
+        <updated>2024-09-24T17:35:15.657Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-<span class="created">23 Sep 2024</span>
-<a href="/articles/festibal/ena-aythentiko-germaniko-oktoberfest-erhetai-sto-maroni">
-<span class="title">Ένα αυθεντικό γερμανικό Oktoberfest έρχεται στο Μαρώνι </span>
+<span class="created">24 Sep 2024</span>
+<a href="/articles/festibal/i-lofoy-mas-trattarei-paradosiako-paloyze">
+<span class="title">Η Λόφου μάς “τραττάρει” παραδοσιακό παλουζέ</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-24T17:35:15.657Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΝΕΑ</span>
+<span class="created">24 Sep 2024</span>
+<a href="/articles/nea/paroysiasi-biblioy-erotas-stin-poli-ena-mythistorima-toy-perikli-spyroy">
+<span class="title"> Παρουσίαση βιβλίου «Έρωτας στην Πόλη», ένα μυθιστόρημα του Περικλή Σπύρου </span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-09-24T17:35:15.658Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΦΕΣΤΙΒΑΛ</span>
+<span class="created">24 Sep 2024</span>
+<a href="/articles/festibal/10-logoi-gia-na-pate-sto-fetino-nicosia-book-fest">
+<span class="title">10 λόγοι για να πάτε στο φετινό Nicosia Book Fest</span>
 </a>
 </span>
 </span></div>]]></content>
