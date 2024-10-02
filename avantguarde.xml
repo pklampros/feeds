@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-10-01T17:34:53.070Z</updated>
+    <updated>2024-10-02T05:35:21.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -261,7 +261,21 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-01T17:34:52.177Z</updated>
+        <updated>2024-10-02T05:35:20.723Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+<span class="created">01 Oct 2024</span>
+<a href="/articles/exodos/fagitopoto/ti-einai-flammkuchen-kai-poy-mporeis-na-apolayseis-sti-larnaka">
+<span class="title">Τι είναι το Flammkuchen και πού μπορείς να το απολαύσεις στη Λάρνακα</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-10-02T05:35:20.723Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
 <span class="created">01 Oct 2024</span>
@@ -272,10 +286,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-01T17:34:52.182Z</updated>
+        <updated>2024-10-02T05:35:20.723Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
 <span class="created">01 Oct 2024</span>
@@ -286,10 +300,10 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-01T17:34:52.183Z</updated>
+        <updated>2024-10-02T05:35:20.726Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΙΣΤΟΡΙΕΣ</span>
 <span class="created">01 Oct 2024</span>
@@ -300,29 +314,15 @@
 </span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-01T17:34:52.183Z</updated>
+        <updated>2024-10-02T05:35:20.728Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
 <span class="created">30 Sep 2024</span>
 <a href="/articles/exodos/fagitopoto/la-petite-maison-lemesoy-synergazetai-me-macallan-gia-tin-kykloforia">
 <span class="title">Το La Petite Maison Λεμεσού συνεργάζεται με το The Macallan για την κυκλοφορία μιας μοναδικής…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-01T17:34:52.183Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">30 Sep 2024</span>
-<a href="/articles/exodos/silent-pulse-mia-ekthesi-toy-nikola-antonioy-stin-alpha-ck-art-gallery">
-<span class="title">"Silent Pulse" - Μια έκθεση του Νικόλα Αντωνίου στην Alpha C.K. Art Gallery</span>
 </a>
 </span>
 </span></div>]]></content>
