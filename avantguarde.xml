@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-10-12T05:34:45.928Z</updated>
+    <updated>2024-10-12T17:32:51.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Γιατί το Netflix ακυρώνει τις καλύτερες σειρές]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires"/>
+        <updated>2024-10-12T17:32:50.884Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires"> <img src="/sites/default/files/styles/featured_articles/public/2023-10/news-netflix-password-sharing.jpg?h=47f8d3d6&amp;itok=ap43MgAQ" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires">Γιατί το Netflix ακυρώνει τις καλύτερες σειρές</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Βόρειο Σέλας: Εμφανίστηκε στον ουρανό της Κύπρου για δεύτερη φορά]]></title>
         <id>https://avant-garde.com.cy/articles/nea/boreio-selas-emfanistike-ston-oyrano-tis-kyproy-gia-deyteri-fora</id>
@@ -244,29 +258,15 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Metα παρουσίασε εργαλείο ΑΙ που μετατρέπει κείμενο σε βίντεο και ήχο (βίντεο)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-meta-paroysiase-ergaleio-ai-poy-metatrepei-keimeno-se-binteo-kai-iho-binteo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-meta-paroysiase-ergaleio-ai-poy-metatrepei-keimeno-se-binteo-kai-iho-binteo"/>
-        <updated>2024-10-07T17:34:13.515Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/i-meta-paroysiase-ergaleio-ai-poy-metatrepei-keimeno-se-binteo-kai-iho-binteo"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/ai.jpg?h=d90d78b0&amp;itok=cRKXnWyI" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/i-meta-paroysiase-ergaleio-ai-poy-metatrepei-keimeno-se-binteo-kai-iho-binteo">Η Metα παρουσίασε εργαλείο ΑΙ που μετατρέπει κείμενο σε βίντεο και ήχο (βίντεο)</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
-</span>
-</span></span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-12T05:34:45.012Z</updated>
+        <updated>2024-10-12T17:32:50.677Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">11 Oct 2024</span>
-<a href="/articles/nea/boreio-selas-emfanistike-ston-oyrano-tis-kyproy-gia-deyteri-fora">
-<span class="title">Βόρειο Σέλας: Εμφανίστηκε στον ουρανό της Κύπρου για δεύτερη φορά </span>
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">12 Oct 2024</span>
+<a href="/articles/exodos/moysiki/o-kostis-marabegias-stin-kypro-gia-tin-giorti-tis-thalassas-2024">
+<span class="title">Ο Κωστής Μαραβέγιας στην Κύπρο για την Γιορτή της Θάλασσας 2024</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -275,12 +275,12 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-12T05:34:45.013Z</updated>
+        <updated>2024-10-12T17:32:50.680Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">11 Oct 2024</span>
-<a href="/articles/exodos/sabbatokyriako-einai-gemato-synaylies-festibal-kai-politistika-dromena">
-<span class="title">Το σαββατοκύριακο είναι γεμάτο συναυλίες φεστιβάλ και πολιτιστικά δρώμενα </span>
+<span class="channel">NEWS</span>
+<span class="created">12 Oct 2024</span>
+<a href="/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires">
+<span class="title">Γιατί το Netflix ακυρώνει τις καλύτερες σειρές</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -289,12 +289,12 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-12T05:34:45.014Z</updated>
+        <updated>2024-10-12T17:32:50.682Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">11 Oct 2024</span>
-<a href="/articles/nea/news/i-epibiosi-mias-protoporiakis-ideas">
-<span class="title">Η επιβίωση μιας πρωτοποριακής ιδέας</span>
+<span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+<span class="created">12 Oct 2024</span>
+<a href="/articles/exodos/exormiseis/apodraste-stin-eyropi-triimero-tis-28is-oktobrioy-5-monadikoi-proorismoi">
+<span class="title">Αποδράστε στην Ευρώπη το τριήμερο της 28ης Οκτωβρίου: 5 μοναδικοί προορισμοί για σύντομες και…</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -303,12 +303,12 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-12T05:34:45.015Z</updated>
+        <updated>2024-10-12T17:32:50.685Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">11 Oct 2024</span>
-<a href="/articles/nea/news/neo-amigos-ilektriko-porsche-macan-einai-edo">
-<span class="title">Το νέο αμιγώς ηλεκτρικό Porsche Macan, είναι εδώ </span>
+<span class="channel">ΕΞΟΔΟΣ</span>
+<span class="created">12 Oct 2024</span>
+<a href="/articles/exodos/einai-oraio-na-eisai-prasinos-neo-biblio-tis-elenas-hristofidi-empneei-ti-nea-genia">
+<span class="title">Είναι ωραίο να είσαι πράσινος: Το νέο βιβλίο της Έλενας Χριστοφίδη εμπνέει τη νέα γενιά</span>
 </a>
 </span>
 </span></div>]]></content>
@@ -317,12 +317,12 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-10-12T05:34:45.021Z</updated>
+        <updated>2024-10-12T17:32:50.686Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+<span class="channel">ΝΕΑ</span>
 <span class="created">11 Oct 2024</span>
-<a href="/articles/exodos/fagitopoto/shawarma-punin-fernei-mia-aythentiki-empeiria-shawarma-sti-lemeso">
-<span class="title">Το “Shawarma by Punin” φέρνει μια αυθεντική εμπειρία shawarma στη Λεμεσό</span>
+<a href="/articles/nea/boreio-selas-emfanistike-ston-oyrano-tis-kyproy-gia-deyteri-fora">
+<span class="title">Βόρειο Σέλας: Εμφανίστηκε στον ουρανό της Κύπρου για δεύτερη φορά </span>
 </a>
 </span>
 </span></div>]]></content>
