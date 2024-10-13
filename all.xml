@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-13T05:34:39.048Z</updated>
+    <updated>2024-10-13T17:33:20.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Γιατί κλείνει το πιο ιστορικό σουβλαντζίδικο της Λάρνακας μετά από 76 χρόνια (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/giati-kleinei-pio-istoriko-soyblantzidiko-tis-larnakas-meta-apo-76-hronia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/giati-kleinei-pio-istoriko-soyblantzidiko-tis-larnakas-meta-apo-76-hronia"/>
+        <updated>2024-10-13T17:33:19.600Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/giati-kleinei-pio-istoriko-soyblantzidiko-tis-larnakas-meta-apo-76-hronia"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/305261370_600098655143745_3710852998450384442_n.jpg?h=a781ff9f&amp;itok=K7w-OCUw" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/giati-kleinei-pio-istoriko-soyblantzidiko-tis-larnakas-meta-apo-76-hronia">Γιατί κλείνει το πιο ιστορικό σουβλαντζίδικο της Λάρνακας μετά από 76 χρόνια</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Γιατί το Netflix ακυρώνει τις καλύτερες σειρές (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires</id>
@@ -243,85 +257,71 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τυφώνας Milton: Αξιολογείται με βαθμό επικινδυνότητας 5 και η Φλόριντα εκκενώνεται (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/tyfonas-milton-axiologeitai-me-bathmo-epikindynotitas-5-kai-i-florinta-ekkenonetai</id>
-        <link href="https://avant-garde.com.cy/articles/nea/tyfonas-milton-axiologeitai-me-bathmo-epikindynotitas-5-kai-i-florinta-ekkenonetai"/>
-        <updated>2024-10-08T17:34:21.487Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/tyfonas-milton-axiologeitai-me-bathmo-epikindynotitas-5-kai-i-florinta-ekkenonetai"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/huriccane.jpg?h=5646a0e5&amp;itok=2WShFF8i" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/tyfonas-milton-axiologeitai-me-bathmo-epikindynotitas-5-kai-i-florinta-ekkenonetai">Τυφώνας Milton: Αξιολογείται με βαθμό επικινδυνότητας 5 και η Φλόριντα εκκενώνεται</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-13T17:33:19.431Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+<span class="created">13 Oct 2024</span>
+<a href="/articles/exodos/tainiesseires/premiera-tis-tainias-wild-robot-mia-sygkinitiki-istoria-epibiosis-kai">
+<span class="title">Πρεμιέρα της ταινίας "The Wild Robot" – Μια συγκινητική ιστορία επιβίωσης και αυτογνωσίας</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-13T05:34:38.253Z</updated>
+        <updated>2024-10-13T17:33:19.434Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">13 Oct 2024</span>
+<a href="/articles/nea/news/giati-kleinei-pio-istoriko-soyblantzidiko-tis-larnakas-meta-apo-76-hronia">
+<span class="title">Γιατί κλείνει το πιο ιστορικό σουβλαντζίδικο της Λάρνακας μετά από 76 χρόνια</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-13T17:33:19.434Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+<span class="created">13 Oct 2024</span>
+<a href="/articles/exodos/exormiseis/madera-h-habai-tis-eyropis-poy-katakta-toys-taxidiotes">
+<span class="title">Μαδέρα: H «Χαβάι της Ευρώπης» που κατακτά τους ταξιδιώτες</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-13T17:33:19.435Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">OffCamera</span>
+<span class="created">13 Oct 2024</span>
+<a href="/articles/vodcast/offcamera/camera-tis-avant-garde-epistrefei-me-nea-epeisodia-kathe-mina">
+<span class="title">Το "Off Camera" της Avant Garde επιστρέφει με νέα επεισόδια κάθε μήνα</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-13T17:33:19.436Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΜΟΥΣΙΚΗ</span>
 <span class="created">12 Oct 2024</span>
 <a href="/articles/exodos/moysiki/o-kostis-marabegias-stin-kypro-gia-tin-giorti-tis-thalassas-2024">
 <span class="title">Ο Κωστής Μαραβέγιας στην Κύπρο για την Γιορτή της Θάλασσας 2024</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-13T05:34:38.253Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">NEWS</span>
-<span class="created">12 Oct 2024</span>
-<a href="/articles/nea/news/giati-netflix-akyronei-tis-kalyteres-seires">
-<span class="title">Γιατί το Netflix ακυρώνει τις καλύτερες σειρές</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-13T05:34:38.259Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-<span class="created">12 Oct 2024</span>
-<a href="/articles/exodos/exormiseis/apodraste-stin-eyropi-triimero-tis-28is-oktobrioy-5-monadikoi-proorismoi">
-<span class="title">Αποδράστε στην Ευρώπη το τριήμερο της 28ης Οκτωβρίου: 5 μοναδικοί προορισμοί για σύντομες και…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-13T05:34:38.261Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">12 Oct 2024</span>
-<a href="/articles/exodos/einai-oraio-na-eisai-prasinos-neo-biblio-tis-elenas-hristofidi-empneei-ti-nea-genia">
-<span class="title">Είναι ωραίο να είσαι πράσινος: Το νέο βιβλίο της Έλενας Χριστοφίδη εμπνέει τη νέα γενιά</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-13T05:34:38.265Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">11 Oct 2024</span>
-<a href="/articles/nea/boreio-selas-emfanistike-ston-oyrano-tis-kyproy-gia-deyteri-fora">
-<span class="title">Βόρειο Σέλας: Εμφανίστηκε στον ουρανό της Κύπρου για δεύτερη φορά </span>
 </a>
 </span>
 </span></div>]]></content>
