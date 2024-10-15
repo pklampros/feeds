@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-14T17:35:02.809Z</updated>
+    <updated>2024-10-15T05:36:16.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Το "Off Camera" επιστρέφει με συζήτηση για το "20 Euros" και τον κυπριακό… (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/camera-epistrefei-me-syzitisi-gia-20-euros-kai-ton-kypriako-kinimatografo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/camera-epistrefei-me-syzitisi-gia-20-euros-kai-ton-kypriako-kinimatografo"/>
+        <updated>2024-10-15T05:36:15.664Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/camera-epistrefei-me-syzitisi-gia-20-euros-kai-ton-kypriako-kinimatografo"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/stefanos_eyaggelidis.png?h=43594a01&amp;itok=98zpj9xR" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/camera-epistrefei-me-syzitisi-gia-20-euros-kai-ton-kypriako-kinimatografo">Το "Off Camera" επιστρέφει με συζήτηση για το "20 Euros" και τον κυπριακό…</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Χαν Κανγκ: Η νικήτρια του Νόμπελ Λογοτεχνίας 2024 που διεισδύει στις ψυχές των αναγνωστών (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/han-kangk-i-nikitria-toy-nompel-logotehnias-2024-poy-dieisdyei-stis-psyhes-ton</id>
@@ -243,24 +257,24 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Στο νοσοκομείο μετά από εγκεφαλικό η Καίτη Γκρέυ (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/sto-nosokomeio-meta-apo-egkefaliko-i-kaiti-gkrey</id>
-        <link href="https://avant-garde.com.cy/articles/nea/sto-nosokomeio-meta-apo-egkefaliko-i-kaiti-gkrey"/>
-        <updated>2024-10-09T17:35:09.872Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/sto-nosokomeio-meta-apo-egkefaliko-i-kaiti-gkrey"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/standard_avant_garde_52.jpg?h=d1cb525d&amp;itok=2VDcLPZ9" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/sto-nosokomeio-meta-apo-egkefaliko-i-kaiti-gkrey">Στο νοσοκομείο μετά από εγκεφαλικό η Καίτη Γκρέυ</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-15T05:36:15.555Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">15 Oct 2024</span>
+<a href="/articles/nea/news/camera-epistrefei-me-syzitisi-gia-20-euros-kai-ton-kypriako-kinimatografo">
+<span class="title">Το "Off Camera" επιστρέφει με συζήτηση για το "20 Euros" και τον κυπριακό…</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-14T17:35:02.010Z</updated>
+        <updated>2024-10-15T05:36:15.556Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">14 Oct 2024</span>
@@ -274,7 +288,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-14T17:35:02.010Z</updated>
+        <updated>2024-10-15T05:36:15.557Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">14 Oct 2024</span>
@@ -288,7 +302,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-14T17:35:02.010Z</updated>
+        <updated>2024-10-15T05:36:15.559Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
 <span class="created">14 Oct 2024</span>
@@ -302,26 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-14T17:35:02.011Z</updated>
+        <updated>2024-10-15T05:36:15.560Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">14 Oct 2024</span>
 <a href="/articles/nea/maria-georgioy-gymnastria-i-syntagi-epityhias-gia-ti-kali-fysiki-katastasi-einai-80">
 <span class="title">Μαρία Γεωργίου, γυμνάστρια: “Η συνταγή επιτυχίας για τη καλή φυσική κατάσταση είναι 80% διατροφή…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-14T17:35:02.015Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
-<span class="created">14 Oct 2024</span>
-<a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tziai-mian-tomatan-o-pagkosmioy-fimis-0">
-<span class="title">«Τρεις ελιές τζιαι μιαν τομάταν»: O παγκοσμίου φήμης καλλιτέχνης Δημήτρης Αληθεινός μιλά στην Avant…</span>
 </a>
 </span>
 </span></div>]]></content>
