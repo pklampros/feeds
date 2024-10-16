@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-16T05:35:52.057Z</updated>
+    <updated>2024-10-16T17:36:48.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Δείτε τον κομήτη του αιώνα να ταξιδεύει στη Γη και τον κυπριακο ουρανό (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/deite-ton-komiti-toy-aiona-na-taxideyei-sti-gi-kai-ton-kypriako-oyrano</id>
+        <link href="https://avant-garde.com.cy/articles/nea/deite-ton-komiti-toy-aiona-na-taxideyei-sti-gi-kai-ton-kypriako-oyrano"/>
+        <updated>2024-10-16T17:36:47.513Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/deite-ton-komiti-toy-aiona-na-taxideyei-sti-gi-kai-ton-kypriako-oyrano"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/komhths.jpg?h=99fe1909&amp;itok=MYgg4FJS" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/deite-ton-komiti-toy-aiona-na-taxideyei-sti-gi-kai-ton-kypriako-oyrano">Δείτε τον κομήτη του αιώνα να ταξιδεύει στη Γη και τον κυπριακο ουρανό</a></span>
+<span>
+<span class="channel">ΝΕΑ</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIP Festival Opening Party: Μια βραδιά με πρωτοποριακές παραστάσεις & μουσική στην καρδιά της… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/wip-festival-opening-party-mia-bradia-me-protoporiakes-parastaseis-moysiki-stin-kardia</id>
@@ -243,29 +257,43 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Halloween: Πώς ξεκίνησε η “τρομακτική” γιορτή που αγαπάνε όλα τα παιδιά; (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/halloween-pos-xekinise-i-tromaktiki-giorti-poy-agapane-ola-ta-paidia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/halloween-pos-xekinise-i-tromaktiki-giorti-poy-agapane-ola-ta-paidia"/>
-        <updated>2024-10-10T17:35:15.205Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/istories/halloween-pos-xekinise-i-tromaktiki-giorti-poy-agapane-ola-ta-paidia"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/trick_or_treat_1.jpg?h=0e7af6fe&amp;itok=15m7RGSN" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/istories/halloween-pos-xekinise-i-tromaktiki-giorti-poy-agapane-ola-ta-paidia">Halloween: Πώς ξεκίνησε η “τρομακτική” γιορτή που αγαπάνε όλα τα παιδιά; </a></span>
-<span>
-<span class="channel">ΙΣΤΟΡΙΕΣ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-16T17:36:47.352Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+<span class="created">16 Oct 2024</span>
+<a href="/articles/exodos/tainiesseires/terrifier-3-pos-ena-sikoyel-tromoy-axias-2-ek-dolarion-xeperase-joker">
+<span class="title">«Terrifier 3»: Πώς ένα σίκουελ τρόμου αξίας 2 εκ. δολαρίων, ξεπέρασε το Joker 2 αξίας 200 εκ.…</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-16T05:35:51.184Z</updated>
+        <updated>2024-10-16T17:36:47.353Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΕΚΤΟΣ</span>
+<span class="created">16 Oct 2024</span>
+<a href="/articles/exodos/ektos/i-lista-me-ta-krymmena-petradia-toy-planiti-gia-2025">
+<span class="title">Η λίστα με τα «κρυμμένα πετράδια» του πλανήτη για το 2025</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-16T17:36:47.353Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">15 Oct 2024</span>
-<a href="/articles/exodos/land-joy-mia-ekthesi-zografikis-toy-giorgoy-ahilleos">
-<span class="title">"Land of Joy ": Μια έκθεση ζωγραφικής του Γιώργου Αχιλλέως</span>
+<span class="created">16 Oct 2024</span>
+<a href="/articles/exodos/lemesos-eisai-etoimi-gia-pio-tromaktiko-halloween-party">
+<span class="title"> Λεμεσός, είσαι έτοιμη για το πιο τρομακτικό Halloween Party; </span>
 </a>
 </span>
 </span></div>]]></content>
@@ -274,54 +302,26 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-16T05:35:51.184Z</updated>
+        <updated>2024-10-16T17:36:47.354Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+<span class="created">16 Oct 2024</span>
+<a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tziai-mian-tomatan-o-dimitris-alitheinos">
+<span class="title">«Τρεις ελιές τζιαι μιαν τομάταν»: O Δημήτρης Αληθεινός σχολιάζει την εγγενή ανάγκη του κάθε…</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-16T17:36:47.355Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">15 Oct 2024</span>
-<a href="/articles/exodos/fthinoporo-simainei-pazaraki-sti-agapimeni-mas-new-division">
-<span class="title">Φθινόπωρο σημαίνει παζαράκι στη αγαπημένη μας New Division </span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-16T05:35:51.184Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΜΟΥΣΙΚΗ</span>
-<span class="created">15 Oct 2024</span>
-<a href="/articles/exodos/moysiki/ta-oinopoieia-zampartas-giortazoyn-telos-tis-sodeias-me-ton-mihali-terlikka">
-<span class="title">Τα οινοποιεία Ζαμπάρτας γιορτάζουν το τέλος της σοδειάς με τον Μιχάλη Τερλικκά και τους Fuzz Bus!</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-16T05:35:51.184Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">15 Oct 2024</span>
-<a href="/articles/nea/wip-festival-opening-party-mia-bradia-me-protoporiakes-parastaseis-moysiki-stin-kardia">
-<span class="title">WIP Festival Opening Party: Μια βραδιά με πρωτοποριακές παραστάσεις &amp; μουσική στην καρδιά της…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-16T05:35:51.187Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">15 Oct 2024</span>
-<a href="/articles/nea/alhimistes-kainotomias-periballonti-goyat-posa-en-ta-periballontika-mas-themata-telika">
-<span class="title">Αλχημιστές Καινοτομίας: Περιβαλλοντι-γουάτ; Πόσα εν τα περιβαλλοντικά μας θέματα τελικά; </span>
+<span class="created">16 Oct 2024</span>
+<a href="/articles/exodos/paidiko-festibal-aradippoy-4-meres-gemates-hara-kai-diaskedasi">
+<span class="title">Παιδικό φεστιβάλ Αραδίππου: 4 μέρες γεμάτες χαρά και διασκέδαση </span>
 </a>
 </span>
 </span></div>]]></content>
