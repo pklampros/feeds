@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-19T05:34:46.910Z</updated>
+    <updated>2024-10-19T17:33:22.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Έφυγε από τη ζωή ο Κύπριος μουσικοσυνθέτης Στέλιος Πισής (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-o-kyprios-moysikosynthetis-stelios-pisis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-o-kyprios-moysikosynthetis-stelios-pisis"/>
+        <updated>2024-10-19T17:33:21.924Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/news/efyge-apo-ti-zoi-o-kyprios-moysikosynthetis-stelios-pisis"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/images_2_0.jpeg?h=425dbd84&amp;itok=MvEuRnCu" width="575" height="400" alt="" class="img-responsive">
+</a></span>
+<span class="title-channel-date">
+<span class="title"><a href="/articles/nea/news/efyge-apo-ti-zoi-o-kyprios-moysikosynthetis-stelios-pisis">Έφυγε από τη ζωή ο Κύπριος μουσικοσυνθέτης Στέλιος Πισής</a></span>
+<span>
+<span class="channel">NEWS</span>
+</span>
+</span></span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ΗΠΑ: Χάκερς απέκτησαν τον έλεγχο σκουπών - ρομπότ σε πολλές πόλεις (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/ipa-hakers-apektisan-ton-elegho-skoypon-rompot-se-polles-poleis</id>
@@ -243,24 +257,52 @@
 </span></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μαρία Γεωργίου, γυμνάστρια: “Η συνταγή επιτυχίας για τη καλή φυσική κατάσταση είναι 80% διατροφή… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/maria-georgioy-gymnastria-i-syntagi-epityhias-gia-ti-kali-fysiki-katastasi-einai-80</id>
-        <link href="https://avant-garde.com.cy/articles/nea/maria-georgioy-gymnastria-i-syntagi-epityhias-gia-ti-kali-fysiki-katastasi-einai-80"/>
-        <updated>2024-10-14T17:35:02.117Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="media"><a href="/articles/nea/maria-georgioy-gymnastria-i-syntagi-epityhias-gia-ti-kali-fysiki-katastasi-einai-80"> <img src="/sites/default/files/styles/featured_articles/public/2024-10/hipro.png?h=9fe9da49&amp;itok=Mfj9S5ju" width="575" height="400" alt="" class="img-responsive">
-</a></span>
-<span class="title-channel-date">
-<span class="title"><a href="/articles/nea/maria-georgioy-gymnastria-i-syntagi-epityhias-gia-ti-kali-fysiki-katastasi-einai-80">Μαρία Γεωργίου, γυμνάστρια: “Η συνταγή επιτυχίας για τη καλή φυσική κατάσταση είναι 80% διατροφή…</a></span>
-<span>
-<span class="channel">ΝΕΑ</span>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-19T17:33:21.737Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+<span class="created">19 Oct 2024</span>
+<a href="/articles/exodos/theatrohoros/o-alexandros-tsoybelas-erhetai-stin-kypro-gia-mia-parastasi-gemati">
+<span class="title">Ο Αλέξανδρος Τσουβέλας έρχεται στην Κύπρο για μια παράσταση γεμάτη αλήθειες και γέλιο!</span>
+</a>
 </span>
-</span></span></div>]]></content>
+</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-19T05:34:46.075Z</updated>
+        <updated>2024-10-19T17:33:21.755Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">ΜΟΥΣΙΚΗ</span>
+<span class="created">19 Oct 2024</span>
+<a href="/articles/exodos/moysiki/ena-moysiko-afieroma-apo-ti-giota-negka-erhetai-stin-lemeso">
+<span class="title">Ένα μουσικό αφιέρωμα από τη Γιώτα Νέγκα έρχεται στην Λεμεσό</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-19T17:33:21.756Z</updated>
+        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
+<span class="channel">NEWS</span>
+<span class="created">19 Oct 2024</span>
+<a href="/articles/nea/news/efyge-apo-ti-zoi-o-kyprios-moysikosynthetis-stelios-pisis">
+<span class="title">Έφυγε από τη ζωή ο Κύπριος μουσικοσυνθέτης Στέλιος Πισής</span>
+</a>
+</span>
+</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-10-19T17:33:21.758Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΝΕΑ</span>
 <span class="created">18 Oct 2024</span>
@@ -274,54 +316,12 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-19T05:34:46.082Z</updated>
+        <updated>2024-10-19T17:33:21.760Z</updated>
         <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
 <span class="channel">ΦΕΣΤΙΒΑΛ</span>
 <span class="created">18 Oct 2024</span>
 <a href="/articles/festibal/41-paradosiaka-festibal-poy-tha-ginoyn-ayto-sabbatokyriako">
 <span class="title">4+1 παραδοσιακά φεστιβάλ που θα γίνουν αυτό το σαββατοκύριακο</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-19T05:34:46.082Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΕΞΟΔΟΣ</span>
-<span class="created">18 Oct 2024</span>
-<a href="/articles/exodos/atzenta-sabbatokyriakoy-theatrikes-parastaseis-party-festibal-politismoy-moysikis">
-<span class="title">Ατζέντα σαββατοκύριακου: θεατρικές παραστάσεις, πάρτυ, φεστιβάλ πολιτισμού, μουσικής και παράδοσης…</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-19T05:34:46.082Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΦΕΣΤΙΒΑΛ</span>
-<span class="created">18 Oct 2024</span>
-<a href="/articles/festibal/pame-sto-2o-festibal-paragemostoy-stin-oroynta">
-<span class="title">Πάμε στο 2ο Φεστιβάλ Παραγεμωστού στην Ορούντα</span>
-</a>
-</span>
-</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-10-19T05:34:46.082Z</updated>
-        <content type="html"><![CDATA[<div class="views-field views-field-nothing"><span class="field-content"><span class="title-channel-date">
-<span class="channel">ΝΕΑ</span>
-<span class="created">18 Oct 2024</span>
-<a href="/articles/nea/italia-perase-o-nomos-kata-tis-diethnoys-parenthetis-mitrotitas-apagoreyetai-idi-entos">
-<span class="title">Ιταλία: Πέρασε ο νόμος κατά της διεθνούς παρένθετης μητρότητας - απαγορεύεται ήδη εντός χώρας </span>
 </a>
 </span>
 </span></div>]]></content>
