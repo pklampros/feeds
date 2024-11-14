@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-13T17:34:46.768Z</updated>
+    <updated>2024-11-14T05:35:17.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Μια γυναίκα 105 ετών λέει ότι το μυστικό της μακροζωίας είναι.. η μπύρα και η εργένικη ζωή (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/mia-gynaika-105-eton-leei-oti-mystiko-tis-makrozoias-einai-i-mpyra-kai-i</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/mia-gynaika-105-eton-leei-oti-mystiko-tis-makrozoias-einai-i-mpyra-kai-i"/>
+        <updated>2024-11-14T05:35:16.991Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/istories/mia-gynaika-105-eton-leei-oti-mystiko-tis-makrozoias-einai-i-mpyra-kai-i">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-11/standard_avant_garde__0.jpg?h=4a7d1ed4&amp;itok=buaVoek7" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/istories/mia-gynaika-105-eton-leei-oti-mystiko-tis-makrozoias-einai-i-mpyra-kai-i">Μια γυναίκα 105 ετών λέει ότι το μυστικό της μακροζωίας είναι.. η μπύρα και η εργένικη ζωή</a></span>
+    <span>
+      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η OW Digital Συνεργάζεται με την Intuit Mailchimp για την Οργάνωση Σεμιναρίων και Webinars στην… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-ow-digital-synergazetai-me-tin-intuit-mailchimp-gia-tin-organosi-seminarion-kai</id>
@@ -889,10 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο κληρονόμος της Hermes και η μυστηριώδης εξαφάνιση των 13 δισ. δολαρίων (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/o-klironomos-tis-hermes-kai-i-mystiriodis-exafanisi-ton-13-dis-dolarion</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/o-klironomos-tis-hermes-kai-i-mystiriodis-exafanisi-ton-13-dis-dolarion"/>
-        <updated>2024-11-07T17:33:57.815Z</updated>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-14T05:35:16.840Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -901,40 +953,14 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/istories/o-klironomos-tis-hermes-kai-i-mystiriodis-exafanisi-ton-13-dis-dolarion">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/ni.jpg?h=adaba000&amp;itok=bU2yploN" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/istories/o-klironomos-tis-hermes-kai-i-mystiriodis-exafanisi-ton-13-dis-dolarion">Ο κληρονόμος της Hermes και η μυστηριώδης εξαφάνιση των 13 δισ. δολαρίων</a></span>
-    <span>
-      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
-    </span>
+  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+  <span class="created">13 Nov 2024</span>
+  <a href="/articles/nea/istories/mia-gynaika-105-eton-leei-oti-mystiko-tis-makrozoias-einai-i-mpyra-kai-i">
+    <span class="title">Μια γυναίκα 105 ετών λέει ότι το μυστικό της μακροζωίας είναι.. η μπύρα και η εργένικη ζωή</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
@@ -944,7 +970,59 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-13T17:34:45.890Z</updated>
+        <updated>2024-11-14T05:35:16.840Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">13 Nov 2024</span>
+  <a href="/articles/exodos/theatrohoros/erhetai-i-syntaraktiki-theatriki-parastasi-o-faros-toy-conor-mcpherson">
+    <span class="title">Έρχεται η συνταρακτική θεατρική παράσταση “Ο φάρος” του Conor McPherson</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-14T05:35:16.843Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">13 Nov 2024</span>
+  <a href="/articles/exodos/tainiesseires/game-thrones-epistrefei-me-tainia">
+    <span class="title">Το «Game of Thrones» επιστρέφει με ταινία</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-14T05:35:16.843Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-13T17:34:45.890Z</updated>
+        <updated>2024-11-14T05:35:16.844Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -984,84 +1062,6 @@
   <span class="created">13 Nov 2024</span>
   <a href="/articles/discover-cyprus/horia/hristoygenniatiko-horio-tis-polis-hrysohoys-anoigei-xana-tis-portes">
     <span class="title">Το χριστουγεννιάτικο χωριό της Πόλης Χρυσοχούς ανοίγει ξανά τις πόρτες του</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-13T17:34:45.890Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">13 Nov 2024</span>
-  <a href="/articles/discover-cyprus/horia/ta-horia-kampos-kai-tsakkistra-etoimazoyn-ena-ploysio">
-    <span class="title">Τα χωριά Κάμπος και Τσακκίστρα ετοιμάζουν ένα πλούσιο χριστουγεννιάτικο πρόγραμμα</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-13T17:34:45.890Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">13 Nov 2024</span>
-  <a href="/articles/nea/i-ow-digital-synergazetai-me-tin-intuit-mailchimp-gia-tin-organosi-seminarion-kai">
-    <span class="title">Η OW Digital Συνεργάζεται με την Intuit Mailchimp για την Οργάνωση Σεμιναρίων και Webinars στην…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-13T17:34:45.891Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">13 Nov 2024</span>
-  <a href="/articles/exodos/moysiki/o-foibos-deliborias-erhetai-sto-nisi-me-toy-moysikoys-toy-gia-mia-synaylia">
-    <span class="title">Ο Φοίβος Δεληβοριάς έρχεται στο νησί με του μουσικούς του για μια συναυλία</span>
   </a>
 </span>
 
