@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-22T05:35:52.545Z</updated>
+    <updated>2024-11-22T17:34:39.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Η Wizz Air ανακοίνωσε προσφορές με φθηνά αεροπορικά με αναχώρηση τη Λάρνακα (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-wizz-air-anakoinose-prosfores-me-fthina-aeroporika-me-anahorisi-ti-larnaka</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-wizz-air-anakoinose-prosfores-me-fthina-aeroporika-me-anahorisi-ti-larnaka"/>
+        <updated>2024-11-22T17:34:38.309Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-wizz-air-anakoinose-prosfores-me-fthina-aeroporika-me-anahorisi-ti-larnaka">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2022-07/airport-3511342_960_720.jpg?h=b3660f0d&amp;itok=jYw2bFHf" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-wizz-air-anakoinose-prosfores-me-fthina-aeroporika-me-anahorisi-ti-larnaka">Η Wizz Air ανακοίνωσε προσφορές με φθηνά αεροπορικά με αναχώρηση τη Λάρνακα</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι ΗΠΑ «πυροβολούν» τη Google: Θα την πιέσουν να πουλήσει τον Chrome (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/oi-ipa-pyroboloyn-ti-google-tha-tin-piesoyn-na-poylisei-ton-chrome</id>
+        <link href="https://avant-garde.com.cy/articles/nea/oi-ipa-pyroboloyn-ti-google-tha-tin-piesoyn-na-poylisei-ton-chrome"/>
+        <updated>2024-11-22T17:34:38.312Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/oi-ipa-pyroboloyn-ti-google-tha-tin-piesoyn-na-poylisei-ton-chrome">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-11/pexels-deepanker70-1482061.jpg?h=d5895ce4&amp;itok=cl9UHUkn" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/oi-ipa-pyroboloyn-ti-google-tha-tin-piesoyn-na-poylisei-ton-chrome">Οι ΗΠΑ «πυροβολούν» τη Google: Θα την πιέσουν να πουλήσει τον Chrome</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Μπορεί να μην είμαι άνθρωπος αλλά τραγουδώ από την ψυχή μου» λέει τραγουδίστρια τεχνητής νοημοσύνης (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/mporei-na-min-eimai-anthropos-alla-tragoydo-apo-tin-psyhi-moy-leei-tragoydistria</id>
@@ -733,10 +837,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μάθαμε πότε θα φωταγωγηθεί το Χριστουγεννιάτικοδέντρο στον Στρόβολο (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatikodentro-ston-strobolo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatikodentro-ston-strobolo"/>
-        <updated>2024-11-16T17:33:09.410Z</updated>
+        <title type="html"><![CDATA[Μάθαμε πότε θα φωταγωγηθεί το Χριστουγεννιάτικο δέντρο στον Στρόβολο (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatiko-dentro-ston-strobolo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatiko-dentro-ston-strobolo"/>
+        <updated>2024-11-22T17:34:38.354Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -745,7 +849,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatikodentro-ston-strobolo">
+<span class="media"><a href="/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatiko-dentro-ston-strobolo">
 
 
 
@@ -774,7 +878,7 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatikodentro-ston-strobolo">Μάθαμε πότε θα φωταγωγηθεί το Χριστουγεννιάτικοδέντρο στον Στρόβολο</a></span>
+    <span class="title"><a href="/articles/nea/news/mathame-pote-tha-fotagogithei-hristoygenniatiko-dentro-ston-strobolo">Μάθαμε πότε θα φωταγωγηθεί το Χριστουγεννιάτικο δέντρο στον Στρόβολο</a></span>
     <span>
       <span class="channel">NEWS</span>
     </span>
@@ -837,140 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Επτά αγορές που δεν πρέπει να κάνετε στα αεροδρόμια (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/epta-agores-poy-den-prepei-na-kanete-sta-aerodromia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/epta-agores-poy-den-prepei-na-kanete-sta-aerodromia"/>
-        <updated>2024-11-15T17:35:16.766Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/epta-agores-poy-den-prepei-na-kanete-sta-aerodromia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/pexels-kelly-1179532-28374709.jpg?h=d9b15396&amp;itok=8vAi_oQP" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/epta-agores-poy-den-prepei-na-kanete-sta-aerodromia">Επτά αγορές που δεν πρέπει να κάνετε στα αεροδρόμια</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Έφτασαν τα πρώτα φλαμίνγκο - 5 πράγματα που δεν ξέρατε για τα εντυπωσιακά πτηνά (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/eftasan-ta-prota-flamingko-5-pragmata-poy-den-xerate-gia-ta-entyposiaka-ptina</id>
-        <link href="https://avant-garde.com.cy/articles/nea/eftasan-ta-prota-flamingko-5-pragmata-poy-den-xerate-gia-ta-entyposiaka-ptina"/>
-        <updated>2024-11-15T17:35:16.769Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/eftasan-ta-prota-flamingko-5-pragmata-poy-den-xerate-gia-ta-entyposiaka-ptina">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/62191169_10156344222753848_4968314972833579008_n.jpg?h=2bacc77b&amp;itok=hs7o46eh" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/eftasan-ta-prota-flamingko-5-pragmata-poy-den-xerate-gia-ta-entyposiaka-ptina">Έφτασαν τα πρώτα φλαμίνγκο - 5 πράγματα που δεν ξέρατε για τα εντυπωσιακά πτηνά </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.381Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">21 Nov 2024</span>
-  <a href="/articles/nea/mporei-na-min-eimai-anthropos-alla-tragoydo-apo-tin-psyhi-moy-leei-tragoydistria">
-    <span class="title">«Μπορεί να μην είμαι άνθρωπος αλλά τραγουδώ από την ψυχή μου» λέει τραγουδίστρια τεχνητής νοημοσύνης</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.381Z</updated>
+        <updated>2024-11-22T17:34:38.062Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,9 +955,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">21 Nov 2024</span>
-  <a href="/articles/exodos/fagitopoto/ziste-tin-empeiria-enos-monadikoy-deipnoy-perizitito-oyiski-macallan">
-    <span class="title">Ζήστε την εμπειρία ενός μοναδικού δείπνου: To περιζήτητο ουίσκι “The Macallan” συνοδεύει τα…</span>
+  <span class="created">22 Nov 2024</span>
+  <a href="/articles/exodos/fagitopoto/5-must-spots-gia-brunch-sto-horio-poy-den-prepei-na-haseis">
+    <span class="title">5 must spots για brunch στο χωριό που δεν πρέπει να χάσεις</span>
   </a>
 </span>
 
@@ -996,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.383Z</updated>
+        <updated>2024-11-22T17:34:38.067Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1006,10 +980,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">DISCOVER CYPRUS</span>
-  <span class="created">21 Nov 2024</span>
-  <a href="/articles/discover-cyprus/pame-gia-exereynisi-s-ena-egkataleleimmeno-tk-horio-tis-eparhias-pafoy">
-    <span class="title">Πάμε για εξερεύνηση σ’ ένα εγκαταλελειμμένο ΤΚ χωριό της επαρχίας Πάφου;</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">22 Nov 2024</span>
+  <a href="/articles/exodos/atzenta-sk-ola-osa-tha-ginoyn-ayto-giortino-diimero">
+    <span class="title">Ατζέντα ΣΚ: Όλα όσα θα γίνουν αυτό το γιορτινό διήμερο! </span>
   </a>
 </span>
 
@@ -1022,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.383Z</updated>
+        <updated>2024-11-22T17:34:38.070Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1032,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">21 Nov 2024</span>
-  <a href="/articles/exodos/fagitopoto/pame-na-fame-sto-boyno-lahtarista-piata-dipla-apo-ti-fotia">
-    <span class="title">Πάμε να φάμε στο βουνό λαχταριστά πιάτα δίπλα από τη φωτιά; </span>
+  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="created">22 Nov 2024</span>
+  <a href="/articles/discover-cyprus/horia/ayta-einai-ta-hristoygenniatika-horia-poy-anoigoyn-tis-portes-toys">
+    <span class="title">Αυτά είναι τα χριστουγεννιάτικα χωριά που ανοίγουν τις πόρτες τους το σαββατοκύριακο </span>
   </a>
 </span>
 
@@ -1048,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.384Z</updated>
+        <updated>2024-11-22T17:34:38.071Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1058,10 +1032,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">21 Nov 2024</span>
-  <a href="/articles/nea/news/i-platx-kai-i-e-egypt-ypografoyn-mnimonio-synergasias-gia-tin-parohi-lyseon-stis">
-    <span class="title">Η PLATX και η e&amp; Egypt Υπογράφουν Μνημόνιο Συνεργασίας για την Παροχή Λύσεων στις…</span>
+  <span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+  <span class="created">22 Nov 2024</span>
+  <a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tziai-mian-tomatan-o-kallitehnis-larry-gus">
+    <span class="title">«Τρεις ελιές τζιαι μιαν τομάταν»: O καλλιτέχνης Larry Gus μιλά με τον Κωνσταντίνο Κυπριανού για την…</span>
   </a>
 </span>
 
@@ -1074,7 +1048,33 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-22T05:35:51.391Z</updated>
+        <updated>2024-11-22T17:34:38.101Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">22 Nov 2024</span>
+  <a href="/articles/exodos/tainiesseires/cine-city-stin-agia-napa-proballei-dorean-mia-seira-apo-tainies-sto">
+    <span class="title">To Cine City στην Αγία Νάπα προβάλλει δωρεάν μια σειρά από ταινίες στο πλαίσιο του Φεστιβάλ…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-22T17:34:38.106Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
