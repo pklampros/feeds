@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T05:36:35.239Z</updated>
+    <updated>2024-11-29T17:34:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ανοίγει τις πόρτες του το Χριστουγεννιάτικο Χωριό της Μαρίνας Αγίας Νάπας (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/anoigei-tis-portes-toy-hristoygenniatiko-horio-tis-marinas-agias-napas</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/anoigei-tis-portes-toy-hristoygenniatiko-horio-tis-marinas-agias-napas"/>
+        <updated>2024-11-29T17:34:52.115Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/anoigei-tis-portes-toy-hristoygenniatiko-horio-tis-marinas-agias-napas">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-11/_a1_7022-enhanced-nr.jpg?h=e75c301f&amp;itok=_8BsSJ0z" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/anoigei-tis-portes-toy-hristoygenniatiko-horio-tis-marinas-agias-napas">Ανοίγει τις πόρτες του το Χριστουγεννιάτικο Χωριό της Μαρίνας Αγίας Νάπας</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Χιονόπτωση-ρεκόρ στη Νότια Κορέα: Το έστρωσε στη Σεούλ [φωτογραφίες] (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/hionoptosi-rekor-sti-notia-korea-estrose-sti-seoyl-fotografies</id>
+        <link href="https://avant-garde.com.cy/articles/nea/hionoptosi-rekor-sti-notia-korea-estrose-sti-seoyl-fotografies"/>
+        <updated>2024-11-29T17:34:52.124Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/hionoptosi-rekor-sti-notia-korea-estrose-sti-seoyl-fotografies">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-11/standard_avant_garde_15.jpg?h=d1cb525d&amp;itok=AcqtvcG9" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/hionoptosi-rekor-sti-notia-korea-estrose-sti-seoyl-fotografies">Χιονόπτωση-ρεκόρ στη Νότια Κορέα: Το έστρωσε στη Σεούλ [φωτογραφίες] </a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ο δεκάλογος για ασφαλείς αγορές στο Διαδίκτυο στη Black Friday και τα Χριστούγεννα (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/o-dekalogos-gia-asfaleis-agores-sto-diadiktyo-sti-black-friday-kai-ta-hristoygenna</id>
@@ -837,218 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Χριστούγεννα σε όλη τη Λευκωσία: Έρχεται ένα πλούσιο πρόγραμμα εκδηλώσεων από το Δήμο Λευκωσίας (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/hristoygenna-se-oli-ti-leykosia-erhetai-ena-ploysio-programma-ekdiloseon-apo-dimo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/hristoygenna-se-oli-ti-leykosia-erhetai-ena-ploysio-programma-ekdiloseon-apo-dimo"/>
-        <updated>2024-11-25T17:35:16.499Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/hristoygenna-se-oli-ti-leykosia-erhetai-ena-ploysio-programma-ekdiloseon-apo-dimo">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/01.jpg?h=59f9d53c&amp;itok=AsIT_U1q" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/hristoygenna-se-oli-ti-leykosia-erhetai-ena-ploysio-programma-ekdiloseon-apo-dimo">Χριστούγεννα σε όλη τη Λευκωσία: Έρχεται ένα πλούσιο πρόγραμμα εκδηλώσεων από το Δήμο Λευκωσίας</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Μικροπλαστικά: Προστατεύουμε το περιβάλλον για τις επόμενες γενιές (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/mikroplastika-prostateyoyme-periballon-gia-tis-epomenes-genies</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/mikroplastika-prostateyoyme-periballon-gia-tis-epomenes-genies"/>
-        <updated>2024-11-26T17:35:14.471Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/mikroplastika-prostateyoyme-periballon-gia-tis-epomenes-genies">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/dsd.jpg?h=43594a01&amp;itok=fnKeZfpq" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/mikroplastika-prostateyoyme-periballon-gia-tis-epomenes-genies">Μικροπλαστικά: Προστατεύουμε το περιβάλλον για τις επόμενες γενιές</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.025Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">28 Nov 2024</span>
-  <a href="/articles/exodos/theatrohoros/etoimasteite-gia-tin-paidiki-theatriki-parastasi-tik-kai-tak">
-    <span class="title">Ετοιμαστείτε για την παιδική θεατρική παράσταση “Το Τικ και το Τακ” </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.025Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">28 Nov 2024</span>
-  <a href="/articles/nea/o-dekalogos-gia-asfaleis-agores-sto-diadiktyo-sti-black-friday-kai-ta-hristoygenna">
-    <span class="title">Ο δεκάλογος για ασφαλείς αγορές στο Διαδίκτυο στη Black Friday και τα Χριστούγεννα</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.025Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">28 Nov 2024</span>
-  <a href="/articles/nea/octo-microbrewery-exereynontas-ton-kosmo-tis-mpyras-mesa-apo-tis-mpyres-octopus">
-    <span class="title">Octo Microbrewery: Εξερευνώντας τον κόσμο της μπύρας μέσα από τις μπύρες Octopus</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.026Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">28 Nov 2024</span>
-  <a href="/articles/festibal/merch-festival-sto-downtown-live-agapimenoi-kallitehnes-kai-sygkrotimata-apo-tin">
-    <span class="title">Merch Festival στο DownTown Live: Αγαπημένοι καλλιτέχνες και συγκροτήματα από την Κύπρο και την…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.027Z</updated>
+        <updated>2024-11-29T17:34:51.934Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,9 +955,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">28 Nov 2024</span>
-  <a href="/articles/exodos/germaniko-hristoygenniatiko-market-dokimaste-paradosiaka-loykanika-kai">
-    <span class="title">Γερμανικό χριστουγεννιάτικο market: Δοκιμάστε παραδοσιακά λουκάνικα και περιηγηθείτε σε μια πλούσια…</span>
+  <span class="created">29 Nov 2024</span>
+  <a href="/articles/exodos/skefteste-ti-na-kanete-sabbatokyriako-deite-tis-epiloges-sas">
+    <span class="title">Σκέφτεστε τι να κάνετε το σαββατοκύριακο; Δείτε τις επιλογές σας</span>
   </a>
 </span>
 
@@ -1074,7 +970,111 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-11-29T05:36:34.028Z</updated>
+        <updated>2024-11-29T17:34:51.934Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">29 Nov 2024</span>
+  <a href="/articles/exodos/moysiki/haris-alexioy-den-ginetai-na-tragoydiso-pia-ehei-teleiosei-gia-mena-ayto">
+    <span class="title">Χάρις Αλεξίου: "Δεν γίνεται να τραγουδήσω πια, έχει τελειώσει για μένα αυτό"</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-29T17:34:51.934Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="created">29 Nov 2024</span>
+  <a href="/articles/discover-cyprus/horia/hristoygenniatiko-horio-tis-marinas-agias-napas-anoigei-tis-portes">
+    <span class="title">Tο χριστουγεννιάτικο χωριό της Μαρίνας Αγίας Νάπας ανοίγει τις πόρτες του </span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-29T17:34:51.934Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">3 ελιές τζαι μιαν τομάτα</span>
+  <span class="created">29 Nov 2024</span>
+  <a href="/articles/vodcast/3-elies-tzai-mian-tomata/treis-elies-tziai-mian-tomatan-o-kallitehnis-larry-gus-1">
+    <span class="title">«Τρεις ελιές τζιαι μιαν τομάταν»: O καλλιτέχνης Larry Gus μιλά για τη διαμόρφωση πεποιθήσεών του…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-29T17:34:51.934Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">29 Nov 2024</span>
+  <a href="/articles/nea/news/anoigei-tis-portes-toy-hristoygenniatiko-horio-tis-marinas-agias-napas">
+    <span class="title">Ανοίγει τις πόρτες του το Χριστουγεννιάτικο Χωριό της Μαρίνας Αγίας Νάπας</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2024-11-29T17:34:51.934Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
