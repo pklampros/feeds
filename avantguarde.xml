@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-12-01T05:36:00.945Z</updated>
+    <updated>2024-12-01T17:33:46.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Παγκόσμια Ημέρα AIDS: Μία ημέρα ευαισθητοποίησης, ενημέρωσης και δράσης]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/pagkosmia-imera-aids-mia-imera-eyaisthitopoiisis-enimerosis-kai-drasis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/pagkosmia-imera-aids-mia-imera-eyaisthitopoiisis-enimerosis-kai-drasis"/>
+        <updated>2024-12-01T17:33:46.126Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/pagkosmia-imera-aids-mia-imera-eyaisthitopoiisis-enimerosis-kai-drasis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/istock-881076458.jpeg?h=119335f7&amp;itok=5UUDdqB2" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/pagkosmia-imera-aids-mia-imera-eyaisthitopoiisis-enimerosis-kai-drasis"> Παγκόσμια Ημέρα AIDS: Μία ημέρα ευαισθητοποίησης, ενημέρωσης και δράσης</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το ‘‘Διεθνές Αεροδρόμιο Λευκωσίας’’ ανοίγει ξανά τις πόρτες του, στην Isnotgallery]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/diethnes-aerodromio-leykosias-anoigei-xana-tis-portes-toy-stin-isnotgallery</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mindset Talks 7: Ένα διήμερο συνέδριο προσωπικής και επιχειρηματικής ανάπτυξης και δικτύωσης στην…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/mindset-talks-7-ena-diimero-synedrio-prosopikis-kai-epiheirimatikis-anaptyxis-kai</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/mindset-talks-7-ena-diimero-synedrio-prosopikis-kai-epiheirimatikis-anaptyxis-kai"/>
-        <updated>2024-11-25T17:35:16.495Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-01T17:33:45.990Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,102 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/mindset-talks-7-ena-diimero-synedrio-prosopikis-kai-epiheirimatikis-anaptyxis-kai">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/mindset_1.png?h=43594a01&amp;itok=36rgE2et" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/mindset-talks-7-ena-diimero-synedrio-prosopikis-kai-epiheirimatikis-anaptyxis-kai">Mindset Talks 7: Ένα διήμερο συνέδριο προσωπικής και επιχειρηματικής ανάπτυξης και δικτύωσης στην…</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">01 Dec 2024</span>
+  <a href="/articles/exodos/moysiki/i-mageia-tis-disney-epistrefei-zontani-synaylia-me-megaloys-kallitehnes-kai">
+    <span class="title">Η μαγεία της Disney επιστρέφει: Ζωντανή συναυλία με μεγάλους καλλιτέχνες και ορχήστρα 56 μουσικών</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.032Z</updated>
+        <updated>2024-12-01T17:33:45.993Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">01 Dec 2024</span>
+  <a href="/articles/exodos/tainiesseires/dekembrios-sto-netflix-nees-seires-kai-tainies-poy-kleboyn-tis">
+    <span class="title">Δεκέμβριος στο Netflix: Νέες σειρές και ταινίες που κλέβουν τις εντυπώσεις</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-01T17:33:45.994Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">01 Dec 2024</span>
+  <a href="/articles/exodos/tainiesseires/apo-early-frost-sto-its-sin-pos-o-kinimatografos-kai-i-tileorasi">
+    <span class="title">Από το "An Early Frost" στο "It's a Sin": Πώς ο κινηματογράφος και η…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-01T17:33:45.995Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">01 Dec 2024</span>
+  <a href="/articles/nea/news/pagkosmia-imera-aids-mia-imera-eyaisthitopoiisis-enimerosis-kai-drasis">
+    <span class="title"> Παγκόσμια Ημέρα AIDS: Μία ημέρα ευαισθητοποίησης, ενημέρωσης και δράσης</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-01T17:33:45.997Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.032Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">30 Nov 2024</span>
-  <a href="/articles/nea/news/diethnes-aerodromio-leykosias-anoigei-xana-tis-portes-toy-stin-isnotgallery">
-    <span class="title">Το ‘‘Διεθνές Αεροδρόμιο Λευκωσίας’’ ανοίγει ξανά τις πόρτες του, στην Isnotgallery</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.032Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">30 Nov 2024</span>
-  <a href="/articles/nea/news/sip-season-me-ta-coffeehouse">
-    <span class="title">…Sip the Season με τα COFFEEHOUSE	</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.033Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">30 Nov 2024</span>
-  <a href="/articles/exodos/theatrohoros/apopeires-gia-ti-zoi-tis-ena-ergo-gia-tin-anazitisi-tis-taytotitas">
-    <span class="title">Απόπειρες για τη ζωή της: Ένα έργο για την αναζήτηση της ταυτότητας</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.034Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">30 Nov 2024</span>
-  <a href="/articles/exodos/theatrohoros/os-alithos-theatriko-afieroma-sta-50-hronia-apo-tin-toyrkiki-eisboli">
-    <span class="title">«Ως Αληθώς»: Θεατρικό αφιέρωμα στα 50 χρόνια από την τουρκική εισβολή</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-01T05:36:00.035Z</updated>
+        <updated>2024-12-01T17:33:45.998Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
