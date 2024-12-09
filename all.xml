@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T05:36:17.619Z</updated>
+    <updated>2024-12-09T17:35:46.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Τα 5 πιο περίεργα χριστουγεννιάτικα έθιμα από όλο τον κόσμο (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo"/>
-        <updated>2024-12-08T17:33:42.127Z</updated>
+        <title type="html"><![CDATA[O Morgan Freeman “αποθεώνει” τη σειρά Maestro στα social media (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/o-morgan-freeman-apotheonei-ti-seira-maestro-sta-social-media</id>
+        <link href="https://avant-garde.com.cy/articles/nea/o-morgan-freeman-apotheonei-ti-seira-maestro-sta-social-media"/>
+        <updated>2024-12-09T17:35:45.912Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -17,7 +17,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo">
+<span class="media"><a href="/articles/nea/o-morgan-freeman-apotheonei-ti-seira-maestro-sta-social-media">
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<img src="/sites/default/files/styles/featured_articles/public/2024-11/pexels-picjumbo-com-55570-196648.jpg?h=ac778ff2&amp;itok=33SYjda1" width="575" height="400" alt="" class="img-responsive">
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/standard_avant_garde_19.jpg?h=d1cb525d&amp;itok=ix7xyPSS" width="575" height="400" alt="" class="img-responsive">
 
 
 
@@ -46,9 +46,61 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo">Τα 5 πιο περίεργα χριστουγεννιάτικα έθιμα από όλο τον κόσμο</a></span>
+    <span class="title"><a href="/articles/nea/o-morgan-freeman-apotheonei-ti-seira-maestro-sta-social-media">O Morgan Freeman “αποθεώνει” τη σειρά Maestro στα social media </a></span>
     <span>
-      <span class="channel">NEWS</span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jay-Z: Κατηγορείται ότι βίασε 13χρονη μαζί με τον Diddy (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/jay-z-katigoreitai-oti-biase-13hroni-mazi-me-ton-diddy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/jay-z-katigoreitai-oti-biase-13hroni-mazi-me-ton-diddy"/>
+        <updated>2024-12-09T17:35:45.917Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/jay-z-katigoreitai-oti-biase-13hroni-mazi-me-ton-diddy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pdiddy_-_jay_z_0.jpg?h=f7edb64c&amp;itok=uw41Oat0" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/jay-z-katigoreitai-oti-biase-13hroni-mazi-me-ton-diddy">Jay-Z: Κατηγορείται ότι βίασε 13χρονη μαζί με τον Diddy</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -101,6 +153,58 @@
     <span class="title"><a href="/articles/nea/oi-ergazomenoi-sti-moysiki-tha-hanoyn-14-ton-eisodimaton-toys-logo-ai-ta-epomena-4">Οι εργαζόμενοι στη μουσική θα «χάνουν» το 1/4 των εισοδημάτων τους λόγω ΑΙ τα επόμενα 4 χρόνια</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Τα 5 πιο περίεργα χριστουγεννιάτικα έθιμα από όλο τον κόσμο (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo"/>
+        <updated>2024-12-08T17:33:42.127Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-11/pexels-picjumbo-com-55570-196648.jpg?h=ac778ff2&amp;itok=33SYjda1" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo">Τα 5 πιο περίεργα χριστουγεννιάτικα έθιμα από όλο τον κόσμο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -837,114 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Κέιτ Γουίνσλετ για το body shaming που δέχθηκε στον Τιτανικό: «Τι άνθρωποι κάνουν κάτι τέτοιο σε… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-keit-goyinslet-gia-body-shaming-poy-dehthike-ston-titaniko-ti-anthropoi-kanoyn-kati</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-keit-goyinslet-gia-body-shaming-poy-dehthike-ston-titaniko-ti-anthropoi-kanoyn-kati"/>
-        <updated>2024-12-03T17:37:07.599Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-keit-goyinslet-gia-body-shaming-poy-dehthike-ston-titaniko-ti-anthropoi-kanoyn-kati">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/keit.jpg?h=c71d0c67&amp;itok=kpzI_eNp" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-keit-goyinslet-gia-body-shaming-poy-dehthike-ston-titaniko-ti-anthropoi-kanoyn-kati">Η Κέιτ Γουίνσλετ για το body shaming που δέχθηκε στον Τιτανικό: «Τι άνθρωποι κάνουν κάτι τέτοιο σε…</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ξεκινά η κατασκευή του «μεγαλύτερου κτιρίου στον κόσμο» (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/xekina-i-kataskeyi-toy-megalyteroy-ktirioy-ston-kosmo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/xekina-i-kataskeyi-toy-megalyteroy-ktirioy-ston-kosmo"/>
-        <updated>2024-12-03T17:37:07.599Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/xekina-i-kataskeyi-toy-megalyteroy-ktirioy-ston-kosmo">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/-.jpg?h=1e8794cc&amp;itok=WEFJmQhh" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/xekina-i-kataskeyi-toy-megalyteroy-ktirioy-ston-kosmo">Ξεκινά η κατασκευή του «μεγαλύτερου κτιρίου στον κόσμο»</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.439Z</updated>
+        <updated>2024-12-09T17:35:45.806Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,9 +955,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">08 Dec 2024</span>
-  <a href="/articles/exodos/tainiesseires/oi-10-pio-dimofileis-hristoygenniatikes-tainies-olon-ton-epohon">
-    <span class="title">Οι 10 πιο δημοφιλείς χριστουγεννιάτικες ταινίες όλων των εποχών</span>
+  <span class="created">09 Dec 2024</span>
+  <a href="/articles/exodos/tainiesseires/becoming-led-zeppelin-episimo-treiler-toy-ntokimanter-gia-thryliko">
+    <span class="title">«Becoming Led Zeppelin»: Το επίσημο τρέιλερ του ντοκιμαντέρ για το θρυλικό συγκρότημα</span>
   </a>
 </span>
 
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.442Z</updated>
+        <updated>2024-12-09T17:35:45.807Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -980,10 +980,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">08 Dec 2024</span>
-  <a href="/articles/exodos/moysiki/ta-10-pio-dimofili-hristoygenniatika-tragoydia-olon-ton-epohon">
-    <span class="title">Τα 10 πιο δημοφιλή χριστουγεννιάτικα τραγούδια όλων των εποχών</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">09 Dec 2024</span>
+  <a href="/articles/exodos/tainiesseires/kinimatografiki-leshi-lemesoy-proballei-mia-seira-tainion-gia-olo">
+    <span class="title">Κινηματογραφική Λέσχη Λεμεσού:  Προβάλλει μια σειρά ταινιών για όλο το Δεκέμβριο</span>
   </a>
 </span>
 
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.443Z</updated>
+        <updated>2024-12-09T17:35:45.807Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1006,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">08 Dec 2024</span>
-  <a href="/articles/nea/news/ta-5-pio-perierga-hristoygenniatika-ethima-apo-olo-ton-kosmo">
-    <span class="title">Τα 5 πιο περίεργα χριστουγεννιάτικα έθιμα από όλο τον κόσμο</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">09 Dec 2024</span>
+  <a href="/articles/exodos/fagitopoto/souvenir-social-bar-pame-s-ena-brunch-party-me-monadika-kokteil">
+    <span class="title">Souvenir Social Bar: Πάμε σ ένα brunch party με μοναδικά κοκτέιλ</span>
   </a>
 </span>
 
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.444Z</updated>
+        <updated>2024-12-09T17:35:45.807Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1032,10 +1032,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">08 Dec 2024</span>
-  <a href="/articles/exodos/moysiki/disco-4ever-presents-pashalis-ena-taxidi-piso-stis-endoxes-meres-tis-ntisko">
-    <span class="title">Disco 4ever Presents Πασχάλης: Ένα ταξίδι πίσω στις ένδοξες μέρες της Ντίσκο!</span>
+  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="created">09 Dec 2024</span>
+  <a href="/articles/discover-cyprus/horia/hristoygenniatiko-horio-marinas-agias-napas-aytes-einai-oi-ekplixeis">
+    <span class="title">Χριστουγεννιάτικο χωριό Μαρίνας Αγίας Νάπας: Αυτές είναι οι εκπλήξεις που περιμένουν μικρούς και…</span>
   </a>
 </span>
 
@@ -1048,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.449Z</updated>
+        <updated>2024-12-09T17:35:45.807Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,9 +1059,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΝΕΑ</span>
-  <span class="created">08 Dec 2024</span>
-  <a href="/articles/nea/oi-ergazomenoi-sti-moysiki-tha-hanoyn-14-ton-eisodimaton-toys-logo-ai-ta-epomena-4">
-    <span class="title">Οι εργαζόμενοι στη μουσική θα «χάνουν» το 1/4 των εισοδημάτων τους λόγω ΑΙ τα επόμενα 4 χρόνια</span>
+  <span class="created">09 Dec 2024</span>
+  <a href="/articles/nea/o-morgan-freeman-apotheonei-ti-seira-maestro-sta-social-media">
+    <span class="title">O Morgan Freeman “αποθεώνει” τη σειρά Maestro στα social media </span>
   </a>
 </span>
 
@@ -1074,7 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2024-12-09T05:36:16.450Z</updated>
+        <updated>2024-12-09T17:35:45.809Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
