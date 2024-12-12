@@ -4,3 +4,12 @@ url = "https://avant-garde.com.cy/articles/nea/"
 entrySelector = ".views-row"
 titleSelector = ".title a"
 linkSelector = ".title a"
+
+[insidestory]
+title = "Inside Story Greece"
+url = "https://insidestory.gr/articles"
+entrySelector = ".views-row"
+titleSelector = "article a span"
+linkSelector = "article a"
+contentSelector = ["img", ".lead"]
+dateSelector = ".node__date"
