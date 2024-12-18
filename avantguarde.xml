@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-12-18T05:35:19.903Z</updated>
+    <updated>2024-12-18T17:34:56.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Το «Festivals Unveiled» ανακαλύπτει τα χριστούγεννα της Λευκωσίας!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias"/>
+        <updated>2024-12-18T17:34:51.344Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/vlcsnap-2024-12-18-13h43m10s027.png?h=d1cb525d&amp;itok=U0sRlmA2" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias">Το «Festivals Unveiled» ανακαλύπτει τα χριστούγεννα της Λευκωσίας!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Με δικαστική απόφαση για λογοκλοπή αποσύρεται προσωρινά τραγούδι της Adele]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/me-dikastiki-apofasi-gia-logoklopi-aposyretai-prosorina-tragoydi-tis-adele</id>
+        <link href="https://avant-garde.com.cy/articles/nea/me-dikastiki-apofasi-gia-logoklopi-aposyretai-prosorina-tragoydi-tis-adele"/>
+        <updated>2024-12-18T17:34:51.345Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/me-dikastiki-apofasi-gia-logoklopi-aposyretai-prosorina-tragoydi-tis-adele">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/adele.jpg?h=0e628010&amp;itok=vnJcyjte" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/me-dikastiki-apofasi-gia-logoklopi-aposyretai-prosorina-tragoydi-tis-adele">Με δικαστική απόφαση για λογοκλοπή αποσύρεται προσωρινά τραγούδι της Adele </a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ερευνητές μέτρησαν πόσο μειώνεται η κλεψύδρα της ζωής μας κάθε φορά που τρώμε χοτ-ντογκ και μπέργκερ]]></title>
         <id>https://avant-garde.com.cy/articles/nea/ereynites-metrisan-poso-meionetai-i-klepsydra-tis-zois-mas-kathe-fora-poy-trome-hot</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Σε ύψη ρεκόρ αναμένονται οι θερμοκρασίες στη Γη (και) το 2025]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/se-ypsi-rekor-anamenontai-oi-thermokrasies-sti-gi-kai-2025</id>
-        <link href="https://avant-garde.com.cy/articles/nea/se-ypsi-rekor-anamenontai-oi-thermokrasies-sti-gi-kai-2025"/>
-        <updated>2024-12-13T17:35:28.629Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/se-ypsi-rekor-anamenontai-oi-thermokrasies-sti-gi-kai-2025">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-arthousestudio-4310289.jpg?h=6b6a44f3&amp;itok=M7IfAoPh" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/se-ypsi-rekor-anamenontai-oi-thermokrasies-sti-gi-kai-2025">Σε ύψη ρεκόρ αναμένονται οι θερμοκρασίες στη Γη (και) το 2025</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Αυτές είναι οι 38 χώρες που θα συμμετάσχουν στην Eurovision 2025]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/aytes-einai-oi-38-hores-poy-tha-symmetashoyn-stin-eurovision-2025</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/aytes-einai-oi-38-hores-poy-tha-symmetashoyn-stin-eurovision-2025"/>
-        <updated>2024-12-13T05:36:09.558Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/aytes-einai-oi-38-hores-poy-tha-symmetashoyn-stin-eurovision-2025">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/469965767_1113180544150842_588269612260142848_n.jpg?h=c673cd1c&amp;itok=LaH6otCi" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/aytes-einai-oi-38-hores-poy-tha-symmetashoyn-stin-eurovision-2025">Αυτές είναι οι 38 χώρες που θα συμμετάσχουν στην Eurovision 2025</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.516Z</updated>
+        <updated>2024-12-18T17:34:50.273Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">17 Dec 2024</span>
-  <a href="/articles/nea/ereynites-metrisan-poso-meionetai-i-klepsydra-tis-zois-mas-kathe-fora-poy-trome-hot">
-    <span class="title">Ερευνητές μέτρησαν πόσο μειώνεται η κλεψύδρα της ζωής μας κάθε φορά που τρώμε χοτ-ντογκ και μπέργκερ</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/exodos/tainiesseires/yparho-h-premiera-tis-polyanamenomenis-tainias-epiteloys-eftase">
+    <span class="title">“Υπάρχω”: H πρεμιέρα της πολυαναμενόμενης ταινίας επιτέλους έφτασε </span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.517Z</updated>
+        <updated>2024-12-18T17:34:50.275Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">17 Dec 2024</span>
-  <a href="/articles/nea/o-banksy-dimosiopoiise-ena-neo-ergo-me-ishyro-symbolismo-sto-instagram">
-    <span class="title">Ο Banksy δημοσιοποίησε ένα νέο έργο με ισχυρό συμβολισμό στο Instagram</span>
+  <span class="channel">NEWS</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias">
+    <span class="title">Το «Festivals Unveiled» ανακαλύπτει τα χριστούγεννα της Λευκωσίας!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.519Z</updated>
+        <updated>2024-12-18T17:34:50.276Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">17 Dec 2024</span>
-  <a href="/articles/nea/pelendri-metamorfonetai-se-hristoygenniatiko-horio-kai-mas-kerna-zesto-krasi">
-    <span class="title">Το Πελένδρι μεταμορφώνεται σε χριστουγεννιάτικο χωριό και μας κερνά ζεστό κρασί </span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/exodos/fagitopoto/ena-moysiko-oyzeri-prosferei-mia-olokliromeni-empeiria-moysikis-kai">
+    <span class="title">Ένα μουσικό ουζερί προσφέρει μια ολοκληρωμένη εμπειρία μουσικής και “τσιμπήματος”</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.519Z</updated>
+        <updated>2024-12-18T17:34:50.279Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">17 Dec 2024</span>
-  <a href="/articles/nea/news/mia-hristoygenniatiki-agkalia-gia-ta-egkataleleimmena-zoa-syntrofias">
-    <span class="title">Μια Χριστουγεννιάτικη αγκαλιά για τα εγκαταλελειμμένα ζώα συντροφιάς</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/exodos/fagitopoto/souvenir-social-bar-erhetai-ena-brunch-party-me-monadika-kokteil-0">
+    <span class="title">Souvenir Social Bar: Έρχεται ένα brunch party με μοναδικά κοκτέιλ</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.519Z</updated>
+        <updated>2024-12-18T17:34:50.279Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">17 Dec 2024</span>
-  <a href="/articles/exodos/hristoygenniatiko-festibal-toy-dimoy-stroboloy-i-mageia-ton-hristoygennon-tha">
-    <span class="title">Χριστουγεννιάτικο φεστιβάλ του Δήμου Στροβόλου: Η μαγεία των Χριστουγέννων θα πλημμυρίσει το…</span>
+  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/discover-cyprus/horia/hristoygenniatiko-horio-kakopetrias-pame-s-ena-giortino-proorismo">
+    <span class="title">Χριστουγεννιάτικο χωριό Κακοπετριάς: Πάμε σ' ένα γιορτινό προορισμό γεμάτο μαγεία και ζεστασιά</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T05:35:14.520Z</updated>
+        <updated>2024-12-18T17:34:50.280Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
