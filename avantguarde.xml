@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-12-18T17:34:56.142Z</updated>
+    <updated>2024-12-19T05:35:21.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Εντοπίστηκε το πρώτο άστρο που έχει… λόξιγκα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/entopistike-proto-astro-poy-ehei-loxigka</id>
+        <link href="https://avant-garde.com.cy/articles/nea/entopistike-proto-astro-poy-ehei-loxigka"/>
+        <updated>2024-12-19T05:35:17.363Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/entopistike-proto-astro-poy-ehei-loxigka">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-scott-lord-564881271-29826064.jpg?h=57488114&amp;itok=pAlJtwU8" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/entopistike-proto-astro-poy-ehei-loxigka">Εντοπίστηκε το πρώτο άστρο που έχει… λόξιγκα</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το «Festivals Unveiled» ανακαλύπτει τα χριστούγεννα της Λευκωσίας!]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/festivals-unveiled-anakalyptei-ta-hristoygenna-tis-leykosias</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο Jay-Z αρνείται τις κατηγορίες σε βάρος του για βιασμό ανήλικης: «Είμαι θύμα απόπειρας εκβιασμού]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/o-jay-z-arneitai-tis-katigories-se-baros-toy-gia-biasmo-anilikis-eimai-thyma-apopeiras</id>
-        <link href="https://avant-garde.com.cy/articles/nea/o-jay-z-arneitai-tis-katigories-se-baros-toy-gia-biasmo-anilikis-eimai-thyma-apopeiras"/>
-        <updated>2024-12-13T17:35:28.628Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-19T05:35:17.167Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/o-jay-z-arneitai-tis-katigories-se-baros-toy-gia-biasmo-anilikis-eimai-thyma-apopeiras">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/jay_z.jpg?h=ec041e41&amp;itok=c1tss2wM" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/o-jay-z-arneitai-tis-katigories-se-baros-toy-gia-biasmo-anilikis-eimai-thyma-apopeiras">Ο Jay-Z αρνείται τις κατηγορίες σε βάρος του για βιασμό ανήλικης: «Είμαι θύμα απόπειρας εκβιασμού</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">18 Dec 2024</span>
+  <a href="/articles/nea/entopistike-proto-astro-poy-ehei-loxigka">
+    <span class="title">Εντοπίστηκε το πρώτο άστρο που έχει… λόξιγκα</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.273Z</updated>
+        <updated>2024-12-19T05:35:17.168Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.275Z</updated>
+        <updated>2024-12-19T05:35:17.168Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,10 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.276Z</updated>
+        <updated>2024-12-19T05:35:17.174Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1020,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.279Z</updated>
+        <updated>2024-12-19T05:35:17.174Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,36 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.279Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">18 Dec 2024</span>
-  <a href="/articles/discover-cyprus/horia/hristoygenniatiko-horio-kakopetrias-pame-s-ena-giortino-proorismo">
-    <span class="title">Χριστουγεννιάτικο χωριό Κακοπετριάς: Πάμε σ' ένα γιορτινό προορισμό γεμάτο μαγεία και ζεστασιά</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-18T17:34:50.280Z</updated>
+        <updated>2024-12-19T05:35:17.174Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
