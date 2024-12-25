@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2024-12-25T05:34:44.282Z</updated>
+    <updated>2024-12-25T17:33:46.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η ιστορία του Άγιου Βασίλη: Πώς δημιουργήθηκε ο μύθος και η μορφή του παχουλού άνδρα με τα κόκκινα…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/i-istoria-toy-agioy-basili-pos-dimioyrgithike-o-mythos-kai-i-morfi-toy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/i-istoria-toy-agioy-basili-pos-dimioyrgithike-o-mythos-kai-i-morfi-toy"/>
+        <updated>2024-12-25T17:33:41.765Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/istories/i-istoria-toy-agioy-basili-pos-dimioyrgithike-o-mythos-kai-i-morfi-toy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-2997777-6272272.jpg?h=4b9e7ae1&amp;itok=VhLoVBcR" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/istories/i-istoria-toy-agioy-basili-pos-dimioyrgithike-o-mythos-kai-i-morfi-toy">Η ιστορία του Άγιου Βασίλη: Πώς δημιουργήθηκε ο μύθος και η μορφή του παχουλού άνδρα με τα κόκκινα…</a></span>
+    <span>
+      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Χριστούγεννα στον κόσμο: Ιδιαίτερα χριστουγεννιάτικα έθιμα σε διαφορετικές χώρες]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/hristoygenna-ston-kosmo-idiaitera-hristoygenniatika-ethima-se-diaforetikes</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/hristoygenna-ston-kosmo-idiaitera-hristoygenniatika-ethima-se-diaforetikes"/>
+        <updated>2024-12-25T17:33:41.771Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/istories/hristoygenna-ston-kosmo-idiaitera-hristoygenniatika-ethima-se-diaforetikes">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-brett-sayles-1708601.jpg?h=58c8a5e7&amp;itok=GfP1xpVQ" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/istories/hristoygenna-ston-kosmo-idiaitera-hristoygenniatika-ethima-se-diaforetikes">Χριστούγεννα στον κόσμο: Ιδιαίτερα χριστουγεννιάτικα έθιμα σε διαφορετικές χώρες </a></span>
+    <span>
+      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Χριστουγεννιάτικα κάλαντα: «Να τα πούμε;» - Τι είναι και από πού προέρχεται το έθιμο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/hristoygenniatika-kalanta-na-ta-poyme-ti-einai-kai-apo-poy-proerhetai-ethimo</id>
@@ -838,114 +942,88 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Όσκαρ 2025: Ανακοινώθηκαν οι υποψηφιότητες των 10 κατηγοριών]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/oskar-2025-anakoinothikan-oi-ypopsifiotites-ton-10-katigorion</id>
-        <link href="https://avant-garde.com.cy/articles/nea/oskar-2025-anakoinothikan-oi-ypopsifiotites-ton-10-katigorion"/>
-        <updated>2024-12-19T17:33:46.286Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/oskar-2025-anakoinothikan-oi-ypopsifiotites-ton-10-katigorion">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/278237844_10158408622266406_4572957962949786080_n_0.jpg?h=2e916daa&amp;itok=ol_9xSQ9" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/oskar-2025-anakoinothikan-oi-ypopsifiotites-ton-10-katigorion">Όσκαρ 2025: Ανακοινώθηκαν οι υποψηφιότητες των 10 κατηγοριών</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ο Τραμπ θέλει να απαγορεύσει στους τρανς αθλητές να αγωνίζονται]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/o-tramp-thelei-na-apagoreysei-stoys-trans-athlites-na-agonizontai</id>
-        <link href="https://avant-garde.com.cy/articles/nea/o-tramp-thelei-na-apagoreysei-stoys-trans-athlites-na-agonizontai"/>
-        <updated>2024-12-19T17:33:46.286Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/o-tramp-thelei-na-apagoreysei-stoys-trans-athlites-na-agonizontai">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/standard_avant_garde_24.jpg?h=d1cb525d&amp;itok=FF_oUCa3" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/o-tramp-thelei-na-apagoreysei-stoys-trans-athlites-na-agonizontai">Ο Τραμπ θέλει να απαγορεύσει στους τρανς αθλητές να αγωνίζονται</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.243Z</updated>
+        <updated>2024-12-25T17:33:41.510Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">25 Dec 2024</span>
+  <a href="/articles/exodos/moysiki/o-novel-729-erhetai-sto-nisi-gia-dyo-synaylies">
+    <span class="title">O Novel 729 έρχεται στο νησί για δύο συναυλίες</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-25T17:33:41.513Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+  <span class="created">25 Dec 2024</span>
+  <a href="/articles/nea/istories/i-istoria-toy-agioy-basili-pos-dimioyrgithike-o-mythos-kai-i-morfi-toy">
+    <span class="title">Η ιστορία του Άγιου Βασίλη: Πώς δημιουργήθηκε ο μύθος και η μορφή του παχουλού άνδρα με τα κόκκινα…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-25T17:33:41.513Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+  <span class="created">25 Dec 2024</span>
+  <a href="/articles/nea/istories/hristoygenna-ston-kosmo-idiaitera-hristoygenniatika-ethima-se-diaforetikes">
+    <span class="title">Χριστούγεννα στον κόσμο: Ιδιαίτερα χριστουγεννιάτικα έθιμα σε διαφορετικές χώρες </span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2024-12-25T17:33:41.514Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.244Z</updated>
+        <updated>2024-12-25T17:33:41.515Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.245Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">24 Dec 2024</span>
-  <a href="/articles/exodos/fagitopoto/treis-koykos-apahiko-gia-toys-meraklides-toy-kreatos">
-    <span class="title">Τρεις &amp; Κούκος: Το απάχικο για τους μερακλήδες του κρέατος</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.246Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">24 Dec 2024</span>
-  <a href="/articles/exodos/sousami-bar-tin-paramoni-ton-hristoygennon-kai-ta-hristoygenna-stinontai-dyo">
-    <span class="title">Sousami Bar: Την παραμονή των Χριστουγέννων και τα Χριστούγεννα στήνονται δύο ξέφρενα πάρτι</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.246Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
-  <span class="created">24 Dec 2024</span>
-  <a href="/articles/nea/istories/hristoygenniatika-kalanta-na-ta-poyme-ti-einai-kai-apo-poy-proerhetai-ethimo">
-    <span class="title">Χριστουγεννιάτικα κάλαντα: «Να τα πούμε;» - Τι είναι και από πού προέρχεται το έθιμο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2024-12-25T05:34:40.247Z</updated>
+        <updated>2024-12-25T17:33:41.516Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
