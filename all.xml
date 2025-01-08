@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-07T17:33:59.318Z</updated>
+    <updated>2025-01-08T05:35:36.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[10 συνήθειες που «συνταξιοδοτούνται» μαζί με τους boomers και την «Gen X» (Avant-Guarde Cyprus)]]></title>
@@ -837,6 +837,58 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Τα καλύτερα tips για να αντιμετωπίσετε το hangover της Πρωτοχρονιάς (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias"/>
+        <updated>2025-01-08T05:35:32.143Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-inga-sv-3394310.jpg?h=5877b143&amp;itok=oZRW5vXR" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias"> Τα καλύτερα tips για να αντιμετωπίσετε το hangover της Πρωτοχρονιάς</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ταξίδι στο χρόνο: Χριστούγεννα και Πρωτοχρονιά από το μακρινό 1971 (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971</id>
         <link href="https://avant-garde.com.cy/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971"/>
@@ -889,62 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τι είναι ο Veganuary και γιατί πρέπει να τον δοκιμάσετε (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ti-einai-o-veganuary-kai-giati-prepei-na-ton-dokimasete</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ti-einai-o-veganuary-kai-giati-prepei-na-ton-dokimasete"/>
-        <updated>2025-01-01T17:32:55.510Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ti-einai-o-veganuary-kai-giati-prepei-na-ton-dokimasete">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/standard_avant_garde_32.jpg?h=d1cb525d&amp;itok=6MPocEAo" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ti-einai-o-veganuary-kai-giati-prepei-na-ton-dokimasete">Τι είναι ο Veganuary και γιατί πρέπει να τον δοκιμάσετε</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.252Z</updated>
+        <updated>2025-01-08T05:35:31.923Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.254Z</updated>
+        <updated>2025-01-08T05:35:31.924Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.255Z</updated>
+        <updated>2025-01-08T05:35:31.924Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.256Z</updated>
+        <updated>2025-01-08T05:35:31.927Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1048,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.258Z</updated>
+        <updated>2025-01-08T05:35:31.928Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1074,7 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-01-07T17:33:55.259Z</updated>
+        <updated>2025-01-08T05:35:31.929Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1093,5 +1093,187 @@
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.794Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.796Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.797Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.798Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.799Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.800Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.801Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.802Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.803Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.806Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.807Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.807Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.807Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.809Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.810Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-01-08T05:35:35.811Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025: Τα καθοριστικά ερωτήματα (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/2025-ta-kathoristika-erotimata</id>
+        <link href="https://insidestory.gr/article/2025-ta-kathoristika-erotimata"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Από τη Συρία και το Ιράν ως την Τεχνητή Νοημοσύνη και τον υπερτουρισμό, εννέα ζητήματα που θα σφραγίσουν το νέο έτος.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Πώς ο Έλον Μασκ προωθεί την ακροδεξιά στην Ευρώπη (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/pos-o-elon-mask-proothei-tin-akrodexia-stin-eyropi</id>
+        <link href="https://insidestory.gr/article/pos-o-elon-mask-proothei-tin-akrodexia-stin-eyropi"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Ο πλουσιότερος άνθρωπος στον κόσμο και στενός σύμβουλος του επόμενου Προέδρου των ΗΠΑ επιτίθεται κατά των κυβερνήσεων στη Βρετανία και τη Γερμανία, προωθώντας με καταιγισμό αναρτήσεων την ευρωπαϊκή ακροδεξιά.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η Ζιζέλ Πελικό δεν είναι στερεότυπο θύμα βιασμού και γι' αυτό μπορεί να κάνει τη διαφορά (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/i-zizel-peliko-den-einai-stereotypiko-thyma-biasmoy-kai-gi-ayto-mporei-na-kanei-ti-diafora</id>
+        <link href="https://insidestory.gr/article/i-zizel-peliko-den-einai-stereotypiko-thyma-biasmoy-kai-gi-ayto-mporei-na-kanei-ti-diafora"/>
+        <updated>2025-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Η προθυμία της Πελικό να μιλήσει ανοιχτά για τις εμπειρίες της συμβάλλει ήδη στη διάλυση των στερεοτύπων σχετικά με το ποιος βιώνει ενδοοικογενειακή ή σεξουαλική κακοποίηση και τι αναμένεται να κάνει γι' αυτό.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ρίχτο, Ηλία! 28 Δεκεμβρίου 2024-4 Ιανουαρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/rihto-ilia-28-dekembrioy-2024-4-ianoyarioy-2025</id>
+        <link href="https://insidestory.gr/article/rihto-ilia-28-dekembrioy-2024-4-ianoyarioy-2025"/>
+        <updated>2025-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Μέσα στις πολεοδομίες της Χαλκιδικής: «Θα πάρεις πολλά, πολλά, πολλά» (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/mesa-stis-poleodomies-tis-halkidikis-tha-pareis-polla-polla-polla</id>
+        <link href="https://insidestory.gr/article/mesa-stis-poleodomies-tis-halkidikis-tha-pareis-polla-polla-polla"/>
+        <updated>2025-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Όπως στην Κασσάνδρα, έτσι και στη Σιθωνία η Ελληνική Αστυνομία θεωρεί πως εξάρθρωσε ένα σύστημα διαφθοράς της πολεοδομίας. Η ποικιλία των δοσοληψιών στο δεύτερο πόδι της Χαλκιδικής είναι αρκετά μεγαλύτερη από ό,τι στο πρώτο, οι πράξεις λιγότερες σε αριθμό, αλλά η δημιουργικότητα πάντα αντίστοιχη της «λαϊκής βούλησης».]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 σημεία της επικαιρότητας: 20 Δεκεμβρίου 2024-3 Ιανουαρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/10-simeia-tis-epikairotitas-20-dekembrioy-2024-3-ianoyarioy-2025</id>
+        <link href="https://insidestory.gr/article/10-simeia-tis-epikairotitas-20-dekembrioy-2024-3-ianoyarioy-2025"/>
+        <updated>2025-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Tα καλύτερα άρθρα του 2024. Οι 50 καλύτερες σειρές. Ο μηχανισμός που επιστρατεύθηκε για να καταστρέψει την Μπλέικ Λάιβλι.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι Έλληνες κοιταζόμαστε στον καθρέφτη (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/oi-ellines-koitazomaste-ston-kathrefti</id>
+        <link href="https://insidestory.gr/article/oi-ellines-koitazomaste-ston-kathrefti"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Οι απαντήσεις των Ελλήνων συμμετεχόντων στην Ευρωπαϊκή Κοινωνική Έρευνα δεν ήταν αναμενόμενες: φαίνεται πως είμαστε λαός μάλλον καχύποπτος και μοναχικός, που δεν τρώει σωστά και πίνει πολύ.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ο σκηνοθέτης που μας έμαθε ότι το σινεμά είναι για όλους (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/o-skinothetis-poy-mas-emathe-oti-sinema-einai-gia-oloys</id>
+        <link href="https://insidestory.gr/article/o-skinothetis-poy-mas-emathe-oti-sinema-einai-gia-oloys"/>
+        <updated>2024-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Μια συνέντευξη με τον Πάνο Χ. Κούτρα για το σινεμά του, για τους ανθρώπους που έχουν περάσει πολλά, για την τέχνη και την Αθήνα που είναι τρας αλλά και όμορφη μέσα στο χάος της.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι λέξεις του 2024 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/oi-lexeis-toy-2024</id>
+        <link href="https://insidestory.gr/article/oi-lexeis-toy-2024"/>
+        <updated>2024-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Tι είναι το σκίπιτι, ποια είναι μπρατ και ποιος έχει Οζέμπικ φέις.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι καλύτερές μας στιγμές το 2024 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/oi-kalyteres-mas-stigmes-2024</id>
+        <link href="https://insidestory.gr/article/oi-kalyteres-mas-stigmes-2024"/>
+        <updated>2024-12-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Κάθε χρόνο φτιάχνουμε μια λίστα με τα ρεπορτάζ που αγαπήσατε περισσότερο εσείς, τη χρονιά που πέρασε. Φέτος είπαμε να διαλέξει η ομάδα του inside story τις στιγμές που μας σημάδεψαν, με καλό ή με κακό τρόπο, το 2024.]]></content>
     </entry>
 </feed>
