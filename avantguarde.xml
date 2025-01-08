@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-01-08T05:35:36.616Z</updated>
+    <updated>2025-01-08T17:33:49.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ΗΠΑ: Στο έλεος των πυρκαγιών το Λος Άντζελες – 30.000 άνθρωποι εκκένωσαν τα σπίτια τους (…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/ipa-sto-eleos-ton-pyrkagion-los-antzeles-30000-anthropoi-ekkenosan-ta-spitia-toys</id>
+        <link href="https://avant-garde.com.cy/articles/nea/ipa-sto-eleos-ton-pyrkagion-los-antzeles-30000-anthropoi-ekkenosan-ta-spitia-toys"/>
+        <updated>2025-01-08T17:33:45.734Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/ipa-sto-eleos-ton-pyrkagion-los-antzeles-30000-anthropoi-ekkenosan-ta-spitia-toys">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-01/kentriki.jpg?h=a1e1a043&amp;itok=4lWajswT" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/ipa-sto-eleos-ton-pyrkagion-los-antzeles-30000-anthropoi-ekkenosan-ta-spitia-toys">ΗΠΑ: Στο έλεος των πυρκαγιών το Λος Άντζελες – 30.000 άνθρωποι εκκένωσαν τα σπίτια τους (…</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Πόσο επικίνδυνος είναι ο νέος πνευμονοϊός που εμφανίστηκε στην Κίνα - Πώς μεταδίδεται]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/poso-epikindynos-einai-o-neos-pneymonoios-poy-emfanistike-stin-kina-pos-metadidetai</id>
+        <link href="https://avant-garde.com.cy/articles/nea/poso-epikindynos-einai-o-neos-pneymonoios-poy-emfanistike-stin-kina-pos-metadidetai"/>
+        <updated>2025-01-08T17:33:45.744Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/poso-epikindynos-einai-o-neos-pneymonoios-poy-emfanistike-stin-kina-pos-metadidetai">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-01/1000015771.jpg?h=c6980913&amp;itok=8UQLH5q4" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/poso-epikindynos-einai-o-neos-pneymonoios-poy-emfanistike-stin-kina-pos-metadidetai">Πόσο επικίνδυνος είναι ο νέος πνευμονοϊός που εμφανίστηκε στην Κίνα - Πώς μεταδίδεται</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 συνήθειες που «συνταξιοδοτούνται» μαζί με τους boomers και την «Gen X»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/10-synitheies-poy-syntaxiodotoyntai-mazi-me-toys-boomers-kai-tin-gen-x</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τα καλύτερα tips για να αντιμετωπίσετε το hangover της Πρωτοχρονιάς]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias"/>
-        <updated>2025-01-08T05:35:32.143Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-inga-sv-3394310.jpg?h=5877b143&amp;itok=oZRW5vXR" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ta-kalytera-tips-gia-na-antimetopisete-hangover-tis-protohronias"> Τα καλύτερα tips για να αντιμετωπίσετε το hangover της Πρωτοχρονιάς</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ταξίδι στο χρόνο: Χριστούγεννα και Πρωτοχρονιά από το μακρινό 1971]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971"/>
-        <updated>2025-01-01T17:32:55.510Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-12/ntok.jpg?h=eff18cde&amp;itok=Wnad7lrj" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/istories/taxidi-sto-hrono-hristoygenna-kai-protohronia-apo-makrino-1971">Ταξίδι στο χρόνο: Χριστούγεννα και Πρωτοχρονιά από το μακρινό 1971</a></span>
-    <span>
-      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.923Z</updated>
+        <updated>2025-01-08T17:33:45.535Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">07 Jan 2025</span>
-  <a href="/articles/nea/10-synitheies-poy-syntaxiodotoyntai-mazi-me-toys-boomers-kai-tin-gen-x">
-    <span class="title">10 συνήθειες που «συνταξιοδοτούνται» μαζί με τους boomers και την «Gen X»</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">08 Jan 2025</span>
+  <a href="/articles/exodos/fagitopoto/peloponnese-wine-festival-cyprus-2025-dokimaste-200-etiketes-krasion-ki">
+    <span class="title">Peloponnese Wine Festival Cyprus 2025: Δοκιμάστε 200+ ετικέτες κρασιών κι ανακαλύψτε σπάνιες…</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.924Z</updated>
+        <updated>2025-01-08T17:33:45.536Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">07 Jan 2025</span>
-  <a href="/articles/exodos/tainiesseires/last-us-i-deyteri-sezon-ehei-episimi-imerominia-kai-ena-neo">
-    <span class="title">The Last of Us: Η δεύτερη σεζόν έχει επίσημη ημερομηνία και ένα νέο καταιγιστικό trailer</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">08 Jan 2025</span>
+  <a href="/articles/exodos/fagitopoto/gnosti-aggliki-alysida-fagitoy-anoigei-proto-tis-magazi-stin-kypro">
+    <span class="title">Γνωστή αγγλική αλυσίδα φαγητού ανοίγει το πρώτο της μαγαζί στην Κύπρο </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.924Z</updated>
+        <updated>2025-01-08T17:33:45.537Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">07 Jan 2025</span>
-  <a href="/articles/exodos/fagitopoto/nicosia-whisky-rum-experience-epistrefei-me-ena-ploysio-programma">
-    <span class="title">Το Nicosia Whisky &amp; Rum Experience επιστρέφει με ένα πλούσιο πρόγραμμα masterclasses και μια…</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">08 Jan 2025</span>
+  <a href="/articles/festibal/10o-cyprus-tattoo-convention-anakoinose-imerominies">
+    <span class="title">To 10o Cyprus tattoo convention ανακοίνωσε ημερομηνίες</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.927Z</updated>
+        <updated>2025-01-08T17:33:45.538Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">07 Jan 2025</span>
-  <a href="/articles/exodos/theatrohoros/5-lesbians-eating-quiche-i-parastasi-poy-xetrelane-athinaiko-kai">
-    <span class="title">“5 Lesbians eating a quiche”: Η παράσταση που ξετρέλανε το αθηναϊκό και κυπριακό κοινό επιστρέφει…</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">08 Jan 2025</span>
+  <a href="/articles/exodos/moysiki/entyposiako-ergo-b-toy-anti-skordi-erhetai-sto-diethnes-festibal-leykosias">
+    <span class="title">Το εντυπωσιακό έργο «β» του Άντη Σκορδή έρχεται στο Διεθνές Φεστιβάλ Λευκωσίας</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.928Z</updated>
+        <updated>2025-01-08T17:33:45.545Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">07 Jan 2025</span>
-  <a href="/articles/festibal/erhetai-i-2i-megali-giorti-toy-mantarinioy-ston-arakapa">
-    <span class="title">Έρχεται η 2η μεγάλη&nbsp;Γιορτή&nbsp;του Μανταρινιού&nbsp;στον&nbsp;Αρακαπά</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">08 Jan 2025</span>
+  <a href="/articles/nea/ipa-sto-eleos-ton-pyrkagion-los-antzeles-30000-anthropoi-ekkenosan-ta-spitia-toys">
+    <span class="title">ΗΠΑ: Στο έλεος των πυρκαγιών το Λος Άντζελες – 30.000 άνθρωποι εκκένωσαν τα σπίτια τους (…</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-01-08T05:35:31.929Z</updated>
+        <updated>2025-01-08T17:33:45.546Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
