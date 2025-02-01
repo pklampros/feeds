@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-01T05:33:19.494Z</updated>
+    <updated>2025-02-01T17:32:49.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[To αγαπημένο κυπριακό φεστιβάλ “Φέγγαρος” ανακοινώνει αλλαγή τοποθεσίας της φετινής διοργάνωσης (Avant-Guarde Cyprus)]]></title>
@@ -944,7 +944,111 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.708Z</updated>
+        <updated>2025-02-01T17:32:44.433Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">01 Feb 2025</span>
+  <a href="/articles/exodos/exormiseis/25-koryfaioi-proorismoi-gia-2025">
+    <span class="title">25 Κορυφαίοι Προορισμοί για το 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:44.434Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">01 Feb 2025</span>
+  <a href="/articles/exodos/theatrohoros/agori-ton-oyinslooy-panellinia-proti-sto-satiriko-theatro">
+    <span class="title">«Το Αγόρι των Ουίνσλοου»: Πανελλήνια πρώτη στο Σατιρικό Θέατρο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:44.435Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">01 Feb 2025</span>
+  <a href="/articles/exodos/fagitopoto/poy-tha-fas-kalytero-psari-stin-kypro">
+    <span class="title">Πού θα φας το καλύτερο ψάρι στην Κύπρο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:44.437Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">01 Feb 2025</span>
+  <a href="/articles/exodos/tainiesseires/night-agent-stin-koryfi-oi-10-dimofilesteres-seires-sto-kypriako">
+    <span class="title">The Night Agent στην κορυφή - Oι 10 δημοφιλέστερες σειρές στο Κυπριακό Netflix</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:44.438Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,111 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.771Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">31 Jan 2025</span>
-  <a href="/articles/exodos/ti-na-kanete-sabbatokyriako-theatrikes-parastaseis-moysika-events-festibal-kai">
-    <span class="title">Τι να κάνετε το σαββατοκύριακο: Θεατρικές παραστάσεις, μουσικά events, φεστιβάλ και πολλά άλλα σας…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.773Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">31 Jan 2025</span>
-  <a href="/articles/nea/agapimeno-kypriako-festibal-feggaros-anakoinonei-allagi-topothesias-tis-fetinis">
-    <span class="title">To αγαπημένο κυπριακό φεστιβάλ “Φέγγαρος” ανακοινώνει αλλαγή τοποθεσίας της φετινής διοργάνωσης</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.775Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">DISCOVER CYPRUS</span>
-  <span class="created">31 Jan 2025</span>
-  <a href="/articles/discover-cyprus/pame-na-perpatisoyme-ena-panemorfo-monopati-sta-omorfa-topia-toy-nisioy">
-    <span class="title">Πάμε να περπατήσουμε ένα πανέμορφο μονοπάτι στα όμορφα τοπία του νησιού</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.776Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">31 Jan 2025</span>
-  <a href="/articles/festibal/festibal-heirotehnion-kai-moysikis-apo-jam-nicosia-x-gioysoyroym">
-    <span class="title">Φεστιβάλ χειροτεχνιών και μουσικής από J.A.M. Nicosia x Γιουσουρούμ </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-01T05:33:14.777Z</updated>
+        <updated>2025-02-01T17:32:44.441Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1093,5 +1093,187 @@
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.794Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.795Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.795Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.796Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.797Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.798Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.799Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.800Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.800Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.802Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.803Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.803Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.804Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.805Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.806Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-01T17:32:48.807Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Αυτοί που ξέρουν λιγότερα για την τεχνητή νοημοσύνη, είναι πιο ανοιχτοί σε αυτήν (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/aytoi-poy-xeroyn-ligotera-gia-tin-tehniti-noimosyni-einai-pio-anoihtoi-se-aytin</id>
+        <link href="https://insidestory.gr/article/aytoi-poy-xeroyn-ligotera-gia-tin-tehniti-noimosyni-einai-pio-anoihtoi-se-aytin"/>
+        <updated>2025-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Σύμφωνα με νέα ερευνητικά δεδομένα, η δεκτικότητα των λιγότερο ψηφιακά εγγράμματων απέναντι στην τεχνητή νοημοσύνη φαίνεται να πηγάζει από το αίσθημα θαυμασμού για το τι μπορεί να κάνει, παρά τα μειονεκτήματά της.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ρίχτο, Ηλία! 25 Ιανουαρίου-1 Φεβρουαρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/rihto-ilia-25-ianoyarioy-1-febroyarioy-2025</id>
+        <link href="https://insidestory.gr/article/rihto-ilia-25-ianoyarioy-1-febroyarioy-2025"/>
+        <updated>2025-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Χρήστος Σαρτζετάκης: Η πιο ταραχώδης εκλογή ΠτΔ στη Μεταπολίτευση (Μέρος Β’) (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/hristos-sartzetakis-1985-i-pio-tarahodis-eklogi-ptd-sti-metapoliteysi-meros-b</id>
+        <link href="https://insidestory.gr/article/hristos-sartzetakis-1985-i-pio-tarahodis-eklogi-ptd-sti-metapoliteysi-meros-b"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Η πολιτική κρίση που προκάλεσε η απόφαση του ΠΑΣΟΚ να υποστηρίξει την υποψηφιότητα Σαρτζετάκη για την Προεδρία της Δημοκρατίας, εξελίχθηκε σε θεσμική και συνταγματική κατά τις τρεις κοινοβουλευτικές ψηφοφορίες που ακολούθησαν. Δεν εκτονώθηκε, παρά μόνο μετά τις εκλογές του Ιουνίου του ίδιου έτους.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 σημεία της επικαιρότητας: 24-31 Ιανουαρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/10-simeia-tis-epikairotitas-24-31-ianoyarioy-2025</id>
+        <link href="https://insidestory.gr/article/10-simeia-tis-epikairotitas-24-31-ianoyarioy-2025"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Ο Τραμπ αλλάζει την Αμερική. Τι έκανε η DeepSeek. Πώς το Netflix κέρδισε τον πόλεμο του streaming.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ξύλο λερωμένο με αίμα (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/xylo-bammeno-me-aima</id>
+        <link href="https://insidestory.gr/article/xylo-bammeno-me-aima"/>
+        <updated>2025-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Όλο και περισσότερο ρωσικό ξύλο μπαίνει στην Ευρώπη από την Ελλάδα, μέσω Κίνας.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ο Άρειος Πάγος απαλλάσσει τον κάτοχο της κάρτας με την οποία πληρώθηκαν τα μολυσμένα με Predator SMS (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/o-areios-pagos-apallassei-ton-katoho-tis-kartas-me-tin-opoia-plirothikan-ta-molysmena-me</id>
+        <link href="https://insidestory.gr/article/o-areios-pagos-apallassei-ton-katoho-tis-kartas-me-tin-opoia-plirothikan-ta-molysmena-me"/>
+        <updated>2025-01-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Πρόκειται για έναν βιοπαλαιστή που δεν έχει καμία σχέση με τα καταγγελλόμενα, λέει ο Αντεισαγγελέας Αχιλλέας Ζήσης για τον Αιμίλιο Κοσμίδη και βάζει στο αρχείο τις μηνύσεις από Κουκάκη και Ανδρουλάκη εναντίον του. Τι λέει το νέο πόρισμα και ποιες είναι οι παραλείψεις.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Συγκατοικώντας στο κελί της φυλακής (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/sygkatoikontas-sto-keli-tis-fylakis</id>
+        <link href="https://insidestory.gr/article/sygkatoikontas-sto-keli-tis-fylakis"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Πώς επιλέγεται ένας συγκελίτης; Τι απρόοπτα μπορεί να έχει μια συγκατοίκηση στη φυλακή; Ποιες είναι οι δουλειές του κελιού; Τι κάνει καλό έναν συγκάτοικο και τι τον κάνει κακό;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η Χαμάς είναι ακόμα η κυρίαρχη δύναμη στη Γάζα (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/i-hamas-einai-akomi-i-kyriarhi-dynami-sti-gaza</id>
+        <link href="https://insidestory.gr/article/i-hamas-einai-akomi-i-kyriarhi-dynami-sti-gaza"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Κατά την παράδοση των Ισραηλινών ομήρων, οι ένοπλοι της Χαμάς επιχείρησαν να στείλουν το μήνυμα ότι παραμένουν ισχυροί. Αυτό δεν ισχύει. Αλλά το σίγουρο είναι πως μετά από 15 μήνες πολέμου, δεν έχουν συντριβεί.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Αμποζέντ Χαμούντ Ραμαντάν: «Το όνομά μου ήταν 125. Μου έκαψαν τη γλώσσα επειδή μιλούσα κουρδικά» (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/ampozent-hamoynt-ramantan-onoma-moy-itan-125-moy-ekapsan-ti-glossa-epeidi-miloysa-koyrdika</id>
+        <link href="https://insidestory.gr/article/ampozent-hamoynt-ramantan-onoma-moy-itan-125-moy-ekapsan-ti-glossa-epeidi-miloysa-koyrdika"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Αναμνήσεις από έξι χρόνια κράτησης και βασανιστηρίων στη Σεντνάγια, τη διαβόητη φυλακή του καθεστώτος Άσαντ στη Συρία.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ρίχτο, Ηλία! 18-25 Ιανουαρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/rihto-ilia-18-25-ianoyarioy-2025</id>
+        <link href="https://insidestory.gr/article/rihto-ilia-18-25-ianoyarioy-2025"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Δεν μπορείτε να ξεχωρίσετε έναν ναζιστικό χαιρετισμό από έναν ναζιστικό χαιρετισμό.]]></content>
     </entry>
 </feed>
