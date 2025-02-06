@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-02-05T17:33:42.589Z</updated>
+    <updated>2025-02-06T05:35:39.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ακραία άνοδος θερμοκρασίας στον Βόρειο Πόλο: 20°C πάνω από τον μέσο όρο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/akraia-anodos-thermokrasias-ston-boreio-polo-20degc-pano-apo-ton-meso-oro</id>
+        <link href="https://avant-garde.com.cy/articles/nea/akraia-anodos-thermokrasias-ston-boreio-polo-20degc-pano-apo-ton-meso-oro"/>
+        <updated>2025-02-06T05:35:35.241Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/akraia-anodos-thermokrasias-ston-boreio-polo-20degc-pano-apo-ton-meso-oro">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-02/getty-images-f-mvs6ohfti-unsplash.jpg?h=59736449&amp;itok=EJ8szWi7" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/akraia-anodos-thermokrasias-ston-boreio-polo-20degc-pano-apo-ton-meso-oro">Ακραία άνοδος θερμοκρασίας στον Βόρειο Πόλο: 20°C πάνω από τον μέσο όρο</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Φεβρουάριος στο Foody - Έρωτας είναι... να παραγγέλνεις ακριβώς ό,τι αγαπάς 💘]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/febroyarios-sto-foody-erotas-einai-na-paraggelneis-akribos-oti-agapas</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πώς να καταψύχεις τα τρόφιμα με ασφάλεια και αποτελεσματικότητα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pos-na-katapsyheis-ta-trofima-me-asfaleia-kai-apotelesmatikotita</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pos-na-katapsyheis-ta-trofima-me-asfaleia-kai-apotelesmatikotita"/>
-        <updated>2025-02-02T17:33:13.028Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-02-06T05:35:35.057Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pos-na-katapsyheis-ta-trofima-me-asfaleia-kai-apotelesmatikotita">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-02/ello-aeu9uzstcfs-unsplash.jpg?h=651473e0&amp;itok=xYg1vPD7" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pos-na-katapsyheis-ta-trofima-me-asfaleia-kai-apotelesmatikotita">Πώς να καταψύχεις τα τρόφιμα με ασφάλεια και αποτελεσματικότητα</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">05 Feb 2025</span>
+  <a href="/articles/nea/akraia-anodos-thermokrasias-ston-boreio-polo-20degc-pano-apo-ton-meso-oro">
+    <span class="title">Ακραία άνοδος θερμοκρασίας στον Βόρειο Πόλο: 20°C πάνω από τον μέσο όρο</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.801Z</updated>
+        <updated>2025-02-06T05:35:35.059Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.804Z</updated>
+        <updated>2025-02-06T05:35:35.059Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,10 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.804Z</updated>
+        <updated>2025-02-06T05:35:35.059Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1020,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.805Z</updated>
+        <updated>2025-02-06T05:35:35.059Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,36 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.805Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">05 Feb 2025</span>
-  <a href="/articles/exodos/i-larnaka-etoimazetai-gia-tin-karnabalistiki-parelasi-stis-foinikoydes">
-    <span class="title">Η Λάρνακα ετοιμάζεται για την Καρναβαλίστικη Παρέλαση στις Φοινικούδες</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-02-05T17:33:36.820Z</updated>
+        <updated>2025-02-06T05:35:35.060Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
