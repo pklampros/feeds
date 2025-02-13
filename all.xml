@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-12T17:34:27.101Z</updated>
+    <updated>2025-02-13T05:34:35.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ανησυχία για το «ματωμένο ποτάμι» στην Αργεντινή [βίντεο] (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/anisyhia-gia-matomeno-potami-stin-argentini-binteo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/anisyhia-gia-matomeno-potami-stin-argentini-binteo"/>
+        <updated>2025-02-13T05:34:30.523Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/anisyhia-gia-matomeno-potami-stin-argentini-binteo">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-02/rive.jpg?h=a6a7c408&amp;itok=CsfvV4V-" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/anisyhia-gia-matomeno-potami-stin-argentini-binteo">Ανησυχία για το «ματωμένο ποτάμι» στην Αργεντινή [βίντεο]</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«What We Can Know»: Tο νέο βιβλίο του πολυβραβευμένου συγγραφέα Ίαν ΜακΓιούαν (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/what-we-can-know-neo-biblio-toy-polybrabeymenoy-syggrafea-ian-makgioyan</id>
@@ -889,10 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Από την άνοδο στην πτώση: Ο σκηνοθέτης της “Emilia Pérez” και το Netflix στέκονται απέναντι από την… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/apo-tin-anodo-stin-ptosi-o-skinothetis-tis-emilia-perez-kai-netflix-stekontai-apenanti</id>
-        <link href="https://avant-garde.com.cy/articles/nea/apo-tin-anodo-stin-ptosi-o-skinothetis-tis-emilia-perez-kai-netflix-stekontai-apenanti"/>
-        <updated>2025-02-07T17:33:20.435Z</updated>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-02-13T05:34:30.389Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -901,40 +953,14 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/apo-tin-anodo-stin-ptosi-o-skinothetis-tis-emilia-perez-kai-netflix-stekontai-apenanti">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-02/474790058_634677895734645_5313968279825658286_n.jpg?h=32ba8ec4&amp;itok=IjfRBcUM" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/apo-tin-anodo-stin-ptosi-o-skinothetis-tis-emilia-perez-kai-netflix-stekontai-apenanti">Από την άνοδο στην πτώση: Ο σκηνοθέτης της “Emilia Pérez” και το Netflix στέκονται απέναντι από την…</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">12 Feb 2025</span>
+  <a href="/articles/nea/anisyhia-gia-matomeno-potami-stin-argentini-binteo">
+    <span class="title">Ανησυχία για το «ματωμένο ποτάμι» στην Αργεντινή [βίντεο]</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
@@ -944,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.350Z</updated>
+        <updated>2025-02-13T05:34:30.389Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.350Z</updated>
+        <updated>2025-02-13T05:34:30.389Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -996,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.351Z</updated>
+        <updated>2025-02-13T05:34:30.390Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1022,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.351Z</updated>
+        <updated>2025-02-13T05:34:30.390Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1048,33 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.352Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">12 Feb 2025</span>
-  <a href="/articles/nea/what-we-can-know-neo-biblio-toy-polybrabeymenoy-syggrafea-ian-makgioyan">
-    <span class="title">«What We Can Know»: Tο νέο βιβλίο του πολυβραβευμένου συγγραφέα Ίαν ΜακΓιούαν</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-02-12T17:34:22.360Z</updated>
+        <updated>2025-02-13T05:34:30.390Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
