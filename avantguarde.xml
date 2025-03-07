@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-03-07T05:35:10.624Z</updated>
+    <updated>2025-03-07T17:33:44.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Έφυγε» η Ράνια Ιωαννίδου, η αγαπημένη παπαδιά του «Καφέ της Χαράς»]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/efyge-i-rania-ioannidoy-i-agapimeni-papadia-toy-kafe-tis-haras</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/efyge-i-rania-ioannidoy-i-agapimeni-papadia-toy-kafe-tis-haras"/>
+        <updated>2025-03-07T17:33:38.263Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/efyge-i-rania-ioannidoy-i-agapimeni-papadia-toy-kafe-tis-haras">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-03/rania-ioannidoy-i-spoydaia-ithopoios-kleinei-ta-89-i-teleytaia-tis-dimosia-emfanisi-main-1200x630.jpg?h=ec041e41&amp;itok=m-Qi3fB9" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/efyge-i-rania-ioannidoy-i-agapimeni-papadia-toy-kafe-tis-haras">«Έφυγε» η Ράνια Ιωαννίδου, η αγαπημένη παπαδιά του «Καφέ της Χαράς»</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foody: Γιορτάζει την Παγκόσμια Ημέρα της Γυναίκας με μοναδικές ιστορίες από δυναμικές γυναίκες του…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/foody-giortazei-tin-pagkosmia-imera-tis-gynaikas-me-monadikes-istories-apo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/foody-giortazei-tin-pagkosmia-imera-tis-gynaikas-me-monadikes-istories-apo"/>
+        <updated>2025-03-07T17:33:38.264Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/foody-giortazei-tin-pagkosmia-imera-tis-gynaikas-me-monadikes-istories-apo">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-03/inbox_header_womens_day_1.jpg?h=c9080fed&amp;itok=lixL7qgf" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/foody-giortazei-tin-pagkosmia-imera-tis-gynaikas-me-monadikes-istories-apo">Foody: Γιορτάζει την Παγκόσμια Ημέρα της Γυναίκας με μοναδικές ιστορίες από δυναμικές γυναίκες του…</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τέλος εποχής: Η ταχυδρομική υπηρεσία της δανίας σταματά την παράδοση επιστολών]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/telos-epohis-i-tahydromiki-ypiresia-tis-danias-stamata-tin-paradosi-epistolon</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Οι νικητές των Όσκαρ 2025: Μεγαλειώδης βραδιά για το «Anora» με 5 χρυσά αγαλματίδια]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/oi-nikites-ton-oskar-2025-megaleiodis-bradia-gia-anora-me-5-hrysa-agalmatidia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/oi-nikites-ton-oskar-2025-megaleiodis-bradia-gia-anora-me-5-hrysa-agalmatidia"/>
-        <updated>2025-03-03T17:34:36.087Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/oi-nikites-ton-oskar-2025-megaleiodis-bradia-gia-anora-me-5-hrysa-agalmatidia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/avant_garde_2.jpg?h=d1cb525d&amp;itok=cnIK9JAH" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/oi-nikites-ton-oskar-2025-megaleiodis-bradia-gia-anora-me-5-hrysa-agalmatidia">Οι νικητές των Όσκαρ 2025: Μεγαλειώδης βραδιά για το «Anora» με 5 χρυσά αγαλματίδια</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γιατί πετάμε χαρταετό την Καθαρά Δευτέρα;]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/giati-petame-hartaeto-tin-kathara-deytera-1</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/giati-petame-hartaeto-tin-kathara-deytera-1"/>
-        <updated>2025-03-03T17:34:36.093Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/giati-petame-hartaeto-tin-kathara-deytera-1">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-02/aaron-burden-o0p6av9go3y-unsplash.jpg?h=5c7c0c07&amp;itok=XlgkWvc_" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/giati-petame-hartaeto-tin-kathara-deytera-1">Γιατί πετάμε χαρταετό την Καθαρά Δευτέρα;</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.611Z</updated>
+        <updated>2025-03-07T17:33:38.069Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">06 Mar 2025</span>
-  <a href="/articles/exodos/sabbatokyriako-poy-den-hanetai">
-    <span class="title">Το Σαββατοκύριακο που... δεν χάνεται!</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">07 Mar 2025</span>
+  <a href="/articles/festibal/8o-festibal-anthoy-tis-kitromilias-mia-anoixiatiki-giorti-gemati-aromata-kai">
+    <span class="title">8ο Φεστιβάλ Ανθού της Κιτρομηλιάς: Μια ανοιξιάτικη γιορτή γεμάτη αρώματα και χρώματα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.611Z</updated>
+        <updated>2025-03-07T17:33:38.069Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">06 Mar 2025</span>
-  <a href="/articles/exodos/fagitopoto/nistisima-alla-pentanostima-ta-kalytera-piata-gia-tin-periodo-tis">
-    <span class="title">Νηστίσιμα αλλά πεντανόστιμα: Τα καλύτερα πιάτα για την περίοδο της σαρακοστής</span>
+  <span class="channel">NEWS</span>
+  <span class="created">07 Mar 2025</span>
+  <a href="/articles/nea/news/efyge-i-rania-ioannidoy-i-agapimeni-papadia-toy-kafe-tis-haras">
+    <span class="title">«Έφυγε» η Ράνια Ιωαννίδου, η αγαπημένη παπαδιά του «Καφέ της Χαράς»</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.611Z</updated>
+        <updated>2025-03-07T17:33:38.069Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">06 Mar 2025</span>
-  <a href="/articles/exodos/theatrohoros/mia-fora-tin-ebdomada-otan-oi-sheseis-mpainoyn-sto-mikroskopio-me">
-    <span class="title">«ΜΙΑ ΦΟΡΑ ΤΗΝ ΕΒΔΟΜΑΔΑ»: Όταν οι σχέσεις μπαίνουν στο μικροσκόπιο… με γέλιο!</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">07 Mar 2025</span>
+  <a href="/articles/exodos/moysiki/armin-van-buuren-o-thrylos-tis-edm-erhetai-sti-lemeso-gia-beonix-festival">
+    <span class="title">Armin Van Buuren: Ο θρύλος της EDM έρχεται στη Λεμεσό για το Beonix Festival</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.611Z</updated>
+        <updated>2025-03-07T17:33:38.070Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1034,9 +1034,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">NEWS</span>
-  <span class="created">06 Mar 2025</span>
-  <a href="/articles/nea/news/telos-epohis-i-tahydromiki-ypiresia-tis-danias-stamata-tin-paradosi-epistolon">
-    <span class="title">Τέλος εποχής: Η ταχυδρομική υπηρεσία της δανίας σταματά την παράδοση επιστολών</span>
+  <span class="created">07 Mar 2025</span>
+  <a href="/articles/nea/news/foody-giortazei-tin-pagkosmia-imera-tis-gynaikas-me-monadikes-istories-apo">
+    <span class="title">Foody: Γιορτάζει την Παγκόσμια Ημέρα της Γυναίκας με μοναδικές ιστορίες από δυναμικές γυναίκες του…</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.611Z</updated>
+        <updated>2025-03-07T17:33:38.071Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">06 Mar 2025</span>
-  <a href="/articles/exodos/moysiki/ena-ekriktiko-moysiko-shima-erhetai-stis-notes-live">
-    <span class="title">Ένα εκρηκτικό μουσικό σχήμα έρχεται στις Notes Live</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">07 Mar 2025</span>
+  <a href="/articles/exodos/fagitopoto/baked-brioche-me-salted-caramel-i-nea-glykia-dimioyrgia-toy-stayri">
+    <span class="title">Baked Brioche με Salted Caramel: Η νέα γλυκιά δημιουργία του Σταύρη Γεωργίου που λιώνει στο στόμα!</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-07T05:35:05.613Z</updated>
+        <updated>2025-03-07T17:33:38.072Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
