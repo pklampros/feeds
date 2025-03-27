@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-03-26T17:35:37.356Z</updated>
+    <updated>2025-03-27T05:35:30.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -266,10 +266,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ilha da Queimada Grande: Γιατί σε αυτό το νησί απαγορεύεται να πατήσει άνθρωπος;]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos"/>
-        <updated>2025-03-25T17:35:03.415Z</updated>
+        <title type="html"><![CDATA[Time out: Οι τρεις λόγοι που αξίζει να κάνετε ένα διάλειμμα από την οθόνη]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/time-out-oi-treis-logoi-poy-axizei-na-kanete-ena-dialeimma-apo-tin-othoni</id>
+        <link href="https://avant-garde.com.cy/articles/nea/time-out-oi-treis-logoi-poy-axizei-na-kanete-ena-dialeimma-apo-tin-othoni"/>
+        <updated>2025-03-27T05:35:25.073Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -278,7 +278,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos">
+<span class="media"><a href="/articles/nea/time-out-oi-treis-logoi-poy-axizei-na-kanete-ena-dialeimma-apo-tin-othoni">
 
 
 
@@ -293,7 +293,7 @@
 
 
 
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/480963067_1159478056183934_6769012638131798321_n.jpg?h=a1e1a043&amp;itok=zkBDZqCp" width="575" height="400" alt="" class="img-responsive">
+<img src="/sites/default/files/styles/featured_articles/public/2025-03/priscilla-du-preez-f11yixuhx4q-unsplash.jpg?h=a141e9ea&amp;itok=OHZn8nDK" width="575" height="400" alt="" class="img-responsive">
 
 
 
@@ -307,9 +307,9 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos">Ilha da Queimada Grande: Γιατί σε αυτό το νησί απαγορεύεται να πατήσει άνθρωπος;</a></span>
+    <span class="title"><a href="/articles/nea/time-out-oi-treis-logoi-poy-axizei-na-kanete-ena-dialeimma-apo-tin-othoni">Time out: Οι τρεις λόγοι που αξίζει να κάνετε ένα διάλειμμα από την οθόνη</a></span>
     <span>
-      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+      <span class="channel">ΝΕΑ</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -362,6 +362,58 @@
     <span class="title"><a href="/articles/nea/4-perierga-simadia-oti-gername">4 περίεργα σημάδια ότι γερνάμε</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilha da Queimada Grande: Γιατί σε αυτό το νησί απαγορεύεται να πατήσει άνθρωπος;]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos</id>
+        <link href="https://avant-garde.com.cy/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos"/>
+        <updated>2025-03-25T17:35:03.415Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-03/480963067_1159478056183934_6769012638131798321_n.jpg?h=a1e1a043&amp;itok=zkBDZqCp" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/istories/ilha-da-queimada-grande-giati-se-ayto-nisi-apagoreyetai-na-patisei-anthropos">Ilha da Queimada Grande: Γιατί σε αυτό το νησί απαγορεύεται να πατήσει άνθρωπος;</a></span>
+    <span>
+      <span class="channel">ΙΣΤΟΡΙΕΣ</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Περιβαλλοντική Κίνηση Κύπρου εκπέμπει S.O.S για την αλυκή Ακρωτηρίου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-periballontiki-kinisi-kyproy-ekpempei-sos-gia-tin-alyki-akrotirioy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-periballontiki-kinisi-kyproy-ekpempei-sos-gia-tin-alyki-akrotirioy"/>
-        <updated>2025-03-21T17:34:39.082Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-periballontiki-kinisi-kyproy-ekpempei-sos-gia-tin-alyki-akrotirioy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/151172848_1436201613397532_4504070117640239546_n.jpg?h=70109965&amp;itok=GX-hAsy-" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-periballontiki-kinisi-kyproy-ekpempei-sos-gia-tin-alyki-akrotirioy">Η Περιβαλλοντική Κίνηση Κύπρου εκπέμπει S.O.S για την αλυκή Ακρωτηρίου</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.828Z</updated>
+        <updated>2025-03-27T05:35:24.900Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.828Z</updated>
+        <updated>2025-03-27T05:35:24.902Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.829Z</updated>
+        <updated>2025-03-27T05:35:24.903Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.831Z</updated>
+        <updated>2025-03-27T05:35:24.904Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.832Z</updated>
+        <updated>2025-03-27T05:35:24.905Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-26T17:35:28.832Z</updated>
+        <updated>2025-03-27T05:35:24.909Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
