@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-03-30T17:34:18.920Z</updated>
+    <updated>2025-03-31T05:35:47.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Μαραθώνιος στο φως του μεσονυχτίου: Όταν η νύχτα δε σημαίνει σκοτάδι στη Νορβηγία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/marathonios-sto-fos-toy-mesonyhtioy-otan-i-nyhta-de-simainei-skotadi-sti-norbigia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/marathonios-sto-fos-toy-mesonyhtioy-otan-i-nyhta-de-simainei-skotadi-sti-norbigia"/>
+        <updated>2025-03-31T05:35:42.111Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/marathonios-sto-fos-toy-mesonyhtioy-otan-i-nyhta-de-simainei-skotadi-sti-norbigia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-03/snapins.ai_484287546_18499572187027265_834384308287070304_n_1080.jpg?h=57024e64&amp;itok=1tBkZKiw" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/marathonios-sto-fos-toy-mesonyhtioy-otan-i-nyhta-de-simainei-skotadi-sti-norbigia">Μαραθώνιος στο φως του μεσονυχτίου: Όταν η νύχτα δε σημαίνει σκοτάδι στη Νορβηγία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Βραβεία Θεάτρου ΘΟΚ για το 2024: Οι νικητές και όλα όσα έγιναν χθες στην τελετή απονομής]]></title>
         <id>https://avant-garde.com.cy/articles/nea/brabeia-theatroy-thok-gia-2024-oi-nikites-kai-ola-osa-eginan-hthes-stin-teleti</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Young Lions Cyprus 2025: Ανάδειξε το ταλέντο σου και κατάκτησε τις Κάννες!]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/young-lions-cyprus-2025-anadeixe-talento-soy-kai-kataktise-tis-kannes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/young-lions-cyprus-2025-anadeixe-talento-soy-kai-kataktise-tis-kannes"/>
-        <updated>2025-03-24T17:35:32.924Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/young-lions-cyprus-2025-anadeixe-talento-soy-kai-kataktise-tis-kannes">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/avant_garde_20.jpg?h=d1cb525d&amp;itok=WxPCaxfK" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/young-lions-cyprus-2025-anadeixe-talento-soy-kai-kataktise-tis-kannes">Young Lions Cyprus 2025: Ανάδειξε το ταλέντο σου και κατάκτησε τις Κάννες!</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.976Z</updated>
+        <updated>2025-03-31T05:35:42.018Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">29 Mar 2025</span>
-  <a href="/articles/exodos/theatrohoros/matziellemenes-theatro-stin-plateia-me-fones-apo-tin-kypriaki-paradosi">
-    <span class="title">«Ματζιελλεμένες»: Θέατρο στην πλατεία με φωνές από την κυπριακή παράδοση</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">31 Mar 2025</span>
+  <a href="/articles/exodos/fagitopoto/despoina-bandi-live-i-apolyti-synaylia-tis-anoixis-sti-leykosia">
+    <span class="title">Δέσποινα Βανδή Live: Η απόλυτη συναυλία της άνοιξης στη Λευκωσία!</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.978Z</updated>
+        <updated>2025-03-31T05:35:42.019Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">29 Mar 2025</span>
-  <a href="/articles/exodos/theatrohoros/i-teleytaia-synedria-toy-froint-theatriki-anametrisi-ideon-sti">
-    <span class="title">«Η Τελευταία Συνεδρία του Φρόιντ»: Θεατρική αναμέτρηση ιδεών στη Λεβέντειο Πινακοθήκη</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">30 Mar 2025</span>
+  <a href="/articles/exodos/moysiki/o-monadikos-leonidas-mpalafas-sto-paralimni">
+    <span class="title">O μοναδικός Λεωνίδας Μπαλάφας στο Παραλίμνι </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.978Z</updated>
+        <updated>2025-03-31T05:35:42.019Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">29 Mar 2025</span>
-  <a href="/articles/exodos/theatrohoros/voices-chernobyl-i-parastasi-martyria-gia-tin-pyriniki-tragodia-toy">
-    <span class="title">«Voices from Chernobyl»: Η παράσταση-μαρτυρία για την πυρηνική τραγωδία του Τσέρνομπιλ</span>
+  <span class="channel">NEWS</span>
+  <span class="created">30 Mar 2025</span>
+  <a href="/articles/nea/news/marathonios-sto-fos-toy-mesonyhtioy-otan-i-nyhta-de-simainei-skotadi-sti-norbigia">
+    <span class="title">Μαραθώνιος στο φως του μεσονυχτίου: Όταν η νύχτα δε σημαίνει σκοτάδι στη Νορβηγία</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.979Z</updated>
+        <updated>2025-03-31T05:35:42.019Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">29 Mar 2025</span>
-  <a href="/articles/exodos/tainiesseires/top-10-seires-sto-kypriako-netflix-efibika-dramata-politika-thriler">
-    <span class="title">Top 10 σειρές στο κυπριακό Netflix: Εφηβικά δράματα, πολιτικά θρίλερ και μυστηριώδεις αφίξεις</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">30 Mar 2025</span>
+  <a href="/articles/exodos/theatrohoros/koritsia-imerologioy-i-pio-anatreptiki-parea-gynaikon-epistrefei-sti">
+    <span class="title">«Κορίτσια Ημερολογίου»: Η πιο ανατρεπτική παρέα γυναικών επιστρέφει στη σκηνή</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.980Z</updated>
+        <updated>2025-03-31T05:35:42.020Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">28 Mar 2025</span>
-  <a href="/articles/exodos/etoimasteite-gia-ena-brady-poy-tha-syndyasei-armonika-tin-ypsili-gastronomia-me-tin">
-    <span class="title">Ετοιμαστείτε για ένα βράδυ που θα συνδυάσει αρμονικά την υψηλή γαστρονομία με την αριστοτεχνική…</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">30 Mar 2025</span>
+  <a href="/articles/exodos/fagitopoto/ta-10-kalytera-gyradika-tis-leykosias">
+    <span class="title">Τα 10 καλύτερα γυράδικα της Λευκωσίας</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-03-30T17:34:12.981Z</updated>
+        <updated>2025-03-31T05:35:42.021Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
