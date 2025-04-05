@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-04-05T05:35:02.330Z</updated>
+    <updated>2025-04-05T17:33:29.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2025: Ο ελβετικός στρατός επιστρατεύεται για την ασφάλεια στη Βασιλεία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2025-o-elbetikos-stratos-epistrateyetai-gia-tin-asfaleia-sti-basileia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2025-o-elbetikos-stratos-epistrateyetai-gia-tin-asfaleia-sti-basileia"/>
+        <updated>2025-04-05T17:33:23.076Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eurovision-2025-o-elbetikos-stratos-epistrateyetai-gia-tin-asfaleia-sti-basileia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/basilea_esc2025.jpg?h=d1cb525d&amp;itok=qxEgWK2Z" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eurovision-2025-o-elbetikos-stratos-epistrateyetai-gia-tin-asfaleia-sti-basileia">Eurovision 2025: Ο ελβετικός στρατός επιστρατεύεται για την ασφάλεια στη Βασιλεία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Παγκόσμια Ημέρα Αδέσποτων Ζώων: Γιατί να υιοθετήσετε ένα αδέσποτο και να μην αγοράσετε]]></title>
         <id>https://avant-garde.com.cy/articles/nea/pagkosmia-imera-adespoton-zoon-giati-na-yiothetisete-ena-adespoto-kai-na-min-agorasete</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Χριστίνα Πέτρου εκπροσωπεί την Κύπρο στη Milan Design Week]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-hristina-petroy-ekprosopei-tin-kypro-sti-milan-design-week</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-hristina-petroy-ekprosopei-tin-kypro-sti-milan-design-week"/>
-        <updated>2025-03-31T17:35:29.864Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-05T17:33:22.822Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,102 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-hristina-petroy-ekprosopei-tin-kypro-sti-milan-design-week">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/christin-12_0.jpg?h=ecd6bee2&amp;itok=ajawLeLx" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-hristina-petroy-ekprosopei-tin-kypro-sti-milan-design-week">Η Χριστίνα Πέτρου εκπροσωπεί την Κύπρο στη Milan Design Week</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">05 Apr 2025</span>
+  <a href="/articles/exodos/i-lemesos-foraei-ta-giortina-tis-pashalino-festibal-me-draseis-gia-oli-tin">
+    <span class="title">Η Λεμεσός φοράει τα γιορτινά της: Πασχαλινό φεστιβάλ με δράσεις για όλη την οικογένεια!</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.128Z</updated>
+        <updated>2025-04-05T17:33:22.822Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">05 Apr 2025</span>
+  <a href="/articles/exodos/moysiki/o-alkinoos-ioannidis-xekina-tin-kalokairini-toy-periodeia-apo-tin-kypro">
+    <span class="title">Ο Αλκίνοος Ιωαννίδης ξεκινά την καλοκαιρινή του περιοδεία από την Κύπρο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-05T17:33:22.823Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">05 Apr 2025</span>
+  <a href="/articles/exodos/tainiesseires/top-10-seires-sto-kypriako-netflix-efibika-dramata-mystika">
+    <span class="title">Top 10 σειρές στο κυπριακό Netflix: Εφηβικά δράματα, μυστικά εκατομμυρίων και νέες αφίξεις στην…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-05T17:33:22.825Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">05 Apr 2025</span>
+  <a href="/articles/nea/news/eurovision-2025-o-elbetikos-stratos-epistrateyetai-gia-tin-asfaleia-sti-basileia">
+    <span class="title">Eurovision 2025: Ο ελβετικός στρατός επιστρατεύεται για την ασφάλεια στη Βασιλεία</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-05T17:33:22.826Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.129Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">04 Apr 2025</span>
-  <a href="/articles/nea/pagkosmia-imera-adespoton-zoon-giati-na-yiothetisete-ena-adespoto-kai-na-min-agorasete">
-    <span class="title">Παγκόσμια Ημέρα Αδέσποτων Ζώων: Γιατί να υιοθετήσετε ένα αδέσποτο και να μην αγοράσετε</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.130Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">04 Apr 2025</span>
-  <a href="/articles/nea/news/ploysia-tehni-se-dyskoloys-kairoys-otan-i-aisthitiki-ginetai-praxi-antistasis">
-    <span class="title">Πλούσια τέχνη σε δύσκολους καιρούς: Όταν η αισθητική γίνεται πράξη αντίστασης</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.132Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΣΥΝΕΝΤΕΥΞΕΙΣ</span>
-  <span class="created">04 Apr 2025</span>
-  <a href="/articles/prosopa/synenteyxeis/mesa-stin-kardia-ton-kinimatografikon-meron-kypros-pos-glocal-images">
-    <span class="title">Μέσα στην καρδιά των Κινηματογραφικών Μερών Κύπρος: Πώς το Glocal Images χτίζει γέφυρες από το νησί…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.134Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">04 Apr 2025</span>
-  <a href="/articles/exodos/paradoxo-pashalino-festibal-pame-na-zisoyme-mia-empeiria-gemati-ethima-geyseis-ki">
-    <span class="title">"Παράδοξο" Πασχαλινό Φεστιβάλ: Πάμε να ζήσουμε μια εμπειρία γεμάτη έθιμα, γεύσεις κι…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-05T05:34:57.135Z</updated>
+        <updated>2025-04-05T17:33:22.828Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
