@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-04-13T05:37:38.825Z</updated>
+    <updated>2025-04-13T17:33:40.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Αντίο στον Σπύρο Σταυρινίδη: Ο αιώνιος εργάτης του κυπριακού θεάτρου]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/antio-ston-spyro-stayrinidi-o-aionios-ergatis-toy-kypriakoy-theatroy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/antio-ston-spyro-stayrinidi-o-aionios-ergatis-toy-kypriakoy-theatroy"/>
+        <updated>2025-04-13T17:33:36.645Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/antio-ston-spyro-stayrinidi-o-aionios-ergatis-toy-kypriakoy-theatroy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/spiros-stavrinidis2.jpg?h=8d6db838&amp;itok=UwCpwoxY" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/antio-ston-spyro-stayrinidi-o-aionios-ergatis-toy-kypriakoy-theatroy">Αντίο στον Σπύρο Σταυρινίδη: Ο αιώνιος εργάτης του κυπριακού θεάτρου</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Διαδραστικό εργαστήριο για οικογένειες στο Πολιτιστικό Ίδρυμα Τραπέζης Κύπρου: «Κουβαλώντας το…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/diadrastiko-ergastirio-gia-oikogeneies-sto-politistiko-idryma-trapezis-kyproy</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τιμητικός Χρυσός Φοίνικας για τον Ρόμπερτ Ντε Νίρο στο Φεστιβάλ των Καννών]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/timitikos-hrysos-foinikas-gia-ton-rompert-nte-niro-sto-festibal-ton-kannon</id>
-        <link href="https://avant-garde.com.cy/articles/nea/timitikos-hrysos-foinikas-gia-ton-rompert-nte-niro-sto-festibal-ton-kannon"/>
-        <updated>2025-04-08T17:35:01.100Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-13T17:33:36.434Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,76 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/timitikos-hrysos-foinikas-gia-ton-rompert-nte-niro-sto-festibal-ton-kannon">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-04/337878701_228959262879248_693371274068662127_n.jpg?h=2ceefd76&amp;itok=1y2swWdS" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/timitikos-hrysos-foinikas-gia-ton-rompert-nte-niro-sto-festibal-ton-kannon">Τιμητικός Χρυσός Φοίνικας για τον Ρόμπερτ Ντε Νίρο στο Φεστιβάλ των Καννών</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">13 Apr 2025</span>
+  <a href="/articles/exodos/tainiesseires/o-logistis-epistrefei-pio-skoteinos-apo-pote">
+    <span class="title">Ο Λογιστής επιστρέφει πιο σκοτεινός από ποτέ</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.022Z</updated>
+        <updated>2025-04-13T17:33:36.434Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">13 Apr 2025</span>
+  <a href="/articles/exodos/tainiesseires/sinners-o-raian-koygkler-epistrefei-me-mia-skoteini-istoria-amartias">
+    <span class="title">«Sinners»: Ο Ράιαν Κούγκλερ επιστρέφει με μια σκοτεινή ιστορία αμαρτίας και λύτρωσης</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-13T17:33:36.434Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">13 Apr 2025</span>
+  <a href="/articles/nea/news/antio-ston-spyro-stayrinidi-o-aionios-ergatis-toy-kypriakoy-theatroy">
+    <span class="title">Αντίο στον Σπύρο Σταυρινίδη: Ο αιώνιος εργάτης του κυπριακού θεάτρου</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-04-13T17:33:36.435Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.042Z</updated>
+        <updated>2025-04-13T17:33:36.436Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.042Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">12 Apr 2025</span>
-  <a href="/articles/exodos/exormiseis/oi-ploysioteres-poleis-toy-kosmoy-gia-2025-poia-mitropoli-katehei-tin">
-    <span class="title">Οι πλουσιότερες πόλεις του κόσμου για το 2025: Ποια μητρόπολη κατέχει την κορυφή;</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.044Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">12 Apr 2025</span>
-  <a href="/articles/exodos/theatrohoros/o-zikos-epistrefei-kalokairi">
-    <span class="title">Ο Ζήκος επιστρέφει το καλοκαίρι!</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.045Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">11 Apr 2025</span>
-  <a href="/articles/exodos/fagitopoto/ta-kalytera-tsoyrekia-tis-kyproy-poy-na-breis-ta-pio-afrata-kai">
-    <span class="title">Τα καλύτερα τσουρέκια της Κύπρου: Πού να βρεις τα πιο αφράτα και λαχταριστά γλυκίσματα του Πάσχα</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-13T05:37:33.046Z</updated>
+        <updated>2025-04-13T17:33:36.438Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
