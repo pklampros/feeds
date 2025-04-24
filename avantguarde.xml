@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-04-23T17:35:19.789Z</updated>
+    <updated>2025-04-24T05:36:03.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -422,58 +422,6 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αλλάζουν όλα στο διάστημα; Ανακαλύφθηκαν ίχνη ζωής στον εξωπλανήτη K2-18 b]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b</id>
-        <link href="https://avant-garde.com.cy/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b"/>
-        <updated>2025-04-19T05:35:13.417Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-04/avant_garde_39.jpg?h=d1cb525d&amp;itok=CSFO40P4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b">Αλλάζουν όλα στο διάστημα; Ανακαλύφθηκαν ίχνη ζωής στον εξωπλανήτη K2-18 b</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Πασχαλινά παραδοσιακά παιχνίδια: Τι θα παίξουμε αυτές τις μέρες]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/pashalina-paradosiaka-paihnidia-ti-tha-paixoyme-aytes-tis-meres</id>
         <link href="https://avant-garde.com.cy/articles/nea/istories/pashalina-paradosiaka-paihnidia-ti-tha-paixoyme-aytes-tis-meres"/>
@@ -518,6 +466,58 @@
     <span class="title"><a href="/articles/nea/istories/pashalina-paradosiaka-paihnidia-ti-tha-paixoyme-aytes-tis-meres">Πασχαλινά παραδοσιακά παιχνίδια: Τι θα παίξουμε αυτές τις μέρες</a></span>
     <span>
       <span class="channel">ΙΣΤΟΡΙΕΣ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Αλλάζουν όλα στο διάστημα; Ανακαλύφθηκαν ίχνη ζωής στον εξωπλανήτη K2-18 b]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b</id>
+        <link href="https://avant-garde.com.cy/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b"/>
+        <updated>2025-04-19T05:35:13.417Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/avant_garde_39.jpg?h=d1cb525d&amp;itok=CSFO40P4" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/allazoyn-ola-sto-diastima-anakalyfthikan-ihni-zois-ston-exoplaniti-k2-18-b">Αλλάζουν όλα στο διάστημα; Ανακαλύφθηκαν ίχνη ζωής στον εξωπλανήτη K2-18 b</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.203Z</updated>
+        <updated>2025-04-24T05:35:58.466Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.204Z</updated>
+        <updated>2025-04-24T05:35:58.468Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.205Z</updated>
+        <updated>2025-04-24T05:35:58.469Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.206Z</updated>
+        <updated>2025-04-24T05:35:58.470Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.207Z</updated>
+        <updated>2025-04-24T05:35:58.471Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-23T17:35:14.217Z</updated>
+        <updated>2025-04-24T05:35:58.472Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
