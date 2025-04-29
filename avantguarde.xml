@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-04-29T05:35:57.497Z</updated>
+    <updated>2025-04-29T17:35:11.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η Νικόλ Κίντμαν θα τιμηθεί με το βραβείο «Women in Motion» στο Φεστιβάλ Καννών]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-nikol-kintman-tha-timithei-me-brabeio-women-motion-sto-festibal-kannon</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-nikol-kintman-tha-timithei-me-brabeio-women-motion-sto-festibal-kannon"/>
+        <updated>2025-04-29T17:35:06.413Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-nikol-kintman-tha-timithei-me-brabeio-women-motion-sto-festibal-kannon">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/64260762_10156139579641128_8379398945872281600_n.jpg?h=f5dbe6ee&amp;itok=sj7UoN3I" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-nikol-kintman-tha-timithei-me-brabeio-women-motion-sto-festibal-kannon">Η Νικόλ Κίντμαν θα τιμηθεί με το βραβείο «Women in Motion» στο Φεστιβάλ Καννών</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Η Αόρατη Συνωμοσία»: Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου για τον μυστηριώδη  φόνο του…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-aorati-synomosia-neo-biblio-toy-andrea-hatzikyriakoy-gia-ton-mystiriodi-fono</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Στο νοσοκομείο ο Κάρλος Σαντάνα ακυρώνοντας συναυλία]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/sto-nosokomeio-o-karlos-santana-akyronontas-synaylia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/sto-nosokomeio-o-karlos-santana-akyronontas-synaylia"/>
-        <updated>2025-04-24T17:33:54.155Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/sto-nosokomeio-o-karlos-santana-akyronontas-synaylia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-04/avant_garde_42.jpg?h=d1cb525d&amp;itok=PL1hPGrZ" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/sto-nosokomeio-o-karlos-santana-akyronontas-synaylia">Στο νοσοκομείο ο Κάρλος Σαντάνα ακυρώνοντας συναυλία</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.547Z</updated>
+        <updated>2025-04-29T17:35:06.224Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">28 Apr 2025</span>
-  <a href="/articles/exodos/theatrohoros/pairnontas-thesi-sti-leykosia-aristoyrgima-toy-ronalnt-hargoynt">
-    <span class="title">«Παίρνοντας Θέση»: Στη Λευκωσία το αριστούργημα του Ρόναλντ Χάργουντ</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">29 Apr 2025</span>
+  <a href="/articles/exodos/moysiki/ayti-einai-i-deyteri-kalokairini-synaylia-poy-tha-ginei-sto-theatraki">
+    <span class="title">Αυτή είναι η δεύτερη καλοκαιρινή συναυλία που θα γίνει στο θεατράκι Λυμπιών</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.548Z</updated>
+        <updated>2025-04-29T17:35:06.225Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">28 Apr 2025</span>
-  <a href="/articles/nea/news/i-aorati-synomosia-neo-biblio-toy-andrea-hatzikyriakoy-gia-ton-mystiriodi-fono">
-    <span class="title">«Η Αόρατη Συνωμοσία»: Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου για τον μυστηριώδη  φόνο του…</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">29 Apr 2025</span>
+  <a href="/articles/exodos/tainiesseires/final-destination-bloodlines-stoys-kypriakoys-kinimatografoys">
+    <span class="title">To “Final Destination: Bloodlines” στους κυπριακούς κινηματογράφους!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.549Z</updated>
+        <updated>2025-04-29T17:35:06.227Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">28 Apr 2025</span>
-  <a href="/articles/nea/avant-garde-awards-eiste-etoimoi-na-ginete-meros-tis-pio-geystikis-empeirias-tis">
-    <span class="title">Avant Garde Awards: Είστε έτοιμοι να γίνετε μέρος της πιο γευστικής εμπειρίας της χρονιάς;</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">29 Apr 2025</span>
+  <a href="/articles/exodos/fagitopoto/protomagia-eiste-proteyoysianoi-kai-psahnete-poy-na-fate-ayti-i">
+    <span class="title">Πρωτομαγιά: Αν είστε πρωτευουσιάνοι και ψάχνετε πού να φάτε, αυτή η μερακλίδικη επιλογή είναι για…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.550Z</updated>
+        <updated>2025-04-29T17:35:06.234Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1032,13 +1032,10 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">28 Apr 2025</span>
-  <a href="/articles/festibal/festibal-fraoylas-deryneias-erhetai-pio-glyko-festibal-tis-kyproy">
-    <span class="title">Φεστιβάλ Φράουλας Δερύνειας: Έρχεται το πιο γλυκό φεστιβάλ της Κύπρου</span>
-  </a>
+<span class="channel-title">
+  <span class="title">Ψηφισε το αγαπημενο σου Must-Try εστιατοριο!</span>
 </span>
+<a href="/poll/psifise-agapimeno-soy-must-try-estiatorio" class="vote">Ψήφισε</a>
 
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
@@ -1049,33 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.551Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">28 Apr 2025</span>
-  <a href="/articles/nea/mia-apo-tis-pio-epikindynes-hores-toy-kosmoy-proselkyei-hiliades-toyristes">
-    <span class="title">Μία από τις πιο επικίνδυνες χώρες του κόσμου προσελκύει χιλιάδες τουρίστες</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-04-29T05:35:52.552Z</updated>
+        <updated>2025-04-29T17:35:06.234Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
