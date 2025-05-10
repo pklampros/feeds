@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-05-10T05:35:06.126Z</updated>
+    <updated>2025-05-10T17:33:15.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2025: Όλα όσα πρέπει να ξέρετε για τον φετινό διαγωνισμό στη Βασιλεία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia"/>
+        <updated>2025-05-10T17:33:08.434Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/eurovision-2025-stage.jpg?h=8165685c&amp;itok=OzSSqcAN" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia">Eurovision 2025: Όλα όσα πρέπει να ξέρετε για τον φετινό διαγωνισμό στη Βασιλεία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οι πέντε χειρότερες θέσεις που πήρε ποτέ η Κύπρος στον Διαγωνισμό Τραγουδιού της Eurovision]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis"/>
+        <updated>2025-05-10T17:33:08.435Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/anetartani-640x426.png?h=9b087389&amp;itok=8h1r8pkb" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis">Οι πέντε χειρότερες θέσεις που πήρε ποτέ η Κύπρος στον Διαγωνισμό Τραγουδιού της Eurovision</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Σημαντικές διακρίσεις για το City of Dreams Mediterranean στα MUSE Hotel Awards 2025]]></title>
         <id>https://avant-garde.com.cy/articles/nea/simantikes-diakriseis-gia-city-dreams-mediterranean-sta-muse-hotel-awards-2025</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου παρουσιάζεται στις 22 Μαΐου στη Λάρνακα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/neo-biblio-toy-andrea-hatzikyriakoy-paroysiazetai-stis-22-maioy-sti-larnaka</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/neo-biblio-toy-andrea-hatzikyriakoy-paroysiazetai-stis-22-maioy-sti-larnaka"/>
-        <updated>2025-05-06T17:35:03.029Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/neo-biblio-toy-andrea-hatzikyriakoy-paroysiazetai-stis-22-maioy-sti-larnaka">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/paroysiasi_sti_larnaka.jpg?h=2e111cc1&amp;itok=t-Sb58pt" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/neo-biblio-toy-andrea-hatzikyriakoy-paroysiazetai-stis-22-maioy-sti-larnaka">Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου παρουσιάζεται στις 22 Μαΐου στη Λάρνακα</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Οδηγός «επιβίωσης» για τις εργαζόμενες μητέρες]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/odigos-epibiosis-gia-tis-ergazomenes-miteres</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/odigos-epibiosis-gia-tis-ergazomenes-miteres"/>
-        <updated>2025-05-06T17:35:03.040Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/odigos-epibiosis-gia-tis-ergazomenes-miteres">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/img_8394.jpg?h=9c4c0580&amp;itok=ipk4FcAv" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/odigos-epibiosis-gia-tis-ergazomenes-miteres">Οδηγός «επιβίωσης» για τις εργαζόμενες μητέρες</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-10T05:35:00.956Z</updated>
+        <updated>2025-05-10T17:33:08.328Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">09 May 2025</span>
-  <a href="/articles/exodos/exormiseis/o-pio-anerhomenos-proorismos-stin-eyropi-monadikes-empeiries-kalo-fagito">
-    <span class="title">Ο πιο ανερχόμενος προορισμός στην Ευρώπη: Μοναδικές εμπειρίες, καλό φαγητό και… “coolcation”</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">10 May 2025</span>
+  <a href="/articles/exodos/icons-i-antonia-iroidoy-fernei-tin-tehni-tis-gia-proti-fora-stin-kypro">
+    <span class="title">“The Icons”: Η Αντωνία Ηρωίδου φέρνει την τέχνη της για πρώτη φορά στην Κύπρο</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-10T05:35:00.957Z</updated>
+        <updated>2025-05-10T17:33:08.331Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 May 2025</span>
-  <a href="/articles/nea/simantikes-diakriseis-gia-city-dreams-mediterranean-sta-muse-hotel-awards-2025">
-    <span class="title">Σημαντικές διακρίσεις για το City of Dreams Mediterranean στα MUSE Hotel Awards 2025</span>
+  <span class="channel">NEWS</span>
+  <span class="created">10 May 2025</span>
+  <a href="/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia">
+    <span class="title">Eurovision 2025: Όλα όσα πρέπει να ξέρετε για τον φετινό διαγωνισμό στη Βασιλεία</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-10T05:35:00.959Z</updated>
+        <updated>2025-05-10T17:33:08.332Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 May 2025</span>
-  <a href="/articles/nea/oi-eyropaioi-skinothetes-enonoyn-dynameis-gia-tin-yperaspisi-tis-politistikis">
-    <span class="title">Οι Ευρωπαίοι σκηνοθέτες ενώνουν δυνάμεις για την υπεράσπιση της πολιτιστικής ταυτότητας</span>
+  <span class="channel">NEWS</span>
+  <span class="created">10 May 2025</span>
+  <a href="/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis">
+    <span class="title">Οι πέντε χειρότερες θέσεις που πήρε ποτέ η Κύπρος στον Διαγωνισμό Τραγουδιού της Eurovision</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-10T05:35:00.960Z</updated>
+        <updated>2025-05-10T17:33:08.333Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-10T05:35:00.961Z</updated>
+        <updated>2025-05-10T17:33:08.334Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
