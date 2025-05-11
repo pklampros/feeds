@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-05-11T05:36:15.192Z</updated>
+    <updated>2025-05-11T17:33:18.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nemo κατά της συμμετοχής του Ισραήλ στη Eurovision 2025]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/nemo-kata-tis-symmetohis-toy-israil-sti-eurovision-2025</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/nemo-kata-tis-symmetohis-toy-israil-sti-eurovision-2025"/>
+        <updated>2025-05-11T17:33:12.892Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/nemo-kata-tis-symmetohis-toy-israil-sti-eurovision-2025">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/newfile-3.jpg?h=711d94d0&amp;itok=bdG1Bz7K" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/nemo-kata-tis-symmetohis-toy-israil-sti-eurovision-2025">Nemo κατά της συμμετοχής του Ισραήλ στη Eurovision 2025</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2025: Όλα όσα πρέπει να ξέρετε για τον φετινό διαγωνισμό στη Βασιλεία]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αρχίζει το κονκλάβιο για την ανάδειξη του νέου Πάπα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/arhizei-konklabio-gia-tin-anadeixi-toy-neoy-papa</id>
-        <link href="https://avant-garde.com.cy/articles/nea/arhizei-konklabio-gia-tin-anadeixi-toy-neoy-papa"/>
-        <updated>2025-05-07T17:35:34.515Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/arhizei-konklabio-gia-tin-anadeixi-toy-neoy-papa">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/492671013_1117286230433185_7083525417201232338_n.jpg?h=1c9b88c9&amp;itok=EBuobgql" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/arhizei-konklabio-gia-tin-anadeixi-toy-neoy-papa">Αρχίζει το κονκλάβιο για την ανάδειξη του νέου Πάπα</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-11T05:36:09.396Z</updated>
+        <updated>2025-05-11T17:33:12.761Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">10 May 2025</span>
-  <a href="/articles/exodos/icons-i-antonia-iroidoy-fernei-tin-tehni-tis-gia-proti-fora-stin-kypro">
-    <span class="title">“The Icons”: Η Αντωνία Ηρωίδου φέρνει την τέχνη της για πρώτη φορά στην Κύπρο</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">11 May 2025</span>
+  <a href="/articles/exodos/theatrohoros/i-carmen-allios-barcelona-flamenco-ballet-fernei-floges-kai-pathos">
+    <span class="title">Η «Carmen» αλλιώς: Το Barcelona Flamenco Ballet φέρνει φλόγες και πάθος στην Κύπρο</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-11T05:36:09.397Z</updated>
+        <updated>2025-05-11T17:33:12.761Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">10 May 2025</span>
-  <a href="/articles/nea/news/eurovision-2025-ola-osa-prepei-na-xerete-gia-ton-fetino-diagonismo-sti-basileia">
-    <span class="title">Eurovision 2025: Όλα όσα πρέπει να ξέρετε για τον φετινό διαγωνισμό στη Βασιλεία</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">11 May 2025</span>
+  <a href="/articles/exodos/tainiesseires/ta-agapimena-sto-kypriako-netflix-ayti-ti-bdomada">
+    <span class="title">Τα αγαπημένα στο Κυπριακό Netflix αυτή τη βδομάδα</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-11T05:36:09.397Z</updated>
+        <updated>2025-05-11T17:33:12.761Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">10 May 2025</span>
-  <a href="/articles/nea/news/oi-pente-heiroteres-theseis-poy-pire-pote-i-kypros-ston-diagonismo-tragoydioy-tis">
-    <span class="title">Οι πέντε χειρότερες θέσεις που πήρε ποτέ η Κύπρος στον Διαγωνισμό Τραγουδιού της Eurovision</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">11 May 2025</span>
+  <a href="/articles/festibal/festibal-kerasioy-epistrefei-ston-kampo-diimero-giortis-me-geyseis-moysiki-kai">
+    <span class="title">Το Φεστιβάλ Κερασιού επιστρέφει στον Κάμπο: Διήμερο γιορτής με γεύσεις, μουσική και παράδοση</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-11T05:36:09.398Z</updated>
+        <updated>2025-05-11T17:33:12.762Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-11T05:36:09.401Z</updated>
+        <updated>2025-05-11T17:33:12.763Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
