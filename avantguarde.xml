@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-05-22T17:35:15.858Z</updated>
+    <updated>2025-05-23T05:36:18.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Καύσωνας και σκόνη στο προσκήνιο – Ο υδράργυρος αγγίζει τους 40°C]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kaysonas-kai-skoni-sto-proskinio-o-ydrargyros-aggizei-toys-40degc</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kaysonas-kai-skoni-sto-proskinio-o-ydrargyros-aggizei-toys-40degc"/>
+        <updated>2025-05-23T05:36:13.420Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/kaysonas-kai-skoni-sto-proskinio-o-ydrargyros-aggizei-toys-40degc">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-07/441966631_1025617306231906_187498481395150483_n.jpg?h=45188180&amp;itok=ix6AfWIJ" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/kaysonas-kai-skoni-sto-proskinio-o-ydrargyros-aggizei-toys-40degc">Καύσωνας και σκόνη στο προσκήνιο – Ο υδράργυρος αγγίζει τους 40°C</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Επιβεβαιώνεται από ανεξάρτητους ελέγχους η καθαρότητα των νερών στο Columbia Sun]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/epibebaionetai-apo-anexartitoys-eleghoys-i-katharotita-ton-neron-sto-columbia-sun</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurovision 2025: Η Αυστρία η μεγάλη νικήτρια]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2025-i-aystria-i-megali-nikitria</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2025-i-aystria-i-megali-nikitria"/>
-        <updated>2025-05-18T17:33:51.205Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-05-23T05:36:13.176Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/eurovision-2025-i-aystria-i-megali-nikitria">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/jj_2025.png?h=a8caff15&amp;itok=zuV_SMMr" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/eurovision-2025-i-aystria-i-megali-nikitria">Eurovision 2025: Η Αυστρία η μεγάλη νικήτρια</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">23 May 2025</span>
+  <a href="/articles/nea/news/kaysonas-kai-skoni-sto-proskinio-o-ydrargyros-aggizei-toys-40degc">
+    <span class="title">Καύσωνας και σκόνη στο προσκήνιο – Ο υδράργυρος αγγίζει τους 40°C</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-22T17:35:10.558Z</updated>
+        <updated>2025-05-23T05:36:13.176Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-22T17:35:10.560Z</updated>
+        <updated>2025-05-23T05:36:13.178Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-22T17:35:10.562Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΚΤΟΣ</span>
-  <span class="created">22 May 2025</span>
-  <a href="/articles/exodos/ektos/ekleptysmeno-galliko-mpistro-maison-anemi-symmetehei-sta-avant-garde-awards">
-    <span class="title">To εκλεπτυσμένο γαλλικό μπιστρό Maison Anemi συμμετέχει στα Avant Garde Awards της κατηγορίας “Must…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-22T17:35:10.563Z</updated>
+        <updated>2025-05-23T05:36:13.179Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-22T17:35:10.564Z</updated>
+        <updated>2025-05-23T05:36:13.180Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
