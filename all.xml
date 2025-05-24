@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-24T05:35:45.298Z</updated>
+    <updated>2025-05-24T17:34:14.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Αποτελέσματα Διαγωνισμού Φωτογραφίας “FEELINGS” από το Youth Makerspace (Avant-Guarde Cyprus)]]></title>
@@ -944,7 +944,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-05-24T05:35:40.193Z</updated>
+        <updated>2025-05-24T17:34:08.616Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -954,10 +954,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">23 May 2025</span>
-  <a href="/articles/exodos/moysiki/nikos-oikonomopoylos-exafanizontai-ta-magika-eisitiria-me-grigoroys">
-    <span class="title">Νίκος Οικονομόπουλος: Εξαφανίζονται τα «μαγικά» εισιτήρια με γρήγορους ρυθμούς για την μεγαλύτερη…</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">24 May 2025</span>
+  <a href="/articles/exodos/olea-events-venue-otan-o-horos-ginetai-empeiria">
+    <span class="title">OLEA Events Venue: Όταν ο χώρος γίνεται εμπειρία</span>
   </a>
 </span>
 
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-05-24T05:35:40.194Z</updated>
+        <updated>2025-05-24T17:34:08.620Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -980,10 +980,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΚΤΟΣ</span>
-  <span class="created">23 May 2025</span>
-  <a href="/articles/exodos/ektos/ousia-kitchen-anamesa-sta-estiatoria-poy-mporeite-na-psifisete-sta-avant">
-    <span class="title">Το Ousia Kitchen ανάμεσα στα εστιατόρια που μπορείτε να ψηφίσετε στα Avant Garde Awards “Must try”</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">24 May 2025</span>
+  <a href="/articles/festibal/i-horoesperida-rodakinoy-epistrefei-ston-kato-mylo-gia-ena-kalokairino-glenti">
+    <span class="title">Η Χοροεσπερίδα Ροδακίνου επιστρέφει στον Κάτω Μύλο για ένα καλοκαιρινό γλέντι</span>
   </a>
 </span>
 
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-05-24T05:35:40.196Z</updated>
+        <updated>2025-05-24T17:34:08.622Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1006,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">23 May 2025</span>
-  <a href="/articles/nea/news/apotelesmata-diagonismoy-fotografias-feelings-apo-youth-makerspace">
-    <span class="title">Αποτελέσματα Διαγωνισμού Φωτογραφίας “FEELINGS” από το Youth Makerspace</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">24 May 2025</span>
+  <a href="/articles/exodos/theatrohoros/ta-skylia-toy-anesti-aza-erhontai-sto-theatro-rialto-gia-mia-kai">
+    <span class="title">«Τα Σκυλιά» του Ανέστη Αζά έρχονται στο Θέατρο Ριάλτο για μία και μοναδική παράσταση</span>
   </a>
 </span>
 
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-05-24T05:35:40.197Z</updated>
+        <updated>2025-05-24T17:34:08.623Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1045,7 +1045,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-05-24T05:35:40.198Z</updated>
+        <updated>2025-05-24T17:34:08.649Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
