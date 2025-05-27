@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-05-27T05:38:01.567Z</updated>
+    <updated>2025-05-27T17:35:03.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ήρθε η ώρα για την παροχή του PrEP στην Κύπρο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/irthe-i-ora-gia-tin-parohi-toy-prep-stin-kypro</id>
+        <link href="https://avant-garde.com.cy/articles/nea/irthe-i-ora-gia-tin-parohi-toy-prep-stin-kypro"/>
+        <updated>2025-05-27T17:34:58.373Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/irthe-i-ora-gia-tin-parohi-toy-prep-stin-kypro">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/untitled_design_12.png?h=d1cb525d&amp;itok=DCFkYGdx" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/irthe-i-ora-gia-tin-parohi-toy-prep-stin-kypro">Ήρθε η ώρα για την παροχή του PrEP στην Κύπρο</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου «Η Αόρατη Συνωμοσία» παρουσιάζεται στις 30 Μαΐου στη Λευκωσία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/neo-biblio-toy-andrea-hatzikyriakoy-i-aorati-synomosia-paroysiazetai-stis-30-maioy-sti</id>
+        <link href="https://avant-garde.com.cy/articles/nea/neo-biblio-toy-andrea-hatzikyriakoy-i-aorati-synomosia-paroysiazetai-stis-30-maioy-sti"/>
+        <updated>2025-05-27T17:34:58.379Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/neo-biblio-toy-andrea-hatzikyriakoy-i-aorati-synomosia-paroysiazetai-stis-30-maioy-sti">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/axk_-_book25_-_sites.jpg?h=d1cb525d&amp;itok=HL-g44Qi" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/neo-biblio-toy-andrea-hatzikyriakoy-i-aorati-synomosia-paroysiazetai-stis-30-maioy-sti">Το νέο βιβλίο του Ανδρέα Χατζηκυριάκου «Η Αόρατη Συνωμοσία» παρουσιάζεται στις 30 Μαΐου στη Λευκωσία</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Παρουσιάζουμε την Arcane: Μια Νέα Κινηματογραφική και Τηλεοπτική Δύναμη]]></title>
         <id>https://avant-garde.com.cy/articles/nea/paroysiazoyme-tin-arcane-mia-nea-kinimatografiki-kai-tileoptiki-dynami</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Balza επιστρέφει με θέα την πόλη και άρωμα νέας εποχής]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/balza-epistrefei-me-thea-tin-poli-kai-aroma-neas-epohis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/balza-epistrefei-me-thea-tin-poli-kai-aroma-neas-epohis"/>
-        <updated>2025-05-21T17:35:10.475Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/balza-epistrefei-me-thea-tin-poli-kai-aroma-neas-epohis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/balzadsc_2910.jpg?h=9a7fff01&amp;itok=Zy0KWQOZ" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/balza-epistrefei-me-thea-tin-poli-kai-aroma-neas-epohis">Το Balza επιστρέφει με θέα την πόλη και άρωμα νέας εποχής</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γυρίσματα για ιρλανδική ταξιδιωτική σειρά στη Λάρνακα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/gyrismata-gia-irlandiki-taxidiotiki-seira-sti-larnaka</id>
-        <link href="https://avant-garde.com.cy/articles/nea/gyrismata-gia-irlandiki-taxidiotiki-seira-sti-larnaka"/>
-        <updated>2025-05-21T17:35:10.483Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/gyrismata-gia-irlandiki-taxidiotiki-seira-sti-larnaka">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/larnaca.jpg?h=d3344f92&amp;itok=6V6QHLma" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/gyrismata-gia-irlandiki-taxidiotiki-seira-sti-larnaka">Γυρίσματα για ιρλανδική ταξιδιωτική σειρά στη Λάρνακα</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-27T05:37:55.968Z</updated>
+        <updated>2025-05-27T17:34:58.165Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">26 May 2025</span>
-  <a href="/articles/festibal/poreia-yperifaneias-kyproy-2025-i-accept-kyproy-mas-proskalei-sto-pride">
-    <span class="title">Πορεία Υπερηφάνειας Κύπρου 2025: Η Accept Κύπρου μάς προσκαλεί στο Pride</span>
+  <span class="channel">VODCAST</span>
+  <span class="created">27 May 2025</span>
+  <a href="/articles/vodcast/vodcast-avant-garde-o-stefanos-eyaggelidis-mas-mila-me-aformi-eperhomeno-pride">
+    <span class="title">Vodcast Avant Garde: Ο Στέφανος Ευαγγελίδης μάς μιλα με αφορμή το επερχόμενο Pride</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-27T05:37:55.971Z</updated>
+        <updated>2025-05-27T17:34:58.165Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΝΕΑ</span>
-  <span class="created">26 May 2025</span>
-  <a href="/articles/nea/paroysiazoyme-tin-arcane-mia-nea-kinimatografiki-kai-tileoptiki-dynami">
-    <span class="title">Παρουσιάζουμε την Arcane: Μια Νέα Κινηματογραφική και Τηλεοπτική Δύναμη</span>
+  <span class="created">27 May 2025</span>
+  <a href="/articles/nea/irthe-i-ora-gia-tin-parohi-toy-prep-stin-kypro">
+    <span class="title">Ήρθε η ώρα για την παροχή του PrEP στην Κύπρο</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-27T05:37:55.975Z</updated>
+        <updated>2025-05-27T17:34:58.166Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1008,9 +1008,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">26 May 2025</span>
-  <a href="/articles/exodos/moysiki/ruins-beverast-etoimasteite-gia-mia-kathilotiki-empeiria-poy-yperbainei-ta">
-    <span class="title">The Ruins of Beverast: Ετοιμαστείτε για μια καθηλωτική εμπειρία που υπερβαίνει τα συμβατικά όρια…</span>
+  <span class="created">27 May 2025</span>
+  <a href="/articles/exodos/moysiki/inf-festival-mia-olokliri-mera-moysikis-mesa-sto-kataprasino-dasos-tis">
+    <span class="title">INF Festival: Μια ολόκληρη μέρα μουσικής μέσα στο καταπράσινο Δάσος της Αλάσσας</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-27T05:37:55.976Z</updated>
+        <updated>2025-05-27T17:34:58.169Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-27T05:37:55.977Z</updated>
+        <updated>2025-05-27T17:34:58.170Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
