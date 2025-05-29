@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-05-28T17:35:23.432Z</updated>
+    <updated>2025-05-29T05:36:52.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Afterwork Drinks Coffee Rave στο COFFEEHOUSE Nicosia Central!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/afterwork-drinks-coffee-rave-sto-coffeehouse-nicosia-central</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/afterwork-drinks-coffee-rave-sto-coffeehouse-nicosia-central"/>
+        <updated>2025-05-29T05:36:46.245Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/afterwork-drinks-coffee-rave-sto-coffeehouse-nicosia-central">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/beat_event_poster_invitation_final-01.jpg?h=695d9f99&amp;itok=pIVgOkKM" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/afterwork-drinks-coffee-rave-sto-coffeehouse-nicosia-central">Afterwork Drinks Coffee Rave στο COFFEEHOUSE Nicosia Central!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το Πανεπιστήμιο Λευκωσίας συμμετέχει δυναμικά στην πρώτη επίσημη δράση του Exercise is Medicine®]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/panepistimio-leykosias-symmetehei-dynamika-stin-proti-episimi-drasi-toy-exercise</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Επιβεβαιώνεται από ανεξάρτητους ελέγχους η καθαρότητα των νερών στο Columbia Sun]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/epibebaionetai-apo-anexartitoys-eleghoys-i-katharotita-ton-neron-sto-columbia-sun</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/epibebaionetai-apo-anexartitoys-eleghoys-i-katharotita-ton-neron-sto-columbia-sun"/>
-        <updated>2025-05-22T17:35:10.737Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-05-29T05:36:46.048Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/epibebaionetai-apo-anexartitoys-eleghoys-i-katharotita-ton-neron-sto-columbia-sun">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/columbia_sun38.jpg?h=0de0a604&amp;itok=5yoQeVr1" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/epibebaionetai-apo-anexartitoys-eleghoys-i-katharotita-ton-neron-sto-columbia-sun"> Επιβεβαιώνεται από ανεξάρτητους ελέγχους η καθαρότητα των νερών στο Columbia Sun</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">28 May 2025</span>
+  <a href="/articles/nea/news/afterwork-drinks-coffee-rave-sto-coffeehouse-nicosia-central">
+    <span class="title">Afterwork Drinks Coffee Rave στο COFFEEHOUSE Nicosia Central!</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-28T17:35:18.334Z</updated>
+        <updated>2025-05-29T05:36:46.052Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-28T17:35:18.335Z</updated>
+        <updated>2025-05-29T05:36:46.053Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-28T17:35:18.336Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">28 May 2025</span>
-  <a href="/articles/exodos/tainiesseires/handmaids-tale-i-seira-fainomeno-poy-exelihthike-s-ena-apo-ta-pio">
-    <span class="title">The Handmaid’s Τale: Η σειρά - φαινόμενο που εξελίχθηκε σ' ένα από τα πιο σημαντικά τηλεοπτικά…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-28T17:35:18.338Z</updated>
+        <updated>2025-05-29T05:36:46.054Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-05-28T17:35:18.339Z</updated>
+        <updated>2025-05-29T05:36:46.056Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
