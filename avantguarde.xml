@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-06-01T05:37:15.537Z</updated>
+    <updated>2025-06-01T17:34:39.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Avant Garde Awards: Νέα κατηγορία Brunch στον πιο απολαυστικό διαγωνισμό της χρονιάς!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/avant-garde-awards-nea-katigoria-brunch-ston-pio-apolaystiko-diagonismo-tis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/avant-garde-awards-nea-katigoria-brunch-ston-pio-apolaystiko-diagonismo-tis"/>
+        <updated>2025-06-01T17:34:33.608Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/avant-garde-awards-nea-katigoria-brunch-ston-pio-apolaystiko-diagonismo-tis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-06/untitled-design-2025-04-28t150456.084-1.png?h=74e01742&amp;itok=C2cg31qk" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/avant-garde-awards-nea-katigoria-brunch-ston-pio-apolaystiko-diagonismo-tis">Avant Garde Awards: Νέα κατηγορία Brunch στον πιο απολαυστικό διαγωνισμό της χρονιάς!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Απονεμήθηκαν τα Zero Waste HoReCa Champions Awards 2025]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/aponemithikan-ta-zero-waste-horeca-champions-awards-2025</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KULT boutiques: Παρουσίασαν τη συλλογή «ZEGNA L'Oasi di Lino SS25» στο ξενοδοχείο Anassa]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/kult-boutiques-paroysiasan-ti-syllogi-zegna-loasi-di-lino-ss25-sto-xenodoheio-anassa</id>
-        <link href="https://avant-garde.com.cy/articles/nea/kult-boutiques-paroysiasan-ti-syllogi-zegna-loasi-di-lino-ss25-sto-xenodoheio-anassa"/>
-        <updated>2025-05-28T17:35:18.503Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/kult-boutiques-paroysiasan-ti-syllogi-zegna-loasi-di-lino-ss25-sto-xenodoheio-anassa">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-05/img_0588.jpg?h=6d19374b&amp;itok=lEf_dInV" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/kult-boutiques-paroysiasan-ti-syllogi-zegna-loasi-di-lino-ss25-sto-xenodoheio-anassa">KULT boutiques: Παρουσίασαν τη συλλογή «ZEGNA L'Oasi di Lino SS25» στο ξενοδοχείο Anassa</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-01T05:37:09.897Z</updated>
+        <updated>2025-06-01T17:34:33.416Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">31 May 2025</span>
-  <a href="/articles/nea/news/aponemithikan-ta-zero-waste-horeca-champions-awards-2025">
-    <span class="title">Απονεμήθηκαν τα Zero Waste HoReCa Champions Awards 2025</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">01 Jun 2025</span>
+  <a href="/articles/festibal/10-festibal-poy-erhontai-kai-den-prepei-na-haseis">
+    <span class="title">10 φεστιβάλ που έρχονται και δεν πρέπει να χάσεις</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-01T05:37:09.900Z</updated>
+        <updated>2025-06-01T17:34:33.417Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">31 May 2025</span>
-  <a href="/articles/nea/news/poios-xerei-poion-kalytera-sibling-quiz-toy-andrea-kai-tis-ioannas">
-    <span class="title">Ποιος Ξέρει Ποιον Καλύτερα; Το Sibling Quiz του Ανδρέα και της Ιωάννας</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">01 Jun 2025</span>
+  <a href="/articles/exodos/exormiseis/10-idees-gia-mikres-apodraseis-sto-exoteriko-gia-triimero-toy">
+    <span class="title">10+ ιδέες για μικρές αποδράσεις στο εξωτερικό για το τριήμερο του Κατακλυσμού</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-01T05:37:09.902Z</updated>
+        <updated>2025-06-01T17:34:33.418Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">31 May 2025</span>
-  <a href="/articles/nea/news/i-palia-elia-einai-apolyto-must-try-protos-nikitis-ton-avant-garde-awards-red">
-    <span class="title">Η Παλιά Ελιά είναι το απόλυτο Must Try – Πρώτος νικητής των Avant Garde Awards – Red Selection</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">01 Jun 2025</span>
+  <a href="/articles/exodos/tainiesseires/oi-10-pio-dimofileis-seires-toy-netflix-stin-kypro-ayti-tin-ebdomada">
+    <span class="title">Οι 10 πιο δημοφιλείς σειρές του Netflix στην Κύπρο αυτή την εβδομάδα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-01T05:37:09.903Z</updated>
+        <updated>2025-06-01T17:34:33.419Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,9 +1033,9 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="channel-title">
-  <span class="title">Ψηφισε το αγαπημενο σου Must-Try εστιατοριο!</span>
+  <span class="title">Ψήφισε το αγαπημένο σου εστιατόριο για... brunch! </span>
 </span>
-<a href="/poll/psifise-agapimeno-soy-must-try-estiatorio" class="vote">Ψήφισε</a>
+<a href="/poll/psifise-agapimeno-soy-estiatorio-gia-brunch" class="vote">Ψήφισε</a>
 
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-01T05:37:09.904Z</updated>
+        <updated>2025-06-01T17:34:33.421Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
