@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-06-08T05:36:44.189Z</updated>
+    <updated>2025-06-08T17:34:16.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-08T05:36:38.374Z</updated>
+        <updated>2025-06-08T17:34:11.833Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">07 Jun 2025</span>
-  <a href="/articles/festibal/ta-10-paradosiaka-festibal-toy-ioyni-poy-mas-kaloyn-sto-horio">
-    <span class="title">Τα 10 παραδοσιακά φεστιβάλ του Ιούνη που μας καλούν στο χωριό</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">08 Jun 2025</span>
+  <a href="/articles/exodos/fagitopoto/kypriako-krasi-sto-epikentro-mesa-apo-ti-nea-seira-masterclass-tis">
+    <span class="title">Το κυπριακό κρασί στο επίκεντρο μέσα από τη νέα σειρά masterclass της WINECORE</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-08T05:36:38.375Z</updated>
+        <updated>2025-06-08T17:34:11.833Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">07 Jun 2025</span>
-  <a href="/articles/exodos/moysiki/kataklysmos-2025-poy-tragoydoyn-oi-agapimenoi-soy-kallitehnes-fetos-stin">
-    <span class="title">Κατακλυσμός 2025: Πού τραγουδούν οι αγαπημένοι σου καλλιτέχνες φέτος στην Κύπρο;</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">08 Jun 2025</span>
+  <a href="/articles/exodos/fagitopoto/i-mpira-reei-sto-horio-prasteio-kellakioy-stinei-diko-toy-festibal">
+    <span class="title">Η μπίρα ρέει... στο χωριό! Το Πραστειό Κελλακίου στήνει το δικό του φεστιβάλ</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-08T05:36:38.376Z</updated>
+        <updated>2025-06-08T17:34:11.834Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">07 Jun 2025</span>
-  <a href="/articles/exodos/tainiesseires/oi-10-pio-dimofileis-seires-sto-netflix-kyproy-ayti-tin-ebdomada">
-    <span class="title">Οι 10 πιο δημοφιλείς σειρές στο Netflix Κύπρου αυτή την εβδομάδα</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">08 Jun 2025</span>
+  <a href="/articles/exodos/moysiki/pio-hot-kalokairino-diimero-erhetai-ioylio-sti-leykosia">
+    <span class="title">Το πιο hot καλοκαιρινό διήμερο έρχεται Ιούλιο στη Λευκωσία</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-08T05:36:38.377Z</updated>
+        <updated>2025-06-08T17:34:11.836Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-08T05:36:38.379Z</updated>
+        <updated>2025-06-08T17:34:11.837Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
