@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-06-22T05:36:37.575Z</updated>
+    <updated>2025-06-22T17:36:06.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-22T05:36:33.216Z</updated>
+        <updated>2025-06-22T17:36:01.991Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">21 Jun 2025</span>
-  <a href="/articles/exodos/tainiesseires/paphos-international-film-festival-sbinei-10-kerakia-me-therino">
-    <span class="title">Το Paphos International Film Festival σβήνει 10 κεράκια με θερινό σινεμά και γέλιο</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">22 Jun 2025</span>
+  <a href="/articles/festibal/11o-protaras-summer-film-festival-epistrefei-me-28-proboles-ston-protara">
+    <span class="title">Το 11ο Protaras Summer Film Festival επιστρέφει με 28 προβολές στον Πρωταρά</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-22T05:36:33.216Z</updated>
+        <updated>2025-06-22T17:36:01.993Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">21 Jun 2025</span>
-  <a href="/articles/exodos/theatrohoros/i-kathodos-toy-dionysoy-anoigei-tin-aylaia-toy-greekdramafest-2025">
-    <span class="title">Η κάθοδος του Διόνυσου ανοίγει την αυλαία του GreekDramaFest 2025</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">22 Jun 2025</span>
+  <a href="/articles/festibal/festibal-larnakas-giortazei-40-hronia-me-ploysio-programma-ton-ioylio">
+    <span class="title">Το Φεστιβάλ Λάρνακας γιορτάζει 40 χρόνια με πλούσιο πρόγραμμα τον Ιούλιο</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-22T05:36:33.217Z</updated>
+        <updated>2025-06-22T17:36:01.994Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">21 Jun 2025</span>
-  <a href="/articles/nea/news/i-nicosia-art-kai-alternative-brains-rule-festival-timisan-toys-protergates-tis">
-    <span class="title">Η Nicosia For Art και το Alternative Brains Rule Festival τίμησαν τους πρωτεργάτες της κυπριακής…</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">22 Jun 2025</span>
+  <a href="/articles/festibal/liopetri-ypodehetai-5o-pagkyprio-festibal-karotoy">
+    <span class="title">Το Λιοπέτρι υποδέχεται το 5ο Παγκύπριο Φεστιβάλ Καρότου</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-22T05:36:33.217Z</updated>
+        <updated>2025-06-22T17:36:01.994Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-22T05:36:33.218Z</updated>
+        <updated>2025-06-22T17:36:01.996Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
