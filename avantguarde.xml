@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-06-28T05:36:26.857Z</updated>
+    <updated>2025-06-28T17:34:53.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-28T05:36:22.071Z</updated>
+        <updated>2025-06-28T17:34:47.183Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">27 Jun 2025</span>
-  <a href="/articles/exodos/fagitopoto/nees-geyseis-sto-argo-burger-bistro-otan-i-apolaysi-synanta-tin-armonia">
-    <span class="title">Νέες Γεύσεις στο Argo Burger Bistro: Όταν η Απόλαυση Συναντά την Αρμονία</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">28 Jun 2025</span>
+  <a href="/articles/exodos/moysiki/ilias-brettos-kai-eleytheria-eleytherioy-erhontai-ston-korno-gia-ena">
+    <span class="title">Ηλίας Βρεττός και Ελευθερία Ελευθερίου έρχονται στον Κόρνο για ένα καλοκαιρινό live γεμάτο κέφι</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-28T05:36:22.072Z</updated>
+        <updated>2025-06-28T17:34:47.183Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">27 Jun 2025</span>
-  <a href="/articles/exodos/fagitopoto/malindi-beach-bar-restaurant-i-pio-cool-epistrofi-tis-lemesoy">
-    <span class="title">Malindi Beach Bar &amp; Restaurant: Η πιο cool επιστροφή της Λεμεσού</span>
+  <span class="created">28 Jun 2025</span>
+  <a href="/articles/exodos/fagitopoto/geysi-fantasia-kai-politismikoi-dialogoi-sto-neo-menoy-toy-balza">
+    <span class="title">Γεύση, φαντασία και πολιτισμικοί διάλογοι στο νέο μενού του Balza</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-28T05:36:22.074Z</updated>
+        <updated>2025-06-28T17:34:47.184Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">27 Jun 2025</span>
-  <a href="/articles/festibal/festibal-paloyze-epistrefei-sto-boyni-gia-mia-giorti-gemati-geysi-kai-paradosi">
-    <span class="title">Το Φεστιβάλ Παλουζέ επιστρέφει στο Βουνί για μια γιορτή γεμάτη γεύση και παράδοση</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">28 Jun 2025</span>
+  <a href="/articles/exodos/tainiesseires/top-10-ti-blepei-tora-i-kypros-sto-netflix">
+    <span class="title">Top 10: Τι βλέπει τώρα η Κύπρος στο Netflix</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-28T05:36:22.075Z</updated>
+        <updated>2025-06-28T17:34:47.185Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-28T05:36:22.076Z</updated>
+        <updated>2025-06-28T17:34:47.186Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
