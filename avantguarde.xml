@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-06-29T05:37:46.893Z</updated>
+    <updated>2025-06-29T17:35:14.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Οι πιο πολυπολιτισμικές και συμπεριληπτικές πόλεις του κόσμου, σύμφωνα με τους ντόπιους]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-pio-polypolitismikes-kai-symperiliptikes-poleis-toy-kosmoy-symfona-me-toys</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-pio-polypolitismikes-kai-symperiliptikes-poleis-toy-kosmoy-symfona-me-toys"/>
+        <updated>2025-06-29T17:35:08.928Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/oi-pio-polypolitismikes-kai-symperiliptikes-poleis-toy-kosmoy-symfona-me-toys">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-06/greg-rosenke-aqk0sw2gj-c-unsplash.jpg?h=2353b106&amp;itok=O7oc05Jn" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/oi-pio-polypolitismikes-kai-symperiliptikes-poleis-toy-kosmoy-symfona-me-toys">Οι πιο πολυπολιτισμικές και συμπεριληπτικές πόλεις του κόσμου, σύμφωνα με τους ντόπιους</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η μεγάλη αλλαγή που θα αλλάξει τα ταξίδια στην Ευρώπη]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi"/>
+        <updated>2025-06-29T17:35:08.934Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-06/a-c-uf2dxzuv_i0-unsplash.jpg?h=2992ba0a&amp;itok=qy7H-dz9" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi">Η μεγάλη αλλαγή που θα αλλάξει τα ταξίδια στην Ευρώπη</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 χρόνια Youth Wiki: Ο Οργανισμός Νεολαίας Κύπρου, γιόρτασε τη γνώση και την τεκμηριωμένη πολιτική…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/10-hronia-youth-wiki-o-organismos-neolaias-kyproy-giortase-ti-gnosi-kai-tin</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Άμεση η ανάγκη για λήψη μέτρων προστασίας των παιδιών στον χώρο του Αθλητισμού]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/amesi-i-anagki-gia-lipsi-metron-prostasias-ton-paidion-ston-horo-toy-athlitismoy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/amesi-i-anagki-gia-lipsi-metron-prostasias-ton-paidion-ston-horo-toy-athlitismoy"/>
-        <updated>2025-06-23T17:36:16.598Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/amesi-i-anagki-gia-lipsi-metron-prostasias-ton-paidion-ston-horo-toy-athlitismoy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-06/tax_1.jpg?h=4c45b8dc&amp;itok=ml9MGnr8" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/amesi-i-anagki-gia-lipsi-metron-prostasias-ton-paidion-ston-horo-toy-athlitismoy">Άμεση η ανάγκη για λήψη μέτρων προστασίας των παιδιών στον χώρο του Αθλητισμού</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Νέα Limited Edition Καλοκαιρινά Chillers από την COFFEEHOUSE]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/nea-limited-edition-kalokairina-chillers-apo-tin-coffeehouse</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/nea-limited-edition-kalokairina-chillers-apo-tin-coffeehouse"/>
-        <updated>2025-06-23T17:36:16.599Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/nea-limited-edition-kalokairina-chillers-apo-tin-coffeehouse">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-06/coffeehouse-new-chillers-unlocked-1080x600.jpg?h=2a8b1677&amp;itok=kJtVYs5D" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/nea-limited-edition-kalokairina-chillers-apo-tin-coffeehouse">Νέα Limited Edition Καλοκαιρινά Chillers από την COFFEEHOUSE</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-29T05:37:41.957Z</updated>
+        <updated>2025-06-29T17:35:08.811Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">28 Jun 2025</span>
-  <a href="/articles/exodos/moysiki/ilias-brettos-kai-eleytheria-eleytherioy-erhontai-ston-korno-gia-ena">
-    <span class="title">Ηλίας Βρεττός και Ελευθερία Ελευθερίου έρχονται στον Κόρνο για ένα καλοκαιρινό live γεμάτο κέφι</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">29 Jun 2025</span>
+  <a href="/articles/exodos/theatrohoros/o-markos-seferlis-fernei-ton-noti-toy-stin-kypro-kai-yposhetai-xefreno">
+    <span class="title">Ο Μάρκος Σεφερλής φέρνει τον «Νότη» του στην Κύπρο και υπόσχεται ξέφρενο γέλιο</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-29T05:37:41.958Z</updated>
+        <updated>2025-06-29T17:35:08.811Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">28 Jun 2025</span>
-  <a href="/articles/exodos/fagitopoto/geysi-fantasia-kai-politismikoi-dialogoi-sto-neo-menoy-toy-balza">
-    <span class="title">Γεύση, φαντασία και πολιτισμικοί διάλογοι στο νέο μενού του Balza</span>
+  <span class="created">29 Jun 2025</span>
+  <a href="/articles/exodos/fagitopoto/ayto-einai-estiatorio-poy-anadeihthike-koryfaio-ston-kosmo-gia-2025">
+    <span class="title">Αυτό είναι το εστιατόριο που αναδείχθηκε κορυφαίο στον κόσμο για το 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-29T05:37:41.959Z</updated>
+        <updated>2025-06-29T17:35:08.811Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">28 Jun 2025</span>
-  <a href="/articles/exodos/tainiesseires/top-10-ti-blepei-tora-i-kypros-sto-netflix">
-    <span class="title">Top 10: Τι βλέπει τώρα η Κύπρος στο Netflix</span>
+  <span class="channel">NEWS</span>
+  <span class="created">29 Jun 2025</span>
+  <a href="/articles/nea/news/oi-pio-polypolitismikes-kai-symperiliptikes-poleis-toy-kosmoy-symfona-me-toys">
+    <span class="title">Οι πιο πολυπολιτισμικές και συμπεριληπτικές πόλεις του κόσμου, σύμφωνα με τους ντόπιους</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-29T05:37:41.962Z</updated>
+        <updated>2025-06-29T17:35:08.812Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-06-29T05:37:41.963Z</updated>
+        <updated>2025-06-29T17:35:08.813Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
