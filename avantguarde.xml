@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-03T17:36:18.907Z</updated>
+    <updated>2025-07-04T05:38:24.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[City of Dreams Mediterranean Wet Glam Parties: Απογειώνουν την καλοκαιρινή διασκέδαση]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/city-dreams-mediterranean-wet-glam-parties-apogeionoyn-tin-kalokairini-diaskedasi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/city-dreams-mediterranean-wet-glam-parties-apogeionoyn-tin-kalokairini-diaskedasi"/>
+        <updated>2025-07-04T05:38:18.949Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/city-dreams-mediterranean-wet-glam-parties-apogeionoyn-tin-kalokairini-diaskedasi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-07/jh_avantgarde_938x527.png?h=43594a01&amp;itok=2hRCSUAL" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/city-dreams-mediterranean-wet-glam-parties-apogeionoyn-tin-kalokairini-diaskedasi">City of Dreams Mediterranean Wet Glam Parties: Απογειώνουν την καλοκαιρινή διασκέδαση</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η επιστροφή της Τζένιφερ Ανιστον στην τηλεόραση σε ρόλο-έκπληξη]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-epistrofi-tis-tzenifer-aniston-stin-tileorasi-se-rolo-ekplixi</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η μεγάλη αλλαγή που θα αλλάξει τα ταξίδια στην Ευρώπη]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi"/>
-        <updated>2025-06-29T17:35:08.934Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-07-04T05:38:18.857Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-06/a-c-uf2dxzuv_i0-unsplash.jpg?h=2992ba0a&amp;itok=qy7H-dz9" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-megali-allagi-poy-tha-allaxei-ta-taxidia-stin-eyropi">Η μεγάλη αλλαγή που θα αλλάξει τα ταξίδια στην Ευρώπη</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">04 Jul 2025</span>
+  <a href="/articles/nea/news/city-dreams-mediterranean-wet-glam-parties-apogeionoyn-tin-kalokairini-diaskedasi">
+    <span class="title">City of Dreams Mediterranean Wet Glam Parties: Απογειώνουν την καλοκαιρινή διασκέδαση</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-03T17:36:13.401Z</updated>
+        <updated>2025-07-04T05:38:18.858Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-03T17:36:13.402Z</updated>
+        <updated>2025-07-04T05:38:18.860Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-03T17:36:13.404Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">03 Jul 2025</span>
-  <a href="/articles/exodos/exormiseis/pendeli-resort-i-anagennisi-enos-istorikoy-xenodoheioy-stis-platres">
-    <span class="title"> Pendeli Resort: Η αναγέννηση ενός ιστορικού ξενοδοχείου στις Πλάτρες</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-03T17:36:13.405Z</updated>
+        <updated>2025-07-04T05:38:18.861Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-03T17:36:13.406Z</updated>
+        <updated>2025-07-04T05:38:18.862Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
