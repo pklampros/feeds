@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-06T05:36:27.180Z</updated>
+    <updated>2025-07-06T17:35:13.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-06T05:36:21.930Z</updated>
+        <updated>2025-07-06T17:35:08.633Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">05 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/o-alkinoos-ioannidis-oloklironei-fetino-synayliako-kalokairi-toy-stin-kypro">
-    <span class="title">Ο Αλκίνοος Ιωαννίδης, ολοκληρώνει το φετινό, συναυλιακό καλοκαίρι του στην Κύπρο, με πέντε συναυλίες</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">06 Jul 2025</span>
+  <a href="/articles/exodos/exormiseis/staycation-stin-kypro-oi-diakopes-poy-den-ixeres-oti-hreiazesai">
+    <span class="title">Staycation στην Κύπρο: Οι διακοπές που δεν ήξερες ότι χρειάζεσαι</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-06T05:36:21.933Z</updated>
+        <updated>2025-07-06T17:35:08.635Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">05 Jul 2025</span>
-  <a href="/articles/exodos/fagitopoto/201-kalokairina-mpar-se-oli-tin-kypro-gia-na-apolayseis-ta-kalytera">
-    <span class="title">20+1 καλοκαιρινά μπαρ σε όλη την Κύπρο για να απολαύσεις τα καλύτερα cocktails</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">06 Jul 2025</span>
+  <a href="/articles/exodos/exormiseis/4-1-idees-gia-tis-kalokairines-soy-diakopes-den-eheis-kleisei-akoma">
+    <span class="title">4 + 1 ιδέες για τις καλοκαιρινές σου διακοπές (αν δεν έχεις κλείσει ακόμα)</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-06T05:36:21.940Z</updated>
+        <updated>2025-07-06T17:35:08.641Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">04 Jul 2025</span>
-  <a href="/articles/nea/giveaway-king-kite-epistrefei-xana-kai-i-avant-garde-me-kahuna-surfhouse-sas">
-    <span class="title">Giveaway: Το King of Kite επιστρέφει ξανά και η Avant Garde με το Kahuna Surfhouse σάς προσφέρουν…</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">06 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/i-anastasia-erhetai-sto-dali-gia-mia-ekriktiki-synaylia">
+    <span class="title">Η Αναστασία έρχεται στο Δάλι για μία εκρηκτική συναυλία</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-06T05:36:21.940Z</updated>
+        <updated>2025-07-06T17:35:08.644Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-06T05:36:21.943Z</updated>
+        <updated>2025-07-06T17:35:08.644Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
