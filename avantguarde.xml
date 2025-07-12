@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-12T05:37:16.398Z</updated>
+    <updated>2025-07-12T17:35:19.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ο Δήμος Λευκωσίας ιδρύει Ενεργειακή Κοινότητα με τη συμμετοχή πολιτών και επιχειρήσεων]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/o-dimos-leykosias-idryei-energeiaki-koinotita-me-ti-symmetohi-politon-kai</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/o-dimos-leykosias-idryei-energeiaki-koinotita-me-ti-symmetohi-politon-kai"/>
+        <updated>2025-07-12T17:35:14.848Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/o-dimos-leykosias-idryei-energeiaki-koinotita-me-ti-symmetohi-politon-kai">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2021-03/nicosia.jpg?h=ee7bf558&amp;itok=ZKfk5X8N" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/o-dimos-leykosias-idryei-energeiaki-koinotita-me-ti-symmetohi-politon-kai">Ο Δήμος Λευκωσίας ιδρύει Ενεργειακή Κοινότητα με τη συμμετοχή πολιτών και επιχειρήσεων</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ο Jason Derulo στα κατεχόμενα - Συναυλία με πολιτικό βάρος]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/o-jason-derulo-sta-katehomena-synaylia-me-politiko-baros</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τεχνητή νοημοσύνη: Η Gen Z θέλει τη βοήθειά της… στα ραντεβού]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/tehniti-noimosyni-i-gen-z-thelei-ti-boitheia-tis-sta-ranteboy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/tehniti-noimosyni-i-gen-z-thelei-ti-boitheia-tis-sta-ranteboy"/>
-        <updated>2025-07-07T17:36:46.903Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/tehniti-noimosyni-i-gen-z-thelei-ti-boitheia-tis-sta-ranteboy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/priscilla-du-preez-g86airjz4gs-unsplash_1.jpg?h=a141e9ea&amp;itok=xHiX8Jp4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/tehniti-noimosyni-i-gen-z-thelei-ti-boitheia-tis-sta-ranteboy">Τεχνητή νοημοσύνη: Η Gen Z θέλει τη βοήθειά της… στα ραντεβού</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-12T05:37:11.000Z</updated>
+        <updated>2025-07-12T17:35:14.725Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">11 Jul 2025</span>
-  <a href="/articles/exodos/fagitopoto/edo-tha-fate-mamadistiko-fagito-bretheite-gia-boyties-sti-larnaka">
-    <span class="title">Εδώ θα φάτε μαμαδίστικο φαγητό αν βρεθείτε για βουτιές στη Λάρνακα</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">12 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/loreen-kai-craig-david-stin-kypro-mia-bradia-dyo-thryloi-tis-pagkosmias">
+    <span class="title">Loreen και Craig David στην Κύπρο: Μια βραδιά, δύο θρύλοι της παγκόσμιας μουσικής σκηνής</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-12T05:37:11.001Z</updated>
+        <updated>2025-07-12T17:35:14.726Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">11 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/kyriakatiki-apodrasi-me-latin-rythmoys-stin-paralia-tis-lemesoy">
-    <span class="title">Κυριακάτικη απόδραση με latin ρυθμούς στην παραλία της Λεμεσού</span>
+  <span class="created">12 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/dekapentaygoystos-sta-pano-leykara-ena-festibal-gia-oles-tis-genies">
+    <span class="title">Δεκαπενταύγουστος στα Πάνω Λεύκαρα: Ένα φεστιβάλ για όλες τις γενιές</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-12T05:37:11.001Z</updated>
+        <updated>2025-07-12T17:35:14.727Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1008,9 +1008,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">11 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/o-giannis-ploytarhos-epistrefei-sti-lemeso-gia-mia-bradia-gemati">
-    <span class="title">Ο Γιάννης Πλούταρχος επιστρέφει στη Λεμεσό για μια βραδιά γεμάτη συναίσθημα και μουσική</span>
+  <span class="created">12 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/music-element-epistrefei-me-ilektroniki-energeia-stin-paralia-tis-agias">
+    <span class="title">Το Music Element επιστρέφει με ηλεκτρονική ενέργεια στην παραλία της Αγίας Τριάδας</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-12T05:37:11.001Z</updated>
+        <updated>2025-07-12T17:35:14.727Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-12T05:37:11.002Z</updated>
+        <updated>2025-07-12T17:35:14.728Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
