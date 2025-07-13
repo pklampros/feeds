@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-13T05:37:43.545Z</updated>
+    <updated>2025-07-13T17:35:28.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-13T05:37:38.311Z</updated>
+        <updated>2025-07-13T17:35:22.462Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -956,9 +956,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">12 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/loreen-kai-craig-david-stin-kypro-mia-bradia-dyo-thryloi-tis-pagkosmias">
-    <span class="title">Loreen και Craig David στην Κύπρο: Μια βραδιά, δύο θρύλοι της παγκόσμιας μουσικής σκηνής</span>
+  <span class="created">13 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/bardis-kai-barthakoyris-live-sti-leykosia">
+    <span class="title">Βαρδής και Βαρθακούρης live στη Λευκωσία</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-13T05:37:38.316Z</updated>
+        <updated>2025-07-13T17:35:22.463Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">12 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/dekapentaygoystos-sta-pano-leykara-ena-festibal-gia-oles-tis-genies">
-    <span class="title">Δεκαπενταύγουστος στα Πάνω Λεύκαρα: Ένα φεστιβάλ για όλες τις γενιές</span>
+  <span class="created">13 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/apopse-stin-pafo-mia-nyhta-gemati-floga-me-toys-rumba-attack">
+    <span class="title">Απόψε στην Πάφο: Μια νύχτα γεμάτη φλόγα με τους Rumba Attack</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-13T05:37:38.316Z</updated>
+        <updated>2025-07-13T17:35:22.463Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">12 Jul 2025</span>
-  <a href="/articles/exodos/moysiki/music-element-epistrefei-me-ilektroniki-energeia-stin-paralia-tis-agias">
-    <span class="title">Το Music Element επιστρέφει με ηλεκτρονική ενέργεια στην παραλία της Αγίας Τριάδας</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">13 Jul 2025</span>
+  <a href="/articles/exodos/tainiesseires/ti-blepei-oli-i-kypros-sto-netflix-ayto-tin-ebdomada">
+    <span class="title">Τι βλέπει όλη η Κύπρος στο Netflix αυτό την εβδομάδα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-13T05:37:38.317Z</updated>
+        <updated>2025-07-13T17:35:22.464Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-13T05:37:38.319Z</updated>
+        <updated>2025-07-13T17:35:22.465Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
