@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-15T17:39:54.019Z</updated>
+    <updated>2025-07-16T05:40:17.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Καταδίκη Φιλιππίδη για απόπειρα βιασμού – Ελεύθερος με αναστολή παρά την ομόφωνη ετυμηγορία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/katadiki-filippidi-gia-apopeira-biasmoy-eleytheros-me-anastoli-para-tin-omofoni</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/katadiki-filippidi-gia-apopeira-biasmoy-eleytheros-me-anastoli-para-tin-omofoni"/>
+        <updated>2025-07-16T05:40:12.244Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/katadiki-filippidi-gia-apopeira-biasmoy-eleytheros-me-anastoli-para-tin-omofoni">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2021-02/petros-filippidis.jpg?h=9b6d6f2f&amp;itok=rfwSII7Z" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/katadiki-filippidi-gia-apopeira-biasmoy-eleytheros-me-anastoli-para-tin-omofoni">Καταδίκη Φιλιππίδη για απόπειρα βιασμού – Ελεύθερος με αναστολή παρά την ομόφωνη ετυμηγορία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Έφυγε από τη ζωή ο ηθοποιός Γεράσιμος Μιχελής – Ο «κακός» του «Παρά Πέντε»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/efyge-apo-ti-zoi-o-ithopoios-gerasimos-mihelis-o-kakos-toy-para-pente</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αναβλήθηκε η πρώτη συναυλία των Erreway στην Ελλάδα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/anablithike-i-proti-synaylia-ton-erreway-stin-ellada</id>
-        <link href="https://avant-garde.com.cy/articles/nea/anablithike-i-proti-synaylia-ton-erreway-stin-ellada"/>
-        <updated>2025-07-09T17:36:55.562Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-07-16T05:40:12.063Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/anablithike-i-proti-synaylia-ton-erreway-stin-ellada">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/erreway.jpg?h=43594a01&amp;itok=JcbeX6vm" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/anablithike-i-proti-synaylia-ton-erreway-stin-ellada">Αναβλήθηκε η πρώτη συναυλία των Erreway στην Ελλάδα</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">15 Jul 2025</span>
+  <a href="/articles/exodos/exormiseis/ayto-nisi-allazei-hora-kathe-exi-mines">
+    <span class="title">Αυτό το νησί αλλάζει χώρα κάθε έξι μήνες</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-15T17:39:49.045Z</updated>
+        <updated>2025-07-16T05:40:12.065Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">15 Jul 2025</span>
+  <a href="/articles/nea/news/katadiki-filippidi-gia-apopeira-biasmoy-eleytheros-me-anastoli-para-tin-omofoni">
+    <span class="title">Καταδίκη Φιλιππίδη για απόπειρα βιασμού – Ελεύθερος με αναστολή παρά την ομόφωνη ετυμηγορία</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-07-16T05:40:12.069Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-15T17:39:49.046Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">15 Jul 2025</span>
-  <a href="/articles/festibal/tetraimero-gemato-moysiki-paradosi-kai-diaskedasi-stin-lofoy">
-    <span class="title">Τετραήμερο γεμάτο μουσική, παράδοση και διασκέδαση στην Λόφου</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-15T17:39:49.046Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">15 Jul 2025</span>
-  <a href="/articles/nea/news/o-hari-poter-epistrefei-sti-mikri-othoni-xekinisan-ta-gyrismata-tis-neas">
-    <span class="title">Ο Χάρι Πότερ επιστρέφει στη μικρή οθόνη – Ξεκίνησαν τα γυρίσματα της νέας τηλεοπτικής σειράς του HBO</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-15T17:39:49.046Z</updated>
+        <updated>2025-07-16T05:40:12.070Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-15T17:39:49.047Z</updated>
+        <updated>2025-07-16T05:40:12.072Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
