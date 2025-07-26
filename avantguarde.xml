@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-26T05:39:14.229Z</updated>
+    <updated>2025-07-26T17:37:40.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Καμίνι η Κύπρος: Στους 44 βαθμούς ο υδράργυρος το Σαββατοκύριακο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kamini-i-kypros-stoys-44-bathmoys-o-ydrargyros-sabbatokyriako</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kamini-i-kypros-stoys-44-bathmoys-o-ydrargyros-sabbatokyriako"/>
+        <updated>2025-07-26T17:37:36.504Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/kamini-i-kypros-stoys-44-bathmoys-o-ydrargyros-sabbatokyriako">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2022-09/kairos_0_0_2.jpg?h=4c45b8dc&amp;itok=462eA59c" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/kamini-i-kypros-stoys-44-bathmoys-o-ydrargyros-sabbatokyriako">Καμίνι η Κύπρος: Στους 44 βαθμούς ο υδράργυρος το Σαββατοκύριακο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Πυρκαγιά: Τουλάχιστον 125 τετ χλμ. καμένα σύμφωνα με στοιχεία δορυφόρου]]></title>
         <id>https://avant-garde.com.cy/articles/nea/pyrkagia-toylahiston-125-tet-hlm-kamena-symfona-me-stoiheia-doryforoy</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Ασφαλείς όσοι είχαν εγκλωβιστεί στη Λόφου, κάηκαν γύρω στα 20 σπίτια” δήλωσε ο κοινοτάρχης]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/asfaleis-osoi-eihan-egklobistei-sti-lofoy-kaikan-gyro-sta-20-spitia-dilose-o</id>
-        <link href="https://avant-garde.com.cy/articles/nea/asfaleis-osoi-eihan-egklobistei-sti-lofoy-kaikan-gyro-sta-20-spitia-dilose-o"/>
-        <updated>2025-07-24T17:38:36.720Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/asfaleis-osoi-eihan-egklobistei-sti-lofoy-kaikan-gyro-sta-20-spitia-dilose-o">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/521453808_1058142049841900_4696976887760709881_n.jpg?h=dc8cf87e&amp;itok=B6Jrq03t" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/asfaleis-osoi-eihan-egklobistei-sti-lofoy-kaikan-gyro-sta-20-spitia-dilose-o">“Ασφαλείς όσοι είχαν εγκλωβιστεί στη Λόφου, κάηκαν γύρω στα 20 σπίτια” δήλωσε ο κοινοτάρχης </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-26T05:39:09.436Z</updated>
+        <updated>2025-07-26T17:37:36.410Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">25 Jul 2025</span>
-  <a href="/articles/nea/pyrkagia-toylahiston-125-tet-hlm-kamena-symfona-me-stoiheia-doryforoy">
-    <span class="title">Πυρκαγιά: Τουλάχιστον 125 τετ χλμ. καμένα σύμφωνα με στοιχεία δορυφόρου</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">26 Jul 2025</span>
+  <a href="/articles/exodos/lemesos-ektakti-kallitehniki-ekdilosi-allileggyis-gia-toys-pyropliktoys">
+    <span class="title">Λεμεσός: Έκτακτη καλλιτεχνική εκδήλωση αλληλεγγύης για τους πυρόπληκτους </span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-26T05:39:09.443Z</updated>
+        <updated>2025-07-26T17:37:36.412Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">25 Jul 2025</span>
-  <a href="/articles/nea/anaballetai-festibal-paradosiakon-geyseon-sta-kaminaria">
-    <span class="title">Αναβάλλεται το φεστιβάλ παραδοσιακών γεύσεων στα Καμινάρια </span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">26 Jul 2025</span>
+  <a href="/articles/festibal/o-dimos-agias-napas-stirizei-toys-pyropliktoys-me-eu50000-apo-pagkyprio-festibal">
+    <span class="title">Ο Δήμος Αγίας Νάπας στηρίζει τους πυρόπληκτους με €50.000 από το Παγκύπριο Φεστιβάλ Πατάτας</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-26T05:39:09.445Z</updated>
+        <updated>2025-07-26T17:37:36.412Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">25 Jul 2025</span>
-  <a href="/articles/nea/i-pyrkagia-tis-oreinis-lemesoy-sta-diethni-mme">
-    <span class="title">Η πυρκαγιά της ορεινής Λεμεσού στα διεθνή ΜΜΕ </span>
+  <span class="channel">NEWS</span>
+  <span class="created">26 Jul 2025</span>
+  <a href="/articles/nea/news/kamini-i-kypros-stoys-44-bathmoys-o-ydrargyros-sabbatokyriako">
+    <span class="title">Καμίνι η Κύπρος: Στους 44 βαθμούς ο υδράργυρος το Σαββατοκύριακο</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-26T05:39:09.446Z</updated>
+        <updated>2025-07-26T17:37:36.413Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-26T05:39:09.449Z</updated>
+        <updated>2025-07-26T17:37:36.414Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
