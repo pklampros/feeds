@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-07-31T05:41:22.932Z</updated>
+    <updated>2025-07-31T17:39:04.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Υπεύθυνη Κηπουρική στο Σπίτι: Δημιουργώντας Κήπους που Σέβονται τη Φύση]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ypeythyni-kipoyriki-sto-spiti-dimioyrgontas-kipoys-poy-sebontai-ti-fysi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ypeythyni-kipoyriki-sto-spiti-dimioyrgontas-kipoys-poy-sebontai-ti-fysi"/>
+        <updated>2025-07-31T17:38:59.140Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/ypeythyni-kipoyriki-sto-spiti-dimioyrgontas-kipoys-poy-sebontai-ti-fysi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-07/ph4l-gardeners-pesty3.jpg.jpg?h=f3f38509&amp;itok=zJRfELOb" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/ypeythyni-kipoyriki-sto-spiti-dimioyrgontas-kipoys-poy-sebontai-ti-fysi">Υπεύθυνη Κηπουρική στο Σπίτι: Δημιουργώντας Κήπους που Σέβονται τη Φύση</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Coral Cyprus (Shell Licensee) παρουσιάζει τη νέα καμπάνια Shell GO+ με πρωταγωνιστές τα πρατήρια…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-coral-cyprus-shell-licensee-paroysiazei-ti-nea-kampania-shell-go-me-protagonistes-ta</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πορτοκαλί προειδοποίηση Μετεωρολογικής Υπηρεσίας: Στους 44 βαθμούς το θερμόμετρο]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/portokali-proeidopoiisi-meteorologikis-ypiresias-stoys-44-bathmoys-thermometro</id>
-        <link href="https://avant-garde.com.cy/articles/nea/portokali-proeidopoiisi-meteorologikis-ypiresias-stoys-44-bathmoys-thermometro"/>
-        <updated>2025-07-25T17:39:06.990Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/portokali-proeidopoiisi-meteorologikis-ypiresias-stoys-44-bathmoys-thermometro">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/eelco-bohtlingk-bqg-tsrr65c-unsplash.jpg?h=c83a44ef&amp;itok=_1zsFSxJ" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/portokali-proeidopoiisi-meteorologikis-ypiresias-stoys-44-bathmoys-thermometro">Πορτοκαλί προειδοποίηση Μετεωρολογικής Υπηρεσίας: Στους 44 βαθμούς το θερμόμετρο</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-31T05:41:16.787Z</updated>
+        <updated>2025-07-31T17:38:59.019Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">30 Jul 2025</span>
-  <a href="/articles/exodos/exormiseis/aya-resort-anoixe-tis-pyles-toy-me-ena-fantasmagoriko-event">
-    <span class="title">Το AYÃ Resort άνοιξε τις πύλες του με ένα φαντασμαγορικό event</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">31 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/min-haseis-tin-eykairia-na-deis-ti-natassa-mpofilioy-live-sti-larnaka">
+    <span class="title">Μην χάσεις την ευκαιρία να δεις τη Νατάσσα Μποφίλιου live στη Λάρνακα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-31T05:41:16.788Z</updated>
+        <updated>2025-07-31T17:38:59.019Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">30 Jul 2025</span>
-  <a href="/articles/nea/i-coral-cyprus-shell-licensee-paroysiazei-ti-nea-kampania-shell-go-me-protagonistes-ta">
-    <span class="title">Η Coral Cyprus (Shell Licensee) παρουσιάζει τη νέα καμπάνια Shell GO+ με πρωταγωνιστές τα πρατήρια…</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">31 Jul 2025</span>
+  <a href="/articles/exodos/fagitopoto/poy-tha-fas-kalytero-santoyits-stin-kypro">
+    <span class="title">Πού θα φας το καλύτερο σάντουιτς στην Κύπρο</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-31T05:41:16.793Z</updated>
+        <updated>2025-07-31T17:38:59.020Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">30 Jul 2025</span>
-  <a href="/articles/nea/apokatastasi-reymatos-os-sabbatokyriako-sto-80-ton-pyroplikton-periohon">
-    <span class="title">Αποκατάσταση ρεύματος ως το Σαββατοκύριακο στο 80% των πυρόπληκτων περιοχών</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">31 Jul 2025</span>
+  <a href="/articles/exodos/moysiki/party-toy-kalokairioy-molis-anakoinothike-o-fedde-le-grand-erhetai-sto-city">
+    <span class="title">Το Party του καλοκαιριού μόλις ανακοινώθηκε: Ο Fedde Le Grand έρχεται στο City of Dreams!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-31T05:41:16.796Z</updated>
+        <updated>2025-07-31T17:38:59.021Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-07-31T05:41:16.797Z</updated>
+        <updated>2025-07-31T17:38:59.025Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
