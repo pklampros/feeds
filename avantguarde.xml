@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-03T05:40:49.973Z</updated>
+    <updated>2025-08-03T17:38:00.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Κάλεσμα για δημιουργικές δράσεις για παιδιά στις πυρόπληκτες περιοχές από τον ΘΟΚ και τον ASSITEJ…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kalesma-gia-dimioyrgikes-draseis-gia-paidia-stis-pyropliktes-periohes-apo-ton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kalesma-gia-dimioyrgikes-draseis-gia-paidia-stis-pyropliktes-periohes-apo-ton"/>
+        <updated>2025-08-03T17:37:55.153Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/kalesma-gia-dimioyrgikes-draseis-gia-paidia-stis-pyropliktes-periohes-apo-ton">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/pic1.jpg?h=bc816b12&amp;itok=eHANj4nw" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/kalesma-gia-dimioyrgikes-draseis-gia-paidia-stis-pyropliktes-periohes-apo-ton">Κάλεσμα για δημιουργικές δράσεις για παιδιά στις πυρόπληκτες περιοχές από τον ΘΟΚ και τον ASSITEJ…</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KLIK FM & Choice FM End of Season Party στον Πρωταρά]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/klik-fm-choice-fm-end-season-party-ston-protara</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Όλα όσα πρέπει να ξέρετε για τη σημερινή εκδήλωση αλληλεγγύης στη Λεμεσό]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ola-osa-prepei-na-xerete-gia-ti-simerini-ekdilosi-allileggyis-sti-lemeso</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ola-osa-prepei-na-xerete-gia-ti-simerini-ekdilosi-allileggyis-sti-lemeso"/>
-        <updated>2025-07-27T17:37:27.307Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/ola-osa-prepei-na-xerete-gia-ti-simerini-ekdilosi-allileggyis-sti-lemeso">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/1721461724-14617.sto-dromo.jpg?h=32f1238a&amp;itok=xivqMTlr" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/ola-osa-prepei-na-xerete-gia-ti-simerini-ekdilosi-allileggyis-sti-lemeso">Όλα όσα πρέπει να ξέρετε για τη σημερινή εκδήλωση αλληλεγγύης στη Λεμεσό</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-03T05:40:44.934Z</updated>
+        <updated>2025-08-03T17:37:55.053Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΠΡΟΣΩΠΑ</span>
-  <span class="created">02 Aug 2025</span>
-  <a href="/articles/prosopa/mike-andreoy-erika-zempyla-miloyn-apokleistika-stin-ag-gia-ti-filia-toys-me-aformi">
-    <span class="title">Mike Ανδρέου-Έρικα Ζεμπύλα: Μιλούν αποκλειστικά στην AG για τη φιλία τους, με αφορμή τη Διεθνή…</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">03 Aug 2025</span>
+  <a href="/articles/exodos/tainiesseires/oi-10-pio-dimofileis-seires-sto-netflix-ayti-tin-ebdomada">
+    <span class="title">Οι 10 πιο δημοφιλείς σειρές στο Netflix αυτή την εβδομάδα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-03T05:40:44.934Z</updated>
+        <updated>2025-08-03T17:37:55.054Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">02 Aug 2025</span>
-  <a href="/articles/nea/news/klik-fm-choice-fm-end-season-party-ston-protara">
-    <span class="title">KLIK FM &amp; Choice FM End of Season Party στον Πρωταρά</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">03 Aug 2025</span>
+  <a href="/articles/exodos/fagitopoto/20-staseis-gia-kalo-fagito-stin-agia-napa">
+    <span class="title">20 στάσεις για καλό φαγητό στην Αγία Νάπα</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-03T05:40:44.935Z</updated>
+        <updated>2025-08-03T17:37:55.054Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">02 Aug 2025</span>
-  <a href="/articles/exodos/moysiki/decades-rewind-ena-moysiko-taxidi-piso-ston-hrono-stin-paralia-mackenzie">
-    <span class="title">Decades Rewind: Ένα μουσικό ταξίδι πίσω στον χρόνο στην παραλία Mackenzie</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">03 Aug 2025</span>
+  <a href="/articles/exodos/exormiseis/4-simeia-stin-kypro-gia-na-apolayseis-ta-pio-magika-iliobasilemata">
+    <span class="title">4 σημεία στην Κύπρο για να απολαύσεις τα πιο μαγικά ηλιοβασιλέματα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-03T05:40:44.936Z</updated>
+        <updated>2025-08-03T17:37:55.055Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-03T05:40:44.937Z</updated>
+        <updated>2025-08-03T17:37:55.056Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
