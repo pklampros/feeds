@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-11T17:38:06.564Z</updated>
+    <updated>2025-08-12T05:38:01.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η Γη «τρέχει» πιο γρήγορα: Καταγράφηκε μία από τις πιο σύντομες ημέρες στην ιστορία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria"/>
+        <updated>2025-08-12T05:37:54.553Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/a-chosen-soul-p_oi_m4n1au-unsplash.jpg?h=131411b1&amp;itok=jIefOBbM" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria">Η Γη «τρέχει» πιο γρήγορα: Καταγράφηκε μία από τις πιο σύντομες ημέρες στην ιστορία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Μουσικές Στιγμές» με τον Γιώργο Θεοφάνους στην Ακρούντα]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/moysikes-stigmes-me-ton-giorgo-theofanoys-stin-akroynta</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ΗΠΑ: Ένα μωρό γεννήθηκε από έμβρυο που είχε καταψυχθεί το 1994]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ipa-ena-moro-gennithike-apo-embryo-poy-eihe-katapsyhthei-1994</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ipa-ena-moro-gennithike-apo-embryo-poy-eihe-katapsyhthei-1994"/>
-        <updated>2025-08-05T17:37:41.437Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-08-12T05:37:54.420Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ipa-ena-moro-gennithike-apo-embryo-poy-eihe-katapsyhthei-1994">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/standard_avant_garde_87.jpg?h=d1cb525d&amp;itok=NRGM6ku8" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ipa-ena-moro-gennithike-apo-embryo-poy-eihe-katapsyhthei-1994">ΗΠΑ: Ένα μωρό γεννήθηκε από έμβρυο που είχε καταψυχθεί το 1994</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">11 Aug 2025</span>
+  <a href="/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria">
+    <span class="title">Η Γη «τρέχει» πιο γρήγορα: Καταγράφηκε μία από τις πιο σύντομες ημέρες στην ιστορία</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-11T17:38:01.171Z</updated>
+        <updated>2025-08-12T05:37:54.422Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-11T17:38:01.172Z</updated>
+        <updated>2025-08-12T05:37:54.424Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-11T17:38:01.172Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">11 Aug 2025</span>
-  <a href="/articles/nea/news/odigos-epibiosis-stis-ypsiles-thermokrasies">
-    <span class="title">Οδηγός επιβίωσης στις υψηλές θερμοκρασίες</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-11T17:38:01.173Z</updated>
+        <updated>2025-08-12T05:37:54.425Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-11T17:38:01.175Z</updated>
+        <updated>2025-08-12T05:37:54.426Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
