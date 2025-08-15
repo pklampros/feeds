@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-14T17:36:25.151Z</updated>
+    <updated>2025-08-15T05:37:16.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ο Γιώργος Μαζωνάκης εισήχθη σε δημόσια ψυχιατρική κλινική]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki</id>
+        <link href="https://avant-garde.com.cy/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki"/>
+        <updated>2025-08-15T05:37:12.043Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/464918636_1106907470792149_8842050241776253754_n.jpg?h=83d04e12&amp;itok=_HQj2f_s" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki">Ο Γιώργος Μαζωνάκης εισήχθη σε δημόσια ψυχιατρική κλινική</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Σε ισχύ η κόκκινη προειδοποίηση: Διακόπτονται οι υπαίθριες εργασίες]]></title>
         <id>https://avant-garde.com.cy/articles/nea/se-ishy-i-kokkini-proeidopoiisi-diakoptontai-oi-ypaithries-ergasies</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Lady Gaga στην κορυφή των υποψηφιοτήτων για τα MTV Video Music Awards]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-lady-gaga-stin-koryfi-ton-ypopsifiotiton-gia-ta-mtv-video-music-awards</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-lady-gaga-stin-koryfi-ton-ypopsifiotiton-gia-ta-mtv-video-music-awards"/>
-        <updated>2025-08-07T17:39:37.863Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-08-15T05:37:11.882Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-lady-gaga-stin-koryfi-ton-ypopsifiotiton-gia-ta-mtv-video-music-awards">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/snapinsta.to_476608820_18505412545052324_2852518289192047159_n.jpg?h=32f163a2&amp;itok=NejH8qxv" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-lady-gaga-stin-koryfi-ton-ypopsifiotiton-gia-ta-mtv-video-music-awards">Η Lady Gaga στην κορυφή των υποψηφιοτήτων για τα MTV Video Music Awards</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">14 Aug 2025</span>
+  <a href="/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki">
+    <span class="title">Ο Γιώργος Μαζωνάκης εισήχθη σε δημόσια ψυχιατρική κλινική</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-14T17:36:19.464Z</updated>
+        <updated>2025-08-15T05:37:11.883Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-14T17:36:19.465Z</updated>
+        <updated>2025-08-15T05:37:11.884Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-14T17:36:19.466Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">14 Aug 2025</span>
-  <a href="/articles/discover-cyprus/horia/dekapentaygoystos-sto-boyni-h-moysiki-oi-filoi-kai-i-hara-einai-i">
-    <span class="title">Δεκαπενταύγουστος στο Βουνί: H μουσική, οι φίλοι και η χαρά είναι η απάντήση μας στη δυσκολία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-14T17:36:19.467Z</updated>
+        <updated>2025-08-15T05:37:11.885Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-14T17:36:19.468Z</updated>
+        <updated>2025-08-15T05:37:11.886Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
