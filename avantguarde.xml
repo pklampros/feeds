@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-15T05:37:16.880Z</updated>
+    <updated>2025-08-15T17:35:49.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η Τέιλορ Σουίφτ αποκαλύπτει λεπτομέρειες για το νέο της άλμπουμ «The Life of a Showgirl»]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-teilor-soyift-apokalyptei-leptomereies-gia-neo-tis-almpoym-life-showgirl</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-teilor-soyift-apokalyptei-leptomereies-gia-neo-tis-almpoym-life-showgirl"/>
+        <updated>2025-08-15T17:35:44.428Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-teilor-soyift-apokalyptei-leptomereies-gia-neo-tis-almpoym-life-showgirl">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/532713450_1176951247812063_3665477140628952340_n_1.jpg?h=8bbf2c04&amp;itok=vxKJVSVU" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-teilor-soyift-apokalyptei-leptomereies-gia-neo-tis-almpoym-life-showgirl">Η Τέιλορ Σουίφτ αποκαλύπτει λεπτομέρειες για το νέο της άλμπουμ «The Life of a Showgirl»</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ο Γιώργος Μαζωνάκης εισήχθη σε δημόσια ψυχιατρική κλινική]]></title>
         <id>https://avant-garde.com.cy/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skate n’ Shake Fun Day με το Grimace Shake]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/skate-n-shake-fun-day-me-grimace-shake</id>
-        <link href="https://avant-garde.com.cy/articles/nea/skate-n-shake-fun-day-me-grimace-shake"/>
-        <updated>2025-08-07T17:39:37.862Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/skate-n-shake-fun-day-me-grimace-shake">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/skateboard-event-photos_2.jpg?h=d1cb525d&amp;itok=yuPsg6nM" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/skate-n-shake-fun-day-me-grimace-shake">Skate n’ Shake Fun Day με το Grimace Shake</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-15T05:37:11.882Z</updated>
+        <updated>2025-08-15T17:35:44.246Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">14 Aug 2025</span>
-  <a href="/articles/nea/o-giorgos-mazonakis-eisihthi-se-dimosia-psyhiatriki-kliniki">
-    <span class="title">Ο Γιώργος Μαζωνάκης εισήχθη σε δημόσια ψυχιατρική κλινική</span>
+  <span class="channel">DISCOVER CYPRUS</span>
+  <span class="created">15 Aug 2025</span>
+  <a href="/articles/discover-cyprus/tehni-me-rizes-oi-teleytaioi-tehnites-tis-kyproy">
+    <span class="title">Τέχνη με Ρίζες: Οι τελευταίοι τεχνίτες της Κύπρου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-15T05:37:11.883Z</updated>
+        <updated>2025-08-15T17:35:44.246Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">DISCOVER CYPRUS</span>
-  <span class="created">14 Aug 2025</span>
-  <a href="/articles/discover-cyprus/taxidi-ston-politismo-tis-kyproy-perpatise-sta-monopatia-tis-istorias">
-    <span class="title">Ταξίδι στον πολιτισμό της Κύπρου: Περπάτησε στα μονοπάτια της ιστορίας 11.000 χρόνων</span>
+  <span class="created">15 Aug 2025</span>
+  <a href="/articles/discover-cyprus/anakalyptontas-tin-endohora-ta-omorfotera-horia-poy-axizei-na-anakalypseis">
+    <span class="title">Ανακαλύπτοντας την ενδοχώρα: Tα ομορφότερα χωριά που αξίζει να ανακαλύψεις</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-15T05:37:11.884Z</updated>
+        <updated>2025-08-15T17:35:44.249Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">14 Aug 2025</span>
-  <a href="/articles/exodos/fagitopoto/avant-garde-awards-furen-anamesa-sta-ypopsifia-estiatoria-tis-katigorias">
-    <span class="title">Avant Garde Awards: Το Furen ανάμεσα στα υποψήφια εστιατόρια της κατηγορίας “Ethnic”</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">15 Aug 2025</span>
+  <a href="/articles/nea/i-teilor-soyift-apokalyptei-leptomereies-gia-neo-tis-almpoym-life-showgirl">
+    <span class="title">Η Τέιλορ Σουίφτ αποκαλύπτει λεπτομέρειες για το νέο της άλμπουμ «The Life of a Showgirl»</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-15T05:37:11.885Z</updated>
+        <updated>2025-08-15T17:35:44.250Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-15T05:37:11.886Z</updated>
+        <updated>2025-08-15T17:35:44.251Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
