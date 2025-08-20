@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-20T05:36:24.536Z</updated>
+    <updated>2025-08-20T17:35:50.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Τα Λεύκαρα «φοράνε» τα γιορτινά τους από τον Αύγουστο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto"/>
+        <updated>2025-08-20T17:35:45.619Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/469588669_122172601322123365_6006955252531779855_n.jpg?h=35bb521f&amp;itok=h4btyEK0" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto">Τα Λεύκαρα «φοράνε» τα γιορτινά τους από τον Αύγουστο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η Βιέννη θα φιλοξενήσει τον 70ο Διαγωνισμό Τραγουδιού της Eurovision]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-bienni-tha-filoxenisei-ton-70o-diagonismo-tragoydioy-tis-eurovision</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-bienni-tha-filoxenisei-ton-70o-diagonismo-tragoydioy-tis-eurovision"/>
+        <updated>2025-08-20T17:35:45.627Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-bienni-tha-filoxenisei-ton-70o-diagonismo-tragoydioy-tis-eurovision">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/vienna2026_1280x720_clean.png?h=c673cd1c&amp;itok=aoU9w_BU" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-bienni-tha-filoxenisei-ton-70o-diagonismo-tragoydioy-tis-eurovision">Η Βιέννη θα φιλοξενήσει τον 70ο Διαγωνισμό Τραγουδιού της Eurovision</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τι λένε οι λίστες σου στο Spotify για την προσωπικότητά σου]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Γη «τρέχει» πιο γρήγορα: Καταγράφηκε μία από τις πιο σύντομες ημέρες στην ιστορία]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria"/>
-        <updated>2025-08-12T05:37:54.553Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/a-chosen-soul-p_oi_m4n1au-unsplash.jpg?h=131411b1&amp;itok=jIefOBbM" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-gi-trehei-pio-grigora-katagrafike-mia-apo-tis-pio-syntomes-imeres-stin-istoria">Η Γη «τρέχει» πιο γρήγορα: Καταγράφηκε μία από τις πιο σύντομες ημέρες στην ιστορία</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[«Μουσικές Στιγμές» με τον Γιώργο Θεοφάνους στην Ακρούντα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/moysikes-stigmes-me-ton-giorgo-theofanoys-stin-akroynta</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/moysikes-stigmes-me-ton-giorgo-theofanoys-stin-akroynta"/>
-        <updated>2025-08-11T17:38:01.266Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/moysikes-stigmes-me-ton-giorgo-theofanoys-stin-akroynta">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/theof.jpg?h=c9c104e5&amp;itok=-zgvqJOq" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/moysikes-stigmes-me-ton-giorgo-theofanoys-stin-akroynta">«Μουσικές Στιγμές» με τον Γιώργο Θεοφάνους στην Ακρούντα</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-20T05:36:18.716Z</updated>
+        <updated>2025-08-20T17:35:45.451Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">19 Aug 2025</span>
-  <a href="/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy">
-    <span class="title">Τι λένε οι λίστες σου στο Spotify για την προσωπικότητά σου</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">20 Aug 2025</span>
+  <a href="/articles/festibal/i-4i-giorti-teratsioy-stin-agia-fyla">
+    <span class="title">Η 4η Γιορτή Τερατσιού στην Αγία Φύλα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-20T05:36:18.717Z</updated>
+        <updated>2025-08-20T17:35:45.452Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">19 Aug 2025</span>
-  <a href="/articles/festibal/erhetai-19o-festibal-theatroy-tis-parabasis-me-8-parastaseis-apo-oli-tin-kypro">
-    <span class="title">Έρχεται το 19ο Φεστιβάλ Θεάτρου της «Παράβασης» με 8 παραστάσεις από όλη την Κύπρο</span>
+  <span class="created">20 Aug 2025</span>
+  <a href="/articles/festibal/nikos-apergis-sto-10o-festibal-kolokasioy-empas">
+    <span class="title">Νίκος Απέργης στο 10ο Φεστιβάλ Κολοκασιού Έμπας</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-20T05:36:18.718Z</updated>
+        <updated>2025-08-20T17:35:45.452Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">19 Aug 2025</span>
-  <a href="/articles/festibal/erhetai-1o-festibal-stafylioy-ston-kathika-me-dorean-stafyli-kai-giortini">
-    <span class="title">Έρχεται το 1ο Φεστιβάλ Σταφυλιού στον Κάθηκα με δωρεάν σταφύλι και γιορτινή ατμόσφαιρα</span>
+  <span class="channel">NEWS</span>
+  <span class="created">20 Aug 2025</span>
+  <a href="/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto">
+    <span class="title">Τα Λεύκαρα «φοράνε» τα γιορτινά τους από τον Αύγουστο</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-20T05:36:18.721Z</updated>
+        <updated>2025-08-20T17:35:45.454Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-20T05:36:18.722Z</updated>
+        <updated>2025-08-20T17:35:45.455Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
