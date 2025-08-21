@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-21T05:36:12.797Z</updated>
+    <updated>2025-08-21T17:51:03.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Τεχνικός Ηλεκτρονικών Υπολογιστών και Δικτύων: στηρίζει την εύρυθμη λειτουργία των επιχειρήσεων]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia"/>
+        <updated>2025-08-21T17:50:58.641Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-07/21.08.2025_avant_garde_-_cc_-_tehnikos_iy_800x600b.jpg?h=67eabc4d&amp;itok=Du_UOxEP" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia">Τεχνικός Ηλεκτρονικών Υπολογιστών και Δικτύων: στηρίζει την εύρυθμη λειτουργία των επιχειρήσεων</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τα Λεύκαρα «φοράνε» τα γιορτινά τους από τον Αύγουστο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Έπεσε η τελευταία κλακέτα για την «Οδύσσεια» του Κρίστοφερ Νόλαν]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/epese-i-teleytaia-klaketa-gia-tin-odysseia-toy-kristofer-nolan</id>
-        <link href="https://avant-garde.com.cy/articles/nea/epese-i-teleytaia-klaketa-gia-tin-odysseia-toy-kristofer-nolan"/>
-        <updated>2025-08-12T17:36:30.204Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/epese-i-teleytaia-klaketa-gia-tin-odysseia-toy-kristofer-nolan">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/standard_avant_garde_1.png?h=d1cb525d&amp;itok=6MRD33j4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/epese-i-teleytaia-klaketa-gia-tin-odysseia-toy-kristofer-nolan">Έπεσε η τελευταία κλακέτα για την «Οδύσσεια» του Κρίστοφερ Νόλαν</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-21T05:36:07.055Z</updated>
+        <updated>2025-08-21T17:50:58.473Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">20 Aug 2025</span>
-  <a href="/articles/festibal/i-4i-giorti-teratsioy-stin-agia-fyla">
-    <span class="title">Η 4η Γιορτή Τερατσιού στην Αγία Φύλα</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">21 Aug 2025</span>
+  <a href="/articles/exodos/fagitopoto/agapas-krasi-brikame-ta-must-visit-toy-nisioy">
+    <span class="title">Αγαπάς το κρασί; Βρήκαμε τα must visit του νησιού</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-21T05:36:07.056Z</updated>
+        <updated>2025-08-21T17:50:58.474Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">20 Aug 2025</span>
-  <a href="/articles/festibal/nikos-apergis-sto-10o-festibal-kolokasioy-empas">
-    <span class="title">Νίκος Απέργης στο 10ο Φεστιβάλ Κολοκασιού Έμπας</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">21 Aug 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-pempti-21-aygoystoy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Πέμπτη 21 Αυγούστου 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-21T05:36:07.058Z</updated>
+        <updated>2025-08-21T17:50:58.475Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">20 Aug 2025</span>
-  <a href="/articles/nea/news/ta-leykara-forane-ta-giortina-toys-apo-ton-aygoysto">
-    <span class="title">Τα Λεύκαρα «φοράνε» τα γιορτινά τους από τον Αύγουστο</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">21 Aug 2025</span>
+  <a href="/articles/exodos/theatrohoros/horeyontas-gia-tin-elpida-moysikohoreytiki-bradia-stirixis-ton">
+    <span class="title">«Χορεύοντας για την ελπίδα: Μουσικοχορευτική βραδιά στήριξης των πυρόπληκτων μαθητών της Ορεινής…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-21T05:36:07.060Z</updated>
+        <updated>2025-08-21T17:50:58.476Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-21T05:36:07.062Z</updated>
+        <updated>2025-08-21T17:50:58.484Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
