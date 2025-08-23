@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-23T05:35:30.578Z</updated>
+    <updated>2025-08-23T17:33:21.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-23T05:35:25.652Z</updated>
+        <updated>2025-08-23T17:33:15.113Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -956,9 +956,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">22 Aug 2025</span>
-  <a href="/articles/exodos/fagitopoto/poy-na-fate-ayto-sabbatokyriako-sta-oreina-tis-kyproy">
-    <span class="title">Πού να φάτε αυτό το Σαββατοκύριακο στα ορεινά της Κύπρου;</span>
+  <span class="created">23 Aug 2025</span>
+  <a href="/articles/exodos/fagitopoto/poy-na-apolayseis-krasi-soy-ta-kalytera-wine-bars-tis-kyproy">
+    <span class="title">Πού να απολαύσεις το κρασί σου: Τα καλύτερα wine bars της Κύπρου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-23T05:35:25.652Z</updated>
+        <updated>2025-08-23T17:33:15.113Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">22 Aug 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-paraskeyi-22-aygoystoy-2025">
-    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Παρασκευή 22 Αυγούστου 2025</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">23 Aug 2025</span>
+  <a href="/articles/festibal/osa-xeroyme-mehri-stigmis-gia-ti-giorti-toy-krasioy-lemesoy-2025">
+    <span class="title">Όσα ξέρουμε μέχρι στιγμής για τη Γιορτή του Κρασιού Λεμεσού 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-23T05:35:25.653Z</updated>
+        <updated>2025-08-23T17:33:15.113Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">22 Aug 2025</span>
-  <a href="/articles/exodos/theatrohoros/i-thalassa-kai-o-geros-aristoyrgima-toy-hemingoyei-zontaneyei-stin">
-    <span class="title">«Η Θάλασσα και ο Γέρος»: Το αριστούργημα του Χέμινγουεϊ ζωντανεύει στην Κύπρο με τον Τάσο Νούσια</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">23 Aug 2025</span>
+  <a href="/articles/exodos/tainiesseires/oi-seires-sto-netflix-poy-blepoyn-oloi-ayti-tin-ebdomada">
+    <span class="title">Οι σειρές στο Netflix που βλέπουν όλοι αυτή την εβδομάδα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-23T05:35:25.653Z</updated>
+        <updated>2025-08-23T17:33:15.114Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-23T05:35:25.654Z</updated>
+        <updated>2025-08-23T17:33:15.114Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
