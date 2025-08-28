@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-27T17:34:27.766Z</updated>
+    <updated>2025-08-28T05:35:37.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Απαγόρευση κινητών στις σχολικές αίθουσες της Ν. Κορέας από το 2026]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/apagoreysi-kiniton-stis-sholikes-aithoyses-tis-n-koreas-apo-2026</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/apagoreysi-kiniton-stis-sholikes-aithoyses-tis-n-koreas-apo-2026"/>
+        <updated>2025-08-28T05:35:31.244Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/apagoreysi-kiniton-stis-sholikes-aithoyses-tis-n-koreas-apo-2026">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-brett-sayles-1000739.jpg?h=73f8af3d&amp;itok=_gUCxV-t" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/apagoreysi-kiniton-stis-sholikes-aithoyses-tis-n-koreas-apo-2026">Απαγόρευση κινητών στις σχολικές αίθουσες της Ν. Κορέας από το 2026</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Shell Κύπρου συμμετέχει ως Πλατινένιος Χορηγός στο Limassol Motion Event 2025]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-shell-kyproy-symmetehei-os-platinenios-horigos-sto-limassol-motion-event-2025</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Τι λένε οι λίστες σου στο Spotify για την προσωπικότητά σου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy"/>
-        <updated>2025-08-19T17:35:00.412Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/fath-3ngcth0cfjg-unsplash.jpg?h=e304b9ef&amp;itok=geoT0V1S" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/ti-lene-oi-listes-soy-sto-spotify-gia-tin-prosopikotita-soy">Τι λένε οι λίστες σου στο Spotify για την προσωπικότητά σου</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-27T17:34:21.081Z</updated>
+        <updated>2025-08-28T05:35:31.148Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
   <span class="created">27 Aug 2025</span>
-  <a href="/articles/nea/i-shell-kyproy-symmetehei-os-platinenios-horigos-sto-limassol-motion-event-2025">
-    <span class="title"> Η Shell Κύπρου συμμετέχει ως Πλατινένιος Χορηγός στο Limassol Motion Event 2025</span>
+  <a href="/articles/exodos/exormiseis/oi-argies-toy-oktobrioy-pote-peftoyn-kai-pos-na-tis-axiopoiiseis">
+    <span class="title">Οι αργίες του Οκτωβρίου: Πότε πέφτουν και πώς να τις αξιοποιήσεις</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-27T17:34:21.082Z</updated>
+        <updated>2025-08-28T05:35:31.148Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="channel">NEWS</span>
   <span class="created">27 Aug 2025</span>
-  <a href="/articles/exodos/moysiki/moonwalk-2025-pio-romantiko-moysiko-kai-kallitehniko-ranteboy-toy-nisioy">
-    <span class="title">MoonWalk 2025: Το πιο ρομαντικό μουσικό και καλλιτεχνικό ραντεβού του νησιού επιστρέφει</span>
+  <a href="/articles/nea/news/apagoreysi-kiniton-stis-sholikes-aithoyses-tis-n-koreas-apo-2026">
+    <span class="title">Απαγόρευση κινητών στις σχολικές αίθουσες της Ν. Κορέας από το 2026</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-27T17:34:21.088Z</updated>
+        <updated>2025-08-28T05:35:31.149Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1009,8 +1009,8 @@
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
   <span class="created">27 Aug 2025</span>
-  <a href="/articles/exodos/moysiki/avli-sessions-mia-ypaithria-synaylia-me-tin-eleni-era">
-    <span class="title">"Avli Sessions": Μια υπαίθρια συναυλία με την Eleni Era</span>
+  <a href="/articles/exodos/moysiki/araxe-tziai-akoy-me-tis-monadikes-syntheseis-tis-zinas-melekki">
+    <span class="title">«Αράξε τζιαι άκου» με τις μοναδικές συνθέσεις της Ζήνας Μελέκκη ολοκληρώνεται</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-27T17:34:21.089Z</updated>
+        <updated>2025-08-28T05:35:31.149Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-27T17:34:21.089Z</updated>
+        <updated>2025-08-28T05:35:31.149Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
