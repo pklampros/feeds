@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-28T17:34:24.934Z</updated>
+    <updated>2025-08-29T05:34:55.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Νάπολη υπό πολιορκία: Ο υπερτουρισμός διώχνει τους ντόπιους]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys"/>
+        <updated>2025-08-29T05:34:48.669Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/imported_photos/1567777448_napoli-cover.jpg?itok=ugtIf1WX" width="575" height="400" alt="Τουριστίδια από Κολομβία έψαχναν την Αθήνα και βρέθηκαν στη Νάπολη" title="Τουριστίδια από Κολομβία έψαχναν την Αθήνα και βρέθηκαν στη Νάπολη" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys">Νάπολη υπό πολιορκία: Ο υπερτουρισμός διώχνει τους ντόπιους</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Άνοιξε η χρονοκάψουλα της πριγκίπισσας Νταϊάνα από το 1991]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991"/>
+        <updated>2025-08-29T05:34:48.671Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/imported_photos/1567762217_diana01.jpg?itok=in06M1oT" width="575" height="400" alt="Ένα άγαλμα για την Νταϊάνα" title="Ένα άγαλμα για την Νταϊάνα" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991">Άνοιξε η χρονοκάψουλα της πριγκίπισσας Νταϊάνα από το 1991</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Οι σομελιέ του νερού πιστεύουν ότι μπορεί να ανταγωνιστεί το κρασί, αλλά ποιος πληρώνει 19 λίρες…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/oi-somelie-toy-neroy-pisteyoyn-oti-mporei-na-antagonistei-krasi-alla-poios-plironei-19</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Άστατος καιρός με δυνατούς ανέμους και πτώση θερμοκρασίας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/astatos-kairos-me-dynatoys-anemoys-kai-ptosi-thermokrasias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/astatos-kairos-me-dynatoys-anemoys-kai-ptosi-thermokrasias"/>
-        <updated>2025-08-24T17:34:49.689Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/astatos-kairos-me-dynatoys-anemoys-kai-ptosi-thermokrasias">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2022-12/kairos_4.jpg?h=4c45b8dc&amp;itok=PLuXuSgq" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/astatos-kairos-me-dynatoys-anemoys-kai-ptosi-thermokrasias">Άστατος καιρός με δυνατούς ανέμους και πτώση θερμοκρασίας</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Τεχνικός Ηλεκτρονικών Υπολογιστών και Δικτύων: στηρίζει την εύρυθμη λειτουργία των επιχειρήσεων]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia"/>
-        <updated>2025-08-21T17:50:58.641Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-07/21.08.2025_avant_garde_-_cc_-_tehnikos_iy_800x600b.jpg?h=67eabc4d&amp;itok=Du_UOxEP" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/tehnikos-ilektronikon-ypologiston-kai-diktyon-stirizei-tin-eyrythmi-leitoyrgia">Τεχνικός Ηλεκτρονικών Υπολογιστών και Δικτύων: στηρίζει την εύρυθμη λειτουργία των επιχειρήσεων</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-28T17:34:19.850Z</updated>
+        <updated>2025-08-29T05:34:48.527Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
   <span class="created">28 Aug 2025</span>
-  <a href="/articles/exodos/moysiki/erhetai-i-moysiki-parastasi-i-pali-ton-stoiseion">
-    <span class="title">Έρχεται η μουσική παράσταση “Η πάλη των στοισ̆ειών”</span>
+  <a href="/articles/exodos/tainiesseires/kykloforise-treiler-toy-bugonia-toy-giorgoy-lanthimoy">
+    <span class="title">Κυκλοφόρησε το τρέιλερ του Bugonia του Γιώργου Λάνθιμου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-28T17:34:19.851Z</updated>
+        <updated>2025-08-29T05:34:48.528Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">NEWS</span>
   <span class="created">28 Aug 2025</span>
-  <a href="/articles/exodos/live-cooking-event-me-ton-theodoro-eleytherioy-sti-yperagora-metro-stroboloy">
-    <span class="title">Live Cooking Event με τον Θεόδωρο Ελευθερίου στη Υπεραγορά METRO Στροβόλου</span>
+  <a href="/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys">
+    <span class="title">Νάπολη υπό πολιορκία: Ο υπερτουρισμός διώχνει τους ντόπιους</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-28T17:34:19.853Z</updated>
+        <updated>2025-08-29T05:34:48.531Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">NEWS</span>
   <span class="created">28 Aug 2025</span>
-  <a href="/articles/nea/oi-somelie-toy-neroy-pisteyoyn-oti-mporei-na-antagonistei-krasi-alla-poios-plironei-19">
-    <span class="title">Οι σομελιέ του νερού πιστεύουν ότι μπορεί να ανταγωνιστεί το κρασί, αλλά ποιος πληρώνει 19 λίρες…</span>
+  <a href="/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991">
+    <span class="title">Άνοιξε η χρονοκάψουλα της πριγκίπισσας Νταϊάνα από το 1991</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-28T17:34:19.854Z</updated>
+        <updated>2025-08-29T05:34:48.532Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-28T17:34:19.855Z</updated>
+        <updated>2025-08-29T05:34:48.532Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
