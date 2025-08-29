@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-29T05:34:55.004Z</updated>
+    <updated>2025-08-29T17:33:52.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Χιλιάδες στον δρόμο για το γνωστό φεστιβάλ «La Tomatina» [φωτογραφίες]]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/hiliades-ston-dromo-gia-gnosto-festibal-la-tomatina-fotografies</id>
+        <link href="https://avant-garde.com.cy/articles/nea/hiliades-ston-dromo-gia-gnosto-festibal-la-tomatina-fotografies"/>
+        <updated>2025-08-29T17:33:47.786Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/hiliades-ston-dromo-gia-gnosto-festibal-la-tomatina-fotografies">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/snapinsta.to_539536086_18538975483044850_1118061150772030348_n.jpg?h=d636ffea&amp;itok=UpA1RvP7" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/hiliades-ston-dromo-gia-gnosto-festibal-la-tomatina-fotografies">Χιλιάδες στον δρόμο για το γνωστό φεστιβάλ «La Tomatina» [φωτογραφίες]</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Νάπολη υπό πολιορκία: Ο υπερτουρισμός διώχνει τους ντόπιους]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Νεαρές γυναίκες της Λάρνακας σχεδιάζουν το μέλλον τους]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/neares-gynaikes-tis-larnakas-shediazoyn-mellon-toys</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/neares-gynaikes-tis-larnakas-shediazoyn-mellon-toys"/>
-        <updated>2025-08-24T17:34:49.685Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/neares-gynaikes-tis-larnakas-shediazoyn-mellon-toys">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/39925324815_9ca8eceed8_k-1500x1000.jpg?h=06ac0d8c&amp;itok=1OQG0xSK" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/neares-gynaikes-tis-larnakas-shediazoyn-mellon-toys">Νεαρές γυναίκες της Λάρνακας σχεδιάζουν το μέλλον τους</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-29T05:34:48.527Z</updated>
+        <updated>2025-08-29T17:33:47.617Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">28 Aug 2025</span>
-  <a href="/articles/exodos/tainiesseires/kykloforise-treiler-toy-bugonia-toy-giorgoy-lanthimoy">
-    <span class="title">Κυκλοφόρησε το τρέιλερ του Bugonia του Γιώργου Λάνθιμου</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">29 Aug 2025</span>
+  <a href="/articles/exodos/fagitopoto/ta-avant-garde-awards-proteinoyn-por-favor-gia-aythentiko-mexikaniko">
+    <span class="title">Τα Avant Garde Awards προτείνουν το Por Favor για αυθεντικό μεξικάνικο street food</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-29T05:34:48.528Z</updated>
+        <updated>2025-08-29T17:33:47.618Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">28 Aug 2025</span>
-  <a href="/articles/nea/news/napoli-ypo-poliorkia-o-ypertoyrismos-diohnei-toys-ntopioys">
-    <span class="title">Νάπολη υπό πολιορκία: Ο υπερτουρισμός διώχνει τους ντόπιους</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">29 Aug 2025</span>
+  <a href="/articles/exodos/ti-na-kanete-teleytaio-sabbatokyriako-toy-aygoystoy">
+    <span class="title">Τι να κάνετε το τελευταίο σαββατοκύριακο του Αυγούστου</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-29T05:34:48.531Z</updated>
+        <updated>2025-08-29T17:33:47.619Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">28 Aug 2025</span>
-  <a href="/articles/nea/news/anoixe-i-hronokapsoyla-tis-prigkipissas-ntaiana-apo-1991">
-    <span class="title">Άνοιξε η χρονοκάψουλα της πριγκίπισσας Νταϊάνα από το 1991</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">29 Aug 2025</span>
+  <a href="/articles/festibal/anakoinothike-i-nea-imerominia-gia-6o-gastronomiko-festibal-agioy-ioanni">
+    <span class="title">Ανακοινώθηκε η νέα ημερομηνία για το 6o Γαστρονομικό Φεστιβάλ Αγίου Ιωάννη Πιτσιλιάς</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-29T05:34:48.532Z</updated>
+        <updated>2025-08-29T17:33:47.620Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-29T05:34:48.532Z</updated>
+        <updated>2025-08-29T17:33:47.621Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
