@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-30T17:32:47.922Z</updated>
+    <updated>2025-08-31T05:35:05.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Στινγκ: Γιατί πρώην μέλη των Police τον μήνυσαν για το «Every Breath You Take»]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take</id>
+        <link href="https://avant-garde.com.cy/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take"/>
+        <updated>2025-08-31T05:34:59.627Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/524343238_18411705418104429_3480582321869979074_n.jpg?h=e046702d&amp;itok=-GfSp_rU" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take">Στινγκ: Γιατί πρώην μέλη των Police τον μήνυσαν για το «Every Breath You Take»</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Χιλιάδες στον δρόμο για το γνωστό φεστιβάλ «La Tomatina» [φωτογραφίες]]]></title>
         <id>https://avant-garde.com.cy/articles/nea/hiliades-ston-dromo-gia-gnosto-festibal-la-tomatina-fotografies</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η CAPSBOLD Creative Marketing Agency κερδίζει 3 βραβεία στα Symbol Creative Awards 2025]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-capsbold-creative-marketing-agency-kerdizei-3-brabeia-sta-symbol-creative</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-capsbold-creative-marketing-agency-kerdizei-3-brabeia-sta-symbol-creative"/>
-        <updated>2025-08-25T17:34:32.617Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-08-31T05:34:59.401Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-capsbold-creative-marketing-agency-kerdizei-3-brabeia-sta-symbol-creative">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/screenshot_46.png?h=6f92cd28&amp;itok=tBgkfo4i" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-capsbold-creative-marketing-agency-kerdizei-3-brabeia-sta-symbol-creative">Η CAPSBOLD Creative Marketing Agency κερδίζει 3 βραβεία στα Symbol Creative Awards 2025</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">30 Aug 2025</span>
+  <a href="/articles/festibal/ice-cream-festival-pio-glyko-festibal-toy-septembri">
+    <span class="title">Ice Cream Festival: Το πιο… γλυκό φεστιβάλ του Σεπτέμβρη</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-30T17:32:43.079Z</updated>
+        <updated>2025-08-31T05:34:59.401Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">30 Aug 2025</span>
+  <a href="/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take">
+    <span class="title">Στινγκ: Γιατί πρώην μέλη των Police τον μήνυσαν για το «Every Breath You Take»</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-08-31T05:34:59.402Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-30T17:32:43.080Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">29 Aug 2025</span>
-  <a href="/articles/exodos/ti-na-kanete-teleytaio-sabbatokyriako-toy-aygoystoy">
-    <span class="title">Τι να κάνετε το τελευταίο σαββατοκύριακο του Αυγούστου</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-30T17:32:43.081Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">29 Aug 2025</span>
-  <a href="/articles/festibal/anakoinothike-i-nea-imerominia-gia-6o-gastronomiko-festibal-agioy-ioanni">
-    <span class="title">Ανακοινώθηκε η νέα ημερομηνία για το 6o Γαστρονομικό Φεστιβάλ Αγίου Ιωάννη Πιτσιλιάς</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-30T17:32:43.083Z</updated>
+        <updated>2025-08-31T05:34:59.402Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-30T17:32:43.084Z</updated>
+        <updated>2025-08-31T05:34:59.403Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
