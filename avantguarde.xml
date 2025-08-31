@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-08-31T05:35:05.841Z</updated>
+    <updated>2025-08-31T17:33:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η πρώτη και μεγαλύτερη έκθεση μοτοσυκλέτας έρχεται στην Κύπρο!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-proti-kai-megalyteri-ekthesi-motosykletas-erhetai-stin-kypro</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-proti-kai-megalyteri-ekthesi-motosykletas-erhetai-stin-kypro"/>
+        <updated>2025-08-31T17:33:48.028Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-proti-kai-megalyteri-ekthesi-motosykletas-erhetai-stin-kypro">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-08/i-m-zion-pwrwgqzyml8-unsplash.jpg?h=61ba5d81&amp;itok=aKq6V-an" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-proti-kai-megalyteri-ekthesi-motosykletas-erhetai-stin-kypro">Η πρώτη και μεγαλύτερη έκθεση μοτοσυκλέτας έρχεται στην Κύπρο!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Στινγκ: Γιατί πρώην μέλη των Police τον μήνυσαν για το «Every Breath You Take»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Andrey & Julia Dashin's Foundation και ο Ναυτικός Όμιλος Κερύνειας ενώνουν τις δυνάμεις…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/andrey-julia-dashins-foundation-kai-o-naytikos-omilos-keryneias-enonoyn-tis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/andrey-julia-dashins-foundation-kai-o-naytikos-omilos-keryneias-enonoyn-tis"/>
-        <updated>2025-08-25T17:34:32.616Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/andrey-julia-dashins-foundation-kai-o-naytikos-omilos-keryneias-enonoyn-tis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-08/main_0.jpg?h=2ce2a552&amp;itok=ViOupEWO" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/andrey-julia-dashins-foundation-kai-o-naytikos-omilos-keryneias-enonoyn-tis">Το Andrey &amp; Julia Dashin's Foundation και ο Ναυτικός Όμιλος Κερύνειας ενώνουν τις δυνάμεις…</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-31T05:34:59.401Z</updated>
+        <updated>2025-08-31T17:33:47.927Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">30 Aug 2025</span>
-  <a href="/articles/festibal/ice-cream-festival-pio-glyko-festibal-toy-septembri">
-    <span class="title">Ice Cream Festival: Το πιο… γλυκό φεστιβάλ του Σεπτέμβρη</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">31 Aug 2025</span>
+  <a href="/articles/exodos/fagitopoto/ta-avant-garde-awards-proteinoyn-omni-eats-gia-freskes-aythentikes">
+    <span class="title">Τα Avant Garde Awards προτείνουν το Omni Eats για φρέσκες, αυθεντικές γεύσεις Ανατολικής Μεσογείου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-31T05:34:59.401Z</updated>
+        <updated>2025-08-31T17:33:47.927Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">30 Aug 2025</span>
-  <a href="/articles/nea/stingk-giati-proin-meli-ton-police-ton-minysan-gia-every-breath-you-take">
-    <span class="title">Στινγκ: Γιατί πρώην μέλη των Police τον μήνυσαν για το «Every Breath You Take»</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">31 Aug 2025</span>
+  <a href="/articles/exodos/tainiesseires/ti-na-deis-sto-netflix-ayti-tin-ebdomada">
+    <span class="title">Τι να δεις στο Netflix αυτή την εβδομάδα</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-31T05:34:59.402Z</updated>
+        <updated>2025-08-31T17:33:47.928Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">29 Aug 2025</span>
-  <a href="/articles/exodos/fagitopoto/ta-avant-garde-awards-proteinoyn-por-favor-gia-aythentiko-mexikaniko">
-    <span class="title">Τα Avant Garde Awards προτείνουν το Por Favor για αυθεντικό μεξικάνικο street food</span>
+  <span class="channel">NEWS</span>
+  <span class="created">31 Aug 2025</span>
+  <a href="/articles/nea/news/i-proti-kai-megalyteri-ekthesi-motosykletas-erhetai-stin-kypro">
+    <span class="title">Η πρώτη και μεγαλύτερη έκθεση μοτοσυκλέτας έρχεται στην Κύπρο!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-31T05:34:59.402Z</updated>
+        <updated>2025-08-31T17:33:47.928Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-08-31T05:34:59.403Z</updated>
+        <updated>2025-08-31T17:33:47.930Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
