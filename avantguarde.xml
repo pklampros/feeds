@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-09T17:36:06.373Z</updated>
+    <updated>2025-09-10T05:35:10.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Χειμερινή ώρα 2025: Πότε αλλάζει και τι πρέπει να γνωρίζουμε]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/heimerini-ora-2025-pote-allazei-kai-ti-prepei-na-gnorizoyme</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/heimerini-ora-2025-pote-allazei-kai-ti-prepei-na-gnorizoyme"/>
+        <updated>2025-09-10T05:35:03.480Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/heimerini-ora-2025-pote-allazei-kai-ti-prepei-na-gnorizoyme">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/imported_photos/1576683341_clocks.jpg?h=5e4333e4&amp;itok=EbOotd3I" width="575" height="400" alt="Η Ευρωπαϊκή Επιτροπή αξιολογεί τη θερινή ώρα...για λόγους υγείας" title="Η Ευρωπαϊκή Επιτροπή αξιολογεί τη θερινή ώρα...για λόγους υγείας" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/heimerini-ora-2025-pote-allazei-kai-ti-prepei-na-gnorizoyme">Χειμερινή ώρα 2025: Πότε αλλάζει και τι πρέπει να γνωρίζουμε</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Με τη Wolt η επιστροφή στη ρουτίνα είναι παιχνίδι]]></title>
         <id>https://avant-garde.com.cy/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify: Αυτός είναι ο πρώτος καλλιτέχνης με τραγούδι που ξεπερνά τα 5 δισ. streams]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/spotify-aytos-einai-o-protos-kallitehnis-me-tragoydi-poy-xeperna-ta-5-dis-streams</id>
-        <link href="https://avant-garde.com.cy/articles/nea/spotify-aytos-einai-o-protos-kallitehnis-me-tragoydi-poy-xeperna-ta-5-dis-streams"/>
-        <updated>2025-09-02T17:33:58.116Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/spotify-aytos-einai-o-protos-kallitehnis-me-tragoydi-poy-xeperna-ta-5-dis-streams">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/polina-kuzovkova-pxsvpoxrzsu-unsplash.jpg?h=790be497&amp;itok=t-G9I6dC" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/spotify-aytos-einai-o-protos-kallitehnis-me-tragoydi-poy-xeperna-ta-5-dis-streams">Spotify: Αυτός είναι ο πρώτος καλλιτέχνης με τραγούδι που ξεπερνά τα 5 δισ. streams</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-09T17:36:00.791Z</updated>
+        <updated>2025-09-10T05:35:03.391Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -956,9 +956,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">09 Sep 2025</span>
-  <a href="/articles/exodos/golden-effort-cyprus-boston-mia-emblimatiki-ekdilosi-poy-fernei-elpida-sti-mahi">
-    <span class="title">A Golden Effort - From Cyprus to Boston: Μια εμβληματική εκδήλωση που φέρνει ελπίδα στη μάχη κατά…</span>
+  <span class="created">10 Sep 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-tetarti-10-septembrioy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Τετάρτη 10 Σεπτεμβρίου 2025</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-09T17:36:00.791Z</updated>
+        <updated>2025-09-10T05:35:03.391Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Sep 2025</span>
-  <a href="/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi">
-    <span class="title">Με τη Wolt η επιστροφή στη ρουτίνα είναι παιχνίδι</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">10 Sep 2025</span>
+  <a href="/articles/exodos/moysiki/symfonies-kai-bals-kato-apo-ta-asteria-tis-leykosias">
+    <span class="title">Συμφωνίες και βαλς κάτω από τα αστέρια της Λευκωσίας</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-09T17:36:00.792Z</updated>
+        <updated>2025-09-10T05:35:03.392Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
   <span class="created">09 Sep 2025</span>
-  <a href="/articles/nea/diadiktyaki-ekdilosi-barriers-breakthroughs-empowering-girls-ict">
-    <span class="title">Διαδικτυακή εκδήλωση - From Barriers to Breakthroughs:  Empowering Girls in ICT</span>
+  <a href="/articles/exodos/exormiseis/triimero-28is-oktobrioy-oi-kalyteres-idees-gia-exormiseis">
+    <span class="title">Τριήμερο 28ης Οκτωβρίου: Οι καλύτερες ιδέες για εξορμήσεις</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-09T17:36:00.794Z</updated>
+        <updated>2025-09-10T05:35:03.394Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-09T17:36:00.795Z</updated>
+        <updated>2025-09-10T05:35:03.395Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
