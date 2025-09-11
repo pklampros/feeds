@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-10T17:35:43.907Z</updated>
+    <updated>2025-09-11T05:34:44.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Είσαι λογιστής και ψάχνεις την επόμενη επαγγελματική σου ευκαιρία;]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eisai-logistis-kai-psahneis-tin-epomeni-epaggelmatiki-soy-eykairia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eisai-logistis-kai-psahneis-tin-epomeni-epaggelmatiki-soy-eykairia"/>
+        <updated>2025-09-11T05:34:38.838Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eisai-logistis-kai-psahneis-tin-epomeni-epaggelmatiki-soy-eykairia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/scott-graham-5fnmwej4taa-unsplash.jpg?h=51a72048&amp;itok=CXRzI_6I" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eisai-logistis-kai-psahneis-tin-epomeni-epaggelmatiki-soy-eykairia">Είσαι λογιστής και ψάχνεις την επόμενη επαγγελματική σου ευκαιρία;</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Κορυφαίες βραβεύσεις για την ΚΕΟ]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/koryfaies-brabeyseis-gia-tin-keo</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η σειρά "Art in the City" του Γραφείου Τύπου και Πληροφοριών επιστρέφει στο Διεθνές…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-seira-art-city-toy-grafeioy-typoy-kai-pliroforion-epistrefei-sto-diethnes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-seira-art-city-toy-grafeioy-typoy-kai-pliroforion-epistrefei-sto-diethnes"/>
-        <updated>2025-09-04T17:34:05.198Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-seira-art-city-toy-grafeioy-typoy-kai-pliroforion-epistrefei-sto-diethnes">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/philippos_yiapanis.jpg?h=4f5024e1&amp;itok=JZAA-56b" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-seira-art-city-toy-grafeioy-typoy-kai-pliroforion-epistrefei-sto-diethnes">Η σειρά "Art in the City" του Γραφείου Τύπου και Πληροφοριών επιστρέφει στο Διεθνές…</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-10T17:35:37.762Z</updated>
+        <updated>2025-09-11T05:34:38.640Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">10 Sep 2025</span>
-  <a href="/articles/nea/news/koryfaies-brabeyseis-gia-tin-keo">
-    <span class="title">Κορυφαίες βραβεύσεις για την ΚΕΟ</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">11 Sep 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-pempti-11-septembrioy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Πέμπτη 11 Σεπτεμβρίου 2025</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-10T17:35:37.764Z</updated>
+        <updated>2025-09-11T05:34:38.641Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">10 Sep 2025</span>
-  <a href="/articles/nea/h-samsung-kyproy-paroysiazei-ti-nea-seira-galaxy-z-me-kampania-3d-sti-lemeso">
-    <span class="title">H Samsung Κύπρου παρουσιάζει τη νέα σειρά Galaxy Z με καμπάνια 3D στη Λεμεσό</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">11 Sep 2025</span>
+  <a href="/articles/exodos/artcargo-2025-i-lemesos-ginetai-mia-ateleioti-skini">
+    <span class="title">ArtCargo 2025: Η Λεμεσός γίνεται μια ατελείωτη σκηνή</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-10T17:35:37.764Z</updated>
+        <updated>2025-09-11T05:34:38.642Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
   <span class="created">10 Sep 2025</span>
-  <a href="/articles/festibal/nicosia-book-fest-2025-programma-toy-festibal-einai-diathesimo">
-    <span class="title">Nicosia Book Fest 2025: Το πρόγραμμα του φεστιβάλ είναι διαθέσιμο!</span>
+  <a href="/articles/exodos/tainiesseires/tzortzio-armani-i-zoi-toy-basilia-tis-modas-ginetai-tainia">
+    <span class="title">Τζόρτζιο Αρμάνι: Η ζωή του «βασιλιά της μόδας» γίνεται ταινία</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-10T17:35:37.765Z</updated>
+        <updated>2025-09-11T05:34:38.646Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-10T17:35:37.766Z</updated>
+        <updated>2025-09-11T05:34:38.647Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
