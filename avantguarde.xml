@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-12T05:34:44.589Z</updated>
+    <updated>2025-09-12T17:34:16.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-12T05:34:38.354Z</updated>
+        <updated>2025-09-12T17:34:10.822Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">11 Sep 2025</span>
-  <a href="/articles/nea/news/chatgpt-arneitai-katigorimatika-na-kanei-ayto-ena-pragma">
-    <span class="title">Το ChatGPT αρνείται κατηγορηματικά να κάνει αυτό το ένα πράγμα</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">12 Sep 2025</span>
+  <a href="/articles/exodos/fagitopoto/5-brunch-sto-horio-poy-prepei-na-dokimaseis">
+    <span class="title">5 Brunch στο χωριό που πρέπει να δοκιμάσεις!</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-12T05:34:38.354Z</updated>
+        <updated>2025-09-12T17:34:10.823Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">11 Sep 2025</span>
-  <a href="/articles/nea/news/irlandia-apeilei-me-apohorisi-apo-ti-eurovision-2026-ean-symmetashei-israil">
-    <span class="title">Ιρλανδία: Απειλεί με αποχώρηση από τη Eurovision 2026 εάν συμμετάσχει το Ισραήλ</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">12 Sep 2025</span>
+  <a href="/articles/festibal/41-festibal-toy-sabbatokyriakoy-poy-axizei-na-episkeftheite">
+    <span class="title">4+1 φεστιβάλ του σαββατοκύριακου που αξίζει να επισκεφθείτε </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-12T05:34:38.356Z</updated>
+        <updated>2025-09-12T17:34:10.825Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">11 Sep 2025</span>
-  <a href="/articles/nea/news/stirixi-stis-pyropliktes-koinotites-tis-lemesoy-eu3000-gia-politistikes">
-    <span class="title">Στήριξη στις πυρόπληκτες κοινότητες της Λεμεσού: €3.000 για πολιτιστικές εκδηλώσεις</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">12 Sep 2025</span>
+  <a href="/articles/exodos/tainiesseires/6o-festibal-loatkia-kinimatografoy-kyproy-epistrefei-simera">
+    <span class="title"> Το 6ο Φεστιβάλ ΛΟΑΤΚΙΑ+ Κινηματογράφου Κύπρου επιστρέφει σήμερα!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-12T05:34:38.357Z</updated>
+        <updated>2025-09-12T17:34:10.826Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-12T05:34:38.368Z</updated>
+        <updated>2025-09-12T17:34:10.827Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
