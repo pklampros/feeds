@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-15T17:34:38.673Z</updated>
+    <updated>2025-09-16T05:36:06.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Σε αυτή την πισίνα στο Άμπου Ντάμπι πληρώνουν ακριβά για ένα κύμα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/se-ayti-tin-pisina-sto-ampoy-ntampi-plironoyn-akriba-gia-ena-kyma</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/se-ayti-tin-pisina-sto-ampoy-ntampi-plironoyn-akriba-gia-ena-kyma"/>
+        <updated>2025-09-16T05:36:01.165Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/se-ayti-tin-pisina-sto-ampoy-ntampi-plironoyn-akriba-gia-ena-kyma">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/jeremy-bishop-_cfv3bntqlq-unsplash.jpg?h=8b23b808&amp;itok=hN8oW986" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/se-ayti-tin-pisina-sto-ampoy-ntampi-plironoyn-akriba-gia-ena-kyma">Σε αυτή την πισίνα στο Άμπου Ντάμπι πληρώνουν ακριβά για ένα κύμα</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emmy 2025: Ο 15χρονος Όουεν Κούπερ του Adolescence σημειώνει ρεκόρ ως ο νεότερος νικητής]]></title>
         <id>https://avant-garde.com.cy/articles/nea/emmy-2025-o-15hronos-ooyen-koyper-toy-adolescence-simeionei-rekor-os-o-neoteros</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Με τη Wolt η επιστροφή στη ρουτίνα είναι παιχνίδι]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi"/>
-        <updated>2025-09-09T17:36:00.965Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/1200x628_gr_routine.png?h=d57fffff&amp;itok=tC9vBtDv" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/me-ti-wolt-i-epistrofi-sti-roytina-einai-paihnidi">Με τη Wolt η επιστροφή στη ρουτίνα είναι παιχνίδι</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-15T17:34:33.242Z</updated>
+        <updated>2025-09-16T05:36:01.081Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">15 Sep 2025</span>
-  <a href="/articles/nea/emmy-2025-o-15hronos-ooyen-koyper-toy-adolescence-simeionei-rekor-os-o-neoteros">
-    <span class="title">Emmy 2025: Ο 15χρονος Όουεν Κούπερ του Adolescence σημειώνει ρεκόρ ως ο νεότερος νικητής</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">16 Sep 2025</span>
+  <a href="/articles/exodos/moysiki/dimitris-mesimeris-tik-tak-sto-diethnes-festibal-leykosias-2025">
+    <span class="title">Δημήτρης Μεσημέρης: «ΤΙΚ ΤΑΚ» στο Διεθνές Φεστιβάλ Λευκωσίας 2025</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-15T17:34:33.243Z</updated>
+        <updated>2025-09-16T05:36:01.081Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">15 Sep 2025</span>
-  <a href="/articles/nea/xai-hoyi-ti-mathame-apo-tin-proti-prosbasimi-kataskinosi-stin-kypro">
-    <span class="title">Xάι Χούι: Τι μάθαμε από την πρώτη προσβάσιμη κατασκήνωση στην Κύπρο</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">16 Sep 2025</span>
+  <a href="/articles/exodos/moysiki/diethni-moysika-synola-sto-festibal-syghronis-moysikis-faros-2025">
+    <span class="title">Διεθνή μουσικά σύνολα στο Φεστιβάλ Σύγχρονης Μουσικής Φάρος 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-15T17:34:33.244Z</updated>
+        <updated>2025-09-16T05:36:01.081Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="channel">NEWS</span>
   <span class="created">15 Sep 2025</span>
-  <a href="/articles/exodos/moysiki/ashes-ares-erhontai-gia-proti-fora-sto-nisi-paroysiazontas-dark-saga">
-    <span class="title">Ashes of Ares: Έρχονται για πρώτη φορά στο νησί παρουσιάζοντας το Dark Saga</span>
+  <a href="/articles/nea/news/se-ayti-tin-pisina-sto-ampoy-ntampi-plironoyn-akriba-gia-ena-kyma">
+    <span class="title">Σε αυτή την πισίνα στο Άμπου Ντάμπι πληρώνουν ακριβά για ένα κύμα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-15T17:34:33.246Z</updated>
+        <updated>2025-09-16T05:36:01.082Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-15T17:34:33.247Z</updated>
+        <updated>2025-09-16T05:36:01.083Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
