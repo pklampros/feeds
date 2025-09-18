@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-17T17:35:45.739Z</updated>
+    <updated>2025-09-18T05:34:38.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-17T17:35:40.051Z</updated>
+        <updated>2025-09-18T05:34:34.004Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">17 Sep 2025</span>
-  <a href="/articles/festibal/nicosia-walls-festival-2025-pio-xehoristo-moysiko-kai-kallitehniko-gegonos-tis">
-    <span class="title">Nicosia Walls Festival 2025: Το πιο ξεχωριστό μουσικό και καλλιτεχνικό γεγονός της χρονιάς</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">18 Sep 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-pempti-18-septembrioy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Πέμπτη 18 Σεπτεμβρίου 2025</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-17T17:35:40.052Z</updated>
+        <updated>2025-09-18T05:34:34.008Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">17 Sep 2025</span>
-  <a href="/articles/nea/amazonios-katestrepsan-ektasi-isi-me-tin-ispania">
-    <span class="title">Αμαζόνιος: Κατέστρεψαν έκταση ίση με την Ισπανία</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">18 Sep 2025</span>
+  <a href="/articles/festibal/festibal-antama-2025-dyo-meres-moysikis-horoy-kai-paradosis">
+    <span class="title">Φεστιβάλ Αντάμα 2025: Δύο μέρες μουσικής, χορού και παράδοσης</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-17T17:35:40.053Z</updated>
+        <updated>2025-09-18T05:34:34.013Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">17 Sep 2025</span>
-  <a href="/articles/exodos/fagitopoto/feedos-ypopsifio-kalytero-estiatorio-stin-katigoria-street-food-ton">
-    <span class="title">Feedos: Υποψήφιο καλύτερο εστιατόριο στην κατηγορία street food των Avant Garde Awards</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">18 Sep 2025</span>
+  <a href="/articles/exodos/theatrohoros/mia-iliada-i-despoina-mpempedeli-os-omiros-sti-skini">
+    <span class="title">Μια Ιλιάδα: Η Δέσποινα Μπεμπεδέλη ως Όμηρος στη σκηνή</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-17T17:35:40.054Z</updated>
+        <updated>2025-09-18T05:34:34.016Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-17T17:35:40.056Z</updated>
+        <updated>2025-09-18T05:34:34.018Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
