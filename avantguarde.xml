@@ -2,14 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-18T17:34:17.448Z</updated>
+    <updated>2025-09-19T05:34:31.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Άνοιξε η αυλαία του Φεστιβάλ Μουσικής του Δήμου Παραλιμνίου - Δερύνειας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/anoixe-i-aylaia-toy-festibal-moysikis-toy-dimoy-paralimnioy-deryneias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/anoixe-i-aylaia-toy-festibal-moysikis-toy-dimoy-paralimnioy-deryneias"/>
+        <updated>2025-09-19T05:34:25.475Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/anoixe-i-aylaia-toy-festibal-moysikis-toy-dimoy-paralimnioy-deryneias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/as102130.jpg?h=41ae8a30&amp;itok=E7ofP0sh" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/anoixe-i-aylaia-toy-festibal-moysikis-toy-dimoy-paralimnioy-deryneias">Άνοιξε η αυλαία του Φεστιβάλ Μουσικής του Δήμου Παραλιμνίου - Δερύνειας</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Οι Υπεραγορές Αλφαμέγα διοργανώνουν το 1ο Φεστιβάλ Κυπριακής Παράδοσης «Κυπριακά και Αυθεντικά»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/oi-yperagores-alfamega-diorganonoyn-1o-festibal-kypriakis-paradosis-kypriaka-kai</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/oi-yperagores-alfamega-diorganonoyn-1o-festibal-kypriakis-paradosis-kypriaka-kai"/>
-        <updated>2025-09-18T17:34:12.264Z</updated>
+        <updated>2025-09-19T05:34:25.478Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -61,7 +113,7 @@
         <title type="html"><![CDATA[«Μαζί στη Ζωή» με τον ΠΑΣΥΚΑΦ: Παρουσίαση της 34ης Εκστρατείας Ενημέρωσης και Οικονομικής Ενίσχυσης]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/mazi-sti-zoi-me-ton-pasykaf-paroysiasi-tis-34is-ekstrateias-enimerosis-kai</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/mazi-sti-zoi-me-ton-pasykaf-paroysiasi-tis-34is-ekstrateias-enimerosis-kai"/>
-        <updated>2025-09-18T17:34:12.266Z</updated>
+        <updated>2025-09-19T05:34:25.478Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -113,7 +165,7 @@
         <title type="html"><![CDATA[Το Art Explora Festival πλέει για πρώτη φορά στην Κύπρο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/art-explora-festival-pleei-gia-proti-fora-stin-kypro</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/art-explora-festival-pleei-gia-proti-fora-stin-kypro"/>
-        <updated>2025-09-18T17:34:12.268Z</updated>
+        <updated>2025-09-19T05:34:25.483Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -165,7 +217,7 @@
         <title type="html"><![CDATA[Ανοίγει στη Νέα Υόρκη το Central Perk, το ιστορικό καφέ από τα «Φιλαράκια»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/anoigei-sti-nea-yorki-central-perk-istoriko-kafe-apo-ta-filarakia</id>
         <link href="https://avant-garde.com.cy/articles/nea/anoigei-sti-nea-yorki-central-perk-istoriko-kafe-apo-ta-filarakia"/>
-        <updated>2025-09-18T17:34:12.270Z</updated>
+        <updated>2025-09-19T05:34:25.485Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Vegan Fam Festival μετρά 5 χρόνια επιτυχίας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/vegan-fam-festival-metra-5-hronia-epityhias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/vegan-fam-festival-metra-5-hronia-epityhias"/>
-        <updated>2025-09-15T17:34:33.358Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-09-19T05:34:25.265Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/vegan-fam-festival-metra-5-hronia-epityhias">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/pr1.jpg?h=13171717&amp;itok=K1dh-7Gx" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/vegan-fam-festival-metra-5-hronia-epityhias">Το Vegan Fam Festival μετρά 5 χρόνια επιτυχίας</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">19 Sep 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-paraskeyi-19-septembrioy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Παρασκευή 19 Σεπτεμβρίου 2025</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-18T17:34:12.115Z</updated>
+        <updated>2025-09-19T05:34:25.268Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">18 Sep 2025</span>
+  <a href="/articles/nea/news/anoixe-i-aylaia-toy-festibal-moysikis-toy-dimoy-paralimnioy-deryneias">
+    <span class="title">Άνοιξε η αυλαία του Φεστιβάλ Μουσικής του Δήμου Παραλιμνίου - Δερύνειας</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-09-19T05:34:25.268Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-18T17:34:12.129Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">18 Sep 2025</span>
-  <a href="/articles/nea/news/oi-yperagores-alfamega-diorganonoyn-1o-festibal-kypriakis-paradosis-kypriaka-kai">
-    <span class="title">Οι Υπεραγορές Αλφαμέγα διοργανώνουν το 1ο Φεστιβάλ Κυπριακής Παράδοσης «Κυπριακά και Αυθεντικά» </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-18T17:34:12.129Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">18 Sep 2025</span>
-  <a href="/articles/nea/news/mazi-sti-zoi-me-ton-pasykaf-paroysiasi-tis-34is-ekstrateias-enimerosis-kai">
-    <span class="title">«Μαζί στη Ζωή» με τον ΠΑΣΥΚΑΦ: Παρουσίαση της 34ης Εκστρατείας Ενημέρωσης και Οικονομικής Ενίσχυσης</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-18T17:34:12.129Z</updated>
+        <updated>2025-09-19T05:34:25.269Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-18T17:34:12.130Z</updated>
+        <updated>2025-09-19T05:34:25.271Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
