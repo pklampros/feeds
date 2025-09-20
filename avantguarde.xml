@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-19T17:33:28.392Z</updated>
+    <updated>2025-09-20T05:36:02.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η Συμφωνική Ορχήστρα Κύπρου αναζητά νέο Καλλιτεχνικό Διευθυντή]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-symfoniki-orhistra-kyproy-anazita-neo-kallitehniko-dieythynti</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-symfoniki-orhistra-kyproy-anazita-neo-kallitehniko-dieythynti"/>
+        <updated>2025-09-20T05:35:56.766Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-symfoniki-orhistra-kyproy-anazita-neo-kallitehniko-dieythynti">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/mark-fletcher-brown-t2mjbipnxvy-unsplash.jpg?h=6f8e8448&amp;itok=FGrrR954" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-symfoniki-orhistra-kyproy-anazita-neo-kallitehniko-dieythynti">Η Συμφωνική Ορχήστρα Κύπρου αναζητά νέο Καλλιτεχνικό Διευθυντή</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Avant Garde προσφέρει ένα Giveaway για τη συναυλία του Σωκράτη Μάλαμα και της Ιουλίας Καραπατάκη]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xάι Χούι: Τι μάθαμε από την πρώτη προσβάσιμη κατασκήνωση στην Κύπρο]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/xai-hoyi-ti-mathame-apo-tin-proti-prosbasimi-kataskinosi-stin-kypro</id>
-        <link href="https://avant-garde.com.cy/articles/nea/xai-hoyi-ti-mathame-apo-tin-proti-prosbasimi-kataskinosi-stin-kypro"/>
-        <updated>2025-09-15T17:34:33.353Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-09-20T05:35:56.679Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/xai-hoyi-ti-mathame-apo-tin-proti-prosbasimi-kataskinosi-stin-kypro">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/cover_image.jpg?h=2a20ab6e&amp;itok=2u4a8to1" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/xai-hoyi-ti-mathame-apo-tin-proti-prosbasimi-kataskinosi-stin-kypro">Xάι Χούι: Τι μάθαμε από την πρώτη προσβάσιμη κατασκήνωση στην Κύπρο</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">19 Sep 2025</span>
+  <a href="/articles/exodos/tainiesseires/sinema-tis-ebdomadas-apo-time-travel-toy-erota-sti-diafthora-tis-neas">
+    <span class="title">Σινεμά της εβδομάδας: Από το time-travel του έρωτα στη διαφθορά της Νέας Υόρκης</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-19T17:33:22.094Z</updated>
+        <updated>2025-09-20T05:35:56.679Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">19 Sep 2025</span>
+  <a href="/articles/nea/news/i-symfoniki-orhistra-kyproy-anazita-neo-kallitehniko-dieythynti">
+    <span class="title">Η Συμφωνική Ορχήστρα Κύπρου αναζητά νέο Καλλιτεχνικό Διευθυντή</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-09-20T05:35:56.680Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-19T17:33:22.095Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">19 Sep 2025</span>
-  <a href="/articles/festibal/open-house-festival-epistrefei-gia-16i-hronia">
-    <span class="title">To Open House Festival επιστρέφει για 16η χρονιά</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-19T17:33:22.095Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">19 Sep 2025</span>
-  <a href="/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis">
-    <span class="title"> Η Avant Garde προσφέρει ένα Giveaway για τη συναυλία του Σωκράτη Μάλαμα και της Ιουλίας Καραπατάκη </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-19T17:33:22.096Z</updated>
+        <updated>2025-09-20T05:35:56.681Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-19T17:33:22.097Z</updated>
+        <updated>2025-09-20T05:35:56.682Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
