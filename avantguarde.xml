@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-26T05:35:03.629Z</updated>
+    <updated>2025-09-26T17:35:02.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Musical Stories by Matea Leko: Έλαμψαν τα αστέρια κάτω από τον έναστρο ουρανό του Κουρίου]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/musical-stories-matea-leko-elampsan-ta-asteria-kato-apo-ton-enastro-oyrano-toy-koyrioy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/musical-stories-matea-leko-elampsan-ta-asteria-kato-apo-ton-enastro-oyrano-toy-koyrioy"/>
+        <updated>2025-09-26T17:34:56.114Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/musical-stories-matea-leko-elampsan-ta-asteria-kato-apo-ton-enastro-oyrano-toy-koyrioy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/perris_2.jpg?h=56d0ca2e&amp;itok=-Fjrs4Vd" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/musical-stories-matea-leko-elampsan-ta-asteria-kato-apo-ton-enastro-oyrano-toy-koyrioy">Musical Stories by Matea Leko: Έλαμψαν τα αστέρια κάτω από τον έναστρο ουρανό του Κουρίου  </a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slimane: Για σεξουαλική παρενόχληση καταδικάστηκε ο τραγουδιστής της Γαλλίας στη Eurovision]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/slimane-gia-sexoyaliki-parenohlisi-katadikastike-o-tragoydistis-tis-gallias-sti</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Avant Garde προσφέρει ένα Giveaway για τη συναυλία του Σωκράτη Μάλαμα και της Ιουλίας Καραπατάκη]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis"/>
-        <updated>2025-09-19T17:33:22.202Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/standard_avant_garde_98.jpg?h=43594a01&amp;itok=_ECMyYK8" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-avant-garde-prosferei-ena-giveaway-gia-ti-synaylia-toy-sokrati-malama-kai-tis"> Η Avant Garde προσφέρει ένα Giveaway για τη συναυλία του Σωκράτη Μάλαμα και της Ιουλίας Καραπατάκη </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-26T05:34:57.947Z</updated>
+        <updated>2025-09-26T17:34:56.027Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -957,8 +957,8 @@
 <span class="title-channel-date">
   <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">26 Sep 2025</span>
-  <a href="/articles/festibal/lofoy-krasohori-poy-ginetai-paidiki-hara-dimioyrgias">
-    <span class="title">Λόφου: Το κρασοχώρι που γίνεται παιδική χαρά δημιουργίας</span>
+  <a href="/articles/festibal/101-festibal-toy-sabbatokyriakoy-poy-axizei-na-episkeftheite">
+    <span class="title">10+1 φεστιβάλ του σαββατοκύριακου που αξίζει να επισκεφθείτε </span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-26T05:34:57.950Z</updated>
+        <updated>2025-09-26T17:34:56.030Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -983,8 +983,8 @@
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
   <span class="created">26 Sep 2025</span>
-  <a href="/articles/exodos/moysiki/hits-streets-i-poli-etoimazetai-na-horepsei-stoys-rythmoys-toy-pio">
-    <span class="title">Hits on the streets: Η πόλη ετοιμάζεται να χορέψει στους ρυθμούς του πιο εκρηκτικού street party! </span>
+  <a href="/articles/exodos/moysiki/lakatameia-river-walk-i-poli-mas-tragoydaei-dipla-sto-potami">
+    <span class="title"> Lakatameia River Walk: Η πόλη μας τραγουδάει δίπλα στο ποτάμι</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-26T05:34:57.953Z</updated>
+        <updated>2025-09-26T17:34:56.030Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΝΕΑ</span>
   <span class="created">26 Sep 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-paraskeyi-26-septembrioy-2025">
-    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Παρασκευή 26 Σεπτεμβρίου 2025</span>
+  <a href="/articles/nea/musical-stories-matea-leko-elampsan-ta-asteria-kato-apo-ton-enastro-oyrano-toy-koyrioy">
+    <span class="title">Musical Stories by Matea Leko: Έλαμψαν τα αστέρια κάτω από τον έναστρο ουρανό του Κουρίου  </span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-26T05:34:57.954Z</updated>
+        <updated>2025-09-26T17:34:56.030Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-26T05:34:57.955Z</updated>
+        <updated>2025-09-26T17:34:56.030Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
