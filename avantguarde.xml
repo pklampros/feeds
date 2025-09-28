@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-28T05:35:33.792Z</updated>
+    <updated>2025-09-28T17:34:50.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-28T05:35:28.452Z</updated>
+        <updated>2025-09-28T17:34:45.763Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">27 Sep 2025</span>
-  <a href="/articles/nea/news/entopistike-arhaia-nekropoli-sti-leykosia-hronologeitai-gyro-sto-2000-ph">
-    <span class="title">Εντοπίστηκε αρχαία νεκρόπολη στη Λευκωσία – Χρονολογείται γύρω στο 2.000 π.Χ.</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">28 Sep 2025</span>
+  <a href="/articles/exodos/theatrohoros/theatriki-premiera-gia-ton-arhaggelo-tis-kritis-i-istoria-toy-nikoy">
+    <span class="title">Θεατρική πρεμιέρα για τον «Αρχάγγελο της Κρήτης» – Η ιστορία του Νίκου Ξυλούρη στη σκηνή με…</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-28T05:35:28.453Z</updated>
+        <updated>2025-09-28T17:34:45.764Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">27 Sep 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-apopse-sabbato-27-septembrioy-2025">
-    <span class="title">Agenda: Πού να πας απόψε – Σάββατο 27 Σεπτεμβρίου 2025</span>
+  <span class="created">28 Sep 2025</span>
+  <a href="/articles/exodos/sardam-2025-i-lemesos-zei-tin-teleytaia-bradia-toy-13oy-diethnoys-festibal">
+    <span class="title">Σαρδάμ 2025: Η Λεμεσός ζει την τελευταία βραδιά του 13ου διεθνούς φεστιβάλ λογοτεχνικής περφόρμανς</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-28T05:35:28.454Z</updated>
+        <updated>2025-09-28T17:34:45.766Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">26 Sep 2025</span>
-  <a href="/articles/festibal/101-festibal-toy-sabbatokyriakoy-poy-axizei-na-episkeftheite">
-    <span class="title">10+1 φεστιβάλ του σαββατοκύριακου που αξίζει να επισκεφθείτε </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">28 Sep 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-kykloforiseis-apopse-kyriaki-28-septembrioy-2025">
+    <span class="title">Agenda: Πού να κυκλοφορήσεις απόψε – Κυριακή 28 Σεπτεμβρίου 2025</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-28T05:35:28.455Z</updated>
+        <updated>2025-09-28T17:34:45.767Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-28T05:35:28.457Z</updated>
+        <updated>2025-09-28T17:34:45.768Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
