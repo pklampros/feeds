@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-09-29T05:37:20.735Z</updated>
+    <updated>2025-09-29T17:35:50.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9ο METRO Animal Day – Γιορτάζουμε την αγάπη μας για τα ζώα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/9o-metro-animal-day-giortazoyme-tin-agapi-mas-gia-ta-zoa</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/9o-metro-animal-day-giortazoyme-tin-agapi-mas-gia-ta-zoa"/>
+        <updated>2025-09-29T17:35:44.742Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/9o-metro-animal-day-giortazoyme-tin-agapi-mas-gia-ta-zoa">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/fb_post_1080x1080_2_0.png?h=a3381a7f&amp;itok=4Uv-wA4e" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/9o-metro-animal-day-giortazoyme-tin-agapi-mas-gia-ta-zoa">9ο METRO Animal Day – Γιορτάζουμε την αγάπη μας για τα ζώα</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η νέα γενιά γυναικών της Κύπρου μιλά για την έμφυλη ισότητα και τις προκλήσεις που αντιμετωπίζουν]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-nea-genia-gynaikon-tis-kyproy-mila-gia-tin-emfyli-isotita-kai-tis-prokliseis-poy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-nea-genia-gynaikon-tis-kyproy-mila-gia-tin-emfyli-isotita-kai-tis-prokliseis-poy"/>
+        <updated>2025-09-29T17:35:44.743Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-nea-genia-gynaikon-tis-kyproy-mila-gia-tin-emfyli-isotita-kai-tis-prokliseis-poy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-09/img_0384.jpg?h=5e461d25&amp;itok=v34SsvQ5" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-nea-genia-gynaikon-tis-kyproy-mila-gia-tin-emfyli-isotita-kai-tis-prokliseis-poy">Η νέα γενιά γυναικών της Κύπρου μιλά για την έμφυλη ισότητα και τις προκλήσεις που αντιμετωπίζουν</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ταξίδια στην ΕΕ: Νέοι κανόνες για χειραποσκευές, υγρά και δικαιώματα επιβατών]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/taxidia-stin-ee-neoi-kanones-gia-heiraposkeyes-ygra-kai-dikaiomata-epibaton</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oktoberfest: To μεγαλύτερο φεστιβάλ μπύρας στον κόσμο ξεκίνησε [φωτογραφίες & βίντεο]]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/oktoberfest-megalytero-festibal-mpyras-ston-kosmo-xekinise-fotografies-binteo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/oktoberfest-megalytero-festibal-mpyras-ston-kosmo-xekinise-fotografies-binteo"/>
-        <updated>2025-09-22T17:33:25.022Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/oktoberfest-megalytero-festibal-mpyras-ston-kosmo-xekinise-fotografies-binteo">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/snapinsta.to_70413892_529599214517993_3423751886363874645_n_1.jpg?h=a99751c3&amp;itok=AVkff9y4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/oktoberfest-megalytero-festibal-mpyras-ston-kosmo-xekinise-fotografies-binteo">Oktoberfest: To μεγαλύτερο φεστιβάλ μπύρας στον κόσμο ξεκίνησε [φωτογραφίες &amp; βίντεο] </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9ο Up To YOU(th): Ένα φεστιβάλ γεμάτο έμπνευση, δημιουργία και συμμετοχή.]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/9o-youth-ena-festibal-gemato-empneysi-dimioyrgia-kai-symmetohi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/9o-youth-ena-festibal-gemato-empneysi-dimioyrgia-kai-symmetohi"/>
-        <updated>2025-09-22T17:33:25.024Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/9o-youth-ena-festibal-gemato-empneysi-dimioyrgia-kai-symmetohi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/img-76.jpg?h=fa1c963e&amp;itok=ouYQJapx" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/9o-youth-ena-festibal-gemato-empneysi-dimioyrgia-kai-symmetohi">9ο Up To YOU(th): Ένα φεστιβάλ γεμάτο έμπνευση, δημιουργία και συμμετοχή.</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-29T05:37:16.499Z</updated>
+        <updated>2025-09-29T17:35:44.588Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">29 Sep 2025</span>
-  <a href="/articles/nea/news/taxidia-stin-ee-neoi-kanones-gia-heiraposkeyes-ygra-kai-dikaiomata-epibaton">
-    <span class="title">Ταξίδια στην ΕΕ: Νέοι κανόνες για χειραποσκευές, υγρά και δικαιώματα επιβατών</span>
+  <a href="/articles/festibal/etoimasteite-gia-paradosiako-festibal-doroy-2025">
+    <span class="title">Ετοιμαστείτε για το παραδοσιακό Φεστιβάλ Δωρού 2025</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-29T05:37:16.500Z</updated>
+        <updated>2025-09-29T17:35:44.589Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">28 Sep 2025</span>
-  <a href="/articles/exodos/theatrohoros/theatriki-premiera-gia-ton-arhaggelo-tis-kritis-i-istoria-toy-nikoy">
-    <span class="title">Θεατρική πρεμιέρα για τον «Αρχάγγελο της Κρήτης» – Η ιστορία του Νίκου Ξυλούρη στη σκηνή με…</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">29 Sep 2025</span>
+  <a href="/articles/exodos/fagitopoto/erhetai-teleytaio-fork-food-market-tis-hronias">
+    <span class="title">Έρχεται το τελευταίο fork food market της χρονιάς</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-29T05:37:16.500Z</updated>
+        <updated>2025-09-29T17:35:44.590Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">28 Sep 2025</span>
-  <a href="/articles/exodos/sardam-2025-i-lemesos-zei-tin-teleytaia-bradia-toy-13oy-diethnoys-festibal">
-    <span class="title">Σαρδάμ 2025: Η Λεμεσός ζει την τελευταία βραδιά του 13ου διεθνούς φεστιβάλ λογοτεχνικής περφόρμανς</span>
+  <span class="channel">NEWS</span>
+  <span class="created">29 Sep 2025</span>
+  <a href="/articles/nea/news/9o-metro-animal-day-giortazoyme-tin-agapi-mas-gia-ta-zoa">
+    <span class="title">9ο METRO Animal Day – Γιορτάζουμε την αγάπη μας για τα ζώα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-29T05:37:16.502Z</updated>
+        <updated>2025-09-29T17:35:44.591Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-09-29T05:37:16.503Z</updated>
+        <updated>2025-09-29T17:35:44.592Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
