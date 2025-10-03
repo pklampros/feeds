@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-03T05:35:48.676Z</updated>
+    <updated>2025-10-03T17:34:59.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Αμέτρητες περιπέτειες για όλους.]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia"/>
+        <updated>2025-10-03T17:34:53.145Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/adventurepark_publicguests_avantgarde_938x527px_1.jpg?h=43594a01&amp;itok=S9ThN4JC" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia">Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Αμέτρητες περιπέτειες για όλους. </a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Δικοινοτική καλλιτεχνική δράση στο πλαίσιο της Μπιενάλε 2025 φέρνει κοντά Ελληνοκύπριους και…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/dikoinotiki-kallitehniki-drasi-sto-plaisio-tis-mpienale-2025-fernei-konta</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Garden Fresh στηρίζει το Cyprus Mushroom Festival 2025 ως Platinum Χορηγός!]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-garden-fresh-stirizei-cyprus-mushroom-festival-2025-os-platinum-horigos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-garden-fresh-stirizei-cyprus-mushroom-festival-2025-os-platinum-horigos"/>
-        <updated>2025-09-24T17:36:24.739Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-garden-fresh-stirizei-cyprus-mushroom-festival-2025-os-platinum-horigos">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-10/pexels-iriser-1249884.jpg?h=790be497&amp;itok=FV1DZjsm" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-garden-fresh-stirizei-cyprus-mushroom-festival-2025-os-platinum-horigos">Η Garden Fresh στηρίζει το Cyprus Mushroom Festival 2025 ως Platinum Χορηγός!</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-03T05:35:42.962Z</updated>
+        <updated>2025-10-03T17:34:53.004Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -956,9 +956,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">NEWS</span>
-  <span class="created">02 Oct 2025</span>
-  <a href="/articles/nea/news/dikoinotiki-kallitehniki-drasi-sto-plaisio-tis-mpienale-2025-fernei-konta">
-    <span class="title">Δικοινοτική καλλιτεχνική δράση στο πλαίσιο της Μπιενάλε 2025 φέρνει κοντά Ελληνοκύπριους και…</span>
+  <span class="created">03 Oct 2025</span>
+  <a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia">
+    <span class="title">Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Αμέτρητες περιπέτειες για όλους. </span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-03T05:35:42.963Z</updated>
+        <updated>2025-10-03T17:34:53.004Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">02 Oct 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-apopse-pempti-2-oktobrioy-2025">
-    <span class="title">Agenda: Πού να πας απόψε – Πέμπτη 2 Οκτωβρίου 2025</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">03 Oct 2025</span>
+  <a href="/articles/exodos/moysiki/ranteboy-stin-plateia-music-fest-2025-gia-na-gemisoyn-oi-psyhes-me-moysiki">
+    <span class="title">«Ραντεβού στην Πλατεία» Music Fest 2025 για να γεµίσουν οι ψυχές µε µουσική! </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-03T05:35:42.969Z</updated>
+        <updated>2025-10-03T17:34:53.005Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">02 Oct 2025</span>
-  <a href="/articles/festibal/aheritoy-3o-festibal-theroys-epistrefei-me-paradosiakes-geyseis">
-    <span class="title">Αχερίτου: To 3ο Φεστιβάλ Θέρους επιστρέφει με παράδοσιακές γεύσεις  </span>
+  <span class="channel">ΠΡΟΣΩΠΑ</span>
+  <span class="created">03 Oct 2025</span>
+  <a href="/articles/prosopa/open-house-festival-i-kallitehniki-dieythyntria-marina-kakoylli-mila-stin-ag">
+    <span class="title">Open House Festival: Η καλλιτεχνική διευθύντρια, Μαρίνα Κακουλλή, μιλά στην AG</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-03T05:35:42.971Z</updated>
+        <updated>2025-10-03T17:34:53.006Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-03T05:35:42.973Z</updated>
+        <updated>2025-10-03T17:34:53.007Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
