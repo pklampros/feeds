@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-05T05:34:31.357Z</updated>
+    <updated>2025-10-05T17:32:58.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-05T05:34:26.507Z</updated>
+        <updated>2025-10-05T17:32:51.410Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">04 Oct 2025</span>
-  <a href="/articles/nea/pagkosmia-imera-zoon-oi-paragogoi-toy-klik-fm-sto-katafygio-2nd-chance-dog">
-    <span class="title">Παγκόσμια Ημέρα Ζώων: Οι παραγωγοί του ΚΛΙΚ FM στο καταφύγιο «2nd Chance Dog»</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">05 Oct 2025</span>
+  <a href="/articles/exodos/7-kyprioi-kallitehnes-stin-ekthesi-modality-and-differences">
+    <span class="title">7 Κύπριοι καλλιτέχνες στην έκθεση “The Modality and the Differences”</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-05T05:34:26.510Z</updated>
+        <updated>2025-10-05T17:32:51.411Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">04 Oct 2025</span>
-  <a href="/articles/nea/enishysi-tis-eyimerias-ton-zoon-ora-gia-metarrythmisi-stin-kypro">
-    <span class="title">Ενίσχυση της ευημερίας των ζώων: Ώρα για μεταρρύθμιση στην Κύπρο</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">05 Oct 2025</span>
+  <a href="/articles/exodos/world-food-day-festival-sti-limassol-agora-mia-giorti-gia-toys-latreis-toy-fagitoy">
+    <span class="title">World Food Day Festival στη Limassol Agora – Μια γιορτή για τους λάτρεις του φαγητού!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-05T05:34:26.511Z</updated>
+        <updated>2025-10-05T17:32:51.412Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">04 Oct 2025</span>
-  <a href="/articles/nea/rekor-apo-zak-mpraian-gia-ti-synaylia-me-ton-megalytero-arithmo-theaton">
-    <span class="title">Ρεκόρ από Ζακ Μπράιαν για τη συναυλία με τον μεγαλύτερο αριθμό θεατών</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">05 Oct 2025</span>
+  <a href="/articles/exodos/tainiesseires/oi-10-pio-dimofileis-seires-sto-netflix-kyproy-ayti-tin-ebdomada-0">
+    <span class="title">Οι 10 πιο δημοφιλείς σειρές στο Netflix Κύπρου αυτή την εβδομάδα</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-05T05:34:26.514Z</updated>
+        <updated>2025-10-05T17:32:51.413Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-05T05:34:26.514Z</updated>
+        <updated>2025-10-05T17:32:51.414Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
