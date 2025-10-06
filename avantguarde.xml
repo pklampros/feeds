@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-06T05:36:41.169Z</updated>
+    <updated>2025-10-06T17:36:10.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Μαντς Μίκελσεν – Νταϊάν Κρούγκερ: Πρωταγωνιστούν στο νέο sci-fi θρίλερ «Ami»]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/mants-mikelsen-ntaian-kroygker-protagonistoyn-sto-neo-sci-fi-thriler-ami</id>
+        <link href="https://avant-garde.com.cy/articles/nea/mants-mikelsen-ntaian-kroygker-protagonistoyn-sto-neo-sci-fi-thriler-ami"/>
+        <updated>2025-10-06T17:36:04.023Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/mants-mikelsen-ntaian-kroygker-protagonistoyn-sto-neo-sci-fi-thriler-ami">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/554964188_25142618055330089_4334323664190580293_n.jpg?h=d42775dc&amp;itok=myEbrx32" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/mants-mikelsen-ntaian-kroygker-protagonistoyn-sto-neo-sci-fi-thriler-ami">Μαντς Μίκελσεν – Νταϊάν Κρούγκερ: Πρωταγωνιστούν στο νέο sci-fi θρίλερ «Ami»</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Παγκόσμια Ημέρα Ζώων: Οι παραγωγοί του ΚΛΙΚ FM στο καταφύγιο «2nd Chance Dog»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/pagkosmia-imera-zoon-oi-paragogoi-toy-klik-fm-sto-katafygio-2nd-chance-dog</id>
@@ -162,10 +214,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Αμέτρητες περιπέτειες για όλους.]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia"/>
-        <updated>2025-10-03T17:34:53.145Z</updated>
+        <title type="html"><![CDATA[Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Ατελείωτες περιπέτειες για όλους.]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia"/>
+        <updated>2025-10-06T17:36:04.046Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -174,7 +226,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia">
+<span class="media"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia">
 
 
 
@@ -203,7 +255,7 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ametrites-peripeteies-gia">Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Αμέτρητες περιπέτειες για όλους. </a></span>
+    <span class="title"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia">Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Ατελείωτες περιπέτειες για όλους. </a></span>
     <span>
       <span class="channel">NEWS</span>
     </span>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πώς να προστατευτείς από τις ιώσεις της εποχής]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pos-na-prostateyteis-apo-tis-ioseis-tis-epohis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pos-na-prostateyteis-apo-tis-ioseis-tis-epohis"/>
-        <updated>2025-09-26T05:34:58.105Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pos-na-prostateyteis-apo-tis-ioseis-tis-epohis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-09/a-c-zo3h1eocajq-unsplash.jpg?h=6966dbdd&amp;itok=_Ozeh0rt" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pos-na-prostateyteis-apo-tis-ioseis-tis-epohis">Πώς να προστατευτείς από τις ιώσεις της εποχής</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-06T05:36:34.574Z</updated>
+        <updated>2025-10-06T17:36:03.889Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
   <span class="created">06 Oct 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-apopse-deytera-6-oktobrioy-2025">
-    <span class="title">Agenda: Πού να πας απόψε – Δευτέρα 6 Οκτωβρίου 2025</span>
+  <a href="/articles/exodos/theatrohoros/i-teleytaia-synedria-toy-froint-taxideyei-se-kypro-kai-athina">
+    <span class="title">Η «Τελευταία Συνεδρία του Φρόιντ» ταξιδεύει σε Κύπρο και Αθήνα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-06T05:36:34.574Z</updated>
+        <updated>2025-10-06T17:36:03.895Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">05 Oct 2025</span>
-  <a href="/articles/exodos/7-kyprioi-kallitehnes-stin-ekthesi-modality-and-differences">
-    <span class="title">7 Κύπριοι καλλιτέχνες στην έκθεση “The Modality and the Differences”</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">06 Oct 2025</span>
+  <a href="/articles/exodos/moysiki/dyo-koryfaioi-neoi-pianistes-se-resital-sti-leykosia">
+    <span class="title">Δύο κορυφαίοι νέοι πιανίστες σε ρεσιτάλ στη Λευκωσία</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-06T05:36:34.575Z</updated>
+        <updated>2025-10-06T17:36:03.897Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">05 Oct 2025</span>
-  <a href="/articles/exodos/world-food-day-festival-sti-limassol-agora-mia-giorti-gia-toys-latreis-toy-fagitoy">
-    <span class="title">World Food Day Festival στη Limassol Agora – Μια γιορτή για τους λάτρεις του φαγητού!</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">06 Oct 2025</span>
+  <a href="/articles/exodos/theatrohoros/somata-kai-afigimata-o-giannis-haroylis-synergazetai-me-toys">
+    <span class="title">"Σώματα και αφηγήματα": Ο Γιάννης Χαρούλης συνεργάζεται με τους Bodyterranean σε μια…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-06T05:36:34.577Z</updated>
+        <updated>2025-10-06T17:36:03.902Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-06T05:36:34.578Z</updated>
+        <updated>2025-10-06T17:36:03.903Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
