@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-09T17:36:24.577Z</updated>
+    <updated>2025-10-10T05:35:32.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Συννεφιασμένο το σκηνικό του καιρού – Πού αναμένονται βροχές το Σαββατοκύριακο (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/synnefiasmeno-skiniko-toy-kairoy-poy-anamenontai-brohes-sabbatokyriako</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/synnefiasmeno-skiniko-toy-kairoy-poy-anamenontai-brohes-sabbatokyriako"/>
+        <updated>2025-10-10T05:35:26.967Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/synnefiasmeno-skiniko-toy-kairoy-poy-anamenontai-brohes-sabbatokyriako">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2022-11/weather-gcf9389875_1920.jpg?h=e5aec6c8&amp;itok=G1Fgh90g" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/synnefiasmeno-skiniko-toy-kairoy-poy-anamenontai-brohes-sabbatokyriako">Συννεφιασμένο το σκηνικό του καιρού – Πού αναμένονται βροχές το Σαββατοκύριακο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Καταφύγιο «2nd Chance Dog»: Η επίσκεψη σε καταφύγιο σκύλων και η ενημέρωση για τις υπεύθυνες… (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/katafygio-2nd-chance-dog-i-episkepsi-se-katafygio-skylon-kai-i-enimerosi-gia-tis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/katafygio-2nd-chance-dog-i-episkepsi-se-katafygio-skylon-kai-i-enimerosi-gia-tis"/>
+        <updated>2025-10-10T05:35:26.967Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/katafygio-2nd-chance-dog-i-episkepsi-se-katafygio-skylon-kai-i-enimerosi-gia-tis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/screenshot_2025-10-05_114308.jpg?h=39396a7a&amp;itok=xM2ps63A" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/katafygio-2nd-chance-dog-i-episkepsi-se-katafygio-skylon-kai-i-enimerosi-gia-tis">Καταφύγιο «2nd Chance Dog»: Η επίσκεψη σε καταφύγιο σκύλων και η ενημέρωση για τις υπεύθυνες…</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το Andrey & Julia Dashin’s Foundation στηρίζει το πρόγραμμα  Sophia For Children “Μαγειρεύω και… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/andrey-julia-dashins-foundation-stirizei-programma-sophia-children-mageireyo-kai</id>
@@ -837,114 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Andrey & Julia Dashin’s Foundation στηρίζει το 4ο Access for All Festival ως χρυσός χορηγός (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/andrey-julia-dashins-foundation-stirizei-4o-access-all-festival-os-hrysos-horigos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/andrey-julia-dashins-foundation-stirizei-4o-access-all-festival-os-hrysos-horigos"/>
-        <updated>2025-10-02T19:03:05.156Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/andrey-julia-dashins-foundation-stirizei-4o-access-all-festival-os-hrysos-horigos">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/3_9.jpg?h=639639e2&amp;itok=x2T6cFbY" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/andrey-julia-dashins-foundation-stirizei-4o-access-all-festival-os-hrysos-horigos">Το Andrey &amp; Julia Dashin’s Foundation στηρίζει το 4ο Access for All Festival ως χρυσός χορηγός</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls in STEAM Academy: Το εκπαιδευτικό πρόγραμμα BridgeSTEAM έρχεται και φέτος στη Λευκωσία! (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/girls-steam-academy-ekpaideytiko-programma-bridgesteam-erhetai-kai-fetos-sti-leykosia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/girls-steam-academy-ekpaideytiko-programma-bridgesteam-erhetai-kai-fetos-sti-leykosia"/>
-        <updated>2025-10-02T19:03:05.156Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/girls-steam-academy-ekpaideytiko-programma-bridgesteam-erhetai-kai-fetos-sti-leykosia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/a7400060.jpg?h=56d0ca2e&amp;itok=QTqcviBR" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/girls-steam-academy-ekpaideytiko-programma-bridgesteam-erhetai-kai-fetos-sti-leykosia">Girls in STEAM Academy: Το εκπαιδευτικό πρόγραμμα BridgeSTEAM έρχεται και φέτος στη Λευκωσία! </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:18.040Z</updated>
+        <updated>2025-10-10T05:35:26.820Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -954,10 +954,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Oct 2025</span>
-  <a href="/articles/nea/andrey-julia-dashins-foundation-stirizei-programma-sophia-children-mageireyo-kai">
-    <span class="title">Το Andrey &amp; Julia Dashin’s Foundation στηρίζει το πρόγραμμα  Sophia For Children “Μαγειρεύω και…</span>
+  <span class="channel">NEWS</span>
+  <span class="created">10 Oct 2025</span>
+  <a href="/articles/nea/news/synnefiasmeno-skiniko-toy-kairoy-poy-anamenontai-brohes-sabbatokyriako">
+    <span class="title">Συννεφιασμένο το σκηνικό του καιρού – Πού αναμένονται βροχές το Σαββατοκύριακο</span>
   </a>
 </span>
 
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:18.041Z</updated>
+        <updated>2025-10-10T05:35:26.820Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -980,10 +980,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΠΡΟΣΩΠΑ</span>
-  <span class="created">09 Oct 2025</span>
-  <a href="/articles/prosopa/katafygio-2nd-chance-dog-i-idrytria-doris-karayianni-mas-enimeronei-gia-tis">
-    <span class="title">Καταφύγιο «2nd Chance Dog»: Η ιδρύτρια  Doris Karayianni μάς ενημερώνει για τις βασικές ελευθερίες…</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">10 Oct 2025</span>
+  <a href="/articles/festibal/3o-pagkyprio-festibal-elias-kai-paradosis-i-analyonta-giortazei-ton-prasino-hryso">
+    <span class="title">3ο Παγκύπριο Φεστιβάλ Ελιάς και Παράδοσης: Η Αναλυόντα γιορτάζει τον «πράσινο χρυσό» της Κύπρου</span>
   </a>
 </span>
 
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:18.042Z</updated>
+        <updated>2025-10-10T05:35:26.820Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1006,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΠΡΟΣΩΠΑ</span>
-  <span class="created">09 Oct 2025</span>
-  <a href="/articles/prosopa/dimitris-simos-o-syggrafeas-ton-astynomikon-thriler-mila-stin-avant-garde">
-    <span class="title">Δημήτρης Σίμος: Ο συγγραφέας των αστυνομικών θρίλερ μιλά στην Avant Garde </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">10 Oct 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-apopse-paraskeyi-10-oktobrioy-2025">
+    <span class="title">Agenda: Πού να πας απόψε – Παρασκευή 10 Οκτωβρίου 2025</span>
   </a>
 </span>
 
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:18.042Z</updated>
+        <updated>2025-10-10T05:35:26.820Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1045,7 +1045,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:18.043Z</updated>
+        <updated>2025-10-10T05:35:26.822Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1069,113 +1069,127 @@
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.725Z</updated>
+        <updated>2025-10-10T05:35:31.251Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.725Z</updated>
+        <updated>2025-10-10T05:35:31.253Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.725Z</updated>
+        <updated>2025-10-10T05:35:31.254Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.726Z</updated>
+        <updated>2025-10-10T05:35:31.255Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.726Z</updated>
+        <updated>2025-10-10T05:35:31.256Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.727Z</updated>
+        <updated>2025-10-10T05:35:31.257Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.728Z</updated>
+        <updated>2025-10-10T05:35:31.258Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.729Z</updated>
+        <updated>2025-10-10T05:35:31.259Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.731Z</updated>
+        <updated>2025-10-10T05:35:31.259Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.732Z</updated>
+        <updated>2025-10-10T05:35:31.260Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.733Z</updated>
+        <updated>2025-10-10T05:35:31.261Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.737Z</updated>
+        <updated>2025-10-10T05:35:31.262Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.738Z</updated>
+        <updated>2025-10-10T05:35:31.264Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.738Z</updated>
+        <updated>2025-10-10T05:35:31.264Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.743Z</updated>
+        <updated>2025-10-10T05:35:31.266Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-10-09T17:36:23.747Z</updated>
+        <updated>2025-10-10T05:35:31.267Z</updated>
         <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Βρεφοκτονίες και βρεφοδόχοι, τότε που οι εκτρώσεις ήταν παράνομες (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/brefoktonies-kai-brefodohoi-tote-poy-oi-ektroseis-itan-paranomes</id>
+        <link href="https://insidestory.gr/article/brefoktonies-kai-brefodohoi-tote-poy-oi-ektroseis-itan-paranomes"/>
+        <updated>2025-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Τα «έκθετα» βρέφη του ελληνικού μεσοπολέμου, μέσα από το λογοτεχνικό και δημοσιογραφικό έργο του Πέτρου Πικρού.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 σημεία επικαιρότητας: 3-10 Οκτωβρίου 2025 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/10-simeia-epikairotitas-3-10-oktobrioy-2025</id>
+        <link href="https://insidestory.gr/article/10-simeia-epikairotitas-3-10-oktobrioy-2025"/>
+        <updated>2025-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Πώς o Νετανιάχου δεν μπορούσε να πει όχι. «Ο εμφύλιος» που προσπαθούν να ξεκινήσουν ο Τραμπ και ο Χέγκσεθ. 6 στους 10 Έλληνες μόλις τα βγάζουν πέρα.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Τα καυτά καθίσματα της αμαξοστοιχίας IC 62 (Inside Story Greece)]]></title>
@@ -1232,19 +1246,5 @@
         <link href="https://insidestory.gr/article/10-simeia-epikairotitas-26-septembrioy-3-oktobrioy-2025"/>
         <updated>2025-10-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[ Ειρηνευτικό σχέδιο για τη Γάζα. Γονικός έλεγχος στο ChatGPT. Είναι η Αλβανία η νέα Ελλάδα για τους τουρίστες;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Αν είσαι δισεκατομμυριούχος, ζήτα και θα πάρεις τιμητικά την ελληνική υπηκοότητα (Inside Story Greece)]]></title>
-        <id>https://insidestory.gr/article/eisai-disekatommyrioyhos-zita-kai-tha-pareis-timitika-tin-elliniki-ypikootita</id>
-        <link href="https://insidestory.gr/article/eisai-disekatommyrioyhos-zita-kai-tha-pareis-timitika-tin-elliniki-ypikootita"/>
-        <updated>2025-10-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Είναι ανεξήγητο γιατί ο ουκρανικής καταγωγής δισεκατομμυριούχος Λεν Μπλαβάτνικ τιμήθηκε με την ελληνική υπηκοότητα, από τη στιγμή που δεν έκανε ούτε δεσμεύτηκε συγκεκριμένα για καμία επένδυση στη χώρα.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Τζόζεφ Κόνι: Ο φυγόδικος πολέμαρχος που εμπνέει ακόμη τρόμο (Inside Story Greece)]]></title>
-        <id>https://insidestory.gr/article/tzozef-koni-o-fygodikos-polemarhos-poy-empneei-akomi-tromo</id>
-        <link href="https://insidestory.gr/article/tzozef-koni-o-fygodikos-polemarhos-poy-empneei-akomi-tromo"/>
-        <updated>2025-10-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Για πρώτη φορά στην ιστορία του, το Διεθνές Ποινικό Δικαστήριο άνοιξε μια υπόθεση εγκλημάτων πολέμου, ερήμην του κατηγορουμένου, του Ουγκαντέζου Τζόζεφ Κόνι. Γιατί τώρα;]]></content>
     </entry>
 </feed>
