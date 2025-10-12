@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-11T17:34:13.317Z</updated>
+    <updated>2025-10-12T05:35:19.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πέθανε η ηθοποιός Diane Keaton]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/pethane-i-ithopoios-diane-keaton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/pethane-i-ithopoios-diane-keaton"/>
+        <updated>2025-10-12T05:35:13.427Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/pethane-i-ithopoios-diane-keaton">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/558935069_1152257957000479_532739681385536152_n.jpg?h=69f2b9d0&amp;itok=7P8CVQ-W" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/pethane-i-ithopoios-diane-keaton">Πέθανε η ηθοποιός Diane Keaton</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η γυναίκα που μελέτησε 3.000 αιωνόβιους εξηγεί πώς να φτάσετε τα 100]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100"/>
+        <updated>2025-10-12T05:35:13.429Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/mali-desha-drfp1cx1xuo-unsplash.jpg?h=a0ee3ba3&amp;itok=jlb_XlHc" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100">Η γυναίκα που μελέτησε 3.000 αιωνόβιους εξηγεί πώς να φτάσετε τα 100</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η PrEP εντάσσεται στο ΓεΣΥ — ένα καθοριστικό βήμα για τη δημόσια υγεία και την ισότητα στην Κύπρο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin</id>
@@ -838,114 +942,62 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ρεκόρ από Ζακ Μπράιαν για τη συναυλία με τον μεγαλύτερο αριθμό θεατών]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/rekor-apo-zak-mpraian-gia-ti-synaylia-me-ton-megalytero-arithmo-theaton</id>
-        <link href="https://avant-garde.com.cy/articles/nea/rekor-apo-zak-mpraian-gia-ti-synaylia-me-ton-megalytero-arithmo-theaton"/>
-        <updated>2025-10-04T17:34:25.929Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/rekor-apo-zak-mpraian-gia-ti-synaylia-me-ton-megalytero-arithmo-theaton">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/353042619_1080539069992036_725816653369139489_n.jpg?h=aa09de1a&amp;itok=Z4xUaHPA" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/rekor-apo-zak-mpraian-gia-ti-synaylia-me-ton-megalytero-arithmo-theaton">Ρεκόρ από Ζακ Μπράιαν για τη συναυλία με τον μεγαλύτερο αριθμό θεατών</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Ατελείωτες περιπέτειες για όλους.]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia"/>
-        <updated>2025-10-06T17:36:04.046Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/adventurepark_publicguests_avantgarde_938x527px_1.jpg?h=43594a01&amp;itok=S9ThN4JC" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/adventure-park-sto-city-dreams-mediterranean-ena-parko-ateleiotes-peripeteies-gia">Adventure Park στο City of Dreams Mediterranean. Ένα πάρκο. Ατελείωτες περιπέτειες για όλους. </a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-11T17:34:07.413Z</updated>
+        <updated>2025-10-12T05:35:13.326Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">11 Oct 2025</span>
+  <a href="/articles/nea/pethane-i-ithopoios-diane-keaton">
+    <span class="title">Πέθανε η ηθοποιός Diane Keaton</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-10-12T05:35:13.326Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">11 Oct 2025</span>
+  <a href="/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100">
+    <span class="title">Η γυναίκα που μελέτησε 3.000 αιωνόβιους εξηγεί πώς να φτάσετε τα 100</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-10-12T05:35:13.327Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-11T17:34:07.415Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">10 Oct 2025</span>
-  <a href="/articles/exodos/theatrohoros/oi-gries-tis-tsoyknidas-fones-poy-den-siopisan-sto-diethnes-festibal">
-    <span class="title">Οι γριές της τσουκνίδας: Φωνές που δεν σιώπησαν στο Διεθνές Φεστιβάλ Λευκωσίας 2025</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-11T17:34:07.415Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">10 Oct 2025</span>
-  <a href="/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin">
-    <span class="title">Η PrEP εντάσσεται στο ΓεΣΥ — ένα καθοριστικό βήμα για τη δημόσια υγεία και την ισότητα στην Κύπρο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-11T17:34:07.415Z</updated>
+        <updated>2025-10-12T05:35:13.329Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-11T17:34:07.415Z</updated>
+        <updated>2025-10-12T05:35:13.330Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
