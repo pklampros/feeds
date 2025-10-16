@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-16T05:36:17.335Z</updated>
+    <updated>2025-10-16T17:36:14.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Υπό τους ήχους της τζαζ το συγκρότημα MOCA ενώνει πολιτιστικά Κύπρο και Ινδία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/ypo-toys-ihoys-tis-tzaz-sygkrotima-moca-enonei-politistika-kypro-kai-india</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/ypo-toys-ihoys-tis-tzaz-sygkrotima-moca-enonei-politistika-kypro-kai-india"/>
+        <updated>2025-10-16T17:36:09.127Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/ypo-toys-ihoys-tis-tzaz-sygkrotima-moca-enonei-politistika-kypro-kai-india">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/moca_band-1.png?h=d550b773&amp;itok=XtpjnYxr" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/ypo-toys-ihoys-tis-tzaz-sygkrotima-moca-enonei-politistika-kypro-kai-india">Υπό τους ήχους της τζαζ το συγκρότημα MOCA ενώνει πολιτιστικά Κύπρο και Ινδία</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αλλαγή ώρας 2025: Πότε γυρνάμε τα ρολόγια μια ώρα πίσω]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso</id>
@@ -682,10 +734,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η PrEP εντάσσεται στο ΓεΣΥ — ένα καθοριστικό βήμα για τη δημόσια υγεία και την ισότητα στην Κύπρο]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin"/>
-        <updated>2025-10-10T17:38:12.563Z</updated>
+        <title type="html"><![CDATA[Η PrEP εντάχθηκε στο δημόσιο σύστημα υγείας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-prep-entahthike-sto-dimosio-systima-ygeias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-prep-entahthike-sto-dimosio-systima-ygeias"/>
+        <updated>2025-10-16T17:36:09.169Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -694,7 +746,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin">
+<span class="media"><a href="/articles/nea/news/i-prep-entahthike-sto-dimosio-systima-ygeias">
 
 
 
@@ -723,7 +775,7 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-prep-entassetai-sto-gesy-ena-kathoristiko-bima-gia-ti-dimosia-ygeia-kai-tin">Η PrEP εντάσσεται στο ΓεΣΥ — ένα καθοριστικό βήμα για τη δημόσια υγεία και την ισότητα στην Κύπρο</a></span>
+    <span class="title"><a href="/articles/nea/news/i-prep-entahthike-sto-dimosio-systima-ygeias">Η PrEP εντάχθηκε στο δημόσιο σύστημα υγείας</a></span>
     <span>
       <span class="channel">NEWS</span>
     </span>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2ο Women in STEM Cyprus Summit: Φωνές Αλλαγής]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/2o-women-stem-cyprus-summit-fones-allagis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/2o-women-stem-cyprus-summit-fones-allagis"/>
-        <updated>2025-10-09T17:36:18.155Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/2o-women-stem-cyprus-summit-fones-allagis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/wit_2025_li_post_1200x627.png?h=2240b8e9&amp;itok=kLbHL3M5" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/2o-women-stem-cyprus-summit-fones-allagis">2ο Women in STEM Cyprus Summit: Φωνές Αλλαγής</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-16T05:36:12.389Z</updated>
+        <updated>2025-10-16T17:36:08.965Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">16 Oct 2025</span>
-  <a href="/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso">
-    <span class="title">Αλλαγή ώρας 2025: Πότε γυρνάμε τα ρολόγια μια ώρα πίσω</span>
+  <a href="/articles/festibal/festibal-athienitikon-proionton-mia-mera-gemati-geyseis-moysiki-kai-aythentiki">
+    <span class="title">Φεστιβάλ Αθηενίτικων Προϊόντων: Mια μέρα γεμάτη γεύσεις, μουσική και αυθεντική κυπριακή φιλοξενία</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-16T05:36:12.390Z</updated>
+        <updated>2025-10-16T17:36:08.966Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">NEWS</span>
   <span class="created">16 Oct 2025</span>
-  <a href="/articles/exodos/halloween-2025-ta-pio-spooky-paidika-festibal-kai-parti-stin-kypro">
-    <span class="title">Halloween 2025: Τα πιο spooky παιδικά φεστιβάλ και πάρτι στην Κύπρο</span>
+  <a href="/articles/nea/news/ypo-toys-ihoys-tis-tzaz-sygkrotima-moca-enonei-politistika-kypro-kai-india">
+    <span class="title">Υπό τους ήχους της τζαζ το συγκρότημα MOCA ενώνει πολιτιστικά Κύπρο και Ινδία</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-16T05:36:12.391Z</updated>
+        <updated>2025-10-16T17:36:08.969Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1009,8 +1009,8 @@
 <span class="title-channel-date">
   <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">16 Oct 2025</span>
-  <a href="/articles/festibal/aradippou-kids-festival-2025-ena-magiko-triimero-afieromeno-sta-paidia">
-    <span class="title">Aradippou Kids Festival 2025: Ένα μαγικό τριήμερο αφιερωμένο στα παιδιά</span>
+  <a href="/articles/festibal/1o-festibal-abokanto-stin-argaka-einai-gegonos">
+    <span class="title">Το 1ο Φεστιβάλ Αβοκάντο στην Αργάκα είναι γεγονός</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-16T05:36:12.393Z</updated>
+        <updated>2025-10-16T17:36:08.970Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-16T05:36:12.395Z</updated>
+        <updated>2025-10-16T17:36:08.974Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
