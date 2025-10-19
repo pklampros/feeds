@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-19T05:36:38.555Z</updated>
+    <updated>2025-10-19T17:34:20.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ληστεία στο Λούβρο: Σήμανε συναγερμός στο Παρίσι]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/listeia-sto-loybro-simane-synagermos-sto-parisi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/listeia-sto-loybro-simane-synagermos-sto-parisi"/>
+        <updated>2025-10-19T17:34:15.144Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/listeia-sto-loybro-simane-synagermos-sto-parisi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/imported_photos/1576683175_louvre.jpg?h=827069f2&amp;itok=1J2WD8hM" width="575" height="400" alt="Πέθανε ο αρχιτέκτονας της γυάλινης πυραμίδας του Λούβρου" title="Πέθανε ο αρχιτέκτονας της γυάλινης πυραμίδας του Λούβρου" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/listeia-sto-loybro-simane-synagermos-sto-parisi">Ληστεία στο Λούβρο: Σήμανε συναγερμός στο Παρίσι</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Από τη δημιουργία στην πράξη: Το Yianis Christodoulou Foundation ολοκληρώνει το «Love Cyprus»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/apo-ti-dimioyrgia-stin-praxi-yianis-christodoulou-foundation-oloklironei-love-cyprus</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η γυναίκα που μελέτησε 3.000 αιωνόβιους εξηγεί πώς να φτάσετε τα 100]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100"/>
-        <updated>2025-10-12T05:35:13.429Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/mali-desha-drfp1cx1xuo-unsplash.jpg?h=a0ee3ba3&amp;itok=jlb_XlHc" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-gynaika-poy-meletise-3000-aionobioys-exigei-pos-na-ftasete-ta-100">Η γυναίκα που μελέτησε 3.000 αιωνόβιους εξηγεί πώς να φτάσετε τα 100</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-19T05:36:33.996Z</updated>
+        <updated>2025-10-19T17:34:14.986Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">18 Oct 2025</span>
-  <a href="/articles/festibal/awareness-2025-unselfing-i-tehni-os-pyli-pros-tin-epignosi">
-    <span class="title">Awareness 2025: Unselfing — Η τέχνη ως πύλη προς την επίγνωση</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">19 Oct 2025</span>
+  <a href="/articles/exodos/exormiseis/pote-na-kleiseis-aeroporika-gia-ta-hristoygenna-den-theleis-na-pliroseis">
+    <span class="title">Πότε να κλείσεις αεροπορικά για τα Χριστούγεννα (αν δεν θέλεις να πληρώσεις μια περιουσία)</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-19T05:36:33.997Z</updated>
+        <updated>2025-10-19T17:34:14.990Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">18 Oct 2025</span>
-  <a href="/articles/nea/apo-ti-dimioyrgia-stin-praxi-yianis-christodoulou-foundation-oloklironei-love-cyprus">
-    <span class="title">Από τη δημιουργία στην πράξη: Το Yianis Christodoulou Foundation ολοκληρώνει το «Love Cyprus»</span>
+  <span class="channel">NEWS</span>
+  <span class="created">19 Oct 2025</span>
+  <a href="/articles/nea/news/listeia-sto-loybro-simane-synagermos-sto-parisi">
+    <span class="title">Ληστεία στο Λούβρο: Σήμανε συναγερμός στο Παρίσι</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-19T05:36:33.999Z</updated>
+        <updated>2025-10-19T17:34:14.991Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">18 Oct 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-sabbato-18-oktobrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Σάββατο 18 Οκτωβρίου 2025</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">19 Oct 2025</span>
+  <a href="/articles/festibal/art-explora-festival-h-politistiki-skini-tis-lemesoy-xediplonetai-s-oli-tin-poli">
+    <span class="title"> Art Explora Festival: H πολιτιστική σκηνή της Λεμεσού ξεδιπλώνεται σ’ όλη την πόλη </span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-19T05:36:34.000Z</updated>
+        <updated>2025-10-19T17:34:14.995Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-19T05:36:34.001Z</updated>
+        <updated>2025-10-19T17:34:14.995Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
