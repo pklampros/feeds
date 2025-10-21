@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-20T17:34:47.244Z</updated>
+    <updated>2025-10-21T05:35:54.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Αλλάζει το σκηνικό του καιρού – Πού και πότε αναμένονται βροχές]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/allazei-skiniko-toy-kairoy-poy-kai-pote-anamenontai-brohes</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/allazei-skiniko-toy-kairoy-poy-kai-pote-anamenontai-brohes"/>
+        <updated>2025-10-21T05:35:48.266Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/allazei-skiniko-toy-kairoy-poy-kai-pote-anamenontai-brohes">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/neda-astani-kwtkd7mhqke-unsplash.jpg?h=c9ce58e1&amp;itok=DlK-7atn" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/allazei-skiniko-toy-kairoy-poy-kai-pote-anamenontai-brohes">Αλλάζει το σκηνικό του καιρού – Πού και πότε αναμένονται βροχές</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το Cyprus Mushroom Festival 2025 γιορτάζει τους χορηγούς και υποστηρικτές του]]></title>
         <id>https://avant-garde.com.cy/articles/nea/cyprus-mushroom-festival-2025-giortazei-toys-horigoys-kai-ypostiriktes-toy</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Οι διοργανωτές της Γιουροβίζιον ματαίωσαν ψηφοφορία για τη συμμετοχή του Ισραήλ]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/oi-diorganotes-tis-gioyrobizion-mataiosan-psifoforia-gia-ti-symmetohi-toy-israil</id>
-        <link href="https://avant-garde.com.cy/articles/nea/oi-diorganotes-tis-gioyrobizion-mataiosan-psifoforia-gia-ti-symmetohi-toy-israil"/>
-        <updated>2025-10-14T17:35:11.250Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/oi-diorganotes-tis-gioyrobizion-mataiosan-psifoforia-gia-ti-symmetohi-toy-israil">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/497761581_10233165585395313_870904252955666459_n.jpg?h=a1e1a043&amp;itok=xtzoNLmz" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/oi-diorganotes-tis-gioyrobizion-mataiosan-psifoforia-gia-ti-symmetohi-toy-israil">Οι διοργανωτές της Γιουροβίζιον ματαίωσαν ψηφοφορία για τη συμμετοχή του Ισραήλ</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-20T17:34:40.740Z</updated>
+        <updated>2025-10-21T05:35:48.082Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">20 Oct 2025</span>
-  <a href="/articles/nea/cyprus-mushroom-festival-2025-giortazei-toys-horigoys-kai-ypostiriktes-toy">
-    <span class="title">Το Cyprus Mushroom Festival 2025 γιορτάζει τους χορηγούς και υποστηρικτές του</span>
+  <span class="channel">NEWS</span>
+  <span class="created">21 Oct 2025</span>
+  <a href="/articles/nea/news/allazei-skiniko-toy-kairoy-poy-kai-pote-anamenontai-brohes">
+    <span class="title">Αλλάζει το σκηνικό του καιρού – Πού και πότε αναμένονται βροχές</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-20T17:34:40.740Z</updated>
+        <updated>2025-10-21T05:35:48.083Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">20 Oct 2025</span>
-  <a href="/articles/exodos/theatrohoros/i-gynaika-me-ta-mayra-i-theatriki-parastasi-poy-ehei-kathilosei">
-    <span class="title">«Η γυναίκα με τα μαύρα»: Η θεατρική παράσταση που έχει καθηλώσει εκατομμύρια θεατές σ’ όλο τον κόσμο</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">21 Oct 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-triti-21-oktobrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Τρίτη 21 Οκτωβρίου 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-20T17:34:40.743Z</updated>
+        <updated>2025-10-21T05:35:48.086Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">20 Oct 2025</span>
-  <a href="/articles/festibal/h-platanistasa-mas-kerna-paloyze-kai-krasi-poy-pithari-opos-palia">
-    <span class="title">H Πλατανιστάσα μάς κερνά παλουζέ και «κρασί που το πιθάρι όπως παλιά»</span>
+  <a href="/articles/exodos/fagitopoto/nees-geyseis-signature-piata-se-ena-geystiko-gathering-sto-akakiko">
+    <span class="title">Νέες γεύσεις &amp; signature πιάτα σε ένα γευστικό gathering στο Akakiko!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-20T17:34:40.744Z</updated>
+        <updated>2025-10-21T05:35:48.087Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-20T17:34:40.744Z</updated>
+        <updated>2025-10-21T05:35:48.089Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
