@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-22T05:36:11.105Z</updated>
+    <updated>2025-10-22T17:33:43.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Η ασφάλεια των γυναικών στα χέρια μας: Κατέβασε την INSAVIOR σήμερα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-asfaleia-ton-gynaikon-sta-heria-mas-katebase-tin-insavior-simera</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-asfaleia-ton-gynaikon-sta-heria-mas-katebase-tin-insavior-simera"/>
+        <updated>2025-10-22T17:33:38.622Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-asfaleia-ton-gynaikon-sta-heria-mas-katebase-tin-insavior-simera">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/554828500_1366512461708650_6499344612180857770_n.jpg?h=e91a75a9&amp;itok=gIZ8SDgE" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-asfaleia-ton-gynaikon-sta-heria-mas-katebase-tin-insavior-simera">Η ασφάλεια των γυναικών στα χέρια μας: Κατέβασε την INSAVIOR σήμερα</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Μπιενάλε Λάρνακας 2025: Στη Νεοζηλανδή Κάρμα Μπαρνς το Μεγάλο Βραβείο για το έργο «CO–Lapses»]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/mpienale-larnakas-2025-sti-neozilandi-karma-mparns-megalo-brabeio-gia-ergo-co</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αλλαγή ώρας 2025: Πότε γυρνάμε τα ρολόγια μια ώρα πίσω]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso"/>
-        <updated>2025-10-16T05:36:12.562Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2022-01/clock-doomsday-ap18025562623225.jpg?h=f46aa468&amp;itok=hrF_uiaO" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/allagi-oras-2025-pote-gyrname-ta-rologia-mia-ora-piso">Αλλαγή ώρας 2025: Πότε γυρνάμε τα ρολόγια μια ώρα πίσω</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-22T05:36:05.965Z</updated>
+        <updated>2025-10-22T17:33:38.483Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">22 Oct 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-tetarti-22-oktobrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Τετάρτη 22 Οκτωβρίου 2025</span>
+  <a href="/articles/festibal/91-logoi-na-episkeftheite-cyprus-mushroom-festival-2025">
+    <span class="title">9+1 λόγοι να επισκεφθείτε το Cyprus Mushroom Festival 2025 </span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-22T05:36:05.966Z</updated>
+        <updated>2025-10-22T17:33:38.484Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">22 Oct 2025</span>
-  <a href="/articles/nea/news/mpienale-larnakas-2025-sti-neozilandi-karma-mparns-megalo-brabeio-gia-ergo-co">
-    <span class="title">Μπιενάλε Λάρνακας 2025: Στη Νεοζηλανδή Κάρμα Μπαρνς το Μεγάλο Βραβείο για το έργο «CO–Lapses»</span>
+  <a href="/articles/festibal/t-ai-dimitrioy-erhetai-festibal-berikoy-ston-agio-dimitrio-marathasas">
+    <span class="title">«Τ’ Άη Δημητριού»: Έρχεται το Φεστιβάλ Βέρικου στον Άγιο Δημήτριο Μαραθάσας </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-22T05:36:05.967Z</updated>
+        <updated>2025-10-22T17:33:38.485Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">22 Oct 2025</span>
-  <a href="/articles/nea/news/dionysis-sabbopoylos-o-nionios-poy-egrapse-ti-diki-toy-istoria-sto-elliniko">
-    <span class="title">Διονύσης Σαββόπουλος: Ο «Νιόνιος» που έγραψε τη δική του ιστορία στο ελληνικό τραγούδι</span>
+  <a href="/articles/festibal/oikeiotopia-erhetai-festibal-pame-kaimakli-2025">
+    <span class="title">«Οικειοτοπία»: Έρχεται το φεστιβάλ Πάμε Καϊμακλί 2025 </span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-22T05:36:05.967Z</updated>
+        <updated>2025-10-22T17:33:38.486Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-22T05:36:05.968Z</updated>
+        <updated>2025-10-22T17:33:38.487Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
