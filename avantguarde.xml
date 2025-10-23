@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-23T05:36:51.977Z</updated>
+    <updated>2025-10-23T17:35:07.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ο ILKAN.KO παρουσιάζει ''Μια καλοκαιρινή γιορτή στη Λάπηθο'' στην Εβδομάδα…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/o-ilkanko-paroysiazei-mia-kalokairini-giorti-sti-lapitho-stin-ebdomada-modas-toy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/o-ilkanko-paroysiazei-mia-kalokairini-giorti-sti-lapitho-stin-ebdomada-modas-toy"/>
+        <updated>2025-10-23T17:35:00.012Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/o-ilkanko-paroysiazei-mia-kalokairini-giorti-sti-lapitho-stin-ebdomada-modas-toy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/screenshot_2025-10-23_095906_0.png?h=e91a75a9&amp;itok=O_Tc8NEm" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/o-ilkanko-paroysiazei-mia-kalokairini-giorti-sti-lapitho-stin-ebdomada-modas-toy">Ο ILKAN.KO παρουσιάζει ''Μια καλοκαιρινή γιορτή στη Λάπηθο'' στην Εβδομάδα…</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Καρναβάλι 2026: Ο Δήμος Λεμεσού ανακοίνωσε τις ημερομηνίες δήλωσης συμμετοχής]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/karnabali-2026-o-dimos-lemesoy-anakoinose-tis-imerominies-dilosis-symmetohis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/karnabali-2026-o-dimos-lemesoy-anakoinose-tis-imerominies-dilosis-symmetohis"/>
+        <updated>2025-10-23T17:35:00.014Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/karnabali-2026-o-dimos-lemesoy-anakoinose-tis-imerominies-dilosis-symmetohis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-03/lemesos_karnaoali2.jpg?h=57024e64&amp;itok=E4B5Xlnq" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/karnabali-2026-o-dimos-lemesoy-anakoinose-tis-imerominies-dilosis-symmetohis">Καρναβάλι 2026: Ο Δήμος Λεμεσού ανακοίνωσε τις ημερομηνίες δήλωσης συμμετοχής </a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ηθοποιοί και σκηνοθέτες συναντιούνται σε ένα ξεχωριστό εργαστήριο γνωριμίας]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/ithopoioi-kai-skinothetes-synantioyntai-se-ena-xehoristo-ergastirio-gnorimias</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το κράτος τριπλασιάζει το κονδύλι για τις στειρώσεις αδέσποτων γατών και σκύλων]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/kratos-triplasiazei-kondyli-gia-tis-steiroseis-adespoton-gaton-kai-skylon</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/kratos-triplasiazei-kondyli-gia-tis-steiroseis-adespoton-gaton-kai-skylon"/>
-        <updated>2025-10-17T17:34:00.081Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/kratos-triplasiazei-kondyli-gia-tis-steiroseis-adespoton-gaton-kai-skylon">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/diana-light-ulv5fgvd8pu-unsplash.jpg?h=790be497&amp;itok=G8EnqR0g" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/kratos-triplasiazei-kondyli-gia-tis-steiroseis-adespoton-gaton-kai-skylon">Το κράτος τριπλασιάζει το κονδύλι για τις στειρώσεις αδέσποτων γατών και σκύλων</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Πενθεί η ροκ μουσική: Πέθανε ο Ace Frehley, ιδρυτικό μέλος των Kiss]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/penthei-i-rok-moysiki-pethane-o-ace-frehley-idrytiko-melos-ton-kiss</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/penthei-i-rok-moysiki-pethane-o-ace-frehley-idrytiko-melos-ton-kiss"/>
-        <updated>2025-10-17T17:34:00.095Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/penthei-i-rok-moysiki-pethane-o-ace-frehley-idrytiko-melos-ton-kiss">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/screenshot_2025-10-17_at_7.41.14_am.png?h=ca00be08&amp;itok=egvU89nB" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/penthei-i-rok-moysiki-pethane-o-ace-frehley-idrytiko-melos-ton-kiss">Πενθεί η ροκ μουσική: Πέθανε ο Ace Frehley, ιδρυτικό μέλος των Kiss</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-23T05:36:45.417Z</updated>
+        <updated>2025-10-23T17:34:59.867Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
   <span class="created">23 Oct 2025</span>
-  <a href="/articles/exodos/tainiesseires/bugonia-o-giorgos-lanthimos-epistrefei-me-ena-neo-psyhologiko-thriler">
-    <span class="title">Bugonia: Ο Γιώργος Λάνθιμος επιστρέφει με ένα νέο ψυχολογικό θρίλερ</span>
+  <a href="/articles/festibal/ola-osa-tha-ginoyn-sto-7o-festibal-mosfiloy">
+    <span class="title">Όλα όσα θα γίνουν στο 7ο Φεστιβάλ Μοσφίλου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-23T05:36:45.417Z</updated>
+        <updated>2025-10-23T17:34:59.867Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
   <span class="created">23 Oct 2025</span>
-  <a href="/articles/nea/news/ithopoioi-kai-skinothetes-synantioyntai-se-ena-xehoristo-ergastirio-gnorimias">
-    <span class="title">Ηθοποιοί και σκηνοθέτες συναντιούνται σε ένα ξεχωριστό εργαστήριο γνωριμίας</span>
+  <a href="/articles/exodos/koini-paroysiasi-fotografias-kai-zografikis-sto-artos-cultural-and-research-house">
+    <span class="title">Κοινή παρουσίαση φωτογραφίας και ζωγραφικής στο ARTos Cultural and Research House στη Λευκωσία</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-23T05:36:45.419Z</updated>
+        <updated>2025-10-23T17:34:59.869Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΝΕΑ</span>
   <span class="created">23 Oct 2025</span>
-  <a href="/articles/nea/news/allages-ston-kairo-ptosi-thermokrasias-kai-pithanes-brohes-sabbatokyriako">
-    <span class="title">Αλλαγές στον καιρό – Πτώση θερμοκρασίας και πιθανές βροχές το Σαββατοκύριακο</span>
+  <a href="/articles/nea/o-ilkanko-paroysiazei-mia-kalokairini-giorti-sti-lapitho-stin-ebdomada-modas-toy">
+    <span class="title">Ο ILKAN.KO παρουσιάζει ''Μια καλοκαιρινή γιορτή στη Λάπηθο'' στην Εβδομάδα…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-23T05:36:45.420Z</updated>
+        <updated>2025-10-23T17:34:59.870Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-23T05:36:45.423Z</updated>
+        <updated>2025-10-23T17:34:59.872Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
