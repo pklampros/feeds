@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-26T17:35:10.442Z</updated>
+    <updated>2025-10-27T05:38:34.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-26T17:35:05.653Z</updated>
+        <updated>2025-10-27T05:38:29.521Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">25 Oct 2025</span>
-  <a href="/articles/festibal/pame-sto-3o-festibal-paragemostoy-stin-oroynta">
-    <span class="title">Πάμε στο 3ο Φεστιβάλ Παραγεμωστού στην Ορούντα</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">27 Oct 2025</span>
+  <a href="/articles/exodos/moysiki/stonus-i-mesogeiaki-dynami-toy-fuzz-rock-epistrefei-stin-eyropi">
+    <span class="title">STONUS: Η μεσογειακή δύναμη του Fuzz Rock επιστρέφει στην Ευρώπη</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-26T17:35:05.653Z</updated>
+        <updated>2025-10-27T05:38:29.524Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">25 Oct 2025</span>
-  <a href="/articles/exodos/theatrohoros/egklima-sto-orient-expres-anebainei-diasimo-ergo-tis-agkatha-kristi">
-    <span class="title">“Έγκλημα στο Όριεντ Εξπρές”: Ανεβαίνει το διάσημο έργο της Αγκάθα Κρίστι</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">26 Oct 2025</span>
+  <a href="/articles/exodos/fagitopoto/ta-fanaria-tis-maroylloys-40-hronia-aythentikis-kypriakis-geysis-sto">
+    <span class="title">Τα Φανάρια της Μαρουλλούς: 40 χρόνια αυθεντικής κυπριακής γεύσης στο Παλαιχώρι</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-26T17:35:05.655Z</updated>
+        <updated>2025-10-27T05:38:29.524Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">25 Oct 2025</span>
-  <a href="/articles/nea/time-out-i-pio-eytyhismeni-poli-toy-kosmoy-gia-2025">
-    <span class="title">Time Out: Η πιο ευτυχισμένη πόλη του κόσμου για το 2025</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">26 Oct 2025</span>
+  <a href="/articles/exodos/moysiki/mia-fora-thymamai-o-stayros-konstantinoy-tima-ton-gianni-spano">
+    <span class="title">«Μια φορά θυμάμαι» – Ο Σταύρος Κωνσταντίνου τιμά τον Γιάννη Σπανό</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-26T17:35:05.656Z</updated>
+        <updated>2025-10-27T05:38:29.526Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-26T17:35:05.657Z</updated>
+        <updated>2025-10-27T05:38:29.527Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
