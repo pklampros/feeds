@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-28T17:36:23.151Z</updated>
+    <updated>2025-10-29T05:37:54.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-28T17:36:18.080Z</updated>
+        <updated>2025-10-29T05:37:50.080Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">27 Oct 2025</span>
-  <a href="/articles/exodos/theatrohoros/theatro-piccolo-paroysiazei-ti-nea-toy-paidiki-parastasi-mia-fora-kai">
-    <span class="title">Το Θέατρο Piccolo παρουσιάζει τη νέα του παιδική παράσταση «Μια φορά και… μια χώρα»</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">29 Oct 2025</span>
+  <a href="/articles/exodos/klitsa-antonioy-compass-without-north-sto-diatopos-art-centre">
+    <span class="title">Κλίτσα Αντωνίου: “A Compass without North” στο Diatopos Art Centre</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-28T17:36:18.081Z</updated>
+        <updated>2025-10-29T05:37:50.082Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">27 Oct 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-deytera-27-oktobrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Δευτέρα 27 Οκτωβρίου 2025</span>
+  <span class="created">29 Oct 2025</span>
+  <a href="/articles/exodos/i-ekthesi-crafting-continuity-erhetai-sti-leykosia">
+    <span class="title">Η έκθεση “Crafting Continuity” έρχεται στη Λευκωσία</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-28T17:36:18.082Z</updated>
+        <updated>2025-10-29T05:37:50.083Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">27 Oct 2025</span>
-  <a href="/articles/nea/news/i-lemesos-giortazei-festibal-art-explora-enteka-meres-tehnis-moysikis-kai">
-    <span class="title">Η Λεμεσός γιορτάζει το Φεστιβάλ Art Explora: έντεκα μέρες τέχνης, μουσικής και μεσογειακής αύρας</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">29 Oct 2025</span>
+  <a href="/articles/exodos/theatrohoros/enas-allos-binsent-ena-psyhologiko-thriler-poy-paizei-me-myalo-kai-tis">
+    <span class="title">Ένας Άλλος Βίνσεντ: Ένα ψυχολογικό θρίλερ που «παίζει» με το μυαλό και τις σχέσεις</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-28T17:36:18.083Z</updated>
+        <updated>2025-10-29T05:37:50.084Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-28T17:36:18.084Z</updated>
+        <updated>2025-10-29T05:37:50.086Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
