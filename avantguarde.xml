@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-29T05:37:54.861Z</updated>
+    <updated>2025-10-29T17:38:19.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ημερολόγιο Αντίστροφης Μέτρησης του Καραϊσκάκειου Ιδρύματος…για πολλά παιδικά χαμόγελα!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika"/>
+        <updated>2025-10-29T17:38:14.844Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/karaiskakio-2023.jpg?h=1ca79984&amp;itok=naMewwHP" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika">Ημερολόγιο Αντίστροφης Μέτρησης του Καραϊσκάκειου Ιδρύματος…για πολλά παιδικά χαμόγελα!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η Rural Youth Cy ολοκλήρωσε με επιτυχία την διεθνή ανταλλαγή νέων “Develop your Skills” στον Αγρό]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your"/>
+        <updated>2025-10-29T17:38:14.846Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/20251019_120837.jpg?h=057e7db7&amp;itok=-P7XOpWq" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your">Η Rural Youth Cy ολοκλήρωσε με επιτυχία την διεθνή ανταλλαγή νέων “Develop your Skills” στον Αγρό</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Λεμεσός γιορτάζει το Φεστιβάλ Art Explora: έντεκα μέρες τέχνης, μουσικής και μεσογειακής αύρας]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/i-lemesos-giortazei-festibal-art-explora-enteka-meres-tehnis-moysikis-kai</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μια αγκαλιά αγάπης και προσφοράς στην καρδιά της Λευκωσίας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/mia-agkalia-agapis-kai-prosforas-stin-kardia-tis-leykosias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/mia-agkalia-agapis-kai-prosforas-stin-kardia-tis-leykosias"/>
-        <updated>2025-10-21T17:35:57.375Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/mia-agkalia-agapis-kai-prosforas-stin-kardia-tis-leykosias">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/0j8b1955.jpg?h=a141e9ea&amp;itok=qUmMw0uP" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/mia-agkalia-agapis-kai-prosforas-stin-kardia-tis-leykosias">Μια αγκαλιά αγάπης και προσφοράς στην καρδιά της Λευκωσίας</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ένα «Living Lab» στην Αμαργέτη Πάφου συνδέει  Πολιτισμό και Αειφορία]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ena-living-lab-stin-amargeti-pafoy-syndeei-politismo-kai-aeiforia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ena-living-lab-stin-amargeti-pafoy-syndeei-politismo-kai-aeiforia"/>
-        <updated>2025-10-21T17:35:57.376Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ena-living-lab-stin-amargeti-pafoy-syndeei-politismo-kai-aeiforia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/1_9.jpg?h=a1e1a043&amp;itok=i2KQf1MQ" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ena-living-lab-stin-amargeti-pafoy-syndeei-politismo-kai-aeiforia">Ένα «Living Lab» στην Αμαργέτη Πάφου συνδέει  Πολιτισμό και Αειφορία </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-29T05:37:50.080Z</updated>
+        <updated>2025-10-29T17:38:14.668Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
   <span class="created">29 Oct 2025</span>
-  <a href="/articles/exodos/klitsa-antonioy-compass-without-north-sto-diatopos-art-centre">
-    <span class="title">Κλίτσα Αντωνίου: “A Compass without North” στο Diatopos Art Centre</span>
+  <a href="/articles/exodos/exormiseis/o-kalyteros-gastronomikos-proorismos-tis-eyropis-brisketai-stin-ellada">
+    <span class="title">Ο καλύτερος γαστρονομικός προορισμός της Ευρώπης βρίσκεται στην Ελλάδα</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-29T05:37:50.082Z</updated>
+        <updated>2025-10-29T17:38:14.670Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">NEWS</span>
   <span class="created">29 Oct 2025</span>
-  <a href="/articles/exodos/i-ekthesi-crafting-continuity-erhetai-sti-leykosia">
-    <span class="title">Η έκθεση “Crafting Continuity” έρχεται στη Λευκωσία</span>
+  <a href="/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika">
+    <span class="title">Ημερολόγιο Αντίστροφης Μέτρησης του Καραϊσκάκειου Ιδρύματος…για πολλά παιδικά χαμόγελα!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-29T05:37:50.083Z</updated>
+        <updated>2025-10-29T17:38:14.672Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="channel">NEWS</span>
   <span class="created">29 Oct 2025</span>
-  <a href="/articles/exodos/theatrohoros/enas-allos-binsent-ena-psyhologiko-thriler-poy-paizei-me-myalo-kai-tis">
-    <span class="title">Ένας Άλλος Βίνσεντ: Ένα ψυχολογικό θρίλερ που «παίζει» με το μυαλό και τις σχέσεις</span>
+  <a href="/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your">
+    <span class="title">Η Rural Youth Cy ολοκλήρωσε με επιτυχία την διεθνή ανταλλαγή νέων “Develop your Skills” στον Αγρό</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-29T05:37:50.084Z</updated>
+        <updated>2025-10-29T17:38:14.673Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-29T05:37:50.086Z</updated>
+        <updated>2025-10-29T17:38:14.676Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
