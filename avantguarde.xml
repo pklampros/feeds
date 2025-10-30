@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-10-30T05:36:07.981Z</updated>
+    <updated>2025-10-30T17:36:20.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Το ΡΙΚ ζητά την άποψη του κοινού για τον εκπρόσωπο της Κύπρου]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/rik-zita-tin-apopsi-toy-koinoy-gia-ton-ekprosopo-tis-kyproy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/rik-zita-tin-apopsi-toy-koinoy-gia-ton-ekprosopo-tis-kyproy"/>
+        <updated>2025-10-30T17:36:15.172Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/rik-zita-tin-apopsi-toy-koinoy-gia-ton-ekprosopo-tis-kyproy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-05/eurovision-2025-stage.jpg?h=8165685c&amp;itok=OzSSqcAN" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/rik-zita-tin-apopsi-toy-koinoy-gia-ton-ekprosopo-tis-kyproy">Το ΡΙΚ ζητά την άποψη του κοινού για τον εκπρόσωπο της Κύπρου</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ημερολόγιο Αντίστροφης Μέτρησης του Καραϊσκάκειου Ιδρύματος…για πολλά παιδικά χαμόγελα!]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η ASG Leasing στηρίζει τον Radisson Blu Διεθνή Μαραθώνιο Λάρνακας για ακόμη μία χρονιά]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/i-asg-leasing-stirizei-ton-radisson-blu-diethni-marathonio-larnakas-gia-akomi-mia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/i-asg-leasing-stirizei-ton-radisson-blu-diethni-marathonio-larnakas-gia-akomi-mia"/>
-        <updated>2025-10-21T17:35:57.374Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/i-asg-leasing-stirizei-ton-radisson-blu-diethni-marathonio-larnakas-gia-akomi-mia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-10/asg_leasing.png?h=2c365730&amp;itok=wwjE6mOJ" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/i-asg-leasing-stirizei-ton-radisson-blu-diethni-marathonio-larnakas-gia-akomi-mia">Η ASG Leasing στηρίζει τον Radisson Blu Διεθνή Μαραθώνιο Λάρνακας για ακόμη μία χρονιά</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-30T05:36:01.405Z</updated>
+        <updated>2025-10-30T17:36:15.014Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">29 Oct 2025</span>
-  <a href="/articles/exodos/exormiseis/o-kalyteros-gastronomikos-proorismos-tis-eyropis-brisketai-stin-ellada">
-    <span class="title">Ο καλύτερος γαστρονομικός προορισμός της Ευρώπης βρίσκεται στην Ελλάδα</span>
+  <span class="channel">NEWS</span>
+  <span class="created">30 Oct 2025</span>
+  <a href="/articles/nea/news/rik-zita-tin-apopsi-toy-koinoy-gia-ton-ekprosopo-tis-kyproy">
+    <span class="title">Το ΡΙΚ ζητά την άποψη του κοινού για τον εκπρόσωπο της Κύπρου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-30T05:36:01.406Z</updated>
+        <updated>2025-10-30T17:36:15.030Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">29 Oct 2025</span>
-  <a href="/articles/nea/news/imerologio-antistrofis-metrisis-toy-karaiskakeioy-idrymatosgia-polla-paidika">
-    <span class="title">Ημερολόγιο Αντίστροφης Μέτρησης του Καραϊσκάκειου Ιδρύματος…για πολλά παιδικά χαμόγελα!</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">30 Oct 2025</span>
+  <a href="/articles/exodos/challenge-edo-tha-breis-ta-pio-dimioyrgika-ergastiria-gnorizontas-kosmo-makria-apo">
+    <span class="title">Challenge ON: Εδώ θα βρεις τα πιο δημιουργικά εργαστήρια, γνωρίζοντας κόσμο μακριά από τα κινητά (…</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-30T05:36:01.413Z</updated>
+        <updated>2025-10-30T17:36:15.032Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">29 Oct 2025</span>
-  <a href="/articles/nea/news/i-rural-youth-cy-oloklirose-me-epityhia-tin-diethni-antallagi-neon-develop-your">
-    <span class="title">Η Rural Youth Cy ολοκλήρωσε με επιτυχία την διεθνή ανταλλαγή νέων “Develop your Skills” στον Αγρό</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">30 Oct 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-pempti-30-oktobrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Πέμπτη 30 Οκτωβρίου 2025</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-30T05:36:01.414Z</updated>
+        <updated>2025-10-30T17:36:15.033Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-10-30T05:36:01.417Z</updated>
+        <updated>2025-10-30T17:36:15.034Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
