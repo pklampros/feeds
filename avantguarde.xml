@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-11T17:37:23.408Z</updated>
+    <updated>2025-11-12T05:36:37.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias"/>
+        <updated>2025-11-12T05:36:32.778Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-hikaique-125510.jpg?h=790be497&amp;itok=mS3TbkPL" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Έκλαιγα συνεχώς, δεν κοιμόμουν, ήμουν εξαντλημένη»: Η Ρις Γουίδερσπουν μιλά ανοιχτά για την…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/eklaiga-synehos-den-koimomoyn-imoyn-exantlimeni-i-ris-goyiderspoyn-mila-anoihta-gia</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[«Δίνουμε αίμα, δίνουμε ζωή»: Τιμώντας τη μνήμη των Κωνσταντίνου και Μιχάλη Ανδρέου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy"/>
-        <updated>2025-11-05T17:35:43.021Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-11-12T05:36:32.629Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/blood-donation-banner-300x100cm-_1.jpg?h=e91a75a9&amp;itok=E4R88YJ7" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy">«Δίνουμε αίμα, δίνουμε ζωή»: Τιμώντας τη μνήμη των Κωνσταντίνου και Μιχάλη Ανδρέου</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">12 Nov 2025</span>
+  <a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">
+    <span class="title">Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-11T17:37:18.649Z</updated>
+        <updated>2025-11-12T05:36:32.630Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">12 Nov 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-tetarti-12-noembrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Τετάρτη 12 Νοεμβρίου 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-11-12T05:36:32.631Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-11T17:37:18.650Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">11 Nov 2025</span>
-  <a href="/articles/nea/lena-zeygara-xesikose-koino-me-tis-megales-epityhies-tis-sti-monadiki-synaylia-tis-sti">
-    <span class="title">Λένα Ζευγαρά: Ξεσήκωσε το κοινό με τις μεγάλες επιτυχίες της στη μοναδική συναυλία της στη Λευκωσία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-11T17:37:18.652Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">11 Nov 2025</span>
-  <a href="/articles/exodos/hristoygenna-stin-aradippoy-ena-ploysio-programma-sas-perimenei-aytin-tin">
-    <span class="title">Χριστούγεννα στην Αραδίππου: Ένα πλούσιο πρόγραμμα σας περιμένει αυτην την εορταστική περίοδο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-11T17:37:18.654Z</updated>
+        <updated>2025-11-12T05:36:32.633Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-11T17:37:18.657Z</updated>
+        <updated>2025-11-12T05:36:32.634Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->

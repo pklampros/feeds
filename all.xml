@@ -2,8 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-11T17:37:23.409Z</updated>
+    <updated>2025-11-12T05:36:37.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias"/>
+        <updated>2025-11-12T05:36:32.778Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-12/pexels-hikaique-125510.jpg?h=790be497&amp;itok=mS3TbkPL" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Έκλαιγα συνεχώς, δεν κοιμόμουν, ήμουν εξαντλημένη»: Η Ρις Γουίδερσπουν μιλά ανοιχτά για την… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/eklaiga-synehos-den-koimomoyn-imoyn-exantlimeni-i-ris-goyiderspoyn-mila-anoihta-gia</id>
@@ -889,10 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[«Δίνουμε αίμα, δίνουμε ζωή»: Τιμώντας τη μνήμη των Κωνσταντίνου και Μιχάλη Ανδρέου (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy"/>
-        <updated>2025-11-05T17:35:43.021Z</updated>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-11-12T05:36:32.629Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -901,40 +953,14 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/blood-donation-banner-300x100cm-_1.jpg?h=e91a75a9&amp;itok=E4R88YJ7" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/dinoyme-aima-dinoyme-zoi-timontas-ti-mnimi-ton-konstantinoy-kai-mihali-andreoy">«Δίνουμε αίμα, δίνουμε ζωή»: Τιμώντας τη μνήμη των Κωνσταντίνου και Μιχάλη Ανδρέου</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">12 Nov 2025</span>
+  <a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">
+    <span class="title">Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
@@ -944,7 +970,33 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:18.649Z</updated>
+        <updated>2025-11-12T05:36:32.630Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">12 Nov 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-tetarti-12-noembrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Τετάρτη 12 Νοεμβρίου 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2025-11-12T05:36:32.631Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,59 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:18.650Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">11 Nov 2025</span>
-  <a href="/articles/nea/lena-zeygara-xesikose-koino-me-tis-megales-epityhies-tis-sti-monadiki-synaylia-tis-sti">
-    <span class="title">Λένα Ζευγαρά: Ξεσήκωσε το κοινό με τις μεγάλες επιτυχίες της στη μοναδική συναυλία της στη Λευκωσία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:18.652Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">11 Nov 2025</span>
-  <a href="/articles/exodos/hristoygenna-stin-aradippoy-ena-ploysio-programma-sas-perimenei-aytin-tin">
-    <span class="title">Χριστούγεννα στην Αραδίππου: Ένα πλούσιο πρόγραμμα σας περιμένει αυτην την εορταστική περίοδο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:18.654Z</updated>
+        <updated>2025-11-12T05:36:32.633Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1045,7 +1045,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:18.657Z</updated>
+        <updated>2025-11-12T05:36:32.634Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1069,113 +1069,120 @@
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.592Z</updated>
+        <updated>2025-11-12T05:36:36.862Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.593Z</updated>
+        <updated>2025-11-12T05:36:36.863Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.597Z</updated>
+        <updated>2025-11-12T05:36:36.865Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.598Z</updated>
+        <updated>2025-11-12T05:36:36.867Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.599Z</updated>
+        <updated>2025-11-12T05:36:36.868Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.600Z</updated>
+        <updated>2025-11-12T05:36:36.869Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.601Z</updated>
+        <updated>2025-11-12T05:36:36.870Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.604Z</updated>
+        <updated>2025-11-12T05:36:36.871Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.604Z</updated>
+        <updated>2025-11-12T05:36:36.873Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.605Z</updated>
+        <updated>2025-11-12T05:36:36.874Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.605Z</updated>
+        <updated>2025-11-12T05:36:36.875Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.606Z</updated>
+        <updated>2025-11-12T05:36:36.876Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.607Z</updated>
+        <updated>2025-11-12T05:36:36.878Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.607Z</updated>
+        <updated>2025-11-12T05:36:36.880Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.608Z</updated>
+        <updated>2025-11-12T05:36:36.881Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2025-11-11T17:37:22.609Z</updated>
+        <updated>2025-11-12T05:36:36.887Z</updated>
         <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grokipedia: Η εκδοχή του Ίλον Μασκ για την πραγματικότητα (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/grokipedia-i-ekdohi-toy-ilon-mask-gia-tin-pragmatikotita</id>
+        <link href="https://insidestory.gr/article/grokipedia-i-ekdohi-toy-ilon-mask-gia-tin-pragmatikotita"/>
+        <updated>2025-11-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Η Grokipedia είναι μια νέα διαδικτυακή εγκυκλοπαίδεια που φιλοδοξεί να ανταγωνιστεί τη Wikipedia. Τι ελπίδες έχει να το πετύχει και πόσο αξιόπιστη είναι; Σκεφτήκαμε να ρίξουμε μια πρώτη ματιά.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Γιατί κάποιες συμμορίες στην Ευρώπη θάβουν την κοκαΐνη αντί να την πουλάνε; (Inside Story Greece)]]></title>
@@ -1239,12 +1246,5 @@
         <link href="https://insidestory.gr/article/ti-kanoyn-gia-ti-stegasi-ton-krisimon-ergazomenon-sto-belgio-kai-alloy"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[ Νοσηλευτές, δάσκαλοι και νοσοκόμοι δεν μπορούν πλέον να βρουν προσιτή στέγη σε πολλές ευρωπαϊκές πρωτεύουσες. Κάποιοι όμως προσπαθούν να κάνουν κάτι γι' αυτό.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Εξεταστική ΟΠΕΚΕΠΕ: Οι σημαντικότερες καταθέσεις (Inside Story Greece)]]></title>
-        <id>https://insidestory.gr/article/exetastiki-opekepe-oi-simantikoteres-katatheseis</id>
-        <link href="https://insidestory.gr/article/exetastiki-opekepe-oi-simantikoteres-katatheseis"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Η εξεταστική επιτροπή για τον ΟΠΕΚΕΠΕ τελείωσε την εξέταση των υπηρεσιακών παραγόντων και προχωρά στους πολιτικούς. Τι νέο μάθαμε από τους μάρτυρες;]]></content>
     </entry>
 </feed>
