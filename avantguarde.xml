@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-12T05:36:37.651Z</updated>
+    <updated>2025-11-12T17:36:14.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ανοίγει το κέντρο εγγραφών του Radisson Blu Διεθνούς Μαραθωνίου Λάρνακας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/anoigei-kentro-eggrafon-toy-radisson-blu-diethnoys-marathonioy-larnakas</id>
+        <link href="https://avant-garde.com.cy/articles/nea/anoigei-kentro-eggrafon-toy-radisson-blu-diethnoys-marathonioy-larnakas"/>
+        <updated>2025-11-12T17:36:09.540Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/anoigei-kentro-eggrafon-toy-radisson-blu-diethnoys-marathonioy-larnakas">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/getty-images-hbwevc-dfdk-unsplash.jpg?h=0f391ef5&amp;itok=nBN2Y15a" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/anoigei-kentro-eggrafon-toy-radisson-blu-diethnoys-marathonioy-larnakas">Ανοίγει το κέντρο εγγραφών του Radisson Blu Διεθνούς Μαραθωνίου Λάρνακας</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Μεγάλη σεισμική δόνηση στην Κύπρο  - Κοντά στην Πάφο το επίκεντρο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/megali-seismiki-donisi-stin-kypro-konta-stin-pafo-epikentro</id>
+        <link href="https://avant-garde.com.cy/articles/nea/megali-seismiki-donisi-stin-kypro-konta-stin-pafo-epikentro"/>
+        <updated>2025-11-12T17:36:09.542Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/megali-seismiki-donisi-stin-kypro-konta-stin-pafo-epikentro">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/g5i4kbiwuaamt3g.jpg?h=972cf757&amp;itok=O0HAWU1s" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/megali-seismiki-donisi-stin-kypro-konta-stin-pafo-epikentro">Μεγάλη σεισμική δόνηση στην Κύπρο  - Κοντά στην Πάφο το επίκεντρο</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Occhio Group λανσάρει… το ΖAZZA! - Στην εμβληματική τοποθεσία του πρώην State Night Club]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/occhio-group-lansarei-zazza-stin-emblimatiki-topothesia-toy-proin-state-night-club</id>
-        <link href="https://avant-garde.com.cy/articles/nea/occhio-group-lansarei-zazza-stin-emblimatiki-topothesia-toy-proin-state-night-club"/>
-        <updated>2025-11-05T17:35:43.017Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/occhio-group-lansarei-zazza-stin-emblimatiki-topothesia-toy-proin-state-night-club">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/zazza-musictheater_banner-1.png?h=3e350388&amp;itok=LAkSosI4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/occhio-group-lansarei-zazza-stin-emblimatiki-topothesia-toy-proin-state-night-club">Το Occhio Group λανσάρει… το ΖAZZA! - Στην εμβληματική τοποθεσία του πρώην State Night Club</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ο Διεθνής Διαγωνισμός Κοκτέιλ επιστρέφει στο City of Dreams Mediterranean]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/o-diethnis-diagonismos-kokteil-epistrefei-sto-city-dreams-mediterranean</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/o-diethnis-diagonismos-kokteil-epistrefei-sto-city-dreams-mediterranean"/>
-        <updated>2025-11-05T17:35:43.019Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/o-diethnis-diagonismos-kokteil-epistrefei-sto-city-dreams-mediterranean">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/2nd_cocktail_competition_digital_signages_landscape_1.jpg?h=d1cb525d&amp;itok=IUU-fBDh" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/o-diethnis-diagonismos-kokteil-epistrefei-sto-city-dreams-mediterranean">Ο Διεθνής Διαγωνισμός Κοκτέιλ επιστρέφει στο City of Dreams Mediterranean</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T05:36:32.629Z</updated>
+        <updated>2025-11-12T17:36:09.439Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
+  <span class="channel">ΝΕΑ</span>
   <span class="created">12 Nov 2025</span>
-  <a href="/articles/nea/news/erhetai-brohero-triimero-kataigides-halazi-kai-aisthiti-ptosi-thermokrasias">
-    <span class="title">Έρχεται βροχερό τριήμερο! Καταιγίδες, χαλάζι και αισθητή πτώση θερμοκρασίας</span>
+  <a href="/articles/nea/anoigei-kentro-eggrafon-toy-radisson-blu-diethnoys-marathonioy-larnakas">
+    <span class="title">Ανοίγει το κέντρο εγγραφών του Radisson Blu Διεθνούς Μαραθωνίου Λάρνακας</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T05:36:32.630Z</updated>
+        <updated>2025-11-12T17:36:09.442Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">12 Nov 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-tetarti-12-noembrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Τετάρτη 12 Νοεμβρίου 2025</span>
+  <a href="/articles/exodos/fagitopoto/columbia-burgers-more-neo-agapimeno-burger-spot-tis-lemesoy">
+    <span class="title">Columbia Burgers + More: το νέο αγαπημένο burger spot της Λεμεσού</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T05:36:32.631Z</updated>
+        <updated>2025-11-12T17:36:09.443Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">11 Nov 2025</span>
-  <a href="/articles/nea/eklaiga-synehos-den-koimomoyn-imoyn-exantlimeni-i-ris-goyiderspoyn-mila-anoihta-gia">
-    <span class="title">«Έκλαιγα συνεχώς, δεν κοιμόμουν, ήμουν εξαντλημένη»: Η Ρις Γουίδερσπουν μιλά ανοιχτά για την…</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">12 Nov 2025</span>
+  <a href="/articles/exodos/santa-park-festto-pio-magiko-hristoygenniatiko-festibal-plisiazei">
+    <span class="title">Santa Park Fest:Το πιο μαγικό χριστουγεννιάτικο φεστιβάλ πλησιάζει!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T05:36:32.633Z</updated>
+        <updated>2025-11-12T17:36:09.445Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T05:36:32.634Z</updated>
+        <updated>2025-11-12T17:36:09.446Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
