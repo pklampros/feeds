@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-12T17:36:14.808Z</updated>
+    <updated>2025-11-13T05:36:43.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,33 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T17:36:09.439Z</updated>
+        <updated>2025-11-13T05:36:38.560Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">13 Nov 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-pempti-13-noembrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Πέμπτη 13 Νοεμβρίου 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-11-13T05:36:38.567Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T17:36:09.442Z</updated>
+        <updated>2025-11-13T05:36:38.568Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,36 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T17:36:09.443Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">12 Nov 2025</span>
-  <a href="/articles/exodos/santa-park-festto-pio-magiko-hristoygenniatiko-festibal-plisiazei">
-    <span class="title">Santa Park Fest:Το πιο μαγικό χριστουγεννιάτικο φεστιβάλ πλησιάζει!</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T17:36:09.445Z</updated>
+        <updated>2025-11-13T05:36:38.569Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-12T17:36:09.446Z</updated>
+        <updated>2025-11-13T05:36:38.572Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
