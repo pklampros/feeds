@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-14T05:35:57.309Z</updated>
+    <updated>2025-11-14T17:35:28.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Πέρα από τα σύννεφα: Το Όρος Κιναμπάλου και ο θρίαμβος της ανθρώπινης επιμονής]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/pera-apo-ta-synnefa-oros-kinampaloy-kai-o-thriambos-tis-anthropinis-epimonis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/pera-apo-ta-synnefa-oros-kinampaloy-kai-o-thriambos-tis-anthropinis-epimonis"/>
+        <updated>2025-11-14T17:35:24.255Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/pera-apo-ta-synnefa-oros-kinampaloy-kai-o-thriambos-tis-anthropinis-epimonis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/ex1.png?h=a68608b1&amp;itok=yN9YlrgG" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/pera-apo-ta-synnefa-oros-kinampaloy-kai-o-thriambos-tis-anthropinis-epimonis">Πέρα από τα σύννεφα: Το Όρος Κιναμπάλου και ο θρίαμβος της ανθρώπινης επιμονής</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mindset Talks 8: Η αντίστροφη μέτρηση ξεκίνησε]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/mindset-talks-8-i-antistrofi-metrisi-xekinise</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/mindset-talks-8-i-antistrofi-metrisi-xekinise"/>
+        <updated>2025-11-14T17:35:24.255Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/mindset-talks-8-i-antistrofi-metrisi-xekinise">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-10/1080x1920.jpg?h=1dc20d44&amp;itok=wC1zew8y" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/mindset-talks-8-i-antistrofi-metrisi-xekinise">Mindset Talks 8: Η αντίστροφη μέτρηση ξεκίνησε </a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η Έμμα Στόουν αναδείχθηκε η ομορφότερη γυναίκα στον κόσμο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/i-emma-stooyn-anadeihthike-i-omorfoteri-gynaika-ston-kosmo</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[«Πατάτα Αυγορίτικη, στον Κάθηκα σταφύλι, Παττίχα εις στ' Ακάκι μας, φάε να 'μαστε φίλοι»]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/patata-aygoritiki-ston-kathika-stafyli-pattiha-eis-st-akaki-mas-fae-na-maste-filoi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/patata-aygoritiki-ston-kathika-stafyli-pattiha-eis-st-akaki-mas-fae-na-maste-filoi"/>
-        <updated>2025-11-06T17:45:31.001Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/patata-aygoritiki-ston-kathika-stafyli-pattiha-eis-st-akaki-mas-fae-na-maste-filoi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/1sk.jpeg?h=9d93ed54&amp;itok=EG3NK25Q" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/patata-aygoritiki-ston-kathika-stafyli-pattiha-eis-st-akaki-mas-fae-na-maste-filoi">«Πατάτα Αυγορίτικη, στον Κάθηκα σταφύλι, Παττίχα εις στ' Ακάκι μας, φάε να 'μαστε φίλοι»</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Η Digital Tree Digital Media Sponsor του Radisson Blu Διεθνούς Μαραθωνίου Λάρνακας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-digital-tree-digital-media-sponsor-toy-radisson-blu-diethnoys-marathonioy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-digital-tree-digital-media-sponsor-toy-radisson-blu-diethnoys-marathonioy"/>
-        <updated>2025-11-06T17:45:31.002Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-digital-tree-digital-media-sponsor-toy-radisson-blu-diethnoys-marathonioy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/standard_avant_garde_-_2025-11-06t122231.634.jpg?h=d1cb525d&amp;itok=ZnSSz-kt" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-digital-tree-digital-media-sponsor-toy-radisson-blu-diethnoys-marathonioy">Η Digital Tree Digital Media Sponsor του Radisson Blu Διεθνούς Μαραθωνίου Λάρνακας</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-14T05:35:52.676Z</updated>
+        <updated>2025-11-14T17:35:24.115Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">13 Nov 2025</span>
-  <a href="/articles/nea/i-emma-stooyn-anadeihthike-i-omorfoteri-gynaika-ston-kosmo">
-    <span class="title">Η Έμμα Στόουν αναδείχθηκε η ομορφότερη γυναίκα στον κόσμο </span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">14 Nov 2025</span>
+  <a href="/articles/exodos/exormiseis/ta-5-mathimata-poy-pire-mia-taxidiotissa-afoy-perase-mia-ebdomada-stin">
+    <span class="title">Τα 5 μαθήματα που πήρε μια ταξιδιώτισσα αφού πέρασε μία εβδομάδα στην πιο ευτυχισμένη πόλη του…</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-14T05:35:52.678Z</updated>
+        <updated>2025-11-14T17:35:24.116Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">13 Nov 2025</span>
-  <a href="/articles/exodos/moysiki/o-sais-me-ssios-sto-diethnes-festibal-leykosias-2025">
-    <span class="title">Ο Σαής με το… «Σ̑σ̑ιος» στο Διεθνές Φεστιβάλ Λευκωσίας 2025 </span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">14 Nov 2025</span>
+  <a href="/articles/exodos/theatrohoros/deipno-ilithion-h-xekardistiki-komodia-toy-fransis-bemper">
+    <span class="title">"Δείπνο Ηλιθίων": H ξεκαρδιστική κωμωδία του Φρανσίς Βεμπέρ</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-14T05:35:52.678Z</updated>
+        <updated>2025-11-14T17:35:24.117Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">13 Nov 2025</span>
-  <a href="/articles/discover-cyprus/horia/o-statos-agios-fotios-metamorfonetai-fetos-sto-pio-magiko">
-    <span class="title">Ο Στατός Άγιος Φώτιος μεταμορφώνεται φέτος στο πιο μαγικό χριστουγεννιάτικο προορισμό!</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">14 Nov 2025</span>
+  <a href="/articles/exodos/mathame-poioi-tha-tragoydisoyn-sti-fotagogisi-hristoygenniatikoy-dentroy-tis">
+    <span class="title">Μάθαμε ποιοι θα τραγουδήσουν στη φωταγώγηση Χριστουγεννιάτικου δέντρου της Πλατείας Ελευθερίας</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-14T05:35:52.678Z</updated>
+        <updated>2025-11-14T17:35:24.118Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-14T05:35:52.679Z</updated>
+        <updated>2025-11-14T17:35:24.120Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
