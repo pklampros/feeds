@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-16T05:35:34.848Z</updated>
+    <updated>2025-11-16T17:33:37.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Μια σήραγγα στα βάθη της Μεσογείου θα ενώσει την Ευρώπη με την Αφρική]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/mia-siragga-sta-bathi-tis-mesogeioy-tha-enosei-tin-eyropi-me-tin-afriki</id>
+        <link href="https://avant-garde.com.cy/articles/nea/mia-siragga-sta-bathi-tis-mesogeioy-tha-enosei-tin-eyropi-me-tin-afriki"/>
+        <updated>2025-11-16T17:33:31.497Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/mia-siragga-sta-bathi-tis-mesogeioy-tha-enosei-tin-eyropi-me-tin-afriki">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/michal-mrozek-fz3vbe8xohc-unsplash.jpg?h=82f92a78&amp;itok=9xrG5znm" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/mia-siragga-sta-bathi-tis-mesogeioy-tha-enosei-tin-eyropi-me-tin-afriki">Μια σήραγγα στα βάθη της Μεσογείου θα ενώσει την Ευρώπη με την Αφρική</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Πέρα από τα σύννεφα: Το Όρος Κιναμπάλου και ο θρίαμβος της ανθρώπινης επιμονής]]></title>
         <id>https://avant-garde.com.cy/articles/nea/pera-apo-ta-synnefa-oros-kinampaloy-kai-o-thriambos-tis-anthropinis-epimonis</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurovision 2026 - Κύπρος: H Antigoni η φετινή μας εκπρόσωπος (Φώτο)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/eurovision-2026-kypros-h-antigoni-i-fetini-mas-ekprosopos-foto</id>
-        <link href="https://avant-garde.com.cy/articles/nea/eurovision-2026-kypros-h-antigoni-i-fetini-mas-ekprosopos-foto"/>
-        <updated>2025-11-06T17:45:31.001Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-11-16T17:33:31.388Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/eurovision-2026-kypros-h-antigoni-i-fetini-mas-ekprosopos-foto">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/snapinsta.to_569426173_18547490368044516_3855582663511257764_n.jpg?h=3253da24&amp;itok=AoAoCgi6" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/eurovision-2026-kypros-h-antigoni-i-fetini-mas-ekprosopos-foto">Eurovision 2026 - Κύπρος: H Antigoni η φετινή μας εκπρόσωπος (Φώτο)</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">16 Nov 2025</span>
+  <a href="/articles/nea/mia-siragga-sta-bathi-tis-mesogeioy-tha-enosei-tin-eyropi-me-tin-afriki">
+    <span class="title">Μια σήραγγα στα βάθη της Μεσογείου θα ενώσει την Ευρώπη με την Αφρική</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-16T05:35:29.024Z</updated>
+        <updated>2025-11-16T17:33:31.389Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="created">16 Nov 2025</span>
+  <a href="/articles/discover-cyprus/horia/xristoygenniatiko-horio-tis-kyperoyntas-anakoinose-ploysio-programma">
+    <span class="title">To Xριστουγεννιάτικο χωριό της Κυπερούντας ανακοίνωσε το πλούσιο πρόγραμμά του</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-11-16T17:33:31.390Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,62 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-16T05:35:29.027Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">15 Nov 2025</span>
-  <a href="/articles/exodos/theatrohoros/kleidi-ton-hristoygennon-mia-parastasi-gia-oli-tin-oikogeneia">
-    <span class="title">«Το Κλειδί των Χριστουγέννων»: Μια παράσταση για όλη την οικογένεια</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-16T05:35:29.027Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">15 Nov 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-sabbato-15-noembrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Σάββατο 15 Νοεμβρίου 2025</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-16T05:35:29.028Z</updated>
+        <updated>2025-11-16T17:33:31.393Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-16T05:35:29.029Z</updated>
+        <updated>2025-11-16T17:33:31.394Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
