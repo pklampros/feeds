@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-17T17:36:01.249Z</updated>
+    <updated>2025-11-18T05:35:58.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Τροπικός Νοέμβρης στην Κύπρο: Αίθριος καιρός, ζέστη και… σκόνη!]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/tropikos-noembris-stin-kypro-aithrios-kairos-zesti-kai-skoni</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/tropikos-noembris-stin-kypro-aithrios-kairos-zesti-kai-skoni"/>
+        <updated>2025-11-18T05:35:53.635Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/tropikos-noembris-stin-kypro-aithrios-kairos-zesti-kai-skoni">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-04/neda-astani-kwtkd7mhqke-unsplash.jpg?h=c9ce58e1&amp;itok=DlK-7atn" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/tropikos-noembris-stin-kypro-aithrios-kairos-zesti-kai-skoni">Τροπικός Νοέμβρης στην Κύπρο: Αίθριος καιρός, ζέστη και… σκόνη!</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ξεκινούν οι απευθείας πτήσεις προς Βρυξέλλες, όλες οι λεπτομέρειες]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/xekinoyn-oi-apeytheias-ptiseis-pros-bryxelles-oles-oi-leptomereies</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/xekinoyn-oi-apeytheias-ptiseis-pros-bryxelles-oles-oi-leptomereies"/>
+        <updated>2025-11-18T05:35:53.635Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/xekinoyn-oi-apeytheias-ptiseis-pros-bryxelles-oles-oi-leptomereies">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/virginia-marinova-0yppv6c8l4k-unsplash.jpg?h=73af2c68&amp;itok=xN4nhV9x" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/xekinoyn-oi-apeytheias-ptiseis-pros-bryxelles-oles-oi-leptomereies">Ξεκινούν οι απευθείας πτήσεις προς Βρυξέλλες, όλες οι λεπτομέρειες</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Τα κουκλάκια Labubu προσεχώς στους κινηματογράφους]]></title>
         <id>https://avant-garde.com.cy/articles/nea/ta-koyklakia-labubu-prosehos-stoys-kinimatografoys</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αυτά είναι τα 9 πιο υγιεινά τυριά σύμφωνα με το Health]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ayta-einai-ta-9-pio-ygieina-tyria-symfona-me-health</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ayta-einai-ta-9-pio-ygieina-tyria-symfona-me-health"/>
-        <updated>2025-11-10T17:35:01.677Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ayta-einai-ta-9-pio-ygieina-tyria-symfona-me-health">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/azzedine-rouichi-yw_5rjvadkw-unsplash.jpg?h=df33d6f9&amp;itok=3nq18cqz" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ayta-einai-ta-9-pio-ygieina-tyria-symfona-me-health">Αυτά είναι τα 9 πιο υγιεινά τυριά σύμφωνα με το Health</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anti-Cava: H Bottles & Bottles στη Λευκωσία επαναπροσδιορίζει τη λιανική πώληση κρασιού και μας…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/anti-cava-h-bottles-bottles-sti-leykosia-epanaprosdiorizei-ti-lianiki-polisi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/anti-cava-h-bottles-bottles-sti-leykosia-epanaprosdiorizei-ti-lianiki-polisi"/>
-        <updated>2025-11-10T17:35:01.678Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/anti-cava-h-bottles-bottles-sti-leykosia-epanaprosdiorizei-ti-lianiki-polisi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/befunky-collage_3.png?h=43594a01&amp;itok=K377cF7_" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/anti-cava-h-bottles-bottles-sti-leykosia-epanaprosdiorizei-ti-lianiki-polisi">Anti-Cava: H Bottles &amp; Bottles στη Λευκωσία επαναπροσδιορίζει τη λιανική πώληση κρασιού και μας…</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-17T17:35:55.534Z</updated>
+        <updated>2025-11-18T05:35:53.536Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">17 Nov 2025</span>
-  <a href="/articles/nea/ta-koyklakia-labubu-prosehos-stoys-kinimatografoys">
-    <span class="title">Τα κουκλάκια Labubu προσεχώς στους κινηματογράφους</span>
+  <span class="channel">NEWS</span>
+  <span class="created">18 Nov 2025</span>
+  <a href="/articles/nea/news/tropikos-noembris-stin-kypro-aithrios-kairos-zesti-kai-skoni">
+    <span class="title">Τροπικός Νοέμβρης στην Κύπρο: Αίθριος καιρός, ζέστη και… σκόνη!</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-17T17:35:55.535Z</updated>
+        <updated>2025-11-18T05:35:53.537Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">17 Nov 2025</span>
-  <a href="/articles/exodos/movember-event-epistrefei-gia-2i-hronia-sto-espresso-lungo">
-    <span class="title">Το Movember Event επιστρέφει για 2η χρονιά στο Espresso Lungo</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">18 Nov 2025</span>
+  <a href="/articles/exodos/moysiki/o-stan-erhetai-kypro-gia-ena-monadiko-christmas-party">
+    <span class="title">Ο Stan έρχεται Κύπρο για ένα μοναδικό Christmas Party!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-17T17:35:55.537Z</updated>
+        <updated>2025-11-18T05:35:53.538Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">17 Nov 2025</span>
-  <a href="/articles/exodos/fotagogisi-hristoygenniatikoy-dentroy-anoikti-synaylia-me-toys-stavento-kai-ibi">
-    <span class="title">Φωταγώγηση Χριστουγεννιάτικου δέντρου &amp; ανοικτή συναυλία με τους Stavento και Ήβη Αδάμου…</span>
+  <span class="channel">NEWS</span>
+  <span class="created">18 Nov 2025</span>
+  <a href="/articles/nea/news/xekinoyn-oi-apeytheias-ptiseis-pros-bryxelles-oles-oi-leptomereies">
+    <span class="title">Ξεκινούν οι απευθείας πτήσεις προς Βρυξέλλες, όλες οι λεπτομέρειες</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-17T17:35:55.538Z</updated>
+        <updated>2025-11-18T05:35:53.539Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-17T17:35:55.539Z</updated>
+        <updated>2025-11-18T05:35:53.539Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
