@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-22T05:35:01.778Z</updated>
+    <updated>2025-11-22T17:33:31.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Taste Atlas: Τα 20 κορυφαία πιάτα με «πρωταγωνιστή» το κοτόπουλο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-ta-20-koryfaia-piata-me-protagonisti-kotopoylo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-ta-20-koryfaia-piata-me-protagonisti-kotopoylo"/>
+        <updated>2025-11-22T17:33:26.970Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/taste-atlas-ta-20-koryfaia-piata-me-protagonisti-kotopoylo">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/alaundra-alford-bmrbjbouddw-unsplash.jpg?h=0d27ee61&amp;itok=NeDlP28p" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/taste-atlas-ta-20-koryfaia-piata-me-protagonisti-kotopoylo">Taste Atlas: Τα 20 κορυφαία πιάτα με «πρωταγωνιστή» το κοτόπουλο </a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eurovision 2026: Ανατροπές από την EBU – Μεγαλώνουν οι κριτικές επιτροπές και αλλάζουν όλα στη…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2026-anatropes-apo-tin-ebu-megalonoyn-oi-kritikes-epitropes-kai</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Μέλη εμβληματικών ροκ συγκροτημάτων ενώνονται σε supergroup για καλό σκοπό]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/meli-emblimatikon-rok-sygkrotimaton-enonontai-se-supergroup-gia-kalo-skopo</id>
-        <link href="https://avant-garde.com.cy/articles/nea/meli-emblimatikon-rok-sygkrotimaton-enonontai-se-supergroup-gia-kalo-skopo"/>
-        <updated>2025-11-17T17:35:55.731Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/meli-emblimatikon-rok-sygkrotimaton-enonontai-se-supergroup-gia-kalo-skopo">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/zhiqiang-wang-qdp24yooor8-unsplash.jpg?h=989af86e&amp;itok=Vn90qcpD" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/meli-emblimatikon-rok-sygkrotimaton-enonontai-se-supergroup-gia-kalo-skopo">Μέλη εμβληματικών ροκ συγκροτημάτων ενώνονται σε supergroup για καλό σκοπό</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-22T05:34:55.642Z</updated>
+        <updated>2025-11-22T17:33:26.791Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">21 Nov 2025</span>
-  <a href="/articles/exodos/agia-napa-dyo-ekriktikoi-kallitehnes-tha-emfanistoyn-sti-fotagogisi-toy">
-    <span class="title">Αγία Νάπα: Δύο εκρηκτικοί καλλιτέχνες θα εμφανιστούν στη φωταγώγηση του χριστουγεννιάτικου…</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">22 Nov 2025</span>
+  <a href="/articles/exodos/moysiki/ta-avli-sessions-paroysiazoyn-mirror-tis-eleni-era">
+    <span class="title">Τα AVLI Sessions παρουσιάζουν το “Mirror” της Eleni Era</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-22T05:34:55.643Z</updated>
+        <updated>2025-11-22T17:33:26.802Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">21 Nov 2025</span>
-  <a href="/articles/exodos/tainiesseires/neo-psyhologiko-thriler-toy-netflix-ehei-kathilosei-toys-theates-apo">
-    <span class="title">Το νέο ψυχολογικό θρίλερ του Netflix έχει καθηλώσει τους θεατές από το πρώτο επεισόδιο</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">22 Nov 2025</span>
+  <a href="/articles/nea/taste-atlas-ta-20-koryfaia-piata-me-protagonisti-kotopoylo">
+    <span class="title">Taste Atlas: Τα 20 κορυφαία πιάτα με «πρωταγωνιστή» το κοτόπουλο </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-22T05:34:55.644Z</updated>
+        <updated>2025-11-22T17:33:26.803Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">21 Nov 2025</span>
-  <a href="/articles/exodos/exormiseis/oi-anexereynitoi-proorismoi-gia-2026-poy-axizei-na-episkeftheite">
-    <span class="title">Οι ανεξερεύνητοι προορισμοί για το 2026 που αξίζει να επισκεφθείτε </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">22 Nov 2025</span>
+  <a href="/articles/exodos/larnaka-lamperi-teleti-fotagogisis-me-moysiki-kai-horo-me-ton-pashali">
+    <span class="title">Λάρνακα: Λαμπερή τελετή φωταγώγησης με μουσική και χορό με τον Πασχάλη</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-22T05:34:55.646Z</updated>
+        <updated>2025-11-22T17:33:26.805Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-22T05:34:55.647Z</updated>
+        <updated>2025-11-22T17:33:26.806Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
