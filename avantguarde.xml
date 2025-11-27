@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-27T05:36:58.854Z</updated>
+    <updated>2025-11-27T17:34:23.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ευρωκοινοβούλιο: Ενέκρινε ψήφισμα να απαγορευθεί η χρήση των social από παιδιά κάτω των 16 ετών]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eyrokoinoboylio-enekrine-psifisma-na-apagoreythei-i-hrisi-ton-social-apo-paidia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eyrokoinoboylio-enekrine-psifisma-na-apagoreythei-i-hrisi-ton-social-apo-paidia"/>
+        <updated>2025-11-27T17:34:18.336Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eyrokoinoboylio-enekrine-psifisma-na-apagoreythei-i-hrisi-ton-social-apo-paidia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-03/to_periergo_tis_imeras_22.png?h=43594a01&amp;itok=8Tsrbo01" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eyrokoinoboylio-enekrine-psifisma-na-apagoreythei-i-hrisi-ton-social-apo-paidia">Ευρωκοινοβούλιο: Ενέκρινε ψήφισμα να απαγορευθεί η χρήση των social από παιδιά κάτω των 16 ετών</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Βροχές από σήμερα – Η κακοκαιρία ADEL φτάνει το Σάββατο στην Κύπρο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/brohes-apo-simera-i-kakokairia-adel-ftanei-sabbato-stin-kypro</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/brohes-apo-simera-i-kakokairia-adel-ftanei-sabbato-stin-kypro"/>
+        <updated>2025-11-27T17:34:18.341Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/brohes-apo-simera-i-kakokairia-adel-ftanei-sabbato-stin-kypro">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/nathan-anderson-isgyytycy1y-unsplash.jpg?h=f00e979d&amp;itok=rQLlaXmu" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/brohes-apo-simera-i-kakokairia-adel-ftanei-sabbato-stin-kypro">Βροχές από σήμερα – Η κακοκαιρία ADEL φτάνει το Σάββατο στην Κύπρο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ευρωπαϊκό Δικαστήριο: Οι ομόφυλοι γάμοι πρέπει να αναγνωρίζονται σε όλη την Ένωση]]></title>
         <id>https://avant-garde.com.cy/articles/nea/eyropaiko-dikastirio-oi-omofyloi-gamoi-prepei-na-anagnorizontai-se-oli-tin-enosi</id>
@@ -838,114 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αυτή είναι η χριστουγεννιάτικη αγορά που νίκησε 7 χώρες!]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/ayti-einai-i-hristoygenniatiki-agora-poy-nikise-7-hores</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/ayti-einai-i-hristoygenniatiki-agora-poy-nikise-7-hores"/>
-        <updated>2025-11-23T17:34:00.755Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/ayti-einai-i-hristoygenniatiki-agora-poy-nikise-7-hores">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/getty-images-s4uug5hct5s-unsplash.jpg?h=63856562&amp;itok=Bx9TcH2d" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/ayti-einai-i-hristoygenniatiki-agora-poy-nikise-7-hores">Αυτή είναι η χριστουγεννιάτικη αγορά που νίκησε 7 χώρες!</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 φρούτα με περισσότερη πρωτεΐνη απ’ όση φαντάζεστε]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/8-froyta-me-perissoteri-proteini-ap-osi-fantazeste</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/8-froyta-me-perissoteri-proteini-ap-osi-fantazeste"/>
-        <updated>2025-11-23T17:34:00.760Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/8-froyta-me-perissoteri-proteini-ap-osi-fantazeste">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2024-03/san_simera2.jpg?h=279670ce&amp;itok=lqLquVRU" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/8-froyta-me-perissoteri-proteini-ap-osi-fantazeste">8 φρούτα με περισσότερη πρωτεΐνη απ’ όση φαντάζεστε</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T05:36:53.640Z</updated>
+        <updated>2025-11-27T17:34:18.177Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">26 Nov 2025</span>
-  <a href="/articles/exodos/tainiesseires/7-nees-kyklofories-toy-netflix-poy-axizoyn-ton-hrono-soy-ton">
-    <span class="title">7 νέες κυκλοφορίες του Netflix που αξίζουν τον χρόνο σου τον Δεκέμβριο</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">27 Nov 2025</span>
+  <a href="/articles/exodos/o-stayros-konstantinoy-sti-hristoygenniatiki-ekdilosi-toy-dimoy-notias-leykosias">
+    <span class="title">Ο Σταύρος Κωνσταντίνου στη χριστουγεννιάτικη εκδήλωση του Δήμου Νότιας Λευκωσίας – Ιδαλίου</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T05:36:53.642Z</updated>
+        <updated>2025-11-27T17:34:18.177Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">26 Nov 2025</span>
-  <a href="/articles/exodos/fagitopoto/gala-dinner-me-ton-giorgo-theofanoys-sti-lemeso">
-    <span class="title">Gala Dinner με τον Γιώργο Θεοφάνους στη Λεμεσό</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">27 Nov 2025</span>
+  <a href="/articles/exodos/fotagogiseis-giortines-ekdiloseis-ayto-sabbatokyriako">
+    <span class="title">Φωταγωγήσεις &amp; γιορτινές εκδηλώσεις αυτό το Σαββατοκύριακο</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T05:36:53.644Z</updated>
+        <updated>2025-11-27T17:34:18.181Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">26 Nov 2025</span>
-  <a href="/articles/exodos/very-merry-charity-party-moondogs-mas-proskalei-gi-alli-mia-hronia-sto">
-    <span class="title">«A very Merry Charity Party»: Tο Moondog's μάς προσκαλεί γι’ άλλη μια χρονιά στο φιλανθρωπικό…</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">27 Nov 2025</span>
+  <a href="/articles/exodos/moysiki/epistrefei-12th-cyprus-jazz-world-music-showcase">
+    <span class="title">Επιστρέφει το 12th Cyprus Jazz &amp; World Music Showcase</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T05:36:53.652Z</updated>
+        <updated>2025-11-27T17:34:18.182Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T05:36:53.653Z</updated>
+        <updated>2025-11-27T17:34:18.184Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
