@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-27T17:34:23.265Z</updated>
+    <updated>2025-11-28T05:36:44.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T17:34:18.177Z</updated>
+        <updated>2025-11-28T05:36:39.140Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">27 Nov 2025</span>
-  <a href="/articles/exodos/o-stayros-konstantinoy-sti-hristoygenniatiki-ekdilosi-toy-dimoy-notias-leykosias">
-    <span class="title">Ο Σταύρος Κωνσταντίνου στη χριστουγεννιάτικη εκδήλωση του Δήμου Νότιας Λευκωσίας – Ιδαλίου</span>
+  <a href="/articles/exodos/fagitopoto/black-friday-sta-karboyna-soyblakia-me-eu150-mono-gia-mia-mera-sto">
+    <span class="title"> Black Friday… στα κάρβουνα! Σουβλάκια με €1.50 μόνο για μία μέρα στο Παραλίμνι</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T17:34:18.177Z</updated>
+        <updated>2025-11-28T05:36:39.141Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">27 Nov 2025</span>
-  <a href="/articles/exodos/fotagogiseis-giortines-ekdiloseis-ayto-sabbatokyriako">
-    <span class="title">Φωταγωγήσεις &amp; γιορτινές εκδηλώσεις αυτό το Σαββατοκύριακο</span>
+  <a href="/articles/exodos/fagitopoto/11-sto-pio-hot-burger-spot-tis-larnakas-mono-tis-paraskeyes">
+    <span class="title">1+1 στο πιο hot burger spot της Λάρνακας – μόνο τις Παρασκευές!</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T17:34:18.181Z</updated>
+        <updated>2025-11-28T05:36:39.142Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">27 Nov 2025</span>
-  <a href="/articles/exodos/moysiki/epistrefei-12th-cyprus-jazz-world-music-showcase">
-    <span class="title">Επιστρέφει το 12th Cyprus Jazz &amp; World Music Showcase</span>
+  <a href="/articles/exodos/fagitopoto/ta-pio-zesta-hristoygenna-stin-aradippoy-epistrefei-agapimeno-soup-fest">
+    <span class="title">Τα πιο ζεστά Χριστούγεννα στην Αραδίππου: Επιστρέφει το αγαπημένο Soup Fest!</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T17:34:18.182Z</updated>
+        <updated>2025-11-28T05:36:39.143Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-27T17:34:18.184Z</updated>
+        <updated>2025-11-28T05:36:39.144Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
