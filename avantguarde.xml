@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-29T05:36:22.843Z</updated>
+    <updated>2025-11-29T17:34:06.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Φιλοσοφίες ζωής από τη Bόρεια Ευρώπη που μπορούν να δώσουν νέο ρυθμό στην καθημερινότητά μας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin</id>
+        <link href="https://avant-garde.com.cy/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin"/>
+        <updated>2025-11-29T17:34:01.667Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-11/mihaly-koles-c4tty2ayvg0-unsplash.jpg?h=71976bb4&amp;itok=qoGHptAT" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin">Φιλοσοφίες ζωής από τη Bόρεια Ευρώπη που μπορούν να δώσουν νέο ρυθμό στην καθημερινότητά μας</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Κύπρος σε ανοδική πορεία: Νέο τουριστικό ρεκόρ με 537.000 αφίξεις τον Οκτώβριο]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/kypros-se-anodiki-poreia-neo-toyristiko-rekor-me-537000-afixeis-ton-oktobrio</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Παραλίμνι στις Βρυξέλλες: Η ιστορική στιγμή που κανείς δεν περίμενε]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/paralimni-stis-bryxelles-i-istoriki-stigmi-poy-kaneis-den-perimene</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/paralimni-stis-bryxelles-i-istoriki-stigmi-poy-kaneis-den-perimene"/>
-        <updated>2025-11-25T05:36:46.735Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/paralimni-stis-bryxelles-i-istoriki-stigmi-poy-kaneis-den-perimene">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-11/06_the_whole_team_film_festival_1.jpg?h=33a7dad4&amp;itok=6r5WRF4s" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/paralimni-stis-bryxelles-i-istoriki-stigmi-poy-kaneis-den-perimene">Παραλίμνι στις Βρυξέλλες: Η ιστορική στιγμή που κανείς δεν περίμενε</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-29T05:36:16.478Z</updated>
+        <updated>2025-11-29T17:34:01.505Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">28 Nov 2025</span>
-  <a href="/articles/nea/news/kypros-se-anodiki-poreia-neo-toyristiko-rekor-me-537000-afixeis-ton-oktobrio">
-    <span class="title">Κύπρος σε ανοδική πορεία: Νέο τουριστικό ρεκόρ με 537.000 αφίξεις τον Οκτώβριο</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">29 Nov 2025</span>
+  <a href="/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin">
+    <span class="title">Φιλοσοφίες ζωής από τη Bόρεια Ευρώπη που μπορούν να δώσουν νέο ρυθμό στην καθημερινότητά μας</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-29T05:36:16.479Z</updated>
+        <updated>2025-11-29T17:34:01.505Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">28 Nov 2025</span>
-  <a href="/articles/exodos/exormiseis/5-eyropaikoi-proorismoi-gia-enallaktika-hristoygenniatika-taxidia">
-    <span class="title">5 ευρωπαϊκοί προορισμοί για εναλλακτικά χριστουγεννιάτικα ταξίδια τελευταίας στιγμής</span>
+  <span class="created">29 Nov 2025</span>
+  <a href="/articles/exodos/exormiseis/kbentlinmpoyrgk-paramythenio-stolidi-tis-germanias">
+    <span class="title">Κβέντλινμπουργκ: Το παραμυθένιο στολίδι της Γερμανίας</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-29T05:36:16.480Z</updated>
+        <updated>2025-11-29T17:34:01.508Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">28 Nov 2025</span>
-  <a href="/articles/exodos/tainiesseires/spasmeni-fleba-ti-prepei-na-xereis-prin-pas-sinema">
-    <span class="title">Σπασμένη Φλέβα: Τι πρέπει να ξέρεις πριν πας σινεμά</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">29 Nov 2025</span>
+  <a href="/articles/exodos/fagitopoto/avant-garde-awards-i-filomena-pizzeria-napoletana-ypopsifia-os-kalytero">
+    <span class="title">Avant Garde Awards: Η Filomena Pizzeria Napoletana υποψήφια ως καλύτερο εστιατόριο που ετοιμάζει…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-29T05:36:16.481Z</updated>
+        <updated>2025-11-29T17:34:01.527Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-29T05:36:16.482Z</updated>
+        <updated>2025-11-29T17:34:01.528Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
