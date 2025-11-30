@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-11-30T05:36:34.951Z</updated>
+    <updated>2025-11-30T17:34:09.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-30T05:36:29.131Z</updated>
+        <updated>2025-11-30T17:34:04.220Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">29 Nov 2025</span>
-  <a href="/articles/nea/filosofies-zois-apo-ti-boreia-eyropi-poy-mporoyn-na-dosoyn-neo-rythmo-stin">
-    <span class="title">Φιλοσοφίες ζωής από τη Bόρεια Ευρώπη που μπορούν να δώσουν νέο ρυθμό στην καθημερινότητά μας</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">30 Nov 2025</span>
+  <a href="/articles/exodos/fagitopoto/ta-avant-garde-awards-proteinoyn-rokoko-forno-gia-aythentiki-neapolitan">
+    <span class="title">Τα Avant Garde Awards προτείνουν Rokoko Forno για αυθεντική Neapolitan pizza</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-30T05:36:29.133Z</updated>
+        <updated>2025-11-30T17:34:04.220Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">29 Nov 2025</span>
-  <a href="/articles/exodos/exormiseis/kbentlinmpoyrgk-paramythenio-stolidi-tis-germanias">
-    <span class="title">Κβέντλινμπουργκ: Το παραμυθένιο στολίδι της Γερμανίας</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">30 Nov 2025</span>
+  <a href="/articles/exodos/fagitopoto/agenda-poy-na-pas-simera-kyriaki-30-noembrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Κυριακή 30 Νοεμβρίου 2025</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-30T05:36:29.135Z</updated>
+        <updated>2025-11-30T17:34:04.220Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1008,9 +1008,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">29 Nov 2025</span>
-  <a href="/articles/exodos/fagitopoto/avant-garde-awards-i-filomena-pizzeria-napoletana-ypopsifia-os-kalytero">
-    <span class="title">Avant Garde Awards: Η Filomena Pizzeria Napoletana υποψήφια ως καλύτερο εστιατόριο που ετοιμάζει…</span>
+  <span class="created">30 Nov 2025</span>
+  <a href="/articles/exodos/fagitopoto/avant-garde-awards-nonna-rosa-diekdikei-ton-titlo-gia-tin-aythentikoteri">
+    <span class="title">Avant Garde Awards: Το Nonna Rosa διεκδικεί τον τίτλο για την αυθεντικότερη Neapolitan εμπειρία στο…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-30T05:36:29.136Z</updated>
+        <updated>2025-11-30T17:34:04.221Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,7 +1046,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-11-30T05:36:29.137Z</updated>
+        <updated>2025-11-30T17:34:04.222Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
