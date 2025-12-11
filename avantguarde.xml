@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-12-10T17:38:23.103Z</updated>
+    <updated>2025-12-11T05:38:29.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Βροχές, καταιγίδες και χαλάζι «χτυπούν» ξανά – Δείτε από πότε ξεκινά η νέα επιδείνωση]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/brohes-kataigides-kai-halazi-htypoyn-xana-deite-apo-pote-xekina-i-nea-epideinosi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/brohes-kataigides-kai-halazi-htypoyn-xana-deite-apo-pote-xekina-i-nea-epideinosi"/>
+        <updated>2025-12-11T05:38:25.598Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/brohes-kataigides-kai-halazi-htypoyn-xana-deite-apo-pote-xekina-i-nea-epideinosi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-12/damien-dufour-uq4207cgg44-unsplash.jpg?h=bd9bd3d4&amp;itok=yDSCnTfv" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/brohes-kataigides-kai-halazi-htypoyn-xana-deite-apo-pote-xekina-i-nea-epideinosi">Βροχές, καταιγίδες και χαλάζι «χτυπούν» ξανά – Δείτε από πότε ξεκινά η νέα επιδείνωση</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copernicus: Το 2025 οδεύει να γίνει η δεύτερη πιο θερμή χρονιά στην ιστορία]]></title>
         <id>https://avant-garde.com.cy/articles/nea/copernicus-2025-odeyei-na-ginei-i-deyteri-pio-thermi-hronia-stin-istoria</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix–Warner Bros: Η εξαγορά που ανατρέπει το Χόλιγουντ]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/netflix-warner-bros-i-exagora-poy-anatrepei-holigoynt</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/netflix-warner-bros-i-exagora-poy-anatrepei-holigoynt"/>
-        <updated>2025-12-07T17:33:46.113Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-12-11T05:38:25.494Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,50 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/netflix-warner-bros-i-exagora-poy-anatrepei-holigoynt">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-12/g7z1ooqb0aqji0e.jpeg?h=416b1678&amp;itok=x69tuwHh" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/netflix-warner-bros-i-exagora-poy-anatrepei-holigoynt">Netflix–Warner Bros: Η εξαγορά που ανατρέπει το Χόλιγουντ</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">11 Dec 2025</span>
+  <a href="/articles/nea/news/brohes-kataigides-kai-halazi-htypoyn-xana-deite-apo-pote-xekina-i-nea-epideinosi">
+    <span class="title">Βροχές, καταιγίδες και χαλάζι «χτυπούν» ξανά – Δείτε από πότε ξεκινά η νέα επιδείνωση</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.468Z</updated>
+        <updated>2025-12-11T05:38:25.494Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">11 Dec 2025</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-pempti-11-dekembrioy-2025">
+    <span class="title">Agenda: Πού να πας σήμερα – Πέμπτη 11 Δεκεμβρίου 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2025-12-11T05:38:25.494Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.468Z</updated>
+        <updated>2025-12-11T05:38:25.495Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.469Z</updated>
+        <updated>2025-12-11T05:38:25.496Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1020,62 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.470Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">10 Dec 2025</span>
-  <a href="/articles/discover-cyprus/horia/hristoygenna-sti-babla-mia-mera-gemati-paradosi-kai-zestasia">
-    <span class="title">Χριστούγεννα στη Βάβλα: Μια μέρα γεμάτη παράδοση και ζεστασιά</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.471Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">10 Dec 2025</span>
-  <a href="/articles/exodos/i-aglantzia-fotizetai-me-hristoygenniatiki-mageia">
-    <span class="title">Η Αγλαντζιά φωτίζεται με χριστουγεννιάτικη μαγεία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-10T17:38:18.472Z</updated>
+        <updated>2025-12-11T05:38:25.497Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
