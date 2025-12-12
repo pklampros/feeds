@@ -2,61 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2025-12-12T05:37:52.978Z</updated>
+    <updated>2025-12-12T17:36:43.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Υπάρχει ζωή χωρίς social media; Όλος ο κόσμος παρακολουθεί τα παιδιά της Αυστραλίας]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias</id>
-        <link href="https://avant-garde.com.cy/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias"/>
-        <updated>2025-12-11T17:41:15.460Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-12/yunus-tug-19nfon5bag8-unsplash.jpg?h=fa5f4214&amp;itok=7Zz9mjc5" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias">Υπάρχει ζωή χωρίς social media; Όλος ο κόσμος παρακολουθεί τα παιδιά της Αυστραλίας</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Πότε αρχίζει πραγματικά το χειμερινό ηλιοστάσιο;]]></title>
         <id>https://avant-garde.com.cy/articles/nea/pote-arhizei-pragmatika-heimerino-iliostasio</id>
@@ -100,6 +48,110 @@
 </a></span>
 <span class="title-channel-date">
     <span class="title"><a href="/articles/nea/pote-arhizei-pragmatika-heimerino-iliostasio">Πότε αρχίζει πραγματικά το χειμερινό ηλιοστάσιο;</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η ευρωπαϊκή πρωτεύουσα που αναδείχθηκε ξανά η κορυφαία πόλη του κόσμου]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/i-eyropaiki-proteyoysa-poy-anadeihthike-xana-i-koryfaia-poli-toy-kosmoy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/i-eyropaiki-proteyoysa-poy-anadeihthike-xana-i-koryfaia-poli-toy-kosmoy"/>
+        <updated>2025-12-12T17:36:38.804Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/i-eyropaiki-proteyoysa-poy-anadeihthike-xana-i-koryfaia-poli-toy-kosmoy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-12/getty-images-rz5hujirs4o-unsplash.jpg?h=e285aa82&amp;itok=tLEN05q2" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/i-eyropaiki-proteyoysa-poy-anadeihthike-xana-i-koryfaia-poli-toy-kosmoy">Η ευρωπαϊκή πρωτεύουσα που αναδείχθηκε ξανά η κορυφαία πόλη του κόσμου</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Υπάρχει ζωή χωρίς social media; Όλος ο κόσμος παρακολουθεί τα παιδιά της Αυστραλίας]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias</id>
+        <link href="https://avant-garde.com.cy/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias"/>
+        <updated>2025-12-11T17:41:15.460Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-12/yunus-tug-19nfon5bag8-unsplash.jpg?h=fa5f4214&amp;itok=7Zz9mjc5" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias">Υπάρχει ζωή χωρίς social media; Όλος ο κόσμος παρακολουθεί τα παιδιά της Αυστραλίας</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
     </span>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZAZZA: Μαγική πρεμιέρα στο νέο στολίδι της Κύπρου!]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/zazza-magiki-premiera-sto-neo-stolidi-tis-kyproy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/zazza-magiki-premiera-sto-neo-stolidi-tis-kyproy"/>
-        <updated>2025-12-08T17:36:35.574Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/zazza-magiki-premiera-sto-neo-stolidi-tis-kyproy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-12/2e6a2589_1.jpg?h=2992ba0a&amp;itok=w74CFilt" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/zazza-magiki-premiera-sto-neo-stolidi-tis-kyproy"> ZAZZA: Μαγική πρεμιέρα στο νέο στολίδι της Κύπρου!</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.073Z</updated>
+        <updated>2025-12-12T17:36:38.636Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΝΕΑ</span>
   <span class="created">12 Dec 2025</span>
-  <a href="/articles/exodos/electric-dreams-ena-eikastiko-taxidi-anamesa-sto-oneiro-kai-tin-pragmatikotita">
-    <span class="title">Electric Dreams: ένα εικαστικό ταξίδι ανάμεσα στο όνειρο και την πραγματικότητα</span>
+  <a href="/articles/nea/pote-arhizei-pragmatika-heimerino-iliostasio">
+    <span class="title">Πότε αρχίζει πραγματικά το χειμερινό ηλιοστάσιο;</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.074Z</updated>
+        <updated>2025-12-12T17:36:38.638Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΧΩΡΙΑ</span>
   <span class="created">12 Dec 2025</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-paraskeyi-12-dekembrioy-2025">
-    <span class="title">Agenda: Πού να πας σήμερα – Παρασκευή 12 Δεκεμβρίου 2025</span>
+  <a href="/articles/discover-cyprus/horia/i-pio-magiki-epohi-toy-hronoy-xekina-sto-psilotero-horio-tis-kyproy">
+    <span class="title">Η πιο μαγική εποχή του χρόνου ξεκινά στο ψηλότερο χωριό της Κύπρου</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.074Z</updated>
+        <updated>2025-12-12T17:36:38.638Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">11 Dec 2025</span>
-  <a href="/articles/exodos/erhetai-ena-monadiko-hristoygenniatiko-festibal-sto-parko-akropolis">
-    <span class="title">Έρχεται ένα μοναδικό χριστουγεννιάτικο φεστιβάλ στο πάρκο Ακρόπολης</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">12 Dec 2025</span>
+  <a href="/articles/exodos/fagitopoto/nea-epohi-sto-wood-n-fire-me-nea-organika-psomia">
+    <span class="title">Νέα εποχή στο Wood N’ Fire με νέα οργανικά ψωμιά </span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.075Z</updated>
+        <updated>2025-12-12T17:36:38.638Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">11 Dec 2025</span>
-  <a href="/articles/discover-cyprus/horia/plateia-hristoygennon-mia-kyriakatiki-apodrasi-ston-agio-ioanni-toy">
-    <span class="title">Πλατεία Χριστουγέννων: Μια κυριακάτικη απόδραση στον Άγιο Ιωάννη του Αγρού </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">12 Dec 2025</span>
+  <a href="/articles/exodos/giortinos-dekembrios-sto-columbia-beach-resort">
+    <span class="title">Γιορτινός Δεκέμβριος στο Columbia Beach Resort</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.077Z</updated>
+        <updated>2025-12-12T17:36:38.640Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">11 Dec 2025</span>
-  <a href="/articles/nea/yparhei-zoi-horis-social-media-olos-o-kosmos-parakoloythei-ta-paidia-tis-aystralias">
-    <span class="title">Υπάρχει ζωή χωρίς social media; Όλος ο κόσμος παρακολουθεί τα παιδιά της Αυστραλίας</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">12 Dec 2025</span>
+  <a href="/articles/exodos/tainiesseires/proto-trailer-toy-supergirl-einai-edo">
+    <span class="title">Tο πρώτο trailer του Supergirl είναι εδώ!</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2025-12-12T05:37:48.078Z</updated>
+        <updated>2025-12-12T17:36:38.643Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
