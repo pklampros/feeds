@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-01-17T05:37:09.170Z</updated>
+    <updated>2026-01-17T17:35:05.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Το Κορίτσι με το Μαργαριταρένιο Σκουλαρίκι» ταξιδεύει από την Ολλανδία στην Ιαπωνία]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/koritsi-me-margaritarenio-skoylariki-taxideyei-apo-tin-ollandia-stin-iaponia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/koritsi-me-margaritarenio-skoylariki-taxideyei-apo-tin-ollandia-stin-iaponia"/>
+        <updated>2026-01-17T17:35:00.984Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/koritsi-me-margaritarenio-skoylariki-taxideyei-apo-tin-ollandia-stin-iaponia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-01/485354725_1185400213263261_175901717737424684_n.jpg?h=0cc1ff48&amp;itok=tZYQrwCK" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/koritsi-me-margaritarenio-skoylariki-taxideyei-apo-tin-ollandia-stin-iaponia">«Το Κορίτσι με το Μαργαριταρένιο Σκουλαρίκι» ταξιδεύει από την Ολλανδία στην Ιαπωνία</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify: Ακριβαίνει τα πακέτα του σε ορισμένες περιοχές]]></title>
         <id>https://avant-garde.com.cy/articles/nea/spotify-akribainei-ta-paketa-toy-se-orismenes-periohes</id>
@@ -786,58 +838,6 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Εννέα προϊόντα με τοξικές και καρκινογόνες ουσίες εντοπίστηκαν στην κυπριακή αγορά]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora"/>
-        <updated>2026-01-14T05:39:44.486Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/mintosko-ddlkvlhxdn0-unsplash.jpg?h=790be497&amp;itok=2XyShSXG" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora">Εννέα προϊόντα με τοξικές και καρκινογόνες ουσίες εντοπίστηκαν στην κυπριακή αγορά</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Τρίτη και 13: Γιατί θεωρείται γρουσούζικη μέρα;]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/triti-kai-13-giati-theoreitai-groysoyziki-mera</id>
         <link href="https://avant-garde.com.cy/articles/nea/news/triti-kai-13-giati-theoreitai-groysoyziki-mera"/>
@@ -890,10 +890,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mirumi: Το επόμενο μεγάλο obsession μετά τα Labubu στη βιομηχανία των λούτρινων]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/mirumi-epomeno-megalo-obsession-meta-ta-labubu-sti-biomihania-ton-loytrinon</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/mirumi-epomeno-megalo-obsession-meta-ta-labubu-sti-biomihania-ton-loytrinon"/>
-        <updated>2026-01-13T05:39:53.228Z</updated>
+        <title type="html"><![CDATA[Εννέα προϊόντα με τοξικές και καρκινογόνες ουσίες εντοπίστηκαν στην κυπριακή αγορά]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora</id>
+        <link href="https://avant-garde.com.cy/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora"/>
+        <updated>2026-01-14T05:39:44.486Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,7 +902,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/mirumi-epomeno-megalo-obsession-meta-ta-labubu-sti-biomihania-ton-loytrinon">
+<span class="media"><a href="/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora">
 
 
 
@@ -917,7 +917,7 @@
 
 
 
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/mirumi_2-1-2048x1352.png?h=68986eaf&amp;itok=LjSQXuAr" width="575" height="400" alt="" class="img-responsive">
+<img src="/sites/default/files/styles/featured_articles/public/2026-01/mintosko-ddlkvlhxdn0-unsplash.jpg?h=790be497&amp;itok=2XyShSXG" width="575" height="400" alt="" class="img-responsive">
 
 
 
@@ -931,9 +931,9 @@
 
 </a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/mirumi-epomeno-megalo-obsession-meta-ta-labubu-sti-biomihania-ton-loytrinon">Mirumi: Το επόμενο μεγάλο obsession μετά τα Labubu στη βιομηχανία των λούτρινων</a></span>
+    <span class="title"><a href="/articles/nea/ennea-proionta-me-toxikes-kai-karkinogones-oysies-entopistikan-stin-kypriaki-agora">Εννέα προϊόντα με τοξικές και καρκινογόνες ουσίες εντοπίστηκαν στην κυπριακή αγορά</a></span>
     <span>
-      <span class="channel">NEWS</span>
+      <span class="channel">ΝΕΑ</span>
     </span>
 </span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
@@ -945,7 +945,111 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.489Z</updated>
+        <updated>2026-01-17T17:35:00.886Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">17 Jan 2026</span>
+  <a href="/articles/exodos/xekina-simera-3o-diethnes-festibal-heimerinon-kolymbiton-agias-napas">
+    <span class="title">Ξεκινά σήμερα το 3ο Διεθνές Φεστιβάλ Χειμερινών Κολυμβητών Αγίας Νάπας</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-17T17:35:00.886Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">17 Jan 2026</span>
+  <a href="/articles/exodos/tainiesseires/etoimazontai-na-feroyn-sequel-toy-game-thrones">
+    <span class="title">Ετοιμάζονται να φέρουν το sequel του Game of Thrones!</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-17T17:35:00.887Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">17 Jan 2026</span>
+  <a href="/articles/exodos/exormiseis/8-taxidiotikes-taseis-poy-tha-doyme-2026">
+    <span class="title">8 ταξιδιωτικές τάσεις που θα δούμε το 2026</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-17T17:35:00.888Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">17 Jan 2026</span>
+  <a href="/articles/nea/koritsi-me-margaritarenio-skoylariki-taxideyei-apo-tin-ollandia-stin-iaponia">
+    <span class="title">«Το Κορίτσι με το Μαργαριταρένιο Σκουλαρίκι» ταξιδεύει από την Ολλανδία στην Ιαπωνία</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-17T17:35:00.888Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.489Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">16 Jan 2026</span>
-  <a href="/articles/nea/enas-hronos-horis-ton-david-lynch-kanoyme-marathonio">
-    <span class="title">Ένας χρόνος χωρίς τον David Lynch - Ας κάνουμε μαραθώνιο </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.489Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
-  <span class="created">16 Jan 2026</span>
-  <a href="/articles/nea/istories/rififi-i-alithini-istoria-piso-apo-tin-omonymi-seira-toy-sotiri-tsafoylia">
-    <span class="title">Ριφιφί: Η αληθινή ιστορία πίσω από την ομώνυμη σειρά του Σωτήρη Τσαφούλια</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.492Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">16 Jan 2026</span>
-  <a href="/articles/nea/della-h-neari-kypria-kallitehnis-kerdizei-mme-jury-award-kai-kykloforei-neo-single">
-    <span class="title">Della: H νεαρή Κύπρια καλλιτέχνις κερδίζει το MME Jury Award και κυκλοφορεί το νέο single «waste»​</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.493Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">16 Jan 2026</span>
-  <a href="/articles/exodos/moysiki/11o-cyprus-international-tattoo-convention-anakoinose-moysiko-programma-tis">
-    <span class="title">To 11o Cyprus International Tattoo Convention ανακοίνωσε το μουσικό πρόγραμμα της φετινής…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-17T05:37:03.494Z</updated>
+        <updated>2026-01-17T17:35:00.889Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
