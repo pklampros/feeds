@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-01-31T05:44:49.258Z</updated>
+    <updated>2026-01-31T17:39:18.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Χρυσά Βατόμουρα 2026: Η «μαύρη λίστα» του Χόλιγουντ - Από τη «Χιονάτη» μέχρι τον Ρόμπερτ Ντε Νίρο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/hrysa-batomoyra-2026-i-mayri-lista-toy-holigoynt-apo-ti-hionati-mehri-ton-rompert-nte</id>
+        <link href="https://avant-garde.com.cy/articles/nea/hrysa-batomoyra-2026-i-mayri-lista-toy-holigoynt-apo-ti-hionati-mehri-ton-rompert-nte"/>
+        <updated>2026-01-31T17:39:13.370Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/hrysa-batomoyra-2026-i-mayri-lista-toy-holigoynt-apo-ti-hionati-mehri-ton-rompert-nte">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-01/snapinsta.to_614850577_18418717951186903_6134248252839416513_n_1.jpg?h=b7de7f43&amp;itok=t_33nVpV" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/hrysa-batomoyra-2026-i-mayri-lista-toy-holigoynt-apo-ti-hionati-mehri-ton-rompert-nte">Χρυσά Βατόμουρα 2026: Η «μαύρη λίστα» του Χόλιγουντ - Από τη «Χιονάτη» μέχρι τον Ρόμπερτ Ντε Νίρο</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Τα 10 πιο ασυνήθιστα αντικείμενα που βρέθηκαν στον έλεγχο αεροδρομίων το 2025]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/ta-10-pio-asynithista-antikeimena-poy-brethikan-ston-elegho-aerodromion-2025</id>
+        <link href="https://avant-garde.com.cy/articles/nea/ta-10-pio-asynithista-antikeimena-poy-brethikan-ston-elegho-aerodromion-2025"/>
+        <updated>2026-01-31T17:39:13.371Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/ta-10-pio-asynithista-antikeimena-poy-brethikan-ston-elegho-aerodromion-2025">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-01/daniel-x6tdu7ewac4-unsplash.jpg?h=7157b26b&amp;itok=VhNysLZv" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/ta-10-pio-asynithista-antikeimena-poy-brethikan-ston-elegho-aerodromion-2025">Τα 10 πιο ασυνήθιστα αντικείμενα που βρέθηκαν στον έλεγχο αεροδρομίων το 2025</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Θεόδωρος Αριστοδήμου: Δηλώνει ξανά στον αέρα 10 χρόνια μετά ότι προτίθεται να καταθέσει σοβαρά…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/theodoros-aristodimoy-dilonei-xana-ston-aera-10-hronia-meta-oti-protithetai-na</id>
@@ -838,114 +942,114 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[«Κράτα Με»: Με δυναμική πρεμιέρα στο Sundance και διπλό standing ovation ξεκίνησε τη φεστιβαλική…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/krata-me-me-dynamiki-premiera-sto-sundance-kai-diplo-standing-ovation-xekinise-ti</id>
-        <link href="https://avant-garde.com.cy/articles/nea/krata-me-me-dynamiki-premiera-sto-sundance-kai-diplo-standing-ovation-xekinise-ti"/>
-        <updated>2026-01-27T17:41:13.667Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/krata-me-me-dynamiki-premiera-sto-sundance-kai-diplo-standing-ovation-xekinise-ti">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/img_7784.jpeg?h=71976bb4&amp;itok=_MwfwTgY" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/krata-me-me-dynamiki-premiera-sto-sundance-kai-diplo-standing-ovation-xekinise-ti">«Κράτα Με»: Με δυναμική πρεμιέρα στο Sundance και διπλό standing ovation ξεκίνησε τη φεστιβαλική…</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Χάρτης παγκόσμιας λειψυδρίας: 39 μεγάλες πόλεις σε ακραία υδατική πίεση]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/hartis-pagkosmias-leipsydrias-39-megales-poleis-se-akraia-ydatiki-piesi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/hartis-pagkosmias-leipsydrias-39-megales-poleis-se-akraia-ydatiki-piesi"/>
-        <updated>2026-01-27T17:41:13.670Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/hartis-pagkosmias-leipsydrias-39-megales-poleis-se-akraia-ydatiki-piesi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/chamika-jayasri-suvogg-y074-unsplash.jpg?h=71976bb4&amp;itok=W9d_QnZ1" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/hartis-pagkosmias-leipsydrias-39-megales-poleis-se-akraia-ydatiki-piesi">Χάρτης παγκόσμιας λειψυδρίας: 39 μεγάλες πόλεις σε ακραία υδατική πίεση</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.089Z</updated>
+        <updated>2026-01-31T17:39:13.233Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">31 Jan 2026</span>
+  <a href="/articles/nea/hrysa-batomoyra-2026-i-mayri-lista-toy-holigoynt-apo-ti-hionati-mehri-ton-rompert-nte">
+    <span class="title">Χρυσά Βατόμουρα 2026: Η «μαύρη λίστα» του Χόλιγουντ - Από τη «Χιονάτη» μέχρι τον Ρόμπερτ Ντε Νίρο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-31T17:39:13.245Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">31 Jan 2026</span>
+  <a href="/articles/exodos/palaia-pineza-dyo-meres-karnabalikoy-xefantomatos-moysikis-kai-cocktails-mehri">
+    <span class="title">Παλαιά Πινέζα: Δύο μέρες καρναβαλικού ξεφαντώματος, μουσικής και cocktails μέχρι τελικής πτώσης</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-31T17:39:13.245Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">31 Jan 2026</span>
+  <a href="/articles/nea/ta-10-pio-asynithista-antikeimena-poy-brethikan-ston-elegho-aerodromion-2025">
+    <span class="title">Τα 10 πιο ασυνήθιστα αντικείμενα που βρέθηκαν στον έλεγχο αεροδρομίων το 2025</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-31T17:39:13.246Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">31 Jan 2026</span>
+  <a href="/articles/exodos/tainiesseires/ta-epta-rologia-tis-agkatha-kristi-101-fun-facts-gia-ti-seira-toy">
+    <span class="title">Τα Επτά Ρολόγια της Αγκάθα Κρίστι: 10+1 fun facts για τη σειρά του Netflix</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-01-31T17:39:13.248Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.090Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">30 Jan 2026</span>
-  <a href="/articles/exodos/weaving-workshops-ena-dimioyrgiko-taxidi-stin-tehni-tis-yfansis">
-    <span class="title">Weaving Workshops: Ένα δημιουργικό ταξίδι στην τέχνη της ύφανσης</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.092Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">30 Jan 2026</span>
-  <a href="/articles/exodos/xypnima-sto-boyno-anabasi-sto-stayroboyni-prin-xypnisei-i-poli">
-    <span class="title">Ξύπνημα στο βουνό: Ανάβαση στο Σταυροβούνι πριν ξυπνήσει η πόλη</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.093Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">30 Jan 2026</span>
-  <a href="/articles/nea/theodoros-aristodimoy-dilonei-xana-ston-aera-10-hronia-meta-oti-protithetai-na">
-    <span class="title">Θεόδωρος Αριστοδήμου: Δηλώνει ξανά στον αέρα 10 χρόνια μετά ότι προτίθεται να καταθέσει σοβαρά…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.094Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">30 Jan 2026</span>
-  <a href="/articles/nea/faidonas-faidonos-giati-i-astynomia-kyproy-xekinise-aytapaggelti-ereyna-gia-dimarho">
-    <span class="title">Φαίδωνας Φαίδωνος: Γιατί η Αστυνομία Κύπρου ξεκίνησε αυταπάγγελτη έρευνα για το δήμαρχο της Πάφου</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-01-31T05:44:43.095Z</updated>
+        <updated>2026-01-31T17:39:13.250Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
