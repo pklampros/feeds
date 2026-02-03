@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-02T17:44:36.943Z</updated>
+    <updated>2026-02-03T05:47:22.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Το «Καρναβάλι της Αγάπης» επιστρέφει στα Λύμπια με την 9η Καρναβαλίστικη Παρέλαση]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi"/>
+        <updated>2026-02-03T05:47:17.207Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-02/getty-images-be0yrpps3l8-unsplash.jpg?h=0775493e&amp;itok=HvjyHgsV" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi">Το «Καρναβάλι της Αγάπης» επιστρέφει στα Λύμπια με την 9η Καρναβαλίστικη Παρέλαση</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2026: Με το "JALLA" η Κύπρος στην Βιέννη]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2026-me-jalla-i-kypros-stin-bienni</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2026-me-jalla-i-kypros-stin-bienni"/>
+        <updated>2026-02-03T05:47:17.208Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eurovision-2026-me-jalla-i-kypros-stin-bienni">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/facetune_14-09-2025-01-29-06.jpeg?h=3050137a&amp;itok=fq-GGSZy" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eurovision-2026-me-jalla-i-kypros-stin-bienni">Eurovision 2026: Με το "JALLA" η Κύπρος στην Βιέννη</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Πού έφτασε η ευρηματικότητα ενός runner για να αποκτήσει ένα μηχάνημα γυμναστικής που δεν…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/poy-eftase-i-eyrimatikotita-enos-runner-gia-na-apoktisei-ena-mihanima</id>
@@ -838,114 +942,62 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taste Atlas: Δύο ελληνικά πιάτα ανάμεσα στα 100 χειρότερα του κόσμου]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-dyo-ellinika-piata-anamesa-sta-100-heirotera-toy-kosmoy</id>
-        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-dyo-ellinika-piata-anamesa-sta-100-heirotera-toy-kosmoy"/>
-        <updated>2026-01-29T17:44:36.019Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/taste-atlas-dyo-ellinika-piata-anamesa-sta-100-heirotera-toy-kosmoy">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/snapinsta.to_526995722_18393648988138188_4423326208632105944_n_0.jpg?h=3dbd9eac&amp;itok=5jS7p9ux" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/taste-atlas-dyo-ellinika-piata-anamesa-sta-100-heirotera-toy-kosmoy">Taste Atlas: Δύο ελληνικά πιάτα ανάμεσα στα 100 χειρότερα του κόσμου</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Αμήχανη αποκάλυψη του Ρέιφ Φάινς για τον διάδοχό του στον ρόλο του Voldemort]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/amihani-apokalypsi-toy-reif-fains-gia-ton-diadoho-toy-ston-rolo-toy-voldemort</id>
-        <link href="https://avant-garde.com.cy/articles/nea/amihani-apokalypsi-toy-reif-fains-gia-ton-diadoho-toy-ston-rolo-toy-voldemort"/>
-        <updated>2026-01-28T17:42:54.734Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/amihani-apokalypsi-toy-reif-fains-gia-ton-diadoho-toy-ston-rolo-toy-voldemort">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/468638621_10162759953563949_5638428880708244192_n_0.jpg?h=dc6d8161&amp;itok=YIXT_1Bd" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/amihani-apokalypsi-toy-reif-fains-gia-ton-diadoho-toy-ston-rolo-toy-voldemort">Αμήχανη αποκάλυψη του Ρέιφ Φάινς για τον διάδοχό του στον ρόλο του Voldemort</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.722Z</updated>
+        <updated>2026-02-03T05:47:17.105Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">02 Feb 2026</span>
+  <a href="/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi">
+    <span class="title">Το «Καρναβάλι της Αγάπης» επιστρέφει στα Λύμπια με την 9η Καρναβαλίστικη Παρέλαση</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-03T05:47:17.106Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">02 Feb 2026</span>
+  <a href="/articles/nea/news/eurovision-2026-me-jalla-i-kypros-stin-bienni">
+    <span class="title">Eurovision 2026: Με το "JALLA" η Κύπρος στην Βιέννη</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-03T05:47:17.106Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.722Z</updated>
+        <updated>2026-02-03T05:47:17.107Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.722Z</updated>
+        <updated>2026-02-03T05:47:17.108Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1020,62 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.722Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">02 Feb 2026</span>
-  <a href="/articles/nea/kostas-gabriilidis-prepei-na-eisai-perifanos-gi-ayto-poy-eisai-horis-na-ntrepesai">
-    <span class="title">Κώστας Γαβριηλίδης: «Πρέπει να είσαι περήφανος γι' αυτό που είσαι, χωρίς να ντρέπεσαι»</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.724Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">02 Feb 2026</span>
-  <a href="/articles/exodos/fagitopoto/gallery-sto-parklane-paroysiazei-neo-all-day-menu-brunch-lunch-dinner">
-    <span class="title">Το The Gallery στο Parklane παρουσιάζει το νέο All-Day Menu: Brunch, Lunch &amp; Dinner</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-02T17:44:30.726Z</updated>
+        <updated>2026-02-03T05:47:17.110Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
