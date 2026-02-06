@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-06T05:47:18.299Z</updated>
+    <updated>2026-02-06T17:45:03.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Καρναβάλι Λεμεσού: H βασίλισσα και το πρόγραμμα της μεγάλης γιορτής]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis"/>
+        <updated>2026-02-06T17:44:58.966Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/46f2470d3e_1.jpg?h=1c9b88c9&amp;itok=n1qagmbg" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis">Καρναβάλι Λεμεσού: H βασίλισσα και το πρόγραμμα της μεγάλης γιορτής</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ένας ειλικρινής οδηγός για το πώς βάζουμε στόχους με αυτοπεποίθηση και τους εγκαταλείπουμε με……]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/enas-eilikrinis-odigos-gia-pos-bazoyme-stohoys-me-aytopepoithisi-kai-toys</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grammy Awards 2026: Οι νικητές μιας χρονιάς που άλλαξε τους κανόνες]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/grammy-awards-2026-oi-nikites-mias-hronias-poy-allaxe-toys-kanones</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/grammy-awards-2026-oi-nikites-mias-hronias-poy-allaxe-toys-kanones"/>
-        <updated>2026-02-02T17:44:30.888Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/grammy-awards-2026-oi-nikites-mias-hronias-poy-allaxe-toys-kanones">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/gettyimages-2258959023-scaled.jpg?h=5c98aa11&amp;itok=ELxbK9HV" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/grammy-awards-2026-oi-nikites-mias-hronias-poy-allaxe-toys-kanones">Grammy Awards 2026: Οι νικητές μιας χρονιάς που άλλαξε τους κανόνες</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.484Z</updated>
+        <updated>2026-02-06T17:44:58.849Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -956,9 +956,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">05 Feb 2026</span>
-  <a href="/articles/exodos/ananeomeno-kai-pio-syghrono-apo-pote-kypriako-moyseio">
-    <span class="title">Ανανεωμένο και πιο σύγχρονο από ποτέ το Κυπριακό Μουσείο</span>
+  <span class="created">06 Feb 2026</span>
+  <a href="/articles/exodos/retro-carnival-party-pio-xefreno-apokriatiko-taxidi-ston-hrono">
+    <span class="title">Retro Carnival Party: Το πιο ξέφρενο αποκριάτικο ταξίδι στον χρόνο</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.484Z</updated>
+        <updated>2026-02-06T17:44:58.849Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">05 Feb 2026</span>
-  <a href="/articles/exodos/lexeis-gnoseis-kai-paihnidi-otan-i-mathisi-ginetai-diaskedasi-sti-dimotiki">
-    <span class="title">Λέξεις, Γνώσεις και Παιχνίδι: Όταν η μάθηση γίνεται διασκέδαση στη Δημοτική Βιβλιοθήκη Λάρνακας</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">06 Feb 2026</span>
+  <a href="/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis">
+    <span class="title">Καρναβάλι Λεμεσού: H βασίλισσα και το πρόγραμμα της μεγάλης γιορτής</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.485Z</updated>
+        <updated>2026-02-06T17:44:58.849Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
-  <span class="created">05 Feb 2026</span>
-  <a href="/articles/exodos/exormiseis/mathainoyme-leykaritiko-kentima-enas-kyklos-ergastirion-poy-krata">
-    <span class="title">Μαθαίνουμε Λευκαρίτικο Κέντημα: Ένας κύκλος εργαστηρίων που κρατά ζωντανή την κυπριακή παράδοση</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">06 Feb 2026</span>
+  <a href="/articles/festibal/cult-b-movies-festival-ola-osa-tha-ginoyn-sti-lemeso-ayto-sabbatokyriako">
+    <span class="title"> Cult &amp; B-Movies Festival: Όλα όσα θα γίνουν στη Λεμεσό αυτό το σαββατοκύριακο</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.487Z</updated>
+        <updated>2026-02-06T17:44:58.850Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΙΣΤΟΡΙΕΣ</span>
-  <span class="created">05 Feb 2026</span>
-  <a href="/articles/nea/istories/enas-eilikrinis-odigos-gia-pos-bazoyme-stohoys-me-aytopepoithisi-kai-toys">
-    <span class="title">Ένας ειλικρινής οδηγός για το πώς βάζουμε στόχους με αυτοπεποίθηση και τους εγκαταλείπουμε με……</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">06 Feb 2026</span>
+  <a href="/articles/exodos/o-dimos-larnakas-mas-kerna-paradosi-tin-kathara-deytera">
+    <span class="title">Ο Δήμος Λάρνακας μάς "κερνά" παράδοση την Καθαρά Δευτέρα</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.488Z</updated>
+        <updated>2026-02-06T17:44:58.850Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">05 Feb 2026</span>
-  <a href="/articles/nea/o-dimos-leykosias-anakoinose-ton-basilia-karnabalo-m-ena-asteio-binteo">
-    <span class="title">Ο Δήμος Λευκωσίας ανακοίνωσε τον Βασιλιά Καρνάβαλο μ' ένα αστείο βίντεο</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">06 Feb 2026</span>
+  <a href="/articles/exodos/theatrohoros/ta-kainoyria-royha-toy-basilia-pote-tha-aneboyn-oi-tesseris-teleytaies">
+    <span class="title">Τα καινούρια ρούχα του βασιλιά: Πότε θα ανεβούν οι τέσσερις τελευταίες παραστάσεις </span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-06T05:47:13.492Z</updated>
+        <updated>2026-02-06T17:44:58.851Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
