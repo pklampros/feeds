@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-07T05:45:17.232Z</updated>
+    <updated>2026-02-07T17:40:37.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Last Flight»: Ένα θρίλερ επιβίωσης βασισμένο σε αληθινά γεγονότα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/last-flight-ena-thriler-epibiosis-basismeno-se-alithina-gegonota</id>
+        <link href="https://avant-garde.com.cy/articles/nea/last-flight-ena-thriler-epibiosis-basismeno-se-alithina-gegonota"/>
+        <updated>2026-02-07T17:40:33.013Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/last-flight-ena-thriler-epibiosis-basismeno-se-alithina-gegonota">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/236545047_6318928931451381_7483148750515625526_n.jpg?h=f97fb7ee&amp;itok=NeNmV51K" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/last-flight-ena-thriler-epibiosis-basismeno-se-alithina-gegonota">«Last Flight»: Ένα θρίλερ επιβίωσης βασισμένο σε αληθινά γεγονότα</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Καρναβάλι Λεμεσού: H βασίλισσα και το πρόγραμμα της μεγάλης γιορτής]]></title>
         <id>https://avant-garde.com.cy/articles/nea/karnabali-lemesoy-h-basilissa-kai-programma-tis-megalis-giortis</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ermis Awards: Η ταινία «Diver» της Cyta κατακτά βραβεία σε τρεις διαφορετικές κατηγορίες]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/ermis-awards-i-tainia-diver-tis-cyta-katakta-brabeia-se-treis-diaforetikes-katigories</id>
-        <link href="https://avant-garde.com.cy/articles/nea/ermis-awards-i-tainia-diver-tis-cyta-katakta-brabeia-se-treis-diaforetikes-katigories"/>
-        <updated>2026-02-02T17:44:30.884Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-07T17:40:32.906Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,76 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/ermis-awards-i-tainia-diver-tis-cyta-katakta-brabeia-se-treis-diaforetikes-katigories">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/standard_avant_garde_-_2026-02-02t105558.796.jpg?h=d1cb525d&amp;itok=bwkKWGV6" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/ermis-awards-i-tainia-diver-tis-cyta-katakta-brabeia-se-treis-diaforetikes-katigories">Ermis Awards: Η ταινία «Diver» της Cyta κατακτά βραβεία σε τρεις διαφορετικές κατηγορίες </a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">07 Feb 2026</span>
+  <a href="/articles/exodos/theatrohoros/kalokairini-paragogi-2026-erhetai-o-ion-toy-eyripidi-se-skinothesia">
+    <span class="title">Καλοκαιρινή παραγωγή 2026: Έρχεται Ο Ίων του Ευριπίδη σε σκηνοθεσία του Θωμά Μοσχόπουλου</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.610Z</updated>
+        <updated>2026-02-07T17:40:32.906Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">07 Feb 2026</span>
+  <a href="/articles/exodos/exormiseis/oi-20-oraioteres-mesaionikes-poleis-tis-eyropis-symfona-me-european-best">
+    <span class="title">Οι 20 ωραιότερες μεσαιωνικές πόλεις της Ευρώπης σύμφωνα με το European Best Destinations</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-07T17:40:32.908Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">07 Feb 2026</span>
+  <a href="/articles/nea/last-flight-ena-thriler-epibiosis-basismeno-se-alithina-gegonota">
+    <span class="title">«Last Flight»: Ένα θρίλερ επιβίωσης βασισμένο σε αληθινά γεγονότα</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-07T17:40:32.908Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.610Z</updated>
+        <updated>2026-02-07T17:40:32.909Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.610Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">06 Feb 2026</span>
-  <a href="/articles/festibal/cult-b-movies-festival-ola-osa-tha-ginoyn-sti-lemeso-ayto-sabbatokyriako">
-    <span class="title"> Cult &amp; B-Movies Festival: Όλα όσα θα γίνουν στη Λεμεσό αυτό το σαββατοκύριακο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.611Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">06 Feb 2026</span>
-  <a href="/articles/exodos/o-dimos-larnakas-mas-kerna-paradosi-tin-kathara-deytera">
-    <span class="title">Ο Δήμος Λάρνακας μάς "κερνά" παράδοση την Καθαρά Δευτέρα</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.611Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">06 Feb 2026</span>
-  <a href="/articles/exodos/theatrohoros/ta-kainoyria-royha-toy-basilia-pote-tha-aneboyn-oi-tesseris-teleytaies">
-    <span class="title">Τα καινούρια ρούχα του βασιλιά: Πότε θα ανεβούν οι τέσσερις τελευταίες παραστάσεις </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-07T05:45:12.612Z</updated>
+        <updated>2026-02-07T17:40:32.910Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
