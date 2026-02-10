@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-09T17:46:53.564Z</updated>
+    <updated>2026-02-10T05:58:04.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Άστατος καιρός με βροχές, καταιγίδες και χιόνια στο Τρόοδος – Επιστρέφει και η σκόνη]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/astatos-kairos-me-brohes-kataigides-kai-hionia-sto-troodos-epistrefei-kai-i-skoni</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/astatos-kairos-me-brohes-kataigides-kai-hionia-sto-troodos-epistrefei-kai-i-skoni"/>
+        <updated>2026-02-10T05:57:59.946Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/astatos-kairos-me-brohes-kataigides-kai-hionia-sto-troodos-epistrefei-kai-i-skoni">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2025-12/raychel-sanner-dydirn1ot04-unsplash.jpg?h=7425e3af&amp;itok=Yqp3WOIw" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/astatos-kairos-me-brohes-kataigides-kai-hionia-sto-troodos-epistrefei-kai-i-skoni">Άστατος καιρός με βροχές, καταιγίδες και χιόνια στο Τρόοδος – Επιστρέφει και η σκόνη</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το Proper Property Magazine κυκλοφορεί τον τόμο 4]]></title>
         <id>https://avant-garde.com.cy/articles/nea/proper-property-magazine-kykloforei-ton-tomo-4</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το «Καρναβάλι της Αγάπης» επιστρέφει στα Λύμπια με την 9η Καρναβαλίστικη Παρέλαση]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi"/>
-        <updated>2026-02-03T05:47:17.207Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-02/getty-images-be0yrpps3l8-unsplash.jpg?h=0775493e&amp;itok=HvjyHgsV" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/karnabali-tis-agapis-epistrefei-sta-lympia-me-tin-9i-karnabalistiki-parelasi">Το «Καρναβάλι της Αγάπης» επιστρέφει στα Λύμπια με την 9η Καρναβαλίστικη Παρέλαση</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.938Z</updated>
+        <updated>2026-02-10T05:57:59.836Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">09 Feb 2026</span>
-  <a href="/articles/exodos/may-fiesta-sto-kolossi-park-triimero-giortis-poy-tha-xesikosei-ola-ta-paidia">
-    <span class="title">May Fiesta στο Kolossi Park: Το τριήμερο γιορτής που θα ξεσηκώσει όλα τα παιδιά </span>
+  <span class="channel">NEWS</span>
+  <span class="created">10 Feb 2026</span>
+  <a href="/articles/nea/news/astatos-kairos-me-brohes-kataigides-kai-hionia-sto-troodos-epistrefei-kai-i-skoni">
+    <span class="title">Άστατος καιρός με βροχές, καταιγίδες και χιόνια στο Τρόοδος – Επιστρέφει και η σκόνη</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.938Z</updated>
+        <updated>2026-02-10T05:57:59.837Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -982,9 +982,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">09 Feb 2026</span>
-  <a href="/articles/exodos/giortaste-ti-mera-toy-erota-me-treis-xehoristoys-tropoys">
-    <span class="title">Γιορτάστε τη μέρα του Έρωτα με τρεις ξεχωριστούς τρόπους</span>
+  <span class="created">10 Feb 2026</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-triti-10-febroyarioy-2026">
+    <span class="title">Agenda: Πού να πας σήμερα – Τρίτη 10 Φεβρουαρίου 2026</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.944Z</updated>
+        <updated>2026-02-10T05:57:59.838Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
   <span class="created">09 Feb 2026</span>
-  <a href="/articles/exodos/ergastiri-pello-maskas-ziste-ti-mageia-toy-karnabalioy-mesa-apo-ena-dimioyrgiko">
-    <span class="title">Εργαστήρι Πελλό–Μασκας: Ζήστε τη μαγεία του Καρναβαλιού μέσα από ένα δημιουργικό παιδικό εργαστήρι!</span>
+  <a href="/articles/exodos/theatrohoros/pontikoperipeteies-mia-moysikotheatriki-parastasi-poy-taxideyei-ta">
+    <span class="title">«Ποντικοπεριπέτειες»: Μια μουσικοθεατρική παράσταση που ταξιδεύει τα παιδιά στον μαγικό κόσμο της…</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.946Z</updated>
+        <updated>2026-02-10T05:57:59.839Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
   <span class="created">09 Feb 2026</span>
-  <a href="/articles/exodos/limassol-carnival-fiesta-2026-dyo-imeres-tesseris-skines-kai-ena-monadiko-party">
-    <span class="title">Limassol Carnival Fiesta 2026: Δύο ημέρες, τέσσερις σκηνές και ένα μοναδικό πάρτυ στην ETKO Λεμεσού</span>
+  <a href="/articles/exodos/exormiseis/kapri-neoi-aystiroi-kanones-gia-toys-toyristes-apo-kalokairi-2026">
+    <span class="title">Κάπρι: Νέοι αυστηροί κανόνες για τους τουρίστες από το καλοκαίρι 2026</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.947Z</updated>
+        <updated>2026-02-10T05:57:59.840Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">09 Feb 2026</span>
-  <a href="/articles/nea/proper-property-magazine-kykloforei-ton-tomo-4">
-    <span class="title">Το Proper Property Magazine κυκλοφορεί τον τόμο 4</span>
+  <a href="/articles/exodos/fagitopoto/tsiknopempti-sto-gazebo-mare-i-lemesos-dinei-ranteboy-dipla-sto-kyma">
+    <span class="title">Τσικνοπέμπτη στο Gazebo Mare: Η Λεμεσός δίνει ραντεβού δίπλα στο κύμα</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-09T17:46:47.951Z</updated>
+        <updated>2026-02-10T05:57:59.843Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
