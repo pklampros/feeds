@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-11T17:48:05.806Z</updated>
+    <updated>2026-02-12T05:52:21.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sing For Greece 2026: Αυτοί είναι οι 7 φιναλίστ του Α’ Ημιτελικού]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/sing-greece-2026-aytoi-einai-oi-7-finalist-toy-imitelikoy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/sing-greece-2026-aytoi-einai-oi-7-finalist-toy-imitelikoy"/>
+        <updated>2026-02-12T05:52:17.124Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/sing-greece-2026-aytoi-einai-oi-7-finalist-toy-imitelikoy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/img_2587.jpeg?h=4521fff0&amp;itok=XJ0xYcnh" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/sing-greece-2026-aytoi-einai-oi-7-finalist-toy-imitelikoy">Sing For Greece 2026: Αυτοί είναι οι 7 φιναλίστ του Α’ Ημιτελικού</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Κάνιε Γουέστ: Θα δώσει συναυλίες στην Ευρώπη μετά από μία δεκαετία]]></title>
         <id>https://avant-garde.com.cy/articles/nea/kanie-goyest-tha-dosei-synaylies-stin-eyropi-meta-apo-mia-dekaetia</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πραγματοποιήθηκαν τα επίσημα εγκαίνια της νέας υπεραγοράς METRO Αγίας Φυλάξεως στη Λεμεσό – Οι…]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pragmatopoiithikan-ta-episima-egkainia-tis-neas-yperagoras-metro-agias-fylaxeos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pragmatopoiithikan-ta-episima-egkainia-tis-neas-yperagoras-metro-agias-fylaxeos"/>
-        <updated>2026-02-05T17:46:21.152Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-12T05:52:17.006Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,24 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pragmatopoiithikan-ta-episima-egkainia-tis-neas-yperagoras-metro-agias-fylaxeos">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/agiasmos.jpg?h=199d8c1f&amp;itok=cllqWAxV" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pragmatopoiithikan-ta-episima-egkainia-tis-neas-yperagoras-metro-agias-fylaxeos">Πραγματοποιήθηκαν τα επίσημα εγκαίνια της νέας υπεραγοράς METRO Αγίας Φυλάξεως στη Λεμεσό – Οι…</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">NEWS</span>
+  <span class="created">12 Feb 2026</span>
+  <a href="/articles/nea/news/sing-greece-2026-aytoi-einai-oi-7-finalist-toy-imitelikoy">
+    <span class="title">Sing For Greece 2026: Αυτοί είναι οι 7 φιναλίστ του Α’ Ημιτελικού</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.348Z</updated>
+        <updated>2026-02-12T05:52:17.007Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +994,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.348Z</updated>
+        <updated>2026-02-12T05:52:17.007Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,10 +1020,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.351Z</updated>
+        <updated>2026-02-12T05:52:17.007Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1020,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.354Z</updated>
+        <updated>2026-02-12T05:52:17.008Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1046,36 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.356Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">11 Feb 2026</span>
-  <a href="/articles/exodos/tahydromeio-larnakas-ena-megalo-tsiknoparti-me-fagito-poto-kai-zontani-moysiki">
-    <span class="title">Ταχυδρομείο Λάρνακας: Ένα μεγάλο τσικνοπάρτι με φαγητό, ποτό και ζωντανή μουσική </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-11T17:47:59.357Z</updated>
+        <updated>2026-02-12T05:52:17.008Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
