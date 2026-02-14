@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-14T05:45:32.074Z</updated>
+    <updated>2026-02-14T17:39:42.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Επιστήμονες θέλουν να φτιάξουν τεράστιο τείχος που θα προστατέψει τον Παγετώνα της Αποκάλυψης]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis</id>
+        <link href="https://avant-garde.com.cy/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis"/>
+        <updated>2026-02-14T17:39:39.123Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/derek-oyen-4reskwnsh68-unsplash.jpg?h=03639024&amp;itok=8AAzCVCG" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis">Επιστήμονες θέλουν να φτιάξουν τεράστιο τείχος που θα προστατέψει τον Παγετώνα της Αποκάλυψης</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Μέχρι πότε θα βρίσκεται σε ισχύ η κίτρινη προειδοποίηση για βροχές και καταιγίδες]]></title>
         <id>https://avant-garde.com.cy/articles/nea/mehri-pote-tha-brisketai-se-ishy-i-kitrini-proeidopoiisi-gia-brohes-kai-kataigides</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η Antigoni παρουσιάζει το τραγούδι και το επίσημο video clip για τη Eurovision 2026]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/i-antigoni-paroysiazei-tragoydi-kai-episimo-video-clip-gia-ti-eurovision-2026</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/i-antigoni-paroysiazei-tragoydi-kai-episimo-video-clip-gia-ti-eurovision-2026"/>
-        <updated>2026-02-09T05:54:38.923Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-14T17:39:38.964Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,76 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/i-antigoni-paroysiazei-tragoydi-kai-episimo-video-clip-gia-ti-eurovision-2026">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/img_0345.jpg?h=60bf9de5&amp;itok=FH1n3mAc" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/i-antigoni-paroysiazei-tragoydi-kai-episimo-video-clip-gia-ti-eurovision-2026">Η Antigoni παρουσιάζει το τραγούδι και το επίσημο video clip για τη Eurovision 2026</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">14 Feb 2026</span>
+  <a href="/articles/exodos/moysiki/oi-mple-erhontai-stin-kypro-gia-mia-monadiki-synaylia">
+    <span class="title">Οι Μπλε έρχονται στην Κύπρο για μία μοναδική συναυλία </span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.704Z</updated>
+        <updated>2026-02-14T17:39:38.965Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">14 Feb 2026</span>
+  <a href="/articles/festibal/i-4i-giorti-amygdalias-sti-salamioy-plisiazei">
+    <span class="title">Η 4η γιορτή Αμυγδαλιάς στη Σαλαμιού πλησιάζει </span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-14T17:39:38.965Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">14 Feb 2026</span>
+  <a href="/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis">
+    <span class="title">Επιστήμονες θέλουν να φτιάξουν τεράστιο τείχος που θα προστατέψει τον Παγετώνα της Αποκάλυψης</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-14T17:39:38.965Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.705Z</updated>
+        <updated>2026-02-14T17:39:38.965Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.706Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">13 Feb 2026</span>
-  <a href="/articles/exodos/moysiki/oi-hatzifragketa-erhontai-sti-leykosia-gia-mia-monadiki-synaylia">
-    <span class="title">Οι Χατζηφραγκέτα έρχονται στη Λευκωσία για μία μοναδική συναυλία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.713Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">13 Feb 2026</span>
-  <a href="/articles/exodos/kathara-deytera-apolyto-sarakostiano-event-sto-achna-lake">
-    <span class="title">Καθαρά Δευτέρα: To απόλυτο σαρακοστιανό event στο Achna Lake</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.713Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">13 Feb 2026</span>
-  <a href="/articles/nea/mehri-pote-tha-brisketai-se-ishy-i-kitrini-proeidopoiisi-gia-brohes-kai-kataigides">
-    <span class="title">Μέχρι πότε θα βρίσκεται σε ισχύ η κίτρινη προειδοποίηση για βροχές και καταιγίδες</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-14T05:45:25.715Z</updated>
+        <updated>2026-02-14T17:39:38.966Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
