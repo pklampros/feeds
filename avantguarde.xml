@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-15T05:47:46.379Z</updated>
+    <updated>2026-02-15T17:40:09.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2026: Απόψε ο Μεγάλος Τελικός του “Sing for Greece” – Πώς θα αναδειχθεί ο νικητής]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2026-apopse-o-megalos-telikos-toy-sing-greece-pos-tha-anadeihthei-o</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2026-apopse-o-megalos-telikos-toy-sing-greece-pos-tha-anadeihthei-o"/>
+        <updated>2026-02-15T17:40:05.240Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eurovision-2026-apopse-o-megalos-telikos-toy-sing-greece-pos-tha-anadeihthei-o">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/eurovision-ellada-1320x880.jpg?h=a7599749&amp;itok=gZIBMKKL" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eurovision-2026-apopse-o-megalos-telikos-toy-sing-greece-pos-tha-anadeihthei-o">Eurovision 2026: Απόψε ο Μεγάλος Τελικός του “Sing for Greece” – Πώς θα αναδειχθεί ο νικητής</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Επιστήμονες θέλουν να φτιάξουν τεράστιο τείχος που θα προστατέψει τον Παγετώνα της Αποκάλυψης]]></title>
         <id>https://avant-garde.com.cy/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Καιρός Τσικνοπέμπτης: Με βροχές και καταιγίδες οι ψησταριές]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/kairos-tsiknopemptis-me-brohes-kai-kataigides-oi-psistaries</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/kairos-tsiknopemptis-me-brohes-kai-kataigides-oi-psistaries"/>
-        <updated>2026-02-09T17:46:48.075Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/kairos-tsiknopemptis-me-brohes-kai-kataigides-oi-psistaries">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/b_b_kakokairianicosia100.jpg?h=568c2f42&amp;itok=uFVF4mmN" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/kairos-tsiknopemptis-me-brohes-kai-kataigides-oi-psistaries">Καιρός Τσικνοπέμπτης: Με βροχές και καταιγίδες οι ψησταριές</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.367Z</updated>
+        <updated>2026-02-15T17:40:05.157Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">14 Feb 2026</span>
-  <a href="/articles/exodos/moysiki/oi-mple-erhontai-stin-kypro-gia-mia-monadiki-synaylia">
-    <span class="title">Οι Μπλε έρχονται στην Κύπρο για μία μοναδική συναυλία </span>
+  <span class="channel">NEWS</span>
+  <span class="created">15 Feb 2026</span>
+  <a href="/articles/nea/news/eurovision-2026-apopse-o-megalos-telikos-toy-sing-greece-pos-tha-anadeihthei-o">
+    <span class="title">Eurovision 2026: Απόψε ο Μεγάλος Τελικός του “Sing for Greece” – Πώς θα αναδειχθεί ο νικητής</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.368Z</updated>
+        <updated>2026-02-15T17:40:05.157Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">14 Feb 2026</span>
-  <a href="/articles/festibal/i-4i-giorti-amygdalias-sti-salamioy-plisiazei">
-    <span class="title">Η 4η γιορτή Αμυγδαλιάς στη Σαλαμιού πλησιάζει </span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">15 Feb 2026</span>
+  <a href="/articles/exodos/ekthesi-ergon-toy-istorikoy-zografoy-stelioy-botsi-stin-alpha-ck-art-gallery">
+    <span class="title">Έκθεση έργων του ιστορικού ζωγράφου Στέλιου Βότση στην Alpha C.K. Art Gallery</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.379Z</updated>
+        <updated>2026-02-15T17:40:05.157Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">14 Feb 2026</span>
-  <a href="/articles/nea/epistimones-theloyn-na-ftiaxoyn-terastio-teihos-poy-tha-prostatepsei-ton-pagetona-tis">
-    <span class="title">Επιστήμονες θέλουν να φτιάξουν τεράστιο τείχος που θα προστατέψει τον Παγετώνα της Αποκάλυψης</span>
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">15 Feb 2026</span>
+  <a href="/articles/exodos/theatrohoros/ifigeneia-en-orem-millennium-edition-epipleon-parastaseis-sto-map">
+    <span class="title">«Ιφιγένεια εν Όρεμ: Millennium Edition» – Επιπλέον παραστάσεις στο MAP Boutique Hotel</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.383Z</updated>
+        <updated>2026-02-15T17:40:05.157Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1034,9 +1034,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">13 Feb 2026</span>
-  <a href="/articles/exodos/h-skeyi-antoniadoy-kai-i-amaryllis-moirazontai-mazi-mas-ola-osa-tha-ginoyn-tis">
-    <span class="title">H Σκεύη Αντωνιάδου και η Αμαρυλλίς μοιράζονται μαζί μας όλα όσα θα γίνουν τις επόμενες μέρες στην…</span>
+  <span class="created">15 Feb 2026</span>
+  <a href="/articles/exodos/karnabalikoi-rythmoi-ston-dimo-akama-simera-i-megali-parelasi-stin-pegeia">
+    <span class="title">Καρναβαλικοί ρυθμοί στον Δήμο Ακάμα – Σήμερα η μεγάλη παρέλαση στην Πέγεια</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.385Z</updated>
+        <updated>2026-02-15T17:40:05.157Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΠΡΟΣΩΠΑ</span>
-  <span class="created">13 Feb 2026</span>
-  <a href="/articles/prosopa/lemesos-se-rythmoys-karnabalioy-i-politistiki-leitoyrgos-kai-i-basilissa-miloyn">
-    <span class="title">Λεμεσός σε ρυθμούς καρναβαλιού: Η πολιτιστική λειτουργός και η Βασίλισσα μιλούν στην Avant-Garde</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">15 Feb 2026</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-kyriaki-15-febroyarioy-2026">
+    <span class="title">Agenda: Πού να πας σήμερα – Κυριακή 15 Φεβρουαρίου 2026</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-15T05:47:42.386Z</updated>
+        <updated>2026-02-15T17:40:05.159Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
