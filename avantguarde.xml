@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-21T05:45:24.212Z</updated>
+    <updated>2026-02-21T17:40:02.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mια συμμορία στη Γαλλία βρέθηκε στη φυλακή για 4.000 φιάλες κρασιού αξίας εκατομμυρίων]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/mia-symmoria-sti-gallia-brethike-sti-fylaki-gia-4000-fiales-krasioy-axias-ekatommyrion</id>
+        <link href="https://avant-garde.com.cy/articles/nea/mia-symmoria-sti-gallia-brethike-sti-fylaki-gia-4000-fiales-krasioy-axias-ekatommyrion"/>
+        <updated>2026-02-21T17:39:57.301Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/mia-symmoria-sti-gallia-brethike-sti-fylaki-gia-4000-fiales-krasioy-axias-ekatommyrion">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/aleksandrs-karevs-ne-z7d7v2yu-unsplash.jpg?h=790be497&amp;itok=xC9LpbEE" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/mia-symmoria-sti-gallia-brethike-sti-fylaki-gia-4000-fiales-krasioy-axias-ekatommyrion">Mια συμμορία στη Γαλλία βρέθηκε στη φυλακή για 4.000 φιάλες κρασιού αξίας εκατομμυρίων</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ο Βασίλης Μπισμπίκης σκηνοθετεί και συναντά για πρώτη φορά επί σκηνής τη Λένα Κιτσοπούλου]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/o-basilis-mpismpikis-skinothetei-kai-synanta-gia-proti-fora-epi-skinis-ti-lena</id>
+        <link href="https://avant-garde.com.cy/articles/nea/o-basilis-mpismpikis-skinothetei-kai-synanta-gia-proti-fora-epi-skinis-ti-lena"/>
+        <updated>2026-02-21T17:39:57.301Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/o-basilis-mpismpikis-skinothetei-kai-synanta-gia-proti-fora-epi-skinis-ti-lena">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/standard_avant_garde_-_2026-02-21t124425.265.jpg?h=d1cb525d&amp;itok=Hx_wUcce" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/o-basilis-mpismpikis-skinothetei-kai-synanta-gia-proti-fora-epi-skinis-ti-lena">Ο Βασίλης Μπισμπίκης σκηνοθετεί και συναντά για πρώτη φορά επί σκηνής τη Λένα Κιτσοπούλου</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Σπουδαία πανευρωπαϊκή διάκριση για το Fig Tree Bay]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/spoydaia-paneyropaiki-diakrisi-gia-fig-tree-bay</id>
@@ -838,114 +942,114 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foody: Πώς αναβαθμίστηκε η εμπειρία του supermarket]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/foody-pos-anabathmistike-i-empeiria-toy-supermarket</id>
-        <link href="https://avant-garde.com.cy/articles/nea/foody-pos-anabathmistike-i-empeiria-toy-supermarket"/>
-        <updated>2026-02-17T17:47:29.062Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/foody-pos-anabathmistike-i-empeiria-toy-supermarket">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/capture.png?h=da19345d&amp;itok=f4lAkmb3" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/foody-pos-anabathmistike-i-empeiria-toy-supermarket">Foody: Πώς αναβαθμίστηκε η εμπειρία του supermarket</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Χαλάει ο καιρός: Βροχές, καταιγίδες και χιόνια στο Τρόοδος]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/halaei-o-kairos-brohes-kataigides-kai-hionia-sto-troodos</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/halaei-o-kairos-brohes-kataigides-kai-hionia-sto-troodos"/>
-        <updated>2026-02-17T17:47:29.065Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/halaei-o-kairos-brohes-kataigides-kai-hionia-sto-troodos">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-01/b_b_kakokairianicosia100.jpg?h=568c2f42&amp;itok=uFVF4mmN" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/halaei-o-kairos-brohes-kataigides-kai-hionia-sto-troodos">Χαλάει ο καιρός: Βροχές, καταιγίδες και χιόνια στο Τρόοδος</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.357Z</updated>
+        <updated>2026-02-21T17:39:57.193Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="created">21 Feb 2026</span>
+  <a href="/articles/exodos/theatrohoros/anebainei-i-kainoyria-theatriki-parastasi-hilia-heria-tis-stellas">
+    <span class="title">Ανεβαίνει η καινούρια θεατρική παράσταση "Χίλια χέρια" της Στέλλας Βοσκαρίδου</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-21T17:39:57.193Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">21 Feb 2026</span>
+  <a href="/articles/nea/mia-symmoria-sti-gallia-brethike-sti-fylaki-gia-4000-fiales-krasioy-axias-ekatommyrion">
+    <span class="title">Mια συμμορία στη Γαλλία βρέθηκε στη φυλακή για 4.000 φιάλες κρασιού αξίας εκατομμυρίων</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-21T17:39:57.194Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">21 Feb 2026</span>
+  <a href="/articles/exodos/lemesiano-karnabali-2026-ayto-einai-programma-tis-kyriakis">
+    <span class="title">Λεμεσιανό Καρναβάλι 2026: Αυτό είναι το πρόγραμμα της Κυριακής</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-21T17:39:57.195Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">21 Feb 2026</span>
+  <a href="/articles/nea/o-basilis-mpismpikis-skinothetei-kai-synanta-gia-proti-fora-epi-skinis-ti-lena">
+    <span class="title">Ο Βασίλης Μπισμπίκης σκηνοθετεί και συναντά για πρώτη φορά επί σκηνής τη Λένα Κιτσοπούλου</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-02-21T17:39:57.196Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.357Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">20 Feb 2026</span>
-  <a href="/articles/nea/news/spoydaia-paneyropaiki-diakrisi-gia-fig-tree-bay">
-    <span class="title">Σπουδαία πανευρωπαϊκή διάκριση για το Fig Tree Bay</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.358Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">20 Feb 2026</span>
-  <a href="/articles/nea/news/pethane-o-eric-dane-sta-53-toy-hronia-edose-gennaia-mahi-me-tin-als">
-    <span class="title">Πέθανε ο Eric Dane – Στα 53 του χρόνια έδωσε γενναία μάχη με την ALS</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.358Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">20 Feb 2026</span>
-  <a href="/articles/exodos/agenda-poy-na-pas-simera-paraskeyi-20-febroyarioy-2026">
-    <span class="title">Agenda: Πού να πας σήμερα – Παρασκευή 20 Φεβρουαρίου 2026</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.360Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">19 Feb 2026</span>
-  <a href="/articles/exodos/moysiki/kitsch-party-carnival-2026-10-hronia-apotyhimenis-doxas-sto-pio-guilty">
-    <span class="title">Kitsch Party Carnival 2026: 10 χρόνια «αποτυχημένης» δόξας στο πιο guilty πάρτι του Λεμεσιανού…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-21T05:45:19.363Z</updated>
+        <updated>2026-02-21T17:39:57.197Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
