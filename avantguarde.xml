@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-02-28T17:37:22.187Z</updated>
+    <updated>2026-03-01T05:46:44.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -58,58 +58,6 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton</id>
-        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton"/>
-        <updated>2026-02-28T17:37:17.366Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/tom-hermans-nm6qrtnvkn8-unsplash.jpg?h=790be497&amp;itok=9O0Qdte_" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Το The X-Files επιστρέφει!]]></title>
         <id>https://avant-garde.com.cy/articles/nea/x-files-epistrefei</id>
         <link href="https://avant-garde.com.cy/articles/nea/x-files-epistrefei"/>
@@ -152,6 +100,58 @@
 </a></span>
 <span class="title-channel-date">
     <span class="title"><a href="/articles/nea/x-files-epistrefei">Το The X-Files επιστρέφει!</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton"/>
+        <updated>2026-02-28T17:37:17.366Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/tom-hermans-nm6qrtnvkn8-unsplash.jpg?h=790be497&amp;itok=9O0Qdte_" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
     </span>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.269Z</updated>
+        <updated>2026-03-01T05:46:39.274Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.270Z</updated>
+        <updated>2026-03-01T05:46:39.277Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.270Z</updated>
+        <updated>2026-03-01T05:46:39.277Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.271Z</updated>
+        <updated>2026-03-01T05:46:39.279Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.271Z</updated>
+        <updated>2026-03-01T05:46:39.285Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-02-28T17:37:17.272Z</updated>
+        <updated>2026-03-01T05:46:39.289Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->

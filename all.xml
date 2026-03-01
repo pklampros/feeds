@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-28T17:37:22.189Z</updated>
+    <updated>2026-03-01T05:46:44.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Γιατί η σχέση μας με το κρασί μπαίνει σε μια νέα εποχή (Avant-Guarde Cyprus)]]></title>
@@ -57,58 +57,6 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton</id>
-        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton"/>
-        <updated>2026-02-28T17:37:17.366Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/tom-hermans-nm6qrtnvkn8-unsplash.jpg?h=790be497&amp;itok=9O0Qdte_" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Το The X-Files επιστρέφει! (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/x-files-epistrefei</id>
         <link href="https://avant-garde.com.cy/articles/nea/x-files-epistrefei"/>
@@ -151,6 +99,58 @@
 </a></span>
 <span class="title-channel-date">
     <span class="title"><a href="/articles/nea/x-files-epistrefei">Το The X-Files επιστρέφει!</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton</id>
+        <link href="https://avant-garde.com.cy/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton"/>
+        <updated>2026-02-28T17:37:17.366Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/tom-hermans-nm6qrtnvkn8-unsplash.jpg?h=790be497&amp;itok=9O0Qdte_" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/taste-atlas-milise-i-elliniki-poikilia-ntomatas-poy-trelane-gia-ti-geysi-tis-ton">Το Taste Atlas μίλησε: Η ελληνική ποικιλία ντομάτας που τρέλανε για τη γεύση της τον πλανήτη</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
     </span>
@@ -944,7 +944,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.269Z</updated>
+        <updated>2026-03-01T05:46:39.274Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.270Z</updated>
+        <updated>2026-03-01T05:46:39.277Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.270Z</updated>
+        <updated>2026-03-01T05:46:39.277Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.271Z</updated>
+        <updated>2026-03-01T05:46:39.279Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1048,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.271Z</updated>
+        <updated>2026-03-01T05:46:39.285Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1074,7 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:17.272Z</updated>
+        <updated>2026-03-01T05:46:39.289Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1098,112 +1098,112 @@
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.368Z</updated>
+        <updated>2026-03-01T05:46:43.597Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.372Z</updated>
+        <updated>2026-03-01T05:46:43.598Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.372Z</updated>
+        <updated>2026-03-01T05:46:43.599Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.372Z</updated>
+        <updated>2026-03-01T05:46:43.600Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.372Z</updated>
+        <updated>2026-03-01T05:46:43.601Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.373Z</updated>
+        <updated>2026-03-01T05:46:43.602Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.374Z</updated>
+        <updated>2026-03-01T05:46:43.603Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.375Z</updated>
+        <updated>2026-03-01T05:46:43.603Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.376Z</updated>
+        <updated>2026-03-01T05:46:43.605Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.377Z</updated>
+        <updated>2026-03-01T05:46:43.606Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.378Z</updated>
+        <updated>2026-03-01T05:46:43.607Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.378Z</updated>
+        <updated>2026-03-01T05:46:43.608Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.379Z</updated>
+        <updated>2026-03-01T05:46:43.609Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.380Z</updated>
+        <updated>2026-03-01T05:46:43.610Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.381Z</updated>
+        <updated>2026-03-01T05:46:43.611Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-02-28T17:37:21.381Z</updated>
+        <updated>2026-03-01T05:46:43.612Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
@@ -1218,7 +1218,7 @@
         <id>https://insidestory.gr/article/rihto-ilia-21-28-febroyarioy-2026</id>
         <link href="https://insidestory.gr/article/rihto-ilia-21-28-febroyarioy-2026"/>
         <updated>2026-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Βαράτε με κι ας κλαίω.]]></content>
+        <content type="html"><![CDATA[ Θα πέσει φάπα.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Μία απόφαση Γολιάθ από έναν Δαυίδ: Η έρευνα για τις υποκλοπές τώρα ξεκινά (Inside Story Greece)]]></title>
