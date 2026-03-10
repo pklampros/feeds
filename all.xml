@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-10T05:45:37.577Z</updated>
+    <updated>2026-03-10T17:45:34.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ακυρώσεις πτήσεων από και προς το αεροδρόμιο Πάφου (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/akyroseis-ptiseon-apo-kai-pros-aerodromio-pafoy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/akyroseis-ptiseon-apo-kai-pros-aerodromio-pafoy"/>
+        <updated>2026-03-10T17:45:30.624Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/akyroseis-ptiseon-apo-kai-pros-aerodromio-pafoy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-03/508694025_9934554723318480_8066859003941288605_n.jpg?h=e0d97e2f&amp;itok=Du7Bfzcr" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/akyroseis-ptiseon-apo-kai-pros-aerodromio-pafoy">Ακυρώσεις πτήσεων από και προς το αεροδρόμιο Πάφου</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Επαναπατρισμός από ΗΠΑ 18 αρχαιοτήτων που εντοπίστηκαν σε διαδικτυακή δημοπρασία (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/epanapatrismos-apo-ipa-18-arhaiotiton-poy-entopistikan-se-diadiktyaki-dimoprasia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/epanapatrismos-apo-ipa-18-arhaiotiton-poy-entopistikan-se-diadiktyaki-dimoprasia"/>
+        <updated>2026-03-10T17:45:30.630Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/epanapatrismos-apo-ipa-18-arhaiotiton-poy-entopistikan-se-diadiktyaki-dimoprasia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-03/645047424_1362420959264835_9000657481758108112_n.jpg?h=dfead04e&amp;itok=KNdB5nR4" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/epanapatrismos-apo-ipa-18-arhaiotiton-poy-entopistikan-se-diadiktyaki-dimoprasia">Επαναπατρισμός από ΗΠΑ 18 αρχαιοτήτων που εντοπίστηκαν σε διαδικτυακή δημοπρασία</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[«Περιμένοντας τον Γκοντό»: Νέα αναβολή για την πολυσυζητημένη παραγωγή του Τερζόπουλου στο Δημοτικό… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy</id>
@@ -837,10 +941,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ο Χάρι Στάιλς γιορτάζει την κυκλοφορία του νέου του άλμπουμ με μια κινηματογραφημένη συναυλία στο… (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/o-hari-stails-giortazei-tin-kykloforia-toy-neoy-toy-almpoym-me-mia-kinimatografimeni</id>
-        <link href="https://avant-garde.com.cy/articles/nea/o-hari-stails-giortazei-tin-kykloforia-toy-neoy-toy-almpoym-me-mia-kinimatografimeni"/>
-        <updated>2026-03-04T17:44:33.724Z</updated>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-10T17:45:30.470Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -849,92 +953,14 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/o-hari-stails-giortazei-tin-kykloforia-toy-neoy-toy-almpoym-me-mia-kinimatografimeni">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/646399106_1309762654589322_1936416629498404253_n.jpg?h=eafd1ed7&amp;itok=rdkrpTrS" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/o-hari-stails-giortazei-tin-kykloforia-toy-neoy-toy-almpoym-me-mia-kinimatografimeni">Ο Χάρι Στάιλς γιορτάζει την κυκλοφορία του νέου του άλμπουμ με μια κινηματογραφημένη συναυλία στο…</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">10 Mar 2026</span>
+  <a href="/articles/exodos/fagitopoto/71-estiatoria-na-episkeftheite-stin-proteyoysa-nisteyete">
+    <span class="title">7+1 εστιατόρια να επισκεφθείτε στην πρωτεύουσα αν νηστεύετε</span>
+  </a>
 </span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Έρχονται βροχές, καταιγίδες και χιόνια – Πώς θα εξελιχθεί ο καιρός μέχρι την Κυριακή (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/erhontai-brohes-kataigides-kai-hionia-pos-tha-exelihthei-o-kairos-mehri-tin</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/erhontai-brohes-kataigides-kai-hionia-pos-tha-exelihthei-o-kairos-mehri-tin"/>
-        <updated>2026-03-05T18:13:41.208Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/erhontai-brohes-kataigides-kai-hionia-pos-tha-exelihthei-o-kairos-mehri-tin">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2022-10/kairos-1.jpg?h=4c45b8dc&amp;itok=DIQM03xb" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/erhontai-brohes-kataigides-kai-hionia-pos-tha-exelihthei-o-kairos-mehri-tin">Έρχονται βροχές, καταιγίδες και χιόνια – Πώς θα εξελιχθεί ο καιρός μέχρι την Κυριακή</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
@@ -944,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.124Z</updated>
+        <updated>2026-03-10T17:45:30.470Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,9 +981,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/exodos/moysiki/piano-tour-fernei-ti-moysiki-sto-aerodromio-larnakas-me-ti-horodia-ars-nova">
-    <span class="title"> Το The Piano Tour φέρνει τη μουσική στο Αεροδρόμιο Λάρνακας με τη χορωδία Ars Nova</span>
+  <span class="created">10 Mar 2026</span>
+  <a href="/articles/exodos/moysiki/oi-ladderman-paizoyn-zontana-sti-new-division">
+    <span class="title">Οι Ladderman παίζουν ζωντανά στη New Division! </span>
   </a>
 </span>
 
@@ -970,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.125Z</updated>
+        <updated>2026-03-10T17:45:30.470Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -980,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/exodos/moysiki/i-rita-antonopoyloy-stin-kypro-me-synaylia-afieroma-ston-thano-mikroytsiko">
-    <span class="title">Η Ρίτα Αντωνοπούλου στην Κύπρο με συναυλία–αφιέρωμα στον Θάνο Μικρούτσικο</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">10 Mar 2026</span>
+  <a href="/articles/exodos/tainiesseires/m-factor-oi-dimioyrgoi-toy-protoporiakoy-ntokimanter-gia-tin">
+    <span class="title">The (M) Factor: Οι δημιουργοί του πρωτοποριακού ντοκιμαντέρ για την εμμηνόπαυση παρουσιάζουν το…</span>
   </a>
 </span>
 
@@ -996,59 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.125Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy">
-    <span class="title">«Περιμένοντας τον Γκοντό»: Νέα αναβολή για την πολυσυζητημένη παραγωγή του Τερζόπουλου στο Δημοτικό…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.125Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/exodos/moysiki/deyteri-bradia-me-ton-milto-pashalidi-sto-downtown-live">
-    <span class="title">Δεύτερη βραδιά με τον Μίλτο Πασχαλίδη στο DownTown Live! </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
-        <id>https://pklampros.github.io/feeds/all.xml</id>
-        <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.127Z</updated>
+        <updated>2026-03-10T17:45:30.470Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,9 +1033,9 @@
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
   <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/nea/eco-fun-family-festival-mia-mera-gia-oli-tin-oikogeneia-me-protagonisti-periballon">
-    <span class="title">Eco Fun Family Festival: Μια μέρα για όλη την οικογένεια με πρωταγωνιστή το περιβάλλον στην Αγία…</span>
+  <span class="created">10 Mar 2026</span>
+  <a href="/articles/nea/akyroseis-ptiseon-apo-kai-pros-aerodromio-pafoy">
+    <span class="title">Ακυρώσεις πτήσεων από και προς το αεροδρόμιο Πάφου</span>
   </a>
 </span>
 
@@ -1074,7 +1048,33 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-10T05:45:33.130Z</updated>
+        <updated>2026-03-10T17:45:30.471Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">10 Mar 2026</span>
+  <a href="/articles/festibal/24o-diethnes-festibal-kinimatografikes-meres-kypros-2026-einai-gegonos">
+    <span class="title">Tο 24ο Διεθνές Φεστιβάλ Κινηματογραφικές Μέρες Κύπρος 2026 είναι γεγονός</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-10T17:45:30.471Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
