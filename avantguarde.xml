@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-09T17:46:12.697Z</updated>
+    <updated>2026-03-10T05:45:37.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Περιμένοντας τον Γκοντό»: Νέα αναβολή για την πολυσυζητημένη παραγωγή του Τερζόπουλου στο Δημοτικό…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy"/>
+        <updated>2026-03-10T05:45:33.279Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-03/aspettando-godot-_terzopoulos_ert_ph.-johanna-weber5-2048x1367.jpeg?h=92704f59&amp;itok=wl8XuUDH" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy">«Περιμένοντας τον Γκοντό»: Νέα αναβολή για την πολυσυζητημένη παραγωγή του Τερζόπουλου στο Δημοτικό…</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eco Fun Family Festival: Μια μέρα για όλη την οικογένεια με πρωταγωνιστή το περιβάλλον στην Αγία…]]></title>
         <id>https://avant-garde.com.cy/articles/nea/eco-fun-family-festival-mia-mera-gia-oli-tin-oikogeneia-me-protagonisti-periballon</id>
@@ -890,10 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Αλλαγή ώρας 2026: Πότε γυρίζουμε τα ρολόγια μία ώρα μπροστά]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/allagi-oras-2026-pote-gyrizoyme-ta-rologia-mia-ora-mprosta</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/allagi-oras-2026-pote-gyrizoyme-ta-rologia-mia-ora-mprosta"/>
-        <updated>2026-03-05T18:13:41.212Z</updated>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-10T05:45:33.124Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -902,50 +954,76 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/allagi-oras-2026-pote-gyrizoyme-ta-rologia-mia-ora-mprosta">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-02/andrej-lisakov-du_rsha_mh0-unsplash.jpg?h=0047ab37&amp;itok=RtIc9ek8" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
 <span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/allagi-oras-2026-pote-gyrizoyme-ta-rologia-mia-ora-mprosta">Αλλαγή ώρας 2026: Πότε γυρίζουμε τα ρολόγια μία ώρα μπροστά</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">09 Mar 2026</span>
+  <a href="/articles/exodos/moysiki/piano-tour-fernei-ti-moysiki-sto-aerodromio-larnakas-me-ti-horodia-ars-nova">
+    <span class="title"> Το The Piano Tour φέρνει τη μουσική στο Αεροδρόμιο Λάρνακας με τη χορωδία Ars Nova</span>
+  </a>
 </span>
+
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.371Z</updated>
+        <updated>2026-03-10T05:45:33.125Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">09 Mar 2026</span>
+  <a href="/articles/exodos/moysiki/i-rita-antonopoyloy-stin-kypro-me-synaylia-afieroma-ston-thano-mikroytsiko">
+    <span class="title">Η Ρίτα Αντωνοπούλου στην Κύπρο με συναυλία–αφιέρωμα στον Θάνο Μικρούτσικο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-10T05:45:33.125Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">09 Mar 2026</span>
+  <a href="/articles/nea/news/perimenontas-ton-gkonto-nea-anaboli-gia-tin-polysyzitimeni-paragogi-toy">
+    <span class="title">«Περιμένοντας τον Γκοντό»: Νέα αναβολή για την πολυσυζητημένη παραγωγή του Τερζόπουλου στο Δημοτικό…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-10T05:45:33.125Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.372Z</updated>
+        <updated>2026-03-10T05:45:33.127Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.373Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/nea/o-syndesmos-mora-thaymata-dorizei-sti-menn-exeidikeymeno-mihanima">
-    <span class="title">Ο σύνδεσμος «Μωρά Θαύματα» δωρίζει στη ΜΕΝΝ εξειδικευμένο μηχάνημα</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.373Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/nea/rihanna-pyrobolismoi-sto-spiti-tis-sto-los-antzeles">
-    <span class="title">Rihanna: Πυροβολισμοί στο σπίτι της στο Λος Άντζελες </span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.375Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">09 Mar 2026</span>
-  <a href="/articles/nea/megalytero-ergo-toy-salbador-ntali-tha-polithei-se-dimoprasia">
-    <span class="title">Το μεγαλύτερο έργο του Σαλβαδόρ Νταλί θα πωληθεί σε δημοπρασία</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-09T17:46:07.380Z</updated>
+        <updated>2026-03-10T05:45:33.130Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
