@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-17T17:48:28.442Z</updated>
+    <updated>2026-03-18T05:51:10.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Η Digital Tree ανακοινώνει την αποκλειστική στρατηγική συνεργασία με την Threedium για την… (Avant-Guarde Cyprus)]]></title>
@@ -577,6 +577,58 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Το Tinder συμμαχεί με την τεχνητή νοημοσύνη - Τι αλλάζει στην εφαρμογή γνωριμιών (Avant-Guarde Cyprus)]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion</id>
+        <link href="https://avant-garde.com.cy/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion"/>
+        <updated>2026-03-14T17:40:32.297Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-03/good-faces-agency-skravscadwe-unsplash.jpg?h=0775493e&amp;itok=0lsbJOS4" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion">Το Tinder συμμαχεί με την τεχνητή νοημοσύνη - Τι αλλάζει στην εφαρμογή γνωριμιών</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Νέα μελέτη δείχνει πως η σκέψη διαφορετικών ειδών αλκοόλ επηρεάζει τη διάθεση και τη στάση μας,… (Avant-Guarde Cyprus)]]></title>
         <id>https://avant-garde.com.cy/articles/nea/nea-meleti-deihnei-pos-i-skepsi-diaforetikon-eidon-alkool-epireazei-ti-diathesi-kai-ti</id>
         <link href="https://avant-garde.com.cy/articles/nea/nea-meleti-deihnei-pos-i-skepsi-diaforetikon-eidon-alkool-epireazei-ti-diathesi-kai-ti"/>
@@ -671,58 +723,6 @@
 </a></span>
 <span class="title-channel-date">
     <span class="title"><a href="/articles/nea/festibal-faneromenis-2026-i-diorganosi-proskalei-kallitehnes-se-symmetohi">Φεστιβάλ Φανερωμένης 2026: Η διοργάνωση προσκαλεί καλλιτέχνες σε συμμετοχή</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Το Tinder συμμαχεί με την τεχνητή νοημοσύνη - Τι αλλάζει στην εφαρμογή γνωριμιών (Avant-Guarde Cyprus)]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion</id>
-        <link href="https://avant-garde.com.cy/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion"/>
-        <updated>2026-03-14T17:40:32.297Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/good-faces-agency-skravscadwe-unsplash.jpg?h=0775493e&amp;itok=0lsbJOS4" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/tinder-symmahei-me-tin-tehniti-noimosyni-ti-allazei-stin-efarmogi-gnorimion">Το Tinder συμμαχεί με την τεχνητή νοημοσύνη - Τι αλλάζει στην εφαρμογή γνωριμιών</a></span>
     <span>
       <span class="channel">ΝΕΑ</span>
     </span>
@@ -944,7 +944,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.363Z</updated>
+        <updated>2026-03-18T05:51:05.000Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.364Z</updated>
+        <updated>2026-03-18T05:51:05.000Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.366Z</updated>
+        <updated>2026-03-18T05:51:05.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.369Z</updated>
+        <updated>2026-03-18T05:51:05.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1048,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.369Z</updated>
+        <updated>2026-03-18T05:51:05.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1074,7 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-17T17:48:23.371Z</updated>
+        <updated>2026-03-18T05:51:05.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1093,5 +1093,187 @@
 
 </span></div>
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.646Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.647Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.648Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.649Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.650Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.651Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.652Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.653Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.654Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.656Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.656Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.657Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.659Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.660Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.661Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
+        <id>https://pklampros.github.io/feeds/all.xml</id>
+        <link href="https://pklampros.github.io/feeds/all.xml"/>
+        <updated>2026-03-18T05:51:09.661Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Πετρέλαιο: Ανατομία ενός παγκόσμιου σοκ (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/petrelaio-anatomia-enos-pagkosmioy-sok</id>
+        <link href="https://insidestory.gr/article/petrelaio-anatomia-enos-pagkosmioy-sok"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Ο πόλεμος στο Ιράν έχει αναδείξει τον βαθμό στον οποίον η παγκόσμια οικονομία εξακολουθεί να είναι όμηρος των υδρογονανθράκων του Περσικού.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ποιος θα πληρώσει τον λογαριασμό του πολέμου; (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/poios-tha-plirosei-ton-logariasmo-toy-polemoy</id>
+        <link href="https://insidestory.gr/article/poios-tha-plirosei-ton-logariasmo-toy-polemoy"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Η Αθήνα αναζητά όχι το σχέδιο Α, που έχει εξαντληθεί, αλλά το σχέδιο Β, για να αντιμετωπίσει την κρίση που προκαλεί ο πόλεμος στο Ιράν. Λεφτά δεν υπάρχουν, με βάση τους σημερινούς δημοσιονομικούς κανόνες της Ένωσης – εκτός κι αν αυτοί αλλάξουν.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ο κόσμος των Προσφυγικών με τον φακό του Γιώργου Λάνθιμου (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/prosfygika-me-fako-giorgoy-lanthimoy</id>
+        <link href="https://insidestory.gr/article/prosfygika-me-fako-giorgoy-lanthimoy"/>
+        <updated>2026-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Για άλλη μια φορά ανακινείται η ανάπλαση των Προσφυγικών της Αλεξάνδρας. Η Κοινότητα που συμβιώνει εκεί με βάση τις αρχές της αυτοδιεύθυνσης, της αλληλεγγύης και της συντροφικότητας είναι έτοιμη να παλέψει για τη συνέχιση της ζωής που έχει ανθίσει εκεί. Ο Γιώργος Λάνθιμος μας παραχωρεί τις φωτογραφίες που τράβηξε και συνοδεύουν το ρεπορτάζ μας.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Πετρελαϊκή κρίση: Η ΕΕ έχει ελάχιστες επιλογές για να αποτρέψει την ύφεση (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/petrelaiki-krisi-i-ee-ehei-elahistes-epiloges-gia-na-apotrepsei-tin-yfesi</id>
+        <link href="https://insidestory.gr/article/petrelaiki-krisi-i-ee-ehei-elahistes-epiloges-gia-na-apotrepsei-tin-yfesi"/>
+        <updated>2026-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Οι οικονομικές επιπτώσεις του πολέμου στο Ιράν δεν αποφεύγονται. Αν υπάρχει ένα θετικό στοιχείο, είναι ότι μπορεί να δώσουν στην Ευρώπη την απαραίτητη ώθηση για την περαιτέρω ανάπτυξη των ανανεώσιμων πηγών ενέργειας.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[«Το ιρανικό καθεστώς έχει ψυχολογία πολιορκημένου» (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/iraniko-kathestos-ehei-psyhologia-poliorkimenoy</id>
+        <link href="https://insidestory.gr/article/iraniko-kathestos-ehei-psyhologia-poliorkimenoy"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Μέχρι στιγμής, δεν υπάρχουν ενδείξεις ότι υπάρχουν στο ιρανικό καθεστώς ρωγμές που θα μπορούσαν να οδηγήσουν στην κατάρρευσή του, λέει ο Ισραηλινός ιστορικός Μέιρ Λίτβακ. Και ο στόχος είναι η επιβίωσή του με κάθε κόστος.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 σημεία επικαιρότητας: 6-13 Μαρτίου 2026 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/10-simeia-epikairotitas-6-13-martioy-2026</id>
+        <link href="https://insidestory.gr/article/10-simeia-epikairotitas-6-13-martioy-2026"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Σε κίνδυνο η παγκόσμια οικονομία. Γιατί η επιχείριση Epic Fury είναι καταδικασμένη. Η σχολική τάξη την εποχή της ΑΙ.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Αυτοί που δεν γύρισαν ποτέ στην πόλη τους (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/aytoi-poy-den-gyrisan-pote-stin-poli-toys</id>
+        <link href="https://insidestory.gr/article/aytoi-poy-den-gyrisan-pote-stin-poli-toys"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Το ντοκιμαντέρ «Tell Me/Πες μου», που κάνει πρεμιέρα το ερχόμενο Σάββατο στο Φεστιβάλ Ντοκιμαντέρ Θεσσαλονίκης, ακολουθεί την προσπάθεια μιας γυναίκας να ανασυνθέσει τη διαδρομή της οικογένειάς της –Ελλήνων Εβραίων της Θεσσαλονίκης– που εκτοπίστηκαν στο Άουσβιτς και δεν επέστρεψαν ποτέ.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Γιατί πληρώνουμε χρυσάφι τις άγονες ακτοπλοϊκές γραμμές; (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/giati-plironoyme-hrysafi-tis-agones-aktoploikes-grammes</id>
+        <link href="https://insidestory.gr/article/giati-plironoyme-hrysafi-tis-agones-aktoploikes-grammes"/>
+        <updated>2026-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Πρόσφατες εκθέσεις καταγράφουν την εκτίναξη του κόστους για την επιδότηση των ακτοπλοϊκών εταιρειών προκειμένου να εκτελούν δρομολόγια από και προς μικρά και απομακρυσμένα νησιά. Ψάξαμε τον λόγο που συμβαίνει αυτό.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Δυο μέρες στα Μονομελή Κακουργημάτων της Λουκάρεως (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/dyo-meres-sta-monomeli-kakoyrgimaton-tis-loykareos</id>
+        <link href="https://insidestory.gr/article/dyo-meres-sta-monomeli-kakoyrgimaton-tis-loykareos"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Πόσα χρόνια φυλακής κοστίζουν 38 γραμμάρια χασίς και 60 φακελάκια καφέ;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Οπτικές ίνες: Το ατελείωτο ράβε-ξήλωνε στο οδόστρωμα (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/optikes-ines-ateleioto-rabe-xilone-sto-odostroma</id>
+        <link href="https://insidestory.gr/article/optikes-ines-ateleioto-rabe-xilone-sto-odostroma"/>
+        <updated>2026-03-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Δρόμοι οργώνονται για να μπουν οπτικές ίνες, αποκαθίστανται πρόχειρα και παραμένουν σε κακή κατάσταση για μήνες. Η κόντρα για τις κακοτεχνίες φτάνει ως το ΣτΕ, που θα αξιολογήσει ένα ζήτημα που αφορά όχι μόνο την εικόνα της πόλης, αλλά και την ασφάλεια πεζών και οδηγών.]]></content>
     </entry>
 </feed>
