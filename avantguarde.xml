@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-18T17:49:05.084Z</updated>
+    <updated>2026-03-19T05:48:12.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,111 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.770Z</updated>
+        <updated>2026-03-19T05:48:06.328Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">19 Mar 2026</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-pempti-19-martioy-2026">
+    <span class="title">Agenda: Πού να πας σήμερα – Πέμπτη 19 Μαρτίου 2026</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-19T05:48:06.328Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
+  <span class="created">18 Mar 2026</span>
+  <a href="/articles/exodos/fagitopoto/pio-iconic-mexikaniko-tis-agias-napas-epistrefei">
+    <span class="title">Το πιο iconic μεξικάνικο της Αγίας Νάπας επιστρέφει</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-19T05:48:06.331Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">18 Mar 2026</span>
+  <a href="/articles/festibal/kiti-etoimazei-7o-festibal-agkinaras">
+    <span class="title">Το Κίτι ετοιμάζει το 7ο Φεστιβάλ Αγκινάρας</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-19T05:48:06.332Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">18 Mar 2026</span>
+  <a href="/articles/festibal/erhetai-3o-festibal-karaoloy-stin-tersefanoy">
+    <span class="title">Έρχεται το 3ο Φεστιβάλ Καραόλου στην Τερσεφάνου</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-03-19T05:48:06.333Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,114 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.771Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">18 Mar 2026</span>
-  <a href="/articles/exodos/tainiesseires/super-mario-galaxy-movie-erhetai-i-nea-tainia-stoys-kypriakoys">
-    <span class="title">Super Mario Galaxy Movie: Έρχεται η νέα ταινία στους κυπριακούς κινηματογράφους</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.773Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">18 Mar 2026</span>
-  <a href="/articles/nea/epanapatrismos-kypriakis-arhaiotitas-apo-inomeno-basileio">
-    <span class="title">Επαναπατρισμός κυπριακής αρχαιότητας από το Ηνωμένο Βασίλειο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.774Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">18 Mar 2026</span>
-  <a href="/articles/exodos/moysiki/protopsalti-kai-portokalogloy-sto-apolyto-live-toy-kalokairioy">
-    <span class="title">Πρωτοψάλτη και Πορτοκάλογλου στο απόλυτο live του καλοκαιριού</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.775Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">18 Mar 2026</span>
-  <a href="/articles/nea/i-emblimatiki-sokolatenia-egg-bag-louis-vuitton-epistrefei-me-hroma-kai-ypsili">
-    <span class="title">Η εμβληματική σοκολατένια «Egg Bag»  Louis Vuitton επιστρέφει με χρώμα και υψηλή αισθητική</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-18T17:48:58.777Z</updated>
+        <updated>2026-03-19T05:48:06.334Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
