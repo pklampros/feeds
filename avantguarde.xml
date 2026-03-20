@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-20T05:46:47.886Z</updated>
+    <updated>2026-03-20T17:44:10.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[To αγαπημένο μας εστιατόριο στις Πλάτρες επιστρέφει: Η γεύση του καλοκαιριού στην καρδιά του…]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/agapimeno-mas-estiatorio-stis-platres-epistrefei-i-geysi-toy-kalokairioy-stin-kardia</id>
+        <link href="https://avant-garde.com.cy/articles/nea/agapimeno-mas-estiatorio-stis-platres-epistrefei-i-geysi-toy-kalokairioy-stin-kardia"/>
+        <updated>2026-03-20T17:44:04.996Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/agapimeno-mas-estiatorio-stis-platres-epistrefei-i-geysi-toy-kalokairioy-stin-kardia">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-03/100062063_2894168330661491_5318525068551127040_n.jpg?h=08b866d1&amp;itok=S5MjBLeV" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/agapimeno-mas-estiatorio-stis-platres-epistrefei-i-geysi-toy-kalokairioy-stin-kardia">To αγαπημένο μας εστιατόριο στις Πλάτρες επιστρέφει: Η γεύση του καλοκαιριού στην καρδιά του…</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αιτήσεις για εγγραφή στο Μητρώο Οικοτεχνίας: Ποιους αφορά και πώς υποβάλλονται]]></title>
         <id>https://avant-garde.com.cy/articles/nea/news/aitiseis-gia-eggrafi-sto-mitroo-oikotehnias-poioys-afora-kai-pos-ypoballontai</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Πέθανε ο διεθνούς φήμης Κύπριος σεφ Ανδρέας Μαυρομμάτης]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pethane-o-diethnoys-fimis-kyprios-sef-andreas-mayrommatis</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pethane-o-diethnoys-fimis-kyprios-sef-andreas-mayrommatis"/>
-        <updated>2026-03-15T17:41:07.010Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pethane-o-diethnoys-fimis-kyprios-sef-andreas-mayrommatis">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/mavromattis.jpg?h=de53f475&amp;itok=BJjiJQt_" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pethane-o-diethnoys-fimis-kyprios-sef-andreas-mayrommatis">Πέθανε ο διεθνούς φήμης Κύπριος σεφ Ανδρέας Μαυρομμάτης</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.716Z</updated>
+        <updated>2026-03-20T17:44:04.902Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">19 Mar 2026</span>
-  <a href="/articles/exodos/ftiaxte-tis-dikes-sas-diy-pashalines-lampades-sti-lemeso">
-    <span class="title">Φτιάξτε τις δικές σας DIY Πασχαλινές λαμπάδες στη Λεμεσό</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">20 Mar 2026</span>
+  <a href="/articles/nea/agapimeno-mas-estiatorio-stis-platres-epistrefei-i-geysi-toy-kalokairioy-stin-kardia">
+    <span class="title">To αγαπημένο μας εστιατόριο στις Πλάτρες επιστρέφει: Η γεύση του καλοκαιριού στην καρδιά του…</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.718Z</updated>
+        <updated>2026-03-20T17:44:04.902Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">19 Mar 2026</span>
-  <a href="/articles/exodos/gia-proti-fora-paneyropaikos-diagonismos-kokteil-stin-kypro">
-    <span class="title">Για πρώτη φορά Πανευρωπαϊκός Διαγωνισμός Κοκτέιλ στην Κύπρο</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">20 Mar 2026</span>
+  <a href="/articles/exodos/moysiki/space-dive-h-kykloforia-toy-neoy-almpoym-ton-stonus-einai-gegonos">
+    <span class="title">Space To Dive: H κυκλοφορία του νέου άλμπουμ των Stonus είναι γεγονός </span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.719Z</updated>
+        <updated>2026-03-20T17:44:04.903Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">19 Mar 2026</span>
-  <a href="/articles/nea/news/aitiseis-gia-eggrafi-sto-mitroo-oikotehnias-poioys-afora-kai-pos-ypoballontai">
-    <span class="title">Αιτήσεις για εγγραφή στο Μητρώο Οικοτεχνίας: Ποιους αφορά και πώς υποβάλλονται</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">20 Mar 2026</span>
+  <a href="/articles/exodos/125-space-paroysiazei-tin-atomiki-ekthesi-figures-suspension-unbinding-body">
+    <span class="title">Το 125 Space παρουσιάζει την ατομική έκθεση Figures in Suspension: Unbinding the Body</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.724Z</updated>
+        <updated>2026-03-20T17:44:04.904Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">19 Mar 2026</span>
-  <a href="/articles/exodos/challenge-edo-tha-dimioyrgiseis-ta-pio-oraia-keramika-sti-leykosia-binteo">
-    <span class="title">Challenge ON: Εδώ θα δημιουργήσεις τα πιο ωραία κεραμικά στη Λευκωσία (Βίντεο)</span>
+  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
+  <span class="created">20 Mar 2026</span>
+  <a href="/articles/festibal/festibal-ana-biomata-sti-dora-epistrefei-gi-alli-mia-hronia">
+    <span class="title">Το φεστιβάλ Ανα - βιώματα στη Δορά επιστρέφει γι’ άλλη μια χρονιά </span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.727Z</updated>
+        <updated>2026-03-20T17:44:04.906Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΜΟΥΣΙΚΗ</span>
-  <span class="created">19 Mar 2026</span>
-  <a href="/articles/exodos/moysiki/alkinoos-ioannidis-anakoinothikan-oi-imerominies-gia-tis-kalokairines">
-    <span class="title">Αλκίνοος Ιωαννίδης: Ανακοινώθηκαν οι ημερομηνίες για τις καλοκαιρινές συναυλίες του Κύπριου…</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">20 Mar 2026</span>
+  <a href="/articles/exodos/pigame-gia-enan-kafe-kai-katalixame-na-paizoyme-golf">
+    <span class="title">Πήγαμε για έναν καφέ και καταλήξαμε να.. παίζουμε golf</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-20T05:46:43.727Z</updated>
+        <updated>2026-03-20T17:44:04.907Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
