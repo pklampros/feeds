@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-26T17:48:37.901Z</updated>
+    <updated>2026-03-27T05:58:54.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
     <entry>
@@ -945,7 +945,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.476Z</updated>
+        <updated>2026-03-27T05:58:49.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">26 Mar 2026</span>
-  <a href="/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso">
-    <span class="title">Το Doers Summit επιστρέφει δυναμικά αυτόν τον Μάιο στη Λεμεσό</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">27 Mar 2026</span>
+  <a href="/articles/exodos/tainiesseires/aytes-einai-oi-5-nees-premieres-stis-kinimatografikes-aithoyses-tis">
+    <span class="title">Αυτές είναι οι 5 νέες πρεμιέρες στις κινηματογραφικές αίθουσες της εβδομάδας</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.479Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">26 Mar 2026</span>
-  <a href="/articles/festibal/anoixiatiki-mageia-stin-agia-napa-ena-festibal-poy-anthizei-sti-marina">
-    <span class="title">Ανοιξιάτικη Μαγεία στην Αγία Νάπα: Ένα φεστιβάλ που ανθίζει στη Μαρίνα</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">27 Mar 2026</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-paraskeyi-27-martioy-2026">
+    <span class="title">Agenda: Πού να πας σήμερα – Παρασκευή 27 Μαρτίου 2026</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.481Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/exodos/theatrohoros/o-thok-giortazei-tin-pagkosmia-imera-theatroy-me-dorean-eisitiria-gia">
-    <span class="title">Ο ΘΟΚ γιορτάζει την Παγκόσμια Ημέρα Θεάτρου με δωρεάν εισιτήρια για το κοινό</span>
+  <a href="/articles/exodos/i-peppa-pig-erhetai-gia-proti-fora-sti-lemeso-kai-fernei-mazi-tis-enan-kosmo-gemato">
+    <span class="title">Η Peppa Pig έρχεται για πρώτη φορά στη Λεμεσό και φέρνει μαζί της έναν κόσμο… γεμάτο ψευδαισθήσεις</span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.483Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/nea/ayti-einai-i-pio-molysmeni-hora-ston-kosmo-gia-2025-se-poia-thesi-einai-i-kypros">
-    <span class="title">Αυτή είναι η πιο μολυσμένη χώρα στον κόσμο για το 2025 - Σε ποια θέση είναι η Kύπρος</span>
+  <a href="/articles/exodos/mathainoyme-flaoynes-sta-ellinika-pio-idiaitero-cooking-workshop-tis-anoixis-sti">
+    <span class="title"> Μαθαίνουμε φλαούνες… στα ελληνικά: Το πιο ιδιαίτερο cooking workshop της άνοιξης στη Λευκωσία</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.483Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/discover-cyprus/horia/pashalini-giorti-ston-prodromo-mia-paradosi-poy-ginetai-thesmos">
-    <span class="title">Πασχαλινή γιορτή στον Πρόδρομο: Μια παράδοση που γίνεται θεσμός</span>
+  <a href="/articles/exodos/fagitopoto/whisky-bbq-skopos-i-pio-apolaystiki-filanthropiki-bradia-tis-hronias">
+    <span class="title">Whisky, BBQ &amp;… σκοπός: Η πιο απολαυστική φιλανθρωπική βραδιά της χρονιάς επιστρέφει στη Λεμεσό</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-26T17:48:32.484Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->

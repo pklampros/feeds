@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pklampros.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-26T17:48:37.899Z</updated>
+    <updated>2026-03-27T05:58:54.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Το Doers Summit επιστρέφει δυναμικά αυτόν τον Μάιο στη Λεμεσό (Avant-Guarde Cyprus)]]></title>
@@ -944,7 +944,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.476Z</updated>
+        <updated>2026-03-27T05:58:49.001Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -954,10 +954,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">26 Mar 2026</span>
-  <a href="/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso">
-    <span class="title">Το Doers Summit επιστρέφει δυναμικά αυτόν τον Μάιο στη Λεμεσό</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">27 Mar 2026</span>
+  <a href="/articles/exodos/tainiesseires/aytes-einai-oi-5-nees-premieres-stis-kinimatografikes-aithoyses-tis">
+    <span class="title">Αυτές είναι οι 5 νέες πρεμιέρες στις κινηματογραφικές αίθουσες της εβδομάδας</span>
   </a>
 </span>
 
@@ -970,7 +970,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.479Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -980,10 +980,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΕΣΤΙΒΑΛ</span>
-  <span class="created">26 Mar 2026</span>
-  <a href="/articles/festibal/anoixiatiki-mageia-stin-agia-napa-ena-festibal-poy-anthizei-sti-marina">
-    <span class="title">Ανοιξιάτικη Μαγεία στην Αγία Νάπα: Ένα φεστιβάλ που ανθίζει στη Μαρίνα</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">27 Mar 2026</span>
+  <a href="/articles/exodos/agenda-poy-na-pas-simera-paraskeyi-27-martioy-2026">
+    <span class="title">Agenda: Πού να πας σήμερα – Παρασκευή 27 Μαρτίου 2026</span>
   </a>
 </span>
 
@@ -996,7 +996,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.481Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1006,10 +1006,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/exodos/theatrohoros/o-thok-giortazei-tin-pagkosmia-imera-theatroy-me-dorean-eisitiria-gia">
-    <span class="title">Ο ΘΟΚ γιορτάζει την Παγκόσμια Ημέρα Θεάτρου με δωρεάν εισιτήρια για το κοινό</span>
+  <a href="/articles/exodos/i-peppa-pig-erhetai-gia-proti-fora-sti-lemeso-kai-fernei-mazi-tis-enan-kosmo-gemato">
+    <span class="title">Η Peppa Pig έρχεται για πρώτη φορά στη Λεμεσό και φέρνει μαζί της έναν κόσμο… γεμάτο ψευδαισθήσεις</span>
   </a>
 </span>
 
@@ -1022,7 +1022,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.483Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1032,10 +1032,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/nea/ayti-einai-i-pio-molysmeni-hora-ston-kosmo-gia-2025-se-poia-thesi-einai-i-kypros">
-    <span class="title">Αυτή είναι η πιο μολυσμένη χώρα στον κόσμο για το 2025 - Σε ποια θέση είναι η Kύπρος</span>
+  <a href="/articles/exodos/mathainoyme-flaoynes-sta-ellinika-pio-idiaitero-cooking-workshop-tis-anoixis-sti">
+    <span class="title"> Μαθαίνουμε φλαούνες… στα ελληνικά: Το πιο ιδιαίτερο cooking workshop της άνοιξης στη Λευκωσία</span>
   </a>
 </span>
 
@@ -1048,7 +1048,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.483Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1058,10 +1058,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
+  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
   <span class="created">26 Mar 2026</span>
-  <a href="/articles/discover-cyprus/horia/pashalini-giorti-ston-prodromo-mia-paradosi-poy-ginetai-thesmos">
-    <span class="title">Πασχαλινή γιορτή στον Πρόδρομο: Μια παράδοση που γίνεται θεσμός</span>
+  <a href="/articles/exodos/fagitopoto/whisky-bbq-skopos-i-pio-apolaystiki-filanthropiki-bradia-tis-hronias">
+    <span class="title">Whisky, BBQ &amp;… σκοπός: Η πιο απολαυστική φιλανθρωπική βραδιά της χρονιάς επιστρέφει στη Λεμεσό</span>
   </a>
 </span>
 
@@ -1074,7 +1074,7 @@
         <title type="html"><![CDATA[undefined (Avant-Guarde Cyprus)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:32.484Z</updated>
+        <updated>2026-03-27T05:58:49.002Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1098,113 +1098,127 @@
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.946Z</updated>
+        <updated>2026-03-27T05:58:53.422Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.949Z</updated>
+        <updated>2026-03-27T05:58:53.423Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.950Z</updated>
+        <updated>2026-03-27T05:58:53.424Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.950Z</updated>
+        <updated>2026-03-27T05:58:53.425Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.952Z</updated>
+        <updated>2026-03-27T05:58:53.426Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.953Z</updated>
+        <updated>2026-03-27T05:58:53.427Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.954Z</updated>
+        <updated>2026-03-27T05:58:53.428Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.956Z</updated>
+        <updated>2026-03-27T05:58:53.429Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.957Z</updated>
+        <updated>2026-03-27T05:58:53.430Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.958Z</updated>
+        <updated>2026-03-27T05:58:53.431Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.959Z</updated>
+        <updated>2026-03-27T05:58:53.432Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.960Z</updated>
+        <updated>2026-03-27T05:58:53.434Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.961Z</updated>
+        <updated>2026-03-27T05:58:53.434Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.962Z</updated>
+        <updated>2026-03-27T05:58:53.435Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.965Z</updated>
+        <updated>2026-03-27T05:58:53.436Z</updated>
         <content type="html"><![CDATA[ ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Inside Story Greece)]]></title>
         <id>https://pklampros.github.io/feeds/all.xml</id>
         <link href="https://pklampros.github.io/feeds/all.xml"/>
-        <updated>2026-03-26T17:48:36.966Z</updated>
+        <updated>2026-03-27T05:58:53.438Z</updated>
         <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ιράν: Οι Φρουροί της Επανάστασης είναι το αληθινό κράτος (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/iran-oi-froyroi-tis-epanastasis-einai-alithino-kratos</id>
+        <link href="https://insidestory.gr/article/iran-oi-froyroi-tis-epanastasis-einai-alithino-kratos"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Μπορεί ΗΠΑ και Ισραήλ να αποκεφαλίζουν κάθε τόσο την ηγεσία, αλλά οι Φρουροί της Επανάστασης έχουν πολλά κεφάλια. Τι ξέρουμε για την οργάνωση με την οποία θέλει τώρα να διαπραγματευθεί ο Τραμπ;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 σημεία επικαιρότητας: 20-27 Μαρτίου 2026 (Inside Story Greece)]]></title>
+        <id>https://insidestory.gr/article/10-simeia-epikairotitas-20-27-martioy-2026</id>
+        <link href="https://insidestory.gr/article/10-simeia-epikairotitas-20-27-martioy-2026"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ Το πρώτο θύμα του πολέμου του Τραμπ ήταν η αλήθεια. Όχι, ο Νετανιάχου δεν είναι νεκρός. Ο Ηλίθιος.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Γιατί δεν βλέπουμε ποτέ ανθρώπους με αναπηρία στα λεωφορεία; (Inside Story Greece)]]></title>
@@ -1261,19 +1275,5 @@
         <link href="https://insidestory.gr/article/10-simeia-epikairotitas-13-20-martioy-2026"/>
         <updated>2026-03-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[ Η κρίση μπορεί να είναι μεγαλύτερη από του 2008. Ο βομβαρδισμός του Λίβανου. Η ταυτότητα του Banksy.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Οι true crime ταινίες του ελληνικού κινηματογράφου: Από τον Τζορτζ Πολκ μέχρι τον Σορίν Ματέι (Inside Story Greece)]]></title>
-        <id>https://insidestory.gr/article/oi-true-crime-tainies-toy-ellinikoy-kinimatografoy-apo-ton-tzortz-polk-mehri-ton-sorin</id>
-        <link href="https://insidestory.gr/article/oi-true-crime-tainies-toy-ellinikoy-kinimatografoy-apo-ton-tzortz-polk-mehri-ton-sorin"/>
-        <updated>2026-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Με αφορμή την προβολή στις κινηματογραφικές αίθουσες της ταινίας «Τελευταία κλήση», παρουσιάζουμε όλα τα ελληνικά φιλμ που έχουν βασιστεί σε πολύκροτα ποινικά και πολιτικά εγκλήματα.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Πετρέλαιο: Ανατομία ενός παγκόσμιου σοκ (Inside Story Greece)]]></title>
-        <id>https://insidestory.gr/article/petrelaio-anatomia-enos-pagkosmioy-sok</id>
-        <link href="https://insidestory.gr/article/petrelaio-anatomia-enos-pagkosmioy-sok"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ Ο πόλεμος στο Ιράν έχει αναδείξει τον βαθμό στον οποίον η παγκόσμια οικονομία εξακολουθεί να είναι όμηρος των υδρογονανθράκων του Περσικού.]]></content>
     </entry>
 </feed>
