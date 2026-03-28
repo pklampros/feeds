@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-28T05:47:52.068Z</updated>
+    <updated>2026-03-28T17:42:03.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[«Έσβησε» σε ηλικία 88 ετών η Μαρινέλλα σκορπίζοντας θλίψη στον καλλιτεχνικό κόσμο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/esbise-se-ilikia-88-eton-i-marinella-skorpizontas-thlipsi-ston-kallitehniko-kosmo</id>
+        <link href="https://avant-garde.com.cy/articles/nea/esbise-se-ilikia-88-eton-i-marinella-skorpizontas-thlipsi-ston-kallitehniko-kosmo"/>
+        <updated>2026-03-28T17:41:57.849Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/esbise-se-ilikia-88-eton-i-marinella-skorpizontas-thlipsi-ston-kallitehniko-kosmo">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2024-06/marinella.jpg?h=a56d3082&amp;itok=WDnomo2u" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/esbise-se-ilikia-88-eton-i-marinella-skorpizontas-thlipsi-ston-kallitehniko-kosmo">«Έσβησε» σε ηλικία 88 ετών η Μαρινέλλα σκορπίζοντας θλίψη στον καλλιτεχνικό κόσμο</a></span>
+    <span>
+      <span class="channel">ΝΕΑ</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Αλλαγή ώρας 2026: Θα κερδίσουμε ή θα χάσουμε ύπνο αυτή την Κυριακή;]]></title>
         <id>https://avant-garde.com.cy/articles/nea/allagi-oras-2026-tha-kerdisoyme-i-tha-hasoyme-ypno-ayti-tin-kyriaki</id>
@@ -890,62 +942,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Παγκόσμια Ημέρα Νερού: 10 πράγματα για το νερό που πιθανότατα δεν γνώριζες]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pagkosmia-imera-neroy-10-pragmata-gia-nero-poy-pithanotata-den-gnorizes</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pagkosmia-imera-neroy-10-pragmata-gia-nero-poy-pithanotata-den-gnorizes"/>
-        <updated>2026-03-22T17:39:30.204Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pagkosmia-imera-neroy-10-pragmata-gia-nero-poy-pithanotata-den-gnorizes">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2025-03/engin-akyurt-pcpog06fcui-unsplash.jpg?h=9855f42d&amp;itok=qIyVSoqC" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pagkosmia-imera-neroy-10-pragmata-gia-nero-poy-pithanotata-den-gnorizes">Παγκόσμια Ημέρα Νερού: 10 πράγματα για το νερό που πιθανότατα δεν γνώριζες</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.212Z</updated>
+        <updated>2026-03-28T17:41:57.684Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -955,10 +955,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΕΞΟΔΟΣ</span>
-  <span class="created">27 Mar 2026</span>
-  <a href="/articles/exodos/meowmission-book-fair-erhetai-sti-larnaka">
-    <span class="title">Το MeowMission Book Fair έρχεται στη Λάρνακα!</span>
+  <span class="channel">ΝΕΑ</span>
+  <span class="created">28 Mar 2026</span>
+  <a href="/articles/nea/esbise-se-ilikia-88-eton-i-marinella-skorpizontas-thlipsi-ston-kallitehniko-kosmo">
+    <span class="title">«Έσβησε» σε ηλικία 88 ετών η Μαρινέλλα σκορπίζοντας θλίψη στον καλλιτεχνικό κόσμο</span>
   </a>
 </span>
 
@@ -971,7 +971,7 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.213Z</updated>
+        <updated>2026-03-28T17:41:57.699Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -981,10 +981,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">27 Mar 2026</span>
-  <a href="/articles/exodos/fagitopoto/mpiras-ora-se-15-stekia-tis-proteyoysas-me-dekades-epiloges-se-draft-kai">
-    <span class="title">Μπίρας ώρα… σε 15 στέκια της πρωτεύουσας με δεκάδες επιλογές σε draft και bottle</span>
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">28 Mar 2026</span>
+  <a href="/articles/exodos/moysiki/dephosphorus-i-kosmiki-katastrofi-erhetai-stin-kypro">
+    <span class="title">Dephosphorus: Η “κοσμική καταστροφή” έρχεται στην Κύπρο</span>
   </a>
 </span>
 
@@ -997,7 +997,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.214Z</updated>
+        <updated>2026-03-28T17:41:57.701Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1007,10 +1007,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">27 Mar 2026</span>
-  <a href="/articles/exodos/tainiesseires/i-brabeymeni-kypriaki-tainia-smaragda-kanei-premiera-stoys">
-    <span class="title">Η βραβευμένη κυπριακή ταινία «Σμαράγδα» κάνει πρεμιέρα στους κινηματογράφους</span>
+  <span class="channel">ΕΞΟΔΟΣ</span>
+  <span class="created">28 Mar 2026</span>
+  <a href="/articles/exodos/apolyto-pashalino-camp-poy-tha-latrepsoyn-ta-paidia-sas">
+    <span class="title">Το απόλυτο πασχαλινό Camp που θα λατρέψουν τα παιδιά σας </span>
   </a>
 </span>
 
@@ -1023,7 +1023,7 @@
         <title type="html"><![CDATA[21]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.222Z</updated>
+        <updated>2026-03-28T17:41:57.703Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1033,10 +1033,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">27 Mar 2026</span>
-  <a href="/articles/nea/allagi-oras-2026-tha-kerdisoyme-i-tha-hasoyme-ypno-ayti-tin-kyriaki">
-    <span class="title">Αλλαγή ώρας 2026: Θα κερδίσουμε ή θα χάσουμε ύπνο αυτή την Κυριακή;</span>
+  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
+  <span class="created">28 Mar 2026</span>
+  <a href="/articles/exodos/tainiesseires/i-sarliz-theron-epistrefei-sto-netflix-me-kataigistiko-apex">
+    <span class="title">Η Σαρλίζ Θερόν επιστρέφει στο Netflix με το καταιγιστικό «Apex»</span>
   </a>
 </span>
 
@@ -1049,7 +1049,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.222Z</updated>
+        <updated>2026-03-28T17:41:57.703Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -1059,10 +1059,10 @@
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 <span class="title-channel-date">
-  <span class="channel">ΧΩΡΙΑ</span>
-  <span class="created">27 Mar 2026</span>
-  <a href="/articles/discover-cyprus/horia/anoixi-sti-lania-mia-giorti-filoxenias-kai-paradosis">
-    <span class="title">Άνοιξη στη Λάνια: Μια γιορτή φιλοξενίας και παράδοσης</span>
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">28 Mar 2026</span>
+  <a href="/articles/exodos/exormiseis/i-nea-epohi-sta-taxidia-apo-tin-anesi-sti-biomatiki-empeiria">
+    <span class="title">Η νέα εποχή στα ταξίδια: Από την άνεση στη βιωματική εμπειρία</span>
   </a>
 </span>
 
@@ -1075,7 +1075,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-28T05:47:47.222Z</updated>
+        <updated>2026-03-28T17:41:57.704Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
