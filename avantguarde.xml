@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-03-31T17:47:42.703Z</updated>
+    <updated>2026-04-01T06:05:35.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Οι top οικογενειακοί προορισμοί της Ευρώπης για το 2026 – Δύο κυπριακές πόλεις στη λίστα]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/oi-top-oikogeneiakoi-proorismoi-tis-eyropis-gia-2026-dyo-kypriakes-poleis-sti</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/oi-top-oikogeneiakoi-proorismoi-tis-eyropis-gia-2026-dyo-kypriakes-poleis-sti"/>
+        <updated>2026-04-01T06:05:30.335Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/oi-top-oikogeneiakoi-proorismoi-tis-eyropis-gia-2026-dyo-kypriakes-poleis-sti">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-04/ekaterina-boltaga-jqkgk3ofxi8-unsplash.jpg?h=5768d96b&amp;itok=VYgHyjFc" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/oi-top-oikogeneiakoi-proorismoi-tis-eyropis-gia-2026-dyo-kypriakes-poleis-sti">Οι top οικογενειακοί προορισμοί της Ευρώπης για το 2026 – Δύο κυπριακές πόλεις στη λίστα</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Κομμάτι του Πύργου του Άιφελ στο σφυρί – Πόσο θα πιάσει;]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/kommati-toy-pyrgoy-toy-aifel-sto-sfyri-poso-tha-piasei</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/kommati-toy-pyrgoy-toy-aifel-sto-sfyri-poso-tha-piasei"/>
+        <updated>2026-04-01T06:05:30.337Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/kommati-toy-pyrgoy-toy-aifel-sto-sfyri-poso-tha-piasei">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/imported_photos/1576683235_france-paris-eiffel-tower.jpg?h=8893360f&amp;itok=o2wHPpkG" width="575" height="400" alt="Η τελευταία έρευνα για τις ακριβότερες πόλεις της Ευρώπης" title="Η τελευταία έρευνα για τις ακριβότερες πόλεις της Ευρώπης" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/kommati-toy-pyrgoy-toy-aifel-sto-sfyri-poso-tha-piasei">Κομμάτι του Πύργου του Άιφελ στο σφυρί – Πόσο θα πιάσει;</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Το brookie του Ζορπά κάνει χαμό: Το γλυκό που δεν προλαβαίνει να... κρυώσει!]]></title>
         <id>https://avant-garde.com.cy/articles/nea/brookie-toy-zorpa-kanei-hamo-glyko-poy-den-prolabainei-na-kryosei</id>
@@ -838,114 +942,88 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Το Πάσχα αποκτά άλλη αίσθηση όταν το ζεις δίπλα στη θάλασσα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/pasha-apokta-alli-aisthisi-otan-zeis-dipla-sti-thalassa</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/pasha-apokta-alli-aisthisi-otan-zeis-dipla-sti-thalassa"/>
-        <updated>2026-03-27T17:46:23.014Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/pasha-apokta-alli-aisthisi-otan-zeis-dipla-sti-thalassa">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/columbia_beach_resort_sunset.png?h=1a5cda2c&amp;itok=1QcbR1cN" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/pasha-apokta-alli-aisthisi-otan-zeis-dipla-sti-thalassa">Το Πάσχα αποκτά άλλη αίσθηση όταν το ζεις δίπλα στη θάλασσα</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Το Doers Summit επιστρέφει δυναμικά αυτόν τον Μάιο στη Λεμεσό]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso</id>
-        <link href="https://avant-garde.com.cy/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso"/>
-        <updated>2026-03-26T17:48:32.597Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/1_16.jpg?h=56d0ca2e&amp;itok=lIbBBMeO" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/doers-summit-epistrefei-dynamika-ayton-ton-maio-sti-lemeso">Το Doers Summit επιστρέφει δυναμικά αυτόν τον Μάιο στη Λεμεσό</a></span>
-    <span>
-      <span class="channel">ΝΕΑ</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.665Z</updated>
+        <updated>2026-04-01T06:05:30.211Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΕΞΟΡΜΗΣΕΙΣ</span>
+  <span class="created">01 Apr 2026</span>
+  <a href="/articles/exodos/exormiseis/elliniko-nisi-poy-xehorizei-sti-lista-toy-guardian-me-tis-koryfaies">
+    <span class="title">Το ελληνικό νησί που ξεχωρίζει στη λίστα του Guardian με τις κορυφαίες ταξιδιωτικές προτάσεις για…</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-01T06:05:30.214Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">01 Apr 2026</span>
+  <a href="/articles/nea/news/oi-top-oikogeneiakoi-proorismoi-tis-eyropis-gia-2026-dyo-kypriakes-poleis-sti">
+    <span class="title">Οι top οικογενειακοί προορισμοί της Ευρώπης για το 2026 – Δύο κυπριακές πόλεις στη λίστα</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-01T06:05:30.214Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">01 Apr 2026</span>
+  <a href="/articles/nea/news/kommati-toy-pyrgoy-toy-aifel-sto-sfyri-poso-tha-piasei">
+    <span class="title">Κομμάτι του Πύργου του Άιφελ στο σφυρί – Πόσο θα πιάσει;</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-01T06:05:30.215Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.666Z</updated>
+        <updated>2026-04-01T06:05:30.216Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.667Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΘΕΑΤΡΟ/ΧΟΡΟΣ</span>
-  <span class="created">31 Mar 2026</span>
-  <a href="/articles/exodos/theatrohoros/comedy-festival-peace-talks-fernei-koinotites-mazi-mesa-apo-gelio">
-    <span class="title">Το Comedy Festival “Peace Talks” φέρνει κοινότητες μαζί μέσα από το γέλιο</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.670Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΤΑΙΝΙΕΣ/ΣΕΙΡΕΣ</span>
-  <span class="created">31 Mar 2026</span>
-  <a href="/articles/exodos/tainiesseires/harry-potter-idi-se-exelixi-i-syggrafi-tis-2is-sezon-tis-seiras-toy">
-    <span class="title">Harry Potter: Ήδη σε εξέλιξη η συγγραφή της 2ης σεζόν της σειράς του HBO</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.671Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">31 Mar 2026</span>
-  <a href="/articles/nea/ipa-brabeio-mythoplasias-toy-national-book-critics-circle-sti-han-kangk">
-    <span class="title">ΗΠΑ: Το βραβείο μυθοπλασίας του National Book Critics Circle στη Χαν Κανγκ</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-03-31T17:47:37.672Z</updated>
+        <updated>2026-04-01T06:05:30.216Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
