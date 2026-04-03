@@ -2,9 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avant-garde.com.cy/articles/nea/</id>
     <title>Avant-Guarde Cyprus</title>
-    <updated>2026-04-02T17:46:41.155Z</updated>
+    <updated>2026-04-03T05:58:30.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://avant-garde.com.cy/articles/nea/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Βραζιλία: Αλλάζει τα δεδομένα για τα κατοικίδια μετά το διαζύγιο]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/brazilia-allazei-ta-dedomena-gia-ta-katoikidia-meta-diazygio</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/brazilia-allazei-ta-dedomena-gia-ta-katoikidia-meta-diazygio"/>
+        <updated>2026-04-03T05:58:26.343Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/brazilia-allazei-ta-dedomena-gia-ta-katoikidia-meta-diazygio">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-04/elisabeth-jurenka-rfrzljfmo9i-unsplash.jpg?h=790be497&amp;itok=4hgYj72k" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/brazilia-allazei-ta-dedomena-gia-ta-katoikidia-meta-diazygio">Βραζιλία: Αλλάζει τα δεδομένα για τα κατοικίδια μετά το διαζύγιο</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eurovision 2026: Αυτή είναι η θέση της Κύπρου στον Β’ Ημιτελικό]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/news/eurovision-2026-ayti-einai-i-thesi-tis-kyproy-ston-b-imiteliko</id>
+        <link href="https://avant-garde.com.cy/articles/nea/news/eurovision-2026-ayti-einai-i-thesi-tis-kyproy-ston-b-imiteliko"/>
+        <updated>2026-04-03T05:58:26.347Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="media"><a href="/articles/nea/news/eurovision-2026-ayti-einai-i-thesi-tis-kyproy-ston-b-imiteliko">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="/sites/default/files/styles/featured_articles/public/2026-02/img_0345.jpg?h=60bf9de5&amp;itok=FH1n3mAc" width="575" height="400" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
+
+
+
+</a></span>
+<span class="title-channel-date">
+    <span class="title"><a href="/articles/nea/news/eurovision-2026-ayti-einai-i-thesi-tis-kyproy-ston-b-imiteliko">Eurovision 2026: Αυτή είναι η θέση της Κύπρου στον Β’ Ημιτελικό</a></span>
+    <span>
+      <span class="channel">NEWS</span>
+    </span>
+</span>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Η δυναστεία που κυνηγήθηκε από τη μοίρα: Οι σκοτεινές σελίδες των Κένεντι]]></title>
         <id>https://avant-garde.com.cy/articles/nea/istories/i-dynasteia-poy-kynigithike-apo-ti-moira-oi-skoteines-selides-ton-kenenti</id>
@@ -838,114 +942,88 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix: Νέα αύξηση τιμών για δεύτερη φορά μέσα σε λιγότερο από δύο χρόνια]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/netflix-nea-ayxisi-timon-gia-deyteri-fora-mesa-se-ligotero-apo-dyo-hronia</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/netflix-nea-ayxisi-timon-gia-deyteri-fora-mesa-se-ligotero-apo-dyo-hronia"/>
-        <updated>2026-03-29T17:42:51.859Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/netflix-nea-ayxisi-timon-gia-deyteri-fora-mesa-se-ligotero-apo-dyo-hronia">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/oscar-vargas-kjz3g6fj98i-unsplash.jpg?h=e0891a24&amp;itok=YB5ovQf-" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/netflix-nea-ayxisi-timon-gia-deyteri-fora-mesa-se-ligotero-apo-dyo-hronia">Netflix: Νέα αύξηση τιμών για δεύτερη φορά μέσα σε λιγότερο από δύο χρόνια</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Το μοναδικό κράτος στον κόσμο που πήρε το όνομά του από πραγματική γυναίκα]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/news/monadiko-kratos-ston-kosmo-poy-pire-onoma-toy-apo-pragmatiki-gynaika</id>
-        <link href="https://avant-garde.com.cy/articles/nea/news/monadiko-kratos-ston-kosmo-poy-pire-onoma-toy-apo-pragmatiki-gynaika"/>
-        <updated>2026-03-29T17:42:51.860Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="media"><a href="/articles/nea/news/monadiko-kratos-ston-kosmo-poy-pire-onoma-toy-apo-pragmatiki-gynaika">
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<img src="/sites/default/files/styles/featured_articles/public/2026-03/omar-eagle-bg_xvudgiqw-unsplash.jpg?h=6b8f017c&amp;itok=FV_n5VUf" width="575" height="400" alt="" class="img-responsive">
-
-
-
-
-
-
-
-
-
-
-
-</a></span>
-<span class="title-channel-date">
-    <span class="title"><a href="/articles/nea/news/monadiko-kratos-ston-kosmo-poy-pire-onoma-toy-apo-pragmatiki-gynaika">Το μοναδικό κράτος στον κόσμο που πήρε το όνομά του από πραγματική γυναίκα</a></span>
-    <span>
-      <span class="channel">NEWS</span>
-    </span>
-</span>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.030Z</updated>
+        <updated>2026-04-03T05:58:26.218Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">ΜΟΥΣΙΚΗ</span>
+  <span class="created">02 Apr 2026</span>
+  <a href="/articles/exodos/moysiki/i-katerina-liolioy-erhetai-leykosia-gia-mia-dynati-bradia">
+    <span class="title">Η Κατερίνα Λιόλιου έρχεται Λευκωσία για μία δυνατή βραδιά</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-03T05:58:26.219Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">02 Apr 2026</span>
+  <a href="/articles/nea/news/brazilia-allazei-ta-dedomena-gia-ta-katoikidia-meta-diazygio">
+    <span class="title">Βραζιλία: Αλλάζει τα δεδομένα για τα κατοικίδια μετά το διαζύγιο</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-03T05:58:26.219Z</updated>
+        <content type="html"><![CDATA[<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span class="title-channel-date">
+  <span class="channel">NEWS</span>
+  <span class="created">02 Apr 2026</span>
+  <a href="/articles/nea/news/eurovision-2026-ayti-einai-i-thesi-tis-kyproy-ston-b-imiteliko">
+    <span class="title">Eurovision 2026: Αυτή είναι η θέση της Κύπρου στον Β’ Ημιτελικό</span>
+  </a>
+</span>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://avant-garde.com.cy/articles/nea/</id>
+        <link href="https://avant-garde.com.cy/articles/nea/"/>
+        <updated>2026-04-03T05:58:26.221Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -968,10 +1046,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.033Z</updated>
+        <updated>2026-04-03T05:58:26.221Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
@@ -994,88 +1072,10 @@
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.033Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΦΑΓΗΤΟ/ΠΟΤΟ</span>
-  <span class="created">02 Apr 2026</span>
-  <a href="/articles/exodos/fagitopoto/columbia-confectionery-paroysiazei-grand-easter-collection">
-    <span class="title">Το Columbia Confectionery παρουσιάζει το The Grand Easter Collection</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.033Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">ΝΕΑ</span>
-  <span class="created">02 Apr 2026</span>
-  <a href="/articles/nea/astiki-kompostopoiisi-ena-praktiko-ergastirio-apodeiknyei-oti-i-biosimotita-xekina-apo">
-    <span class="title">Αστική Κομποστοποίηση: Ένα πρακτικό εργαστήριο αποδεικνύει ότι η βιωσιμότητα ξεκινά από την κουζίνα…</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://avant-garde.com.cy/articles/nea/</id>
-        <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.034Z</updated>
-        <content type="html"><![CDATA[<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_fields' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
-<div class="views-field views-field-nothing"><span class="field-content">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-<span class="title-channel-date">
-  <span class="channel">NEWS</span>
-  <span class="created">02 Apr 2026</span>
-  <a href="/articles/nea/news/giati-pasha-thelei-panta-lidl-food-academy">
-    <span class="title">Γιατί το Πάσχα θέλει πάντα Lidl Food Academy</span>
-  </a>
-</span>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</span></div>
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://avant-garde.com.cy/articles/nea/</id>
         <link href="https://avant-garde.com.cy/articles/nea/"/>
-        <updated>2026-04-02T17:46:36.035Z</updated>
+        <updated>2026-04-03T05:58:26.222Z</updated>
         <content type="html"><![CDATA[<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_fields' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
